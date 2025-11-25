@@ -1,12 +1,8 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-id="VVin.co@SD" tvg-logo="https://es.wikipedia.org/wiki/América_Televisión_(Perú)#/media/Archivo:América_Televisión.svg.png" group-title="Servicio de InterNet y Televisión de Collique para el mundo",VVin
-https://live.obslivestream.com/index.m3u8
-#EXTINF:-1 tvg-id="VVin.co@SD" tvg-logo="https://es.wikipedia.org/wiki/América_Televisión_(Perú)#/media/Archivo:América_Televisión.svg.png" group-title="Servicio de InterNet y Televisión de Collique para el mundo",VVin 1
-http://animezonetv.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="VVin.co@SD" tvg-logo="https://es.wikipedia.org/wiki/América_Televisión_(Perú)#/media/Archivo:América_Televisión.svg.png" group-title="Servicio de InterNet y Televisión de Collique para el mundo",VVin 2
+#EXTINF:-1 tvg-id="VVin.co@SD" tvg-logo="https://win.pe/img/logo-oct.png" group-title="Servicio de InterNet y Televisión de Collique para el mundo",VVin
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
-#EXTINF:-1 tvg-id="VVin.co@SD" tvg-logo="https://es.wikipedia.org/wiki/América_Televisión_(Perú)#/media/Archivo:América_Televisión.svg.png" group-title="Servicio de InterNet y Televisión de Collique para el mundo",VVin 3
+#EXTINF:-1 tvg-id="VVin.co@SD" tvg-logo="https://win.pe/img/logo-oct.png" group-title="Servicio de InterNet y Televisión de Collique para el mundo",EviKiti
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://es.wikipedia.org/wiki/América_Televisión_(Perú)#/media/Archivo:América_Televisión.svg.png" group-title="Perú Abierto",America Television (1080p)
@@ -235,5 +231,6 @@ https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="Noticias",RT en Español (1080p) [Geo-blocked]
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
 
 
