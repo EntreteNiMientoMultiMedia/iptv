@@ -56,10 +56,10 @@ http://38.183.182.166:8000/play/a0ii/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Perú Abierto",Panamericana 🇵🇪
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 
-#EXTINF:-1 tvg-id="GolPeru.pe@SD" tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_logo_horizontal.png" group-title="Perú Deportes",Gol Peru (1080p)
+#EXTINF:-1 tvg-id="GolPeru.pe@SD" tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_logo_horizontal.png" group-title="Perú Deportes",Gol Peru 🇵🇪
 http://38.183.182.166:8000/play/a120/index.m3u8
 
-#EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Perú Deportes",L1 Max (1080p)
+#EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Perú Deportes",L1 Max 🇵🇪
 http://38.183.182.166:8000/play/a12t/index.m3u8
 
 #EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="Perú Nacional",TV Peru (1080p)
@@ -280,6 +280,7 @@ https://contvanime-roku-ingest.cinedigm.com/master.m3u8
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 #EXTINF:0,Anime Zone TV group-title="Anime"
 http://animezonetv.net/hls/stream.m3u8
+
 
 
 
