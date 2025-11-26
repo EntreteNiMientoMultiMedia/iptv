@@ -6,7 +6,7 @@
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 #EXTINF:-1 tvg-id="AnimeVisionClassics.es@SD" tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="Anime",Anime Vision Classics (1080p)
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-#EXTINF:-1 tvg-id="OnegaiSport.es@SD" tvg-logo="https://static.wikia.nocookie.net/ippo/images/7/79/Hajime_no_Ippo_Logo.png" group-title="Anime",Onegai Deportes 🥊
+#EXTINF:-1 tvg-id="OnegaiSport.es@SD" tvg-logo="https://static.wikia.nocookie.net/ippo/images/7/79/Hajime_no_Ippo_Logo.png" group-title="Anime" group-title="Deportes",Onegai Deportes 🥊
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
 #EXTINF:-1 tvg-id="Onegai1.es@SD" tvg-logo="https://nosomosnonos.com/wp-content/uploads/2024/11/mininya-1.jpg" group-title="Anime",Onegai 1 🇯🇵
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
@@ -56,7 +56,7 @@ http://38.183.182.166:8000/play/a0ii/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Perú Abierto",Panamericana 🇵🇪
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 
-#EXTINF:-1 tvg-id="GolPeru.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_golperu.png" group-title="Perú Deportes",Gol Peru (1080p)
+#EXTINF:-1 tvg-id="GolPeru.pe@SD" tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_logo_horizontal.png" group-title="Perú Deportes",Gol Peru (1080p)
 http://38.183.182.166:8000/play/a120/index.m3u8
 
 #EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Perú Deportes",L1 Max (1080p)
@@ -280,6 +280,7 @@ https://contvanime-roku-ingest.cinedigm.com/master.m3u8
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 #EXTINF:0,Anime Zone TV group-title="Anime"
 http://animezonetv.net/hls/stream.m3u8
+
 
 
 
