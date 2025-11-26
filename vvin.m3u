@@ -45,16 +45,15 @@ https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_36
 #EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://media.giphy.com/avatars/america-tv/xQbOxJZdsl4g/200h.png" group-title="América 🇵🇪 ",América ❓❔ 1920x1080p
 http://38.183.182.166:8000/play/a0rb/index.m3u8
 
-#EXTINF:-1 tvg-id="ATVPlus.pe@SD" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="ATV+ 🇵🇪 ",Andina+ ✅✔️ 1280x720p
-https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/medialist_5900814650867226228_hls.m3u8
-https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/medialist_5900814650867226228_hls.m3u8
+#EXTINF:-1 tvg-id="ATVPlus.pe@SD" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="ATV+ 🇵🇪 ",Andina+ ✅✔️
+
 #EXTINF:-1 tvg-id="ATVPlus.pe@SD" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="ATV+ 🇵🇪 ",Andina+ 🇻🇳 1280x720p
 https://live-evg20.tv360.bitel.com.pe/bitel/Atv+-UDP_abr/bitel/Atv+-udp_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="ATVPlus.pe@SD" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="ATV+ 🇵🇪 ",Andina+ 💸 1280x720p
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATVMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVMAS_stream_nu&_cdn_session=3407014965&_cdn_token=4296d033051c16166abc9f538e31bfeeb8fd20ef
 #EXTINF:-1 tvg-id="ATVPlus.pe@SD" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="ATV+ 🇵🇪 ",Andina+ 💸 1024x576p
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATVMAS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVMAS_stream_nu&_cdn_session=3406974165&_cdn_token=cc6deb3b9ab3d20706ba8a94869be04100730ee0
 
-#EXTINF:-1 tvg-id="ATVPlus.pe@SD" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="ATV+ 🇵🇪 ",Andina+ (EcoNoGo)
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATVMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVMAS_stream_nu&_cdn_session=3407014965&_cdn_token=4296d033051c16166abc9f538e31bfeeb8fd20ef
 #EXTINF:-1 tvg-id="ATVPlus.pe@SD" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="ATV+ 🇵🇪 ",Andina+ (EcoNoGo)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATVMAS/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVMAS_stream_nu&_cdn_session=3406971333&_cdn_token=d68ef0ac97bf1571d3881d4d10a1d625e1a49f0b
 #EXTINF:-1 tvg-id="ATVPlus.pe@SD" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="ATV+ 🇵🇪 ",Andina+ (EcoNoGo)
@@ -315,6 +314,7 @@ https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Noticias",RT en Español 🇷🇺
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
 
 
 
