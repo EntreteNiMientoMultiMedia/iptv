@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-id="VVin.co@SD" tvg-logo="https://win.pe/img/logo-oct.png" group-title="Servicio de InterNet y TeleVisión de Collique en Comas para el mundo",VVin 🇵🇪
+#EXTINF:-1 tvg-id="VVin.co@SD" tvg-logo="https://win.pe/img/logo-oct.png" group-title="Servicio de InterNet y TeleVisión de Collique en Comas  🇵🇪 para el mundo 🌎",VVin
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
 
 
@@ -302,6 +302,7 @@ https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Noticias",RT en Español 🇷🇺
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
 
 
 
