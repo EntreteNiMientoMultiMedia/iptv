@@ -40,10 +40,8 @@ http://38.183.182.166:8000/play/a0rb/index.m3u8
 https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 tvg-id="ATV.pe@SD" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="ATV 🇵🇪 ",Andina (Viet) 1280x720p
 https://live-evg20.tv360.bitel.com.pe/bitel/Atv-UDP_abr/bitel/Atv-udp_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="ATV.pe@SD" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="ATV 🇵🇪 ",Andina (EcoNoGo) 720p
+#EXTINF:-1 tvg-id="ATV.pe@SD" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="ATV 🇵🇪 ",Andina (EcoNoGo) 1280x720p
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATV_stream_of&_cdn_session=3406902653&_cdn_token=6b3ab8e1684bae69a7e84d5f58392c45dbda9f11
-#EXTINF:-1 tvg-id="ATV.pe@SD" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="ATV 🇵🇪 ",Andina (EcoNoGo) 720p
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ATV/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATV_stream_of&_cdn_session=3406871805&_cdn_token=a9238c4c07486a74808f8537299275d65fe9619a
 
 #EXTINF:-1 tvg-id="ATV.pe@SD" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="ATV 🇵🇪 ",Andina (EviKiti) 360p
 https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/medialist_4276517416086298479_hls.m3u8
@@ -60,8 +58,8 @@ https://live-evg20.tv360.bitel.com.pe/bitel/Atv-UDP_abr/bitel/Atv-udp_360p/chunk
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATV/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATV_stream_of&_cdn_session=3406875773&_cdn_token=d8e7d10c3d0311ec050dfb23cf2c64e14b4274b4
 #EXTINF:-1 tvg-id="ATV.pe@SD" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="ATV 🇵🇪 ",Andina (EcoNoGo) 360p
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATV/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATV_stream_of&_cdn_session=3406902653&_cdn_token=b388824224cad408c844f5225918177907837c5b
-
-
+#EXTINF:-1 tvg-id="ATV.pe@SD" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="ATV 🇵🇪 ",Andina (EcoNoGo) 360p
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ATV/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATV_stream_of&_cdn_session=3406871805&_cdn_token=a9238c4c07486a74808f8537299275d65fe9619a
 
 
 #EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="ATV Sur 🇵🇪 ",Andina (EviKiti)
@@ -323,6 +321,7 @@ https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Noticias",RT en Español 🇷🇺
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
 
 
 
