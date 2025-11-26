@@ -19,6 +19,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
 #EXTINF:-1 tvg-id="Onegai5.es@SD" tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2022/04/Anime-Onegai-por-Animeka-Lanzamiento-900x506.jpg" group-title="Anime",Onegai 5 🇯🇵
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
+#EXTINF:-1 tvg-id="Wasabi.es@SD" tvg-logo="https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/49/latest/20220418182233/Wasabi.png/481px-Wasabi.png" group-title="Anime",Wasabi la chaîne anime 🇯🇵
+https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
+
 #EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="Anime", ZTV Anime | CL
 https://mitv.zplay.cl/Ztv/index.m3u8
 
@@ -273,8 +276,7 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 https://contvanime-roku-ingest.cinedigm.com/master.m3u8
 #EXTINF:0,Xtrema Anime (360p) group-title="Anime"
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-#EXTINF:0,Wasabi la chaîne anime group-title="Anime"
-https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
+
 #EXTINF:0,MAX Anime (720p) group-title="Anime"
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF:0,CONtv Anime (1080p) group-title="Anime"
@@ -293,6 +295,7 @@ https://contvanime-roku-ingest.cinedigm.com/master.m3u8
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 #EXTINF:0,Anime Zone TV group-title="Anime"
 http://animezonetv.net/hls/stream.m3u8
+
 
 
 
