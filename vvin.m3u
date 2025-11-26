@@ -278,13 +278,5 @@ https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Noticias",RT en Español 🇷🇺
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
-#EXTINF:0,CONtv Anime (1080p) group-title="Anime"
-https://contvanime-roku-ingest.cinedigm.com/master.m3u8
-#EXTINF:0,Xtrema Anime (360p) group-title="Anime"
-https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-
-
-
-
 
 
