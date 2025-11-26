@@ -231,6 +231,8 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 
 
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml"
+
 #EXTINF:-1 channel-id="0e9a0d968d225a3eb93784404f7edadf" tvg-id="0e9a0d968d225a3eb93784404f7edadf" tvg-chno="920" tvg-name="AmericaTeve" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0e9a0d968d225a3eb93784404f7edadf/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675112610226_americateve_260x147.png" group-title="Roku",AmericaTeve
 https://aka-live491.delivery.roku.com/34a28884-2772-480e-9b98-7c324767a795/t2-origin/out/v1/live.m3u8
 
@@ -239,3 +241,4 @@ https://aka-live491.delivery.roku.com/cdd53068-81e9-4898-999d-7f4f6d0b28ad/t2-or
 
 #EXTINF:-1 channel-id="0b92deed3dd556cf91c911a36e948fde" tvg-id="0b92deed3dd556cf91c911a36e948fde" tvg-chno="367" tvg-name="Anime X HiDive" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0b92deed3dd556cf91c911a36e948fde/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1730996857858_Anime_HiDive_HXA_ImageHUD.png" group-title="Roku",Anime X HiDive
 https://aka-live491.delivery.roku.com/bb8d07e9-952d-40b5-8104-5fe09bdb3f65/t2-origin/out/v1/live.m3u8
+
