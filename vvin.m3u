@@ -70,6 +70,8 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 http://38.183.182.166:8000/play/a12u/index.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Perú Nacional",TV Peru 🇵🇪 (VVin)
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
+#EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Perú Nacional",TV Peru 🇵🇪 (VVin)
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="Perú Nacional",TV Peru Noticias 🇵🇪 (VVin)
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 #EXTINF:-1 tvg-id="TVPeruInternacional.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="Perú Nacional",TvPerú InterNacion 🇵🇪 (VVin)
@@ -77,7 +79,7 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 #EXTINF:-1 tvg-id="RadioNacional.pe@SD" tvg-logo="https://www.radionacional.gob.pe/sites/all/themes/stability/images/RADIO-NACIONAL.png" group-title="Perú Nacional",Radio Nacional 🇵🇪 (VVin)
 https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
 #EXTINF:-1 tvg-id="CanalIPE.pe@SD" tvg-logo="https://www.canalipe.gob.pe/sites/default/themes/concise_drupal/static/media/header/logo.png" group-title="Perú Nacional",Canal IPE 🇵🇪 (VVin)
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
+
 
 
 
@@ -280,6 +282,7 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 https://contvanime-roku-ingest.cinedigm.com/master.m3u8
 #EXTINF:0,Xtrema Anime (360p) group-title="Anime"
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+
 
 
 
