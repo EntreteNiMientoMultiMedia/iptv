@@ -169,6 +169,8 @@ http://38.183.182.166:8000/play/a13g/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="Exitosa.pe@SD" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="CaraCol Universal 🇵🇪 ",Exitosa ✅✔️ 
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/tracks-a1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Exitosa.pe@SD" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="CaraCol Universal 🇵🇪 ",Exitosa 🇻🇳 1280x720p
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_720p/chunks.m3u8?uid=12051151
 #EXTINF:-1 tvg-id="Exitosa.pe@SD" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="CaraCol Universal 🇵🇪 ",Exitosa
@@ -370,6 +372,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
