@@ -92,23 +92,6 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TVPERU/10-hls/live-media.m3u8
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="TVPeruNoticias.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="Perú Nacional",TV Peru Noticias 🇵🇪 (EviKiti)
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
-#EXTINF:-1 tvg-id="TVPeruInternacional.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="Perú Nacional",TvPerú InterNacion 🇵🇪 (EviKiti)
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
-#EXTINF:-1 tvg-id="RadioNacional.pe@SD" tvg-logo="https://www.radionacional.gob.pe/sites/all/themes/stability/images/RADIO-NACIONAL.png" group-title="Perú Nacional",Radio Nacional 🇵🇪 (EviKiti)
-https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
-#EXTINF:-1 tvg-id="CanalIPE.pe@SD" tvg-logo="https://www.canalipe.gob.pe/sites/default/themes/concise_drupal/static/media/header/logo.png" group-title="Perú Nacional",Canal IPE 🇵🇪 (EviKiti)
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
-#EXTINF:-1 tvg-id="CanalIPE.pe@SD" tvg-logo="https://www.canalipe.gob.pe/sites/default/themes/concise_drupal/static/media/header/logo.png" group-title="Perú Nacional",Canal IPE 🇵🇪 (EcoNoGo)
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/IPE/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DIPE_stream_ft&_cdn_session=3416325835&_cdn_token=74c6b92a977101eb734e69e053e7006e8b5e3ecf
-
-
-
-
 #EXTINF:-1 tvg-id="ATVPlus.pe@SD" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="ATV+ 🇵🇪 ",Andina+ ✅✔️ 1280x720p
 https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe@SD" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="ATV+ 🇵🇪 ",Andina+ 🇻🇳 1280x720p
@@ -150,6 +133,20 @@ https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3
 https://jireh-6-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream0/chunks.m3u8?dpssid=b24900835076927a23736b54&sid=ba5t1l1xb217436165296927a2389e5f1&ndvc=0
 #EXTINF:-1 tvg-id="LatinaClasicos.pe@SD" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Latina Clásicos 🇵🇪 ",Latina Clasicos ❓❔ 1920x1080p
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="TVPeruNoticias.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="Perú Nacional",TV Peru Noticias 🇵🇪 (EviKiti)
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
+#EXTINF:-1 tvg-id="TVPeruInternacional.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="Perú Nacional",TvPerú InterNacion 🇵🇪 (EviKiti)
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
+#EXTINF:-1 tvg-id="RadioNacional.pe@SD" tvg-logo="https://www.radionacional.gob.pe/sites/all/themes/stability/images/RADIO-NACIONAL.png" group-title="Perú Nacional",Radio Nacional 🇵🇪 (EviKiti)
+https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
+#EXTINF:-1 tvg-id="CanalIPE.pe@SD" tvg-logo="https://www.canalipe.gob.pe/sites/default/themes/concise_drupal/static/media/header/logo.png" group-title="Perú Nacional",Canal IPE 🇵🇪 (EviKiti)
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
+#EXTINF:-1 tvg-id="CanalIPE.pe@SD" tvg-logo="https://www.canalipe.gob.pe/sites/default/themes/concise_drupal/static/media/header/logo.png" group-title="Perú Nacional",Canal IPE 🇵🇪 (EcoNoGo)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/IPE/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DIPE_stream_ft&_cdn_session=3416325835&_cdn_token=74c6b92a977101eb734e69e053e7006e8b5e3ecf
 
 
 
@@ -372,6 +369,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
