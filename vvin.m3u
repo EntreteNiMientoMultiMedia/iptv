@@ -231,7 +231,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/chunks.m3u8?uid=12051151
 
 #EXTINF:-1 tvg-id="PBO.pe@SD" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="Oficina de Radiodifusión del Perú 🇵🇪 ",PBO 🇻🇳 1280x720p
 https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="PBO.pe@SD" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="Oficina de Radiodifusión del Perú 🇵🇪 ",PBO ❓❔ 
+#EXTINF:-1 tvg-id="PBO.pe@SD" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="Oficina de Radiodifusión del Perú 🇵🇪 ",PBO ❓❔ 1280x720p
 http://38.183.182.166:8000/play/a13k/index.m3u8
 
 
@@ -399,6 +399,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
