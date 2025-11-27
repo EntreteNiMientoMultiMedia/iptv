@@ -209,6 +209,38 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="Nativa.pe@SD" tvg-logo="" group-title="Chasqui 🇵🇪 ",Nativa 🇻🇳 1280x720p
+https://live-evg5.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8?uid=12051151
+#EXTINF:-1 tvg-id="Nativa.pe@SD" tvg-logo="" group-title="Chasqui 🇵🇪 ",Nativa 🇻🇳 1280x720p
+https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/chunks.m3u8?uid=12051151
+#EXTINF:-1 tvg-id="Creo.pe@SD" tvg-logo="" group-title="Chasqui 🇵🇪 ",Creo 🇻🇳 1280x720p
+https://live-evg5.tv360.bitel.com.pe/bitel/creosrt/chunks.m3u8?uid=12051151
+#EXTINF:-1 tvg-id="Creo+.pe@SD" tvg-logo="" group-title="Chasqui 🇵🇪 ",Creo+ 🇻🇳 1280x720p
+https://live-evg18.tv360.bitel.com.pe/bitel/CreomasSRT/chunks.m3u8
+#EXTINF:-1 tvg-id="MilenialTV.pe@SD" tvg-logo="https://i.imgur.com/8ZiNoEa.png" group-title="Chasqui 🇵🇪 ",MilenialTV
+https://www.milenial.news/salida/hd/milenial1801.ts
+https://www.milenial.news/salida/sd/milenial1801.ts
+https://www.milenial.news/salida/milenial.m3u8
+#EXTINF:-1 tvg-id="MilenialTV.pe@SD" tvg-logo="https://i.imgur.com/8ZiNoEa.png" group-title="Chasqui 🇵🇪 ",MilenialTV 🇻🇳 1280x720p
+https://live-evg5.tv360.bitel.com.pe/bitel/milenial/chunks.m3u8?uid=12051151
+#EXTINF:-1 tvg-id="NeoTV.pe@SD" tvg-logo="https://i.imgur.com/8ZiNoEa.png" group-title="Chasqui 🇵🇪 ",NeoTV 🇻🇳 1280x720p
+https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/chunks.m3u8?uid=12051151
+
+
+
+
+#EXTINF:-1 tvg-id="PBO.pe@SD" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="Oficina de Radiodifusión del Perú 🇵🇪 ",PBO ❓❔  🇻🇳 1280x720p
+https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="PBO.pe@SD" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="Oficina de Radiodifusión del Perú 🇵🇪 ",PBO ❓❔ 
+http://38.183.182.166:8000/play/a13k/index.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="AngienetTV.pe@SD" tvg-logo="https://i.imgur.com/GCCriH4.png" group-title="Music",Angienet TV
 https://servilive.com:3624/stream/play.m3u8
 
@@ -257,9 +289,6 @@ https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg-id="MegaTVJaen.pe@SD" tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="General",Mega TV Jaen (720p) [Not 24/7]
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
-#EXTINF:-1 tvg-id="MilenialTV.pe@SD" tvg-logo="https://i.imgur.com/8ZiNoEa.png" group-title="General",Milenial TV
-https://www.milenial.news/salida/milenial.m3u8
-
 #EXTINF:-1 tvg-id="Millenium109FM.pe@SD" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="Music",Millenium 109 FM (720p) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 
@@ -272,8 +301,6 @@ https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 tvg-id="PancTVPeru.pe@SD" tvg-logo="https://play-lh.googleusercontent.com/-FVhaeUjvONL49NYdVMchoLXU421387791mp8zZ15JFic_kPyb3vULf86ffIr-NeOg" group-title="Entertainment",Panc TV Peru (1080p)
 https://panel.host-live.com:19360/20000/20000.m3u8
 
-#EXTINF:-1 tvg-id="PBO.pe@SD" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="News",PBO (1080p)
-http://38.183.182.166:8000/play/a13k/index.m3u8
 
 #EXTINF:-1 tvg-id="PlanetaTV.pe@SD" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="Undefined",Planeta TV (720p) [Not 24/7]
 https://live.obslivestream.com/planetatv/index.m3u8
@@ -372,6 +399,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
