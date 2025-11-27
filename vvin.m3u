@@ -70,7 +70,7 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Tv Perú 🇵🇪 ",TV Peru 🇻🇳 1280x720p
 https://live-evg20.tv360.bitel.com.pe/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Tv Perú 🇵🇪 ",TV Peru 💸 1280x720p
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TVPERU/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=3421057451&_cdn_token=4f344931b1c8f060e7a6de5ee789a96378ab4a92
+
 #EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Tv Perú 🇵🇪 ",TV Peru 💸 1024x576p
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TVPERU/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=3416323123&_cdn_token=a6a996c6a1c1a303c3290de1715c6c28e4385d97
 #EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="Tv Perú 🇵🇪 ",TV Peru ❓❔ 1920x1080p
@@ -80,8 +80,11 @@ http://38.183.182.166:8000/play/a12u/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Tv Perú 🇵🇪 ",TV Peru 💸
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TVPERU/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=3421059683&_cdn_token=82a6fd24ad2199e7682dfddc79b652d66d091ab7
 #EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Tv Perú 🇵🇪 ",TV Peru 💸
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TVPERU/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=3421063171&_cdn_token=981f199d01d053b392804a6ae4351a9518643a8a
 #EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Tv Perú 🇵🇪 ",TV Peru 💸
+
 #EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Tv Perú 🇵🇪 ",TV Peru 💸
 #EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Tv Perú 🇵🇪 ",TV Peru 💸
 #EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Tv Perú 🇵🇪 ",TV Peru 💸
@@ -338,6 +341,7 @@ https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Noticias",RT en Español 🇷🇺
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
 
 
 
