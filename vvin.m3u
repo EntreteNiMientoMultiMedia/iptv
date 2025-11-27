@@ -66,6 +66,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ATVSUR/10-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="ATV Sur 🇵🇪 ",Andina Sur 💸 
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATVSUR/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVSUR_stream_5h&_cdn_session=3407117693&_cdn_token=5506d7446c88eaef6479f60be0bf2245a4a6a353
 #EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="ATV Sur 🇵🇪 ",Andina Sur 💸 
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ATVSUR/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVSUR_stream_5h&_cdn_session=3407126133&_cdn_token=3ba0416f5474b4046035f2764af6196e64bfd759
 #EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="ATV Sur 🇵🇪 ",Andina Sur 💸 
 #EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="ATV Sur 🇵🇪 ",Andina Sur 💸 
 #EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="ATV Sur 🇵🇪 ",Andina Sur 💸 
@@ -318,6 +319,7 @@ https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Noticias",RT en Español 🇷🇺
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
 
 
 
