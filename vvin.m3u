@@ -58,24 +58,23 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana 🇻🇳 1280x720p
 https://live-evg20.tv360.bitel.com.pe/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana 💸 1280x720p
-
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana 💸 1024x576p
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3420142803&_cdn_token=fa38a86aae06ad8dd961615320526293e0255511
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3420063787&_cdn_token=5631e59a25b1fdf121ccf0577250cae7d391c088
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3420116619&_cdn_token=5f8c0e62252ccc9c8bf981488faa6076e56c4f69
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana ❓❔ 1920x1080p
 http://38.183.182.166:8000/play/a0ii/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana 💸
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3407641973&_cdn_token=6eec36885fd8c6206e19f5d0b1591ddfe5cbf7fa
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana 💸
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3407641973&_cdn_token=48553dd1f373033f89a1e1a6a2152ed87b346723
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/storage-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3421046227&duration=16200&start=1764221400&_cdn_token=8630cc6e2809cb116b57ea4288e865c5507d35b9
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana 💸
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/storage-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3421040947&duration=16200&start=1764221400&_cdn_token=a7e9b7f8e21a0919acd9948b83bc806c6068614e
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana 💸
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/storage-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3421043467&duration=16200&start=1764221400&_cdn_token=1cfbb4eca8308f01c9ce1e537aa008a5fbab392c
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana 💸
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/storage-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3421046227&duration=16200&start=1764221400&_cdn_token=8630cc6e2809cb116b57ea4288e865c5507d35b9
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3407641973&_cdn_token=48553dd1f373033f89a1e1a6a2152ed87b346723
 
 
 #EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Perú Nacional",TV Peru 🇵🇪 (EviKiti)
@@ -332,6 +331,7 @@ https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Noticias",RT en Español 🇷🇺
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
 
 
 
