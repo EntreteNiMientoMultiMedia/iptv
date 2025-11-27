@@ -73,7 +73,6 @@ http://38.183.182.166:8000/play/a0ii/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana 💸
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3407641973&_cdn_token=6eec36885fd8c6206e19f5d0b1591ddfe5cbf7fa
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana 💸
-
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3407641973&_cdn_token=48553dd1f373033f89a1e1a6a2152ed87b346723
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana 💸
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana 💸
@@ -335,6 +334,7 @@ https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Noticias",RT en Español 🇷🇺
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
 
 
 
