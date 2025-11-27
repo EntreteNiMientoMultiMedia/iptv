@@ -189,11 +189,11 @@ https://streamusmptv.ddns.net/live/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Trivu.pe@SD" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="CeCoPRoDe 🇵🇪  🇵🇪 " ,Trivu 🇻🇳 1280x720p
+#EXTINF:-1 tvg-id="Trivu.pe@SD" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="CeCoPRoDe 🇵🇪  " ,Trivu 🇻🇳 1280x720p
 https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/chunks.m3u8
-#EXTINF:-1 tvg-id="Trivu.pe@SD" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="CeCoPRoDe 🇵🇪  🇵🇪 " ,Trivu
+#EXTINF:-1 tvg-id="Trivu.pe@SD" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="CeCoPRoDe 🇵🇪  " ,Trivu
 https://www.chasquirouter.com/salida/sd/trivu.m3u8
-#EXTINF:-1 tvg-id="RT.pe@SD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="CeCoPRoDe 🇵🇪  🇵🇪 " ,Trivu
+#EXTINF:-1 tvg-id="RT.pe@SD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="CeCoPRoDe 🇵🇪  " ,RT
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 
@@ -368,6 +368,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
