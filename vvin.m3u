@@ -82,6 +82,8 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 #EXTINF:-1 tvg-id="Latina.pe@SD" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Perú Abierto",Latina 💸
 #EXTINF:-1 tvg-id="Latina.pe@SD" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Perú Abierto",Latina 💸
 
+#EXTINF:-1 tvg-id="LatinaNoticias.pe@SD" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Latina Noticias",Latina Noticias ✅✔️ 1920x1080p
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream0/chunks.m3u8?dpssid=b24027682816927a2a8b833f&sid=ba5t1l1xb215171014026927a2aa29290&ndvc=0
 #EXTINF:-1 tvg-id="LatinaNoticias.pe@SD" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Latina Noticias",Latina Noticias 🇻🇳 1280x720p
 https://live-evg11.tv360.bitel.com.pe/bitel/latinanoticias_abr/bitel/latinanoticias_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="LatinaNoticias.pe@SD" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Latina Noticias",Latina Noticias 💸 1280x720p
@@ -333,6 +335,7 @@ https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Noticias",RT en Español 🇷🇺
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
 
 
 
