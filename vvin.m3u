@@ -222,10 +222,10 @@ http://38.183.182.166:8000/play/a13k/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Uranio.pe@SD" tvg-logo="" group-title="🌳🌴De la Selva su encanto ya vuelta, di🦜🐒",Uranio (Tingo Maria)
+#EXTINF:-1 tvg-id="Uranio.pe@SD" tvg-logo="" group-title="De la selva su encanto 🌳🌴 ya vuelta 🦜🐒 di",Uranio 🇻🇳 Tingo Maria
 https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="YuriVisión.pe@SD" tvg-logo="" group-title="🌳🌴De la Selva su encanto ya vuelta, di🦜🐒",YuriVisión (Loreto)
+#EXTINF:-1 tvg-id="YuriVisión.pe@SD" tvg-logo="" group-title="De la selva su encanto 🌳🌴 ya vuelta 🦜🐒 di",YuriVisión 🇻🇳 Loreto
 https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/chunks.m3u8?uid=12051151
 
 
@@ -237,6 +237,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
