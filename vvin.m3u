@@ -11,7 +11,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 #EXTINF: tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="Anime 🇯🇵 🇵🇪",Anime Visión Clásicos
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-#EXTINF:  tvg-logo="https://nosomosnonos.com/wp-content/uploads/2024/11/mininya-1.jpg" group-title="Anime 🇯🇵 🇵🇪",Onegai 1
+#EXTINF: tvg-logo="https://nosomosnonos.com/wp-content/uploads/2024/11/mininya-1.jpg" group-title="Anime 🇯🇵 🇵🇪",Onegai 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
 #EXTINF: tvg-logo="https://ladyotaku.pe/wp-content/uploads/2020/09/anime-onegai-816x544.jpg" group-title="Anime 🇯🇵 🇵🇪",Onegai 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
@@ -502,6 +502,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
