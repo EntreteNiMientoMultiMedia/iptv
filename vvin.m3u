@@ -228,28 +228,28 @@ http://38.183.182.166:8000/play/a13k/index.m3u8
 #EXTINF:-1 tvg-id="Arpegio.pe@SD" tvg-logo="" group-title="De la selva su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",Arpegio 🇻🇳 Iquitos
 #EXTINF:-1 tvg-id="BNBTv.pe@SD" tvg-logo="" group-title="De la selva su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",BNB Tv 🇻🇳 Pucallpa
 
-#EXTINF:-1 tvg-id="CNCTv.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",CNC Tv 🇻🇳 Iquitos
+#EXTINF:-1 tvg-id="CNC.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",CNC 🇻🇳 Iquitos
 https://live-evg18.tv360.bitel.com.pe/bitel/cnctvSRT/chunks.m3u8
 
-#EXTINF:-1 tvg-id="DubTv.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",DubTv 🇻🇳 San Martin
+#EXTINF:-1 tvg-id="DubTv.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",Dub Tv 🇻🇳 San Martin
 https://live-evg18.tv360.bitel.com.pe/bitel/dubtv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Master.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",Master 🇻🇳 Tarapoto
 https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/chunks.m3u8?uid=12051151
 
-#EXTINF:-1 tvg-id="Miel.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",Miel 🇻🇳 Tarma
+#EXTINF:-1 tvg-id="Miel.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",Miel Tv 🇻🇳 Tarma
 https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/chunks.m3u8?uid=12051151
 
 #EXTINF:-1 tvg-id="RioTeleVisión.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",Rio TeleVisión 🇻🇳 Aucayacu
 https://live-evg7.tv360.bitel.com.pe/bitel/riotvSRT/chunks.m3u8?uid=12051151
 
-#EXTINF:-1 tvg-id="SelvaticaTv.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",Selvatica TeleVisión 🇻🇳 Pucallpa
+#EXTINF:-1 tvg-id="SelvaticaTv.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",Selvatica 🇻🇳 Pucallpa
 https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/chunks.m3u8
 
-#EXTINF:-1 tvg-id="SelvaTv.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",SelvaTv 🇻🇳 Loreto
+#EXTINF:-1 tvg-id="SelvaTv.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",Selva Tv 🇻🇳 Loreto
 https://live-evg7.tv360.bitel.com.pe/bitel/selvatv/chunks.m3u8?uid=12051151
 
-#EXTINF:-1 tvg-id="SuperCanal.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",SuperCanal 🇻🇳 Loreto
+#EXTINF:-1 tvg-id="SuperCanal.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",Super Canal 🇻🇳 Loreto
 https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/chunks.m3u8?uid=12051151
 
 #EXTINF:-1 tvg-id="Tarapoto.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",Tarapoto TeleVisión 🇻🇳 Tarapoto
@@ -258,13 +258,13 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/chunks.m3u8
 #EXTINF:-1 tvg-id="TeleSelva.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",TeleSelva 🇻🇳 Junín
 https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/chunks.m3u8?uid=12051151
 
-#EXTINF:-1 tvg-id="TropicalTv.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",TropicalTv 🇻🇳 Tarapoto
+#EXTINF:-1 tvg-id="TropicalTv.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",Tropical 🇻🇳 Tarapoto
 https://live-evg11.tv360.bitel.com.pe/bitel/tropical/chunks.m3u8
 
-#EXTINF:-1 tvg-id="TvMar.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",TvMar 🇻🇳 Madre De Dios
+#EXTINF:-1 tvg-id="TvMar.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",Tv Mar 🇻🇳 Madre De Dios
 https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/chunks.m3u8
 
-#EXTINF:-1 tvg-id="UcayaliTv.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",UcayaliTv 🇻🇳 Ucayali
+#EXTINF:-1 tvg-id="UcayaliTv.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",Ucayali Tv 🇻🇳 Ucayali
 https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="UTv.pe@SD" tvg-logo="" group-title="De la selva Su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",U Tv 🇻🇳 Ucayali
@@ -292,6 +292,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
