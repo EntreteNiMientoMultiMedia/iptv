@@ -224,6 +224,9 @@ http://38.183.182.166:8000/play/a13k/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="EcoTv.pe@SD" tvg-logo="" group-title="Para variar 🍫 de la Costa",Eco 🇻🇳 Ica
+https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/chunks.m3u8
+
 #EXTINF:-1 tvg-id="AmazónicaTv.pe@SD" tvg-logo="" group-title="De la selva su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",AmazónicaTv 🇻🇳 Loreto
 #EXTINF:-1 tvg-id="Arpegio.pe@SD" tvg-logo="" group-title="De la selva su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",Arpegio 🇻🇳 Iquitos
 #EXTINF:-1 tvg-id="BNBTv.pe@SD" tvg-logo="" group-title="De la selva su encanto 🌳🌴 Ya vuelta 🦜🐒 Ñañit@",BNB Tv 🇻🇳 Pucallpa
@@ -292,6 +295,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
