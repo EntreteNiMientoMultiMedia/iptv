@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-id="VVin.pe@SD" tvg-logo="https://win.pe/img/logo-oct.png" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",VVin
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
 
+# Anime ================================================================================================================================================================================================================================================================
+
 #EXTINF:-1 tvg-id="AnimeVisión.pe@SD" tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="Anime 🇯🇵 🇵🇪",Anime Visión
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 #EXTINF:-1 tvg-id="AnimeVisiónClásicos.pe@SD" tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="Anime 🇯🇵 🇵🇪",Anime Visión Clásicos
@@ -498,6 +500,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
