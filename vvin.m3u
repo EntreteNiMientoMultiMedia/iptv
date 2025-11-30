@@ -7,22 +7,22 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
 
 # Anime ================================================================================================================================================================================================================================================================
 
-#EXTINF:1 tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="Anime 🇯🇵 🇵🇪",Anime Visión
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="Anime 🇯🇵 🇵🇪",Anime Visión
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
-#EXTINF:1 tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="Anime 🇯🇵 🇵🇪",Anime Visión Clásicos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="Anime 🇯🇵 🇵🇪",Anime Visión Clásicos
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-#EXTINF:1 tvg-logo="https://nosomosnonos.com/wp-content/uploads/2024/11/mininya-1.jpg" group-title="Anime 🇯🇵 🇵🇪",Onegai 1
+#EXTINF:-1 tvg-logo="https://nosomosnonos.com/wp-content/uploads/2024/11/mininya-1.jpg" group-title="Anime 🇯🇵 🇵🇪",Onegai 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
-#EXTINF:1 tvg-logo="https://ladyotaku.pe/wp-content/uploads/2020/09/anime-onegai-816x544.jpg" group-title="Anime 🇯🇵 🇵🇪",Onegai 2
+#EXTINF:-1 tvg-logo="https://ladyotaku.pe/wp-content/uploads/2020/09/anime-onegai-816x544.jpg" group-title="Anime 🇯🇵 🇵🇪",Onegai 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
-#EXTINF:1 tvg-logo="https://poluxweb.com/Polux3/images/data/television/2022/enero/10-anime-onegai.jpg" group-title="Anime 🇯🇵 🇵🇪",Onegai 3
+#EXTINF:-1 tvg-logo="https://poluxweb.com/Polux3/images/data/television/2022/enero/10-anime-onegai.jpg" group-title="Anime 🇯🇵 🇵🇪",Onegai 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
-#EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/ippo/images/7/79/Hajime_no_Ippo_Logo.png" group-title="Anime 🇯🇵 🇵🇪" group-title="Deportes",Onegai Deportes 🥊
-#EXTINF:1 tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2022/04/Anime-Onegai-por-Animeka-Lanzamiento-900x506.jpg" group-title="Anime 🇯🇵 🇵🇪",Onegai 5
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ippo/images/7/79/Hajime_no_Ippo_Logo.png" group-title="Anime 🇯🇵 🇵🇪" group-title="Deportes",Onegai Deportes 🥊
+#EXTINF:-1 tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2022/04/Anime-Onegai-por-Animeka-Lanzamiento-900x506.jpg" group-title="Anime 🇯🇵 🇵🇪",Onegai 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
-#EXTINF:1 tvg-logo="https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/49/latest/20220418182233/Wasabi.png/481px-Wasabi.png" group-title="Anime 🇯🇵 🇵🇪",Wasabi la chaîne anime
+#EXTINF:-1 tvg-logo="https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/49/latest/20220418182233/Wasabi.png/481px-Wasabi.png" group-title="Anime 🇯🇵 🇵🇪",Wasabi la chaîne anime
 https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
-#EXTINF:1 tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="Anime 🇯🇵 🇵🇪", ZTV Anime
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="Anime 🇯🇵 🇵🇪", ZTV Anime
 https://mitv.zplay.cl/Ztv/index.m3u8
 
 # America Televisión ====================================================================================================================================================================================================================================================
@@ -502,6 +502,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
