@@ -336,13 +336,13 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/chunks.m3u8
 #EXTINF:-1 tvg-id="UniTelTv.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763755361149/dde3d837c4f9_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",UniTel Tv 🇻🇳 HuancaYork
 https://live-evg11.tv360.bitel.com.pe/bitel/uniteltvSRT/chunks.m3u8
 
-#EXTINF:-1 tvg-id="LaCajitaMusical.pe@SD" tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",La Cajita Musical 🇻🇳 Junin
+#EXTINF:-1 tvg-id="LaCajitaMusical.pe@SD" tvg-logo="https://drive.usercontent.google.com/download?id=1k2z9ujLJPv39CVS7qoiZtKu9vy4KvVR8" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",La Cajita Musical 🇻🇳 Junin
 https://live-evg7.tv360.bitel.com.pe/bitel/lacajitamusical/chunks.m3u8?uid=12051151
-#EXTINF:-1 tvg-id="TarpuyTv.pe@SD" tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",TarpuyTv 🇻🇳 Junin
+#EXTINF:-1 tvg-id="TarpuyTv.pe@SD" tvg-logo="https://photos.fife.usercontent.google.com/pw/AP1GczPkmlo0F9mPCxxzULs4bgSv5riABrs_NOAdvel5Kkk2swJRc9s4DKM=w178-h91-s-no-gm?authuser=0" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",TarpuyTv 🇻🇳 Junin
 https://live-evg7.tv360.bitel.com.pe/bitel/tarpuytvSRT/chunks.m3u8?uid=12051151
-#EXTINF:-1 tvg-id="TvO+.pe@SD" tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",TvO+ 🇻🇳 Junin
+#EXTINF:-1 tvg-id="TvO+.pe@SD" tvg-logo="https://photos.fife.usercontent.google.com/pw/AP1GczPkmlo0F9mPCxxzULs4bgSv5riABrs_NOAdvel5Kkk2swJRc9s4DKM=w178-h91-s-no-gm" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",TvO+ 🇻🇳 Junin
 https://live-evg11.tv360.bitel.com.pe/bitel/tvo/chunks.m3u8
-#EXTINF:-1 tvg-id="UniCentroTv.pe@SD" tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",UniCentroTv 🇻🇳 Junin
+#EXTINF:-1 tvg-id="UniCentroTv.pe@SD" tvg-logo="https://photos.fife.usercontent.google.com/pw/AP1GczPkmlo0F9mPCxxzULs4bgSv5riABrs_NOAdvel5Kkk2swJRc9s4DKM" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",UniCentroTv 🇻🇳 Junin
 https://live-evg11.tv360.bitel.com.pe/bitel/unicentro/chunks.m3u8
 
 #EXTINF:-1 tvg-id="CNC.pe@SD" tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",CNC 🇻🇳 Cajamarca
@@ -482,6 +482,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
