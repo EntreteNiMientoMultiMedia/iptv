@@ -224,14 +224,36 @@ http://38.183.182.166:8000/play/a13k/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="AmazónicaTv.pe@SD" tvg-logo="" group-title="De la selva 🌳🌴 su encanto 🦜🐒 Ya vuelta",AmazónicaTv 🇻🇳 Loreto
 #EXTINF:-1 tvg-id="Arpegio.pe@SD" tvg-logo="" group-title="De la selva 🌳🌴 su encanto 🦜🐒 Ya vuelta",Arpegio 🇻🇳 Iquitos
+#EXTINF:-1 tvg-id="BNBTv.pe@SD" tvg-logo="" group-title="De la selva 🌳🌴 su encanto 🦜🐒 Ya vuelta",BNB Tv 🇻🇳 Pucallpa
+
+#EXTINF:-1 tvg-id="CNCTv.pe@SD" tvg-logo="" group-title="De la selva 🌳🌴 su encanto 🦜🐒 Ya vuelta",CNC Tv 🇻🇳 Iquitos
+https://live-evg18.tv360.bitel.com.pe/bitel/cnctvSRT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="DubTv.pe@SD" tvg-logo="" group-title="De la selva 🌳🌴 su encanto 🦜🐒 Ya vuelta",DubTv 🇻🇳 San Martin
 https://live-evg18.tv360.bitel.com.pe/bitel/dubtv/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Master.pe@SD" tvg-logo="" group-title="De la selva 🌳🌴 su encanto 🦜🐒 Ya vuelta",Master 🇻🇳 Tarapoto
+https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/chunks.m3u8?uid=12051151
+
+#EXTINF:-1 tvg-id="Miel.pe@SD" tvg-logo="" group-title="De la selva 🌳🌴 su encanto 🦜🐒 Ya vuelta",Miel 🇻🇳 Tarma
+https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/chunks.m3u8?uid=12051151
+
 #EXTINF:-1 tvg-id="RioTeleVisión.pe@SD" tvg-logo="" group-title="De la selva 🌳🌴 su encanto 🦜🐒 Ya vuelta",Rio TeleVisión 🇻🇳 Aucayacu
 https://live-evg7.tv360.bitel.com.pe/bitel/riotvSRT/chunks.m3u8?uid=12051151
+
+#EXTINF:-1 tvg-id="SelvaticaTv.pe@SD" tvg-logo="" group-title="De la selva 🌳🌴 su encanto 🦜🐒 Ya vuelta",Selvatica TeleVisión 🇻🇳 Pucallpa
+https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SelvaTv.pe@SD" tvg-logo="" group-title="De la selva 🌳🌴 su encanto 🦜🐒 Ya vuelta",SelvaTv 🇻🇳 Loreto
+https://live-evg7.tv360.bitel.com.pe/bitel/selvatv/chunks.m3u8?uid=12051151
+
+#EXTINF:-1 tvg-id="SuperCanal.pe@SD" tvg-logo="" group-title="De la selva 🌳🌴 su encanto 🦜🐒 Ya vuelta",SuperCanal 🇻🇳 Loreto
+https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/chunks.m3u8?uid=12051151
+
+#EXTINF:-1 tvg-id="Tarapoto.pe@SD" tvg-logo="" group-title="De la selva 🌳🌴 su encanto 🦜🐒 Ya vuelta",Tarapoto TeleVisión 🇻🇳 Tarapoto
+https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TeleSelva.pe@SD" tvg-logo="" group-title="De la selva 🌳🌴 su encanto 🦜🐒 Ya vuelta",TeleSelva 🇻🇳 Junín
 https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/chunks.m3u8?uid=12051151
@@ -239,8 +261,20 @@ https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/chunks.m3u8?uid=12051151
 #EXTINF:-1 tvg-id="TropicalTv.pe@SD" tvg-logo="" group-title="De la selva 🌳🌴 su encanto 🦜🐒 Ya vuelta",TropicalTv 🇻🇳 Tarapoto
 https://live-evg11.tv360.bitel.com.pe/bitel/tropical/chunks.m3u8
 
+#EXTINF:-1 tvg-id="TvMar.pe@SD" tvg-logo="" group-title="De la selva 🌳🌴 su encanto 🦜🐒 Ya vuelta",TvMar 🇻🇳 Madre De Dios
+https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-id="UcayaliTv.pe@SD" tvg-logo="" group-title="De la selva 🌳🌴 su encanto 🦜🐒 Ya vuelta",UcayaliTv 🇻🇳 Ucayali
+https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-id="UTv.pe@SD" tvg-logo="" group-title="De la selva 🌳🌴 su encanto 🦜🐒 Ya vuelta",U Tv 🇻🇳 Ucayali
+https://live-evg11.tv360.bitel.com.pe/bitel/utv/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Uranio.pe@SD" tvg-logo="" group-title="De la selva 🌳🌴 su encanto 🦜🐒 Ya vuelta",Uranio 🇻🇳 Tingo Maria
 https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Via.pe@SD" tvg-logo="" group-title="De la selva 🌳🌴 su encanto 🦜🐒 Ya vuelta",Via 🇻🇳 Tarapoto
+https://live-evg11.tv360.bitel.com.pe/bitel/viatvSRT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="YuriVisión.pe@SD" tvg-logo="" group-title="De la selva 🌳🌴 su encanto 🦜🐒 Ya vuelta",YuriVisión 🇻🇳 Loreto
 https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/chunks.m3u8?uid=12051151
@@ -258,6 +292,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
