@@ -37,7 +37,7 @@ https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_36
 #EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://media.giphy.com/avatars/america-tv/xQbOxJZdsl4g/200h.png" group-title="América 🇵🇪 ",América ❓❔ 1920x1080p
 http://38.183.182.166:8000/play/a0rb/index.m3u8
 
-#ATV================================================================================================================================================================================================================================================================
+#EXTINF================================================================================================================================================================================================================================================================
 
 #EXTINF:-1 tvg-id="ATV.pe@SD" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="ATV 🇵🇪 ",Andina ✅✔️ 1280x720p
 https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/medialist_15609871089997455276_hls.m3u8
@@ -48,7 +48,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATV/40-hls/live-media.m3u8?_c
 #EXTINF:-1 tvg-id="ATV.pe@SD" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="ATV 🇵🇪 ",Andina 💸 1024x576p
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATV_stream_of&_cdn_session=3406874861&_cdn_token=7a813fa7027435e7c6a4396c70bd8e2e91358154
 
-# Latina================================================================================================================================================================================================================================================================
+#EXTINF================================================================================================================================================================================================================================================================
 
 #EXTINF:-1 tvg-id="Latina.pe@SD" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Latina 🇵🇪 ",Latina ✅✔️ 1920x1080p
 https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b2120166164669279d778e854&sid=ba5t1l1xb289051337069279d78b4e98&ndvc=0
@@ -61,7 +61,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATINA/20-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="Latina.pe@SD" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Latina 🇵🇪 ",Latina ❓❔ 1920x1080p
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
-#Panamericana ================================================================================================================================================================================================================================================================
+#EXTINF================================================================================================================================================================================================================================================================
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana 🇻🇳 1280x720p
 https://live-evg20.tv360.bitel.com.pe/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8
@@ -507,6 +507,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
