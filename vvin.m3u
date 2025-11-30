@@ -242,7 +242,7 @@ https://live-evg18.tv360.bitel.com.pe/bitel/cosmos/chunks.m3u8
 #EXTINF:-1 tvg-id="CVNTv.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763742937437/33c28f1ce033_480_270.png" group-title="Para variar 🍫 de la Costa",CVN Tv 🇻🇳 Tumbes 1920x1080p
 https://live-evg18.tv360.bitel.com.pe/bitel/cvn/chunks.m3u8
 
-#EXTINF:-1 tvg-id="HuachoTv.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/02/1763754729784/2a7ddf11d876_480_270.png" group-title="Para variar 🍫 de la Costa",HuachoTv.com 🇻🇳 Huacho 1280x720p
+#EXTINF:-1 tvg-id="HuachoTv.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/02/1763754729784/2a7ddf11d876_480_270.png" group-title="Para variar 🍫 de la Costa",Huacho Tv.com 🇻🇳 Huacho 1280x720p
 https://live-evg18.tv360.bitel.com.pe/bitel/huacho/chunks.m3u8
 
 #EXTINF:-1 tvg-id="DunasTv.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/00/1763745308942/fd38cc17f6fd_480_270.png" group-title="Para variar 🍫 de la Costa",DunasTv 🇻🇳 Ica 1280x720p
@@ -284,6 +284,41 @@ https://live-evg11.tv360.bitel.com.pe/bitel/vigiltv/chunks.m3u8
 #EXTINF:-1 tvg-id="VisionSur.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763756295942/d90528a142cf_480_270.png" group-title="Para variar 🍫 de la Costa",Vision Sur 🇻🇳 Arequipa 1920x1080p
 https://live-evg11.tv360.bitel.com.pe/bitel/visionsur/chunks.m3u8
 
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Peruanisima.pe@SD" tvg-logo="" group-title="De los Andes 🏔️🗻 para el mundo🌎",PeruAniSima 🇻🇳 HuancaYork
+https://live-evg7.tv360.bitel.com.pe/bitel/peruanisimaSRT/chunks.m3u8?uid=12051151
+
+#EXTINF:-1 tvg-id="TvWanka.pe@SD" tvg-logo="" group-title="De los Andes 🏔️🗻 para el mundo🌎",Tv Wanka 🇻🇳 HuancaYork
+https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/chunks.m3u8
+
+#EXTINF:-1 tvg-id="UniTelTv.pe@SD" tvg-logo="" group-title="De los Andes 🏔️🗻 para el mundo🌎",UniTel Tv 🇻🇳 HuancaYork
+https://live-evg11.tv360.bitel.com.pe/bitel/uniteltvSRT/chunks.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="UniCentroTv.pe@SD" tvg-logo="" group-title="De los Andes 🏔️🗻 para el mundo🌎",UniCentroTv 🇻🇳 Junin
+https://live-evg11.tv360.bitel.com.pe/bitel/unicentro/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TvO+.pe@SD" tvg-logo="" group-title="De los Andes 🏔️🗻 para el mundo🌎",TvO+ 🇻🇳 Junin
+https://live-evg11.tv360.bitel.com.pe/bitel/tvo/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TarpuyTv.pe@SD" tvg-logo="" group-title="De los Andes 🏔️🗻 para el mundo🌎",TarpuyTv 🇻🇳 Junin
+https://live-evg7.tv360.bitel.com.pe/bitel/tarpuytvSRT/chunks.m3u8?uid=12051151
+
+#EXTINF:-1 tvg-id="LaCajitaMusical.pe@SD" tvg-logo="" group-title="De los Andes 🏔️🗻 para el mundo🌎",La Cajita Musical 🇻🇳 Junin
+https://live-evg7.tv360.bitel.com.pe/bitel/lacajitamusical/chunks.m3u8?uid=12051151
 
 
 
@@ -357,6 +392,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
