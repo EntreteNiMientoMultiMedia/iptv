@@ -2,8 +2,33 @@
 
 # VVin ================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="https://win.pe/img/logo-oct.png" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",    VVin
+#EXTINF: tvg-logo="https://win.pe/img/logo-oct.png" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",    VVin1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
+
+#EXTINF tvg-logo="https://win.pe/img/logo-oct.png" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",    VVin2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
+
+#EXTIN: tvg-logo="https://win.pe/img/logo-oct.png" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",    VVi3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
+
+#EXTI: tvg-logo="https://win.pe/img/logo-oct.png" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",    VVin4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
+
+#EXT: tvg-logo="https://win.pe/img/logo-oct.png" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",    VVin5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
+
+#EX: tvg-logo="https://win.pe/img/logo-oct.png" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",    VVin6
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
+
+#E: tvg-logo="https://win.pe/img/logo-oct.png" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",    VVin7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
+
+#: tvg-logo="https://win.pe/img/logo-oct.png" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",    VVin8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
+
+# tvg-logo="https://win.pe/img/logo-oct.png" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",    VVin9
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
+
 
 # Anime ================================================================================================================================================================================================================================================================
 
@@ -502,6 +527,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
