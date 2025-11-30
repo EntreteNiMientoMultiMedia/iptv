@@ -295,10 +295,16 @@ https://live-evg11.tv360.bitel.com.pe/bitel/visionsur/chunks.m3u8
 
 
 
-"De los Andes 🌋🏔️🗻 para el mundo 🌎"
-"De los Andes 🌋🏔️🗻 para el mundo 🌎"
-"De los Andes 🌋🏔️🗻 para el mundo 🌎"
-"De los Andes 🌋🏔️🗻 para el mundo 🌎"
+#EXTINF: Para variar 🗿🌊 de la Costa
+#EXTINF:-1 Para variar 🗿🌊 de la Costa
+#EXTINF:0 Para variar 🗿🌊 de la Costa
+#EXTINF:+1 Para variar 🗿🌊 de la Costa
+
+
+#EXTINF: De los Andes 🌋🏔️🗻 para el mundo 🌎
+#EXTINF:-1 De los Andes 🌋🏔️🗻 para el mundo 🌎
+#EXTINF:0 De los Andes 🌋🏔️🗻 para el mundo 🌎
+#EXTINF:+1 De los Andes 🌋🏔️🗻 para el mundo 🌎
 
 
 
@@ -405,10 +411,16 @@ https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8
 
 
 
-De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@
-De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@
-De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@
-De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@
+#EXTINF: De los Andes 🌋🏔️🗻 para el mundo 🌎
+#EXTINF:-1 De los Andes 🌋🏔️🗻 para el mundo 🌎
+#EXTINF:0 De los Andes 🌋🏔️🗻 para el mundo 🌎
+#EXTINF:+1 De los Andes 🌋🏔️🗻 para el mundo 🌎
+
+
+#EXTINF: De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@
+#EXTINF:-1 De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@
+#EXTINF:0 De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@
+#EXTINF:+1 De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@
 
 
 
@@ -469,6 +481,13 @@ https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/chunks.m3u8?uid=1205115
 
 
 
+#EXTINF: De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@
+#EXTINF:-1 De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@
+#EXTINF:0 De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@
+#EXTINF:+1 De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@
+
+
+
 
 
 #EXTINF:-1 tvg-id="CanalClaro.cl@SD" tvg-logo="https://i.imgur.com/Kgjfd3J.png" group-title="Competencia",Canal Claro (720p) 
@@ -479,6 +498,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
