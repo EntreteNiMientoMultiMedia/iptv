@@ -329,7 +329,6 @@ De los Andes 🌋🏔️🗻 para el mundo 🌎
 #EXTINF:-1 tvg-id="TeleAgro.pe@SD" tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",Tele Agro 🇻🇳 Cuzco
 #EXTINF:-1 tvg-id="ZeleveTv.pe@SD" tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",ZeleveTv 🇻🇳 Pasco
 
-
 #EXTINF:-1 tvg-id="Peruanisima.pe@SD" tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",PeruAniSima 🇻🇳 HuancaYork
 https://live-evg7.tv360.bitel.com.pe/bitel/peruanisimaSRT/chunks.m3u8?uid=12051151
 #EXTINF:-1 tvg-id="TvWanka.pe@SD" tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",Tv Wanka 🇻🇳 HuancaYork
@@ -483,6 +482,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (360p) 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
 
 
 
