@@ -25,13 +25,13 @@ https://mitv.zplay.cl/Ztv/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="https://media.giphy.com/avatars/america-tv/xQbOxJZdsl4g/200h.png" group-title="América 🇵🇪 🌐",América 🇻🇳 1280x720p
+#EXTINF: tvg-logo="https://media.giphy.com/avatars/america-tv/xQbOxJZdsl4g/200h.png" group-title="América🌐 🇵🇪 ",América 🇻🇳 1280x720p
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/chunks.m3u8
-#EXTINF: tvg-logo="https://media.giphy.com/avatars/america-tv/xQbOxJZdsl4g/200h.png" group-title="América 🌐 🇵🇪 ",América 🇻🇳 854x480p
+#EXTINF: tvg-logo="https://media.giphy.com/avatars/america-tv/xQbOxJZdsl4g/200h.png" group-title="América🌐 🇵🇪 ",América 🇻🇳 854x480p
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_480p/chunks.m3u8
-#EXTINF: tvg-logo="https://media.giphy.com/avatars/america-tv/xQbOxJZdsl4g/200h.png" group-title="América  🌐🇵🇪 🌐",América 🇻🇳 640x360p
+#EXTINF: tvg-logo="https://media.giphy.com/avatars/america-tv/xQbOxJZdsl4g/200h.png" group-title="América 🌐 🇵🇪 ",América 🇻🇳 640x360p
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_360p/chunks.m3u8
-#EXTINF: tvg-logo="https://media.giphy.com/avatars/america-tv/xQbOxJZdsl4g/200h.png" group-title="América 🇵🇪 ",América ❓❔ 1920x1080p
+#EXTINF: tvg-logo="https://media.giphy.com/avatars/america-tv/xQbOxJZdsl4g/200h.png" group-title="América 🌐 🇵🇪 ",América ❓❔ 1920x1080p
 http://38.183.182.166:8000/play/a0rb/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
@@ -435,6 +435,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
+
 
 
 
