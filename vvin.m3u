@@ -351,11 +351,10 @@ https://live-evg11.tv360.bitel.com.pe/bitel/visionsur/chunks.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-
-
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",CadenaTv 🇻🇳 Junin
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",La Cajita Musical 🇻🇳 Junin
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",AndinoTv 🇻🇳 Huaraz
+
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",A Uno 🇻🇳 Puno
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",ABC TeleShow 🇻🇳 Ayachucho
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",Andina 🇻🇳 Ayacucho
@@ -369,7 +368,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/visionsur/chunks.m3u8
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",HuantaTv 🇻🇳 Ayachucho
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",MegaVisión 45 🇻🇳 Cajamarca
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",Tele Agro 🇻🇳 Cuzco
-
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763742087899/905fdb5ba96b_480_270.png" group-title="De los Andes 🌋🏔️🗻 para el mundo 🌎",PeruAniSima 🇻🇳 HuancaYork 1920x1080p
 https://live-evg7.tv360.bitel.com.pe/bitel/peruanisimaSRT/chunks.m3u8?uid=12051151
@@ -468,9 +466,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/chunks.m3u8
 #EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",AmazónicaTv 🇻🇳 Loreto
 #EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Arpegio 🇻🇳 Iquitos
 #EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",BNB Tv 🇻🇳 Pucallpa
-#EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Rio TeleVisión 🇻🇳 Aucayacu
-#EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",TvMar 🇻🇳 Madre De Dios
-#EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Via 🇻🇳 Tarapoto
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830330344/bff3eb521edc_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",CNC 🇻🇳 Iquitos 1280x720p
 https://live-evg18.tv360.bitel.com.pe/bitel/cnctvSRT/chunks.m3u8
@@ -483,6 +478,9 @@ https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/chunks.m3u8?uid=12051151
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/08/05/1746658366448/22d5f117b2db_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",MielTv 🇻🇳 Tarma 1920x1080p
 https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/chunks.m3u8?uid=12051151
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/06/07/05/1749249581832/abf8e713b94e_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Rio TeleVisión 🇻🇳 Aucayacu
+https://live-evg7.tv360.bitel.com.pe/bitel/riotvSRT/chunks.m3u8?uid=12051151
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830668625/e84e7ec96a4a_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Selvatica 🇻🇳 Pucallpa 1280x720p
 https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/chunks.m3u8
@@ -502,6 +500,9 @@ https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/chunks.m3u8?uid=12051151
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/21/03/1747773190679/4fb60cbb4638_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Tropical 🇻🇳 Tarapoto 1920x1080p
 https://live-evg11.tv360.bitel.com.pe/bitel/tropical/chunks.m3u8
 
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/03/21/21/1742565867775/9313a6713a88_480_270.png" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",TvMar 🇻🇳 Madre De Dios
+https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/chunks.m3u8
+
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830323254/643b968748c2_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",UcayaliTv 🇻🇳 Ucayali 1920x1080p
 https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/chunks.m3u8
 
@@ -510,6 +511,9 @@ https://live-evg11.tv360.bitel.com.pe/bitel/utv/chunks.m3u8
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829572323/54119057f99c_480_270.png" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Uranio 🇻🇳 Tingo Maria 1920x1080p
 https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/chunks.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830432152/1906c9d73b57_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Via 🇻🇳 Tarapoto
+https://live-evg11.tv360.bitel.com.pe/bitel/viatvSRT/chunks.m3u8
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/12/22/173401728675/a4cd78baf453_480_270.png" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",YuriVisión 🇻🇳 Loreto 1920x1080p
 https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/chunks.m3u8?uid=12051151
@@ -526,6 +530,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
+
 
 
 
