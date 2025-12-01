@@ -55,7 +55,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATV/20-hls/live-media.m3u8?_c
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="https://www.latina.pe/_templates/desktop/includes/img/latina.svg?v=2" group-title="Latina 🇵🇪 ",Latina ✅✔️ 1920x1080p
+#EXTINF: tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Latina 🇵🇪 ",Latina ✅✔️ 1920x1080p
 https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b2120166164669279d778e854&sid=ba5t1l1xb289051337069279d78b4e98&ndvc=0
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763757664142/eb98eb477dbf_480_270.png" group-title="Latina 🇵🇪 ",Latina 🇻🇳 1280x720p
@@ -75,21 +75,16 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763757696507/4dfa66b95d82_480_270.png" group-title="Panamericana 🇵🇪 ",Panamericana 🇻🇳 1280x720p
 https://live-evg20.tv360.bitel.com.pe/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8
-
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763757696507/4dfa66b95d82_480_270.png" group-title="Panamericana 🇵🇪 ",Panamericana 🇻🇳 854x480p
 https://live-evg20.tv360.bitel.com.pe/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_480p/chunks.m3u8
 
 #EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FPANAMERICANATV.png&width=50&height=50" group-title="Panamericana 🇵🇪 ",Panamericana 💸 1280x720p
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3418036229&_cdn_token=45e0aa62cf027fc9058f39021b4a2f34ddfadce9
-
 #EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FPANAMERICANATV.png&width=50&height=50" group-title="Panamericana 🇵🇪 ",Panamericana 💸 1024x576p
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3420142803&_cdn_token=fa38a86aae06ad8dd961615320526293e0255511
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3420063787&_cdn_token=5631e59a25b1fdf121ccf0577250cae7d391c088
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3420116619&_cdn_token=5f8c0e62252ccc9c8bf981488faa6076e56c4f69
 
 #EXTINF: tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Panamericana 🇵🇪 ",Panamericana ❓❔ 1920x1080p
 http://38.183.182.166:8000/play/a0ii/index.m3u8
-https://live-stream.iblups.com/video/9137130947f091805ddd46dadbfce546f24af32d.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
@@ -463,6 +458,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
+
 
 
 
