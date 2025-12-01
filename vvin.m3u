@@ -225,6 +225,7 @@ http://38.183.182.166:8000/play/a13k/index.m3u8
 #EXTINF: tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",DacTv 🇻🇳 Cañete
 #EXTINF: tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",Norteña Mix 🇻🇳 Piura
 #EXTINF: tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",NZK TeleVisión 🇻🇳 Ica
+#EXTINF: tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",OndaTv 🇻🇳 Ica
 #EXTINF: tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",PiuraTv 🇻🇳 Piura
 #EXTINF: tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",Radio Uno 🇻🇳 Tacna
 #EXTINF: tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",TiempoRealTv 🇻🇳 Lambayeque
@@ -255,9 +256,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/chunks.m3u8
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763756394529/5e70bc4bd79c_480_270.png" group-title="Para variar 🗿🌊 de la Costa",G Tv 🇻🇳 Pisco 1280x720p
 https://live-evg18.tv360.bitel.com.pe/bitel/gtvpiscohls/chunks.m3u8
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763756370285/975ca986dc17_480_270.png" group-title="Para variar 🗿🌊 de la Costa",OndaTv 🇻🇳 Ica 1280x720p
-https://live-evg5.tv360.bitel.com.pe/bitel/onda/chunks.m3u8?uid=12051151
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/176375678731/b6ba71d76f07_480_270.png" group-title="Para variar 🗿🌊 de la Costa",R Tv 🇻🇳 Callao 1920x1080p
 https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/chunks.m3u8?uid=12051151
@@ -439,6 +437,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
+
 
 
 
