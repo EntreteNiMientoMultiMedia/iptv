@@ -531,18 +531,13 @@ https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/16/02/1744744885980/fe2d329ae60f_480_270.png" group-title="Musicales 🔊🎶",NovaTv 🇻🇳 1280x720p
-https://live-evg7.tv360.bitel.com.pe/bitel/NovaSRT/chunks.m3u8?uid=12051151
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835622757/0fb19a3b961d_480_270.jpg" group-title="Musicales 🔉🎵",Top Latino 🇻🇳 720x404p
-https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/16/02/1744744885980/fe2d329ae60f_480_270.png" group-title="Musicales 🔉🎶",NovaTv 🇻🇳 1280x720p
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/16/02/1744744885980/fe2d329ae60f_480_270.png" group-title="Musicales 🔊🎵",NovaTv 🇻🇳 1280x720p
 https://live-evg7.tv360.bitel.com.pe/bitel/NovaSRT/chunks.m3u8?uid=12051151
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835622757/0fb19a3b961d_480_270.jpg" group-title="Musicales 🔊🎵",Top Latino 🇻🇳 720x404p
 https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
+
 
 
