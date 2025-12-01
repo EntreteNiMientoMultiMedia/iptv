@@ -33,9 +33,12 @@ https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_48
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_360p/chunks.m3u8
 #EXTINF: tvg-logo="https://media.giphy.com/avatars/america-tv/xQbOxJZdsl4g/200h.png" group-title="América 🇵🇪 ",América ❓❔ 1920x1080p
 http://38.183.182.166:8000/play/a0rb/index.m3u8
-#EXTINF: tvg-logo="https://media.giphy.com/avatars/america-tv/xQbOxJZdsl4g/200h.png" group-title="América 🇵🇪 ",América
-https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-dai/1a44c6e4a0384af5b8285d9daf6e51c2/manifest/f624fec49dadc88894ebeff1d974eab019af7757/657fbe15e3ba9363bb07c6b4/83c7a81d-4e02-4dab-817c-ebdd2df70e61/4.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=HQnksYxLeHTuwBaSH49sZSWO3tAkN0fr&sid=sm8nNlH4U5P8sFpTlABjMGKxkBDhqFjp&pid=UDd4HCHMBcX04c52HnDtWArzhPndrB0T&pid_dvr=Ne6gmEA72Q10XytS0qmBN5PzkZOG81it&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=EraVDo4imShK53UjOvgzlqpE2nmBMt1HaYOJ8D21L9sC235b2htbRf6jCO1KfyQPRTinArAC0Dt&CMCD=cid%3D%22657fbe15e3ba9363bb07c6b4%22%2Cmtp%3D124500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22UDd4HCHMBcX04c52HnDtWArzhPndrB0T%22&es=us-b4-p-e-zs14.cdn.mdstrm.com&ote=1764663849394&ot=PS9mFD_IIUuIAa9mZ6bY4Q&proto=https&pz=us
-https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-dai/1a44c6e4a0384af5b8285d9daf6e51c2/manifest/f624fec49dadc88894ebeff1d974eab019af7757/657fbe15e3ba9363bb07c6b4/83c7a81d-4e02-4dab-817c-ebdd2df70e61/5.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=HQnksYxLeHTuwBaSH49sZSWO3tAkN0fr&sid=sm8nNlH4U5P8sFpTlABjMGKxkBDhqFjp&pid=UDd4HCHMBcX04c52HnDtWArzhPndrB0T&pid_dvr=Ne6gmEA72Q10XytS0qmBN5PzkZOG81it&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=EraVDo4imShK53UjOvgzlqpE2nmBMt1HaYOJ8D21L9sC235b2htbRf6jCO1KfyQPRTinArAC0Dt&CMCD=cid%3D%22657fbe15e3ba9363bb07c6b4%22%2Cmtp%3D124500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22UDd4HCHMBcX04c52HnDtWArzhPndrB0T%22&es=us-b4-p-e-zs14.cdn.mdstrm.com&ote=1764663849394&ot=PS9mFD_IIUuIAa9mZ6bY4Q&proto=https&pz=us
+
+#EXTINF: tvg-logo="https://media.giphy.com/avatars/america-tv/xQbOxJZdsl4g/200h.png" group-title="América 🇵🇪 ",América 💸 1280x720p
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=3418014637&_cdn_token=25423aaf485bb1eca9bca889091220b813a4b5dd
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=3418015261&_cdn_token=bf8490d3c99ebb221b540e57d8df940e847e9838
+
+
 
 #EXTINF================================================================================================================================================================================================================================================================
 
@@ -438,6 +441,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
+
 
 
 
