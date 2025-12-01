@@ -218,6 +218,9 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/RPP/20-hls/live-media.m3u8?_c
 
 #EXTINF================================================================================================================================================================================================================================================================
 
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835719280/34cd78cef450_480_270.png" group-title="CaraCol Universal 🇵🇪 ",Exitosa ✅✔️ (Audio)
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/tracks-v1/index.fmp4.m3
+
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/27/02/1764185387243/3c598b1996ac_480_270.png" group-title="CaraCol Universal 🇵🇪 ",Exitosa 🇻🇳 1280x720p
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_720p/chunks.m3u8?uid=12051151
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/27/02/1764185387243/3c598b1996ac_480_270.png" group-title="CaraCol Universal 🇵🇪 ",Exitosa 🇻🇳  854x480p
@@ -231,10 +234,10 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/20-hls/live-media.m
 #EXTINF: tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="CaraCol Universal 🇵🇪 ",Exitosa ❓❔ 1280x720p
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8
 
-#EXTINF: tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="CaraCol Universal 🇵🇪 ",Exitosa ✅✔️ (Audio)
-https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/tracks-a1/index.fmp4.m3u8
-
 #EXTINF================================================================================================================================================================================================================================================================
+
+#EXTINF: tvg-logo="https://www.radiolakaribenahuancayo.com/wp-content/uploads/2025/06/karibenalogo.png" group-title="CaraCol Universal 🇵🇪 ",Karibeña ✅✔️ (Audio)
+https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/tracks-v1/index.fmp4.m3u8
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/27/02/1764185405796/a7bab5c17f72_480_270.png" group-title="CaraCol Universal 🇵🇪 ",Karibeña 🇻🇳 1280x720p
 https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
@@ -243,9 +246,6 @@ https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/KARIBENA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dkaribena_stream_4z&_cdn_session=3418862501&_cdn_token=6d515675616f6a58c3d4ca6cb7b3b914950f6ee1
 #EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FKARIBENA.png&width=50&height=50" group-title="CaraCol Universal 🇵🇪 ",Karibeña 💸 1024x576p
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KARIBENA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dkaribena_stream_4z&_cdn_session=3418860589&_cdn_token=e1d587c43cf0735c46707fb303b167c9fca53917
-
-#EXTINF: tvg-logo="https://www.radiolakaribenahuancayo.com/wp-content/uploads/2025/06/karibenalogo.png" group-title="CaraCol Universal 🇵🇪 ",Karibeña ✅✔️ (Audio)
-https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/tracks-a1/index.fmp4.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
@@ -620,6 +620,7 @@ https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_480p/c
 https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?appVersion=1&deviceDNT=0&deviceId=spencer&deviceMake=safari&deviceModel=web&deviceType=web&deviceVersion=1&servertSideAds=false&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
 
 #EXTINF================================================================================================================================================================================================================================================================
+
 
 
 
