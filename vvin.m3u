@@ -25,9 +25,9 @@ https://mitv.zplay.cl/Ztv/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835681860/c6e8bd31225d_480_270.png" group-title="América 🇵🇪 ",América 🇻🇳 1280x720p
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/22/1763740239544/3a9d081c99be_480_270.png" group-title="América 🇵🇪 ",América 🇻🇳 1280x720p
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/chunks.m3u8
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835681860/c6e8bd31225d_480_270.png" group-title="América 🇵🇪 ",América 🇻🇳 854x480p
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/22/1763740239544/3a9d081c99be_480_270.png" group-title="América 🇵🇪 ",América 🇻🇳 854x480p
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_480p/chunks.m3u8
 
 #EXTINF: tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FAMERICATV.png&width=50&height=50" group-title="América 🇵🇪 ",América 💸 1280x720p
@@ -443,6 +443,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
+
 
 
 
