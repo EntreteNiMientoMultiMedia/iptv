@@ -523,10 +523,12 @@ https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/chunks.m3u8?uid=1205115
 #EXTINF: tvg-logo="https://i.imgur.com/Kgjfd3J.png" group-title="Competencia",Canal Claro
 https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?appVersion=1&deviceDNT=0&deviceId=spencer&deviceMake=safari&deviceModel=web&deviceType=web&deviceVersion=1&servertSideAds=false&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
 
-#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",DirecTV Sports 🇺🇸
+#EXTINF================================================================================================================================================================================================================================================================
+
+#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes 🏀🥊",DirecTV Sports 🇺🇸
 http://38.183.182.166:8000/play/a125/index.m3u8
 
-#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes 🇺🇸
+#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes 🏀🥊",ESPN Deportes 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
@@ -539,5 +541,13 @@ https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
+#EXTINF: tvg-logo="" group-title="Infantiles 👼🏻",FMH Kids 🇻🇳 1280x720p
+https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_720p/chunks.m3u8
 
+#EXTINF================================================================================================================================================================================================================================================================
+
+#EXTINF: tvg-logo="" group-title="Películas & Series 🎥📽️🎞️",FMH Películas 🇻🇳 1280x720p
+https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_720p/chunks.m3u8
+
+#EXTINF================================================================================================================================================================================================================================================================
 
