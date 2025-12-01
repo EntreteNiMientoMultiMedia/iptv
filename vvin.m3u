@@ -64,7 +64,6 @@ https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.m
 https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_480p/chunks.m3u8?uid=12051151
 
 #EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FLATINA.png&width=50&height=50" group-title="Latina 🇵🇪 ",Latina 💸 1280x720p
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/storage-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=3418024861&duration=7200&start=1764576000&_cdn_token=ed750aebc5bac2c65dea57a2e69b0fc7f267b26c
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=3407271733&_cdn_token=9e2729de874df743ccbdb20d286f9812c720ecc4
 #EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FLATINA.png&width=50&height=50" group-title="Latina 🇵🇪 ",Latina 💸 1024x576p
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=3407284701&_cdn_token=f496fa92f8fecd1ed23560f219c0a69c896c03d5
@@ -455,6 +454,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
+
 
 
 
