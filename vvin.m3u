@@ -190,20 +190,6 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/IPE/20-hls/live-media.m3u8?_c
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_logo_horizontal.png" group-title="Perú Deportes",Gol Peru 🇵🇪
-http://38.183.182.166:8000/play/a120/index.m3u8
-
-#EXTINF: tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Perú Deportes",L1 Max 🇵🇪
-http://38.183.182.166:8000/play/a12t/index.m3u8
-
-#EXTINF: tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="Perú Deportes",MonteRricoTv 🇵🇪
-https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
-
-#EXTINF: tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Perú Deportes",OvacionTv 🇵🇪
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-
-#EXTINF================================================================================================================================================================================================================================================================
-
 #EXTINF: tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="RPP 🇵🇪 ",RPP
 
 #EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FRPP.png&width=50&height=50" group-title="RPP 🇵🇪 ",RPP 💸 1280x720p
@@ -547,6 +533,18 @@ https://live-evg5.tv360.bitel.com.pe/bitel/fierroSRT/chunks.m3u8?uid=1205115
 
 #EXTINF================================================================================================================================================================================================================================================================
 
+#EXTINF: tvg-logo="https://andresarturoavila.com/wp-content/uploads/2016/05/GOLPERU_logo_horizontal.png" group-title="Deportes 🏀🥊",Gol Peru 🇵🇪
+http://38.183.182.166:8000/play/a120/index.m3u8
+
+#EXTINF: tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes 🏀🥊",L1 Max 🇵🇪
+http://38.183.182.166:8000/play/a12t/index.m3u8
+
+#EXTINF: tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="Deportes 🏀🥊",MonteRricoTv 🇵🇪
+https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
+
+#EXTINF: tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Deportes 🏀🥊",OvacionTv 🇵🇪
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
 #EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes 🏀🥊",DirecTV Sports 🇺🇸
 http://38.183.182.166:8000/play/a125/index.m3u8
 
@@ -596,6 +594,7 @@ https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_480p/c
 https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?appVersion=1&deviceDNT=0&deviceId=spencer&deviceMake=safari&deviceModel=web&deviceType=web&deviceVersion=1&servertSideAds=false&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
 
 #EXTINF================================================================================================================================================================================================================================================================
+
 
 
 
