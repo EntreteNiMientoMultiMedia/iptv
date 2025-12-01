@@ -175,6 +175,13 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF================================================================================================================================================================================================================================================================
 
 #EXTINF: tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="RPP 🇵🇪 ",RPP
+
+#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FRPP.png&width=50&height=50" group-title="RPP 🇵🇪 ",RPP 💸 1280x720p
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/RPP/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DRPP_stream_1q&_cdn_session=3418048589&_cdn_token=8c5e21fadbf64937f7a8957ce190557fedfc186b
+#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FRPP.png&width=50&height=50" group-title="RPP 🇵🇪 ",RPP 💸 1024x576p
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/RPP/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DRPP_stream_1q&_cdn_session=3418049813&_cdn_token=8d2a0cb1212ea17d420c309fa104970fc65a6552
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763757854272/2fd958ed3273_480_270.png" group-title="RPP 🇵🇪 ",RPP
 http://38.183.182.166:8000/play/a13g/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
@@ -185,6 +192,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_720p/chunks
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8
 #EXTINF: tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="CaraCol Universal 🇵🇪 ",Exitosa ✅✔️ (Audio)
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/tracks-a1/index.fmp4.m3u8
+
 #EXTINF: tvg-logo="https://www.radiolakaribenahuancayo.com/wp-content/uploads/2025/06/karibenalogo.png" group-title="CaraCol Universal 🇵🇪 ",Karibeña 🇻🇳 1280x720p
 https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
 #EXTINF: tvg-logo="https://www.radiolakaribenahuancayo.com/wp-content/uploads/2025/06/karibenalogo.png" group-title="CaraCol Universal 🇵🇪 ",Karibeña ✅✔️ (Audio)
@@ -192,21 +200,21 @@ https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/tracks-a1/in
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="ImediaPeru 🇵🇪 ",wɪʎaχ 🇻🇳 1280x720p
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763743848842/f1c3f85f9245_480_270.png" group-title="ImediaPeru 🇵🇪 ",wɪʎaχ 🇻🇳 1280x720p
 https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8?uid=6361701
 #EXTINF: tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="ImediaPeru 🇵🇪 ",wɪʎaχ
 http://38.183.182.166:8000/play/a0zn/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="https://i.imgur.com/9cmIv3q.png" group-title="ColVisión 🇵🇪 " ,USMPTV 🇻🇳 1280x720p
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/17637562635/3149c0754605_480_270.png" group-title="ColVisión 🇵🇪 " ,USMPTV 🇻🇳 1280x720p
 https://live-evg11.tv360.bitel.com.pe/bitel/usmp/chunks.m3u8
 #EXTINF: tvg-logo="https://i.imgur.com/9cmIv3q.png" group-title="ColVisión 🇵🇪 " ,USMPTV
 https://streamusmptv.ddns.net/live/stream.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="CeCoPRoDe 🇵🇪 " ,Trivu 🇻🇳 1280x720p
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763742156631/298c0d17c859_480_270.png" group-title="CeCoPRoDe 🇵🇪 " ,Trivu 🇻🇳 1280x720p
 https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/chunks.m3u8
 #EXTINF: tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="CeCoPRoDe 🇵🇪 " ,Trivu
 https://www.chasquirouter.com/salida/sd/trivu.m3u8
@@ -236,7 +244,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/chunks.m3u8?uid=12051151
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="Oficina de Radiodifusión del Perú 🇵🇪 ",PBO 🇻🇳 1280x720p
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763756810490/6024d31b3008_480_270.png" group-title="Oficina de Radiodifusión del Perú 🇵🇪 ",PBO 🇻🇳 1280x720p
 https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
 #EXTINF: tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="Oficina de Radiodifusión del Perú 🇵🇪 ",PBO ❓❔ 1280x720p
 http://38.183.182.166:8000/play/a13k/index.m3u8
@@ -463,6 +471,7 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
+
 
 
 
