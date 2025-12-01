@@ -264,11 +264,16 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/WILLAX/20-hls/live-media.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/17637562635/3149c0754605_480_270.png" group-title="ColVisión 🇵🇪 " ,USMPTV 🇻🇳 1280x720p
+#EXTINF: tvg-logo="https://cdn.usmptv.pe/v1/images/logo-usmptv-main.png" group-title="ColVisión 🇵🇪 " ,USMP Tv ✅✔️ 1280x720p
+https://streamusmptv.ddns.net/live/stream.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/17637562635/3149c0754605_480_270.png" group-title="ColVisión 🇵🇪 " ,USMP Tv 🇻🇳 1280x720p
 https://live-evg11.tv360.bitel.com.pe/bitel/usmp/chunks.m3u8
 
-#EXTINF: tvg-logo="https://i.imgur.com/9cmIv3q.png" group-title="ColVisión 🇵🇪 " ,USMPTV
-https://streamusmptv.ddns.net/live/stream.m3u8
+#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FUSMPTV.png&width=50&height=50" group-title="ColVisión 🇵🇪 " ,USMP Tv 💸 1280x720p
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/USMPTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_session=3418909605&_cdn_token=59809fefdf965a16de5d8591c07a400e1a88b1d4
+#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FUSMPTV.png&width=50&height=50" group-title="ColVisión 🇵🇪 " ,USMP Tv 💸 1024x576p
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/USMPTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_session=3418912685&_cdn_token=bcca2a12a253cf3eb84c8a260c5ef6adba022aae
 
 #EXTINF================================================================================================================================================================================================================================================================
 
@@ -624,6 +629,7 @@ https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_480p/c
 https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?appVersion=1&deviceDNT=0&deviceId=spencer&deviceMake=safari&deviceModel=web&deviceType=web&deviceVersion=1&servertSideAds=false&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
 
 #EXTINF================================================================================================================================================================================================================================================================
+
 
 
 
