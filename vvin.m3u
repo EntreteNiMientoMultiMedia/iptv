@@ -293,7 +293,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TRIVUTV/40-hls/live-media.m3u
 #EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FTRIVUTV.png&width=50&height=50" group-title="Enrutador Chasqui 🇵🇪 " ,Trivu 💸 1024x576p
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TRIVUTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRIVUTV_stream_56&_cdn_session=3419487309&_cdn_token=04421641be68818039ac7bc39e93020fb5db3648
 
-#EXTINF:-6 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763757481891/33b0867d116c_480_270.png" group-title="Enrutador Chasqui 🇵🇪 ",Nativa ✅✔️ 1280x720p
+#EXTINF:-6 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/173583565692/7885cf39a6b2_480_270.png" group-title="Enrutador Chasqui 🇵🇪 ",Nativa ✅✔️ 1280x720p
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763757481891/33b0867d116c_480_270.png" group-title="Enrutador Chasqui 🇵🇪 ",Nativa 🇻🇳 1280x720p
 https://live-evg5.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8?uid=12051151
@@ -302,7 +302,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/UCITV/40-hls/live-media.m3u8?
 #EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FNATIVA.png&width=50&height=50" group-title="Enrutador Chasqui 🇵🇪 ",Nativa 💸 1024x576p
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/UCITV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUCITV_stream_mg&_cdn_session=3419621757&_cdn_token=abebc1e4a508dfce2b75ec92cde0414be9eacbf2
 
-#EXTINF: tvg-logo="" group-title="Enrutador Chasqui 🇵🇪 ",Creo ✅✔️ 
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/02/1763754326389/d90f463eb27c_480_270.png" group-title="Enrutador Chasqui 🇵🇪 ",Creo ✅✔️ 
 https://srv1.thinkinternationalchannels.com/creotv/tracks-a1/index.fmp4.m3u8?token=lscwB9le2UTTb1
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/02/1763754326389/d90f463eb27c_480_270.png" group-title="Enrutador Chasqui 🇵🇪 ",Creo 🇻🇳 
 https://live-evg5.tv360.bitel.com.pe/bitel/creosrt/chunks.m3u8?uid=12051151
@@ -645,6 +645,7 @@ https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_480p/c
 https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?appVersion=1&deviceDNT=0&deviceId=spencer&deviceMake=safari&deviceModel=web&deviceType=web&deviceVersion=1&servertSideAds=false&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
 
 #EXTINF================================================================================================================================================================================================================================================================
+
 
 
 
