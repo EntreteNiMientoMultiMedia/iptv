@@ -1,30 +1,29 @@
 ﻿#EXTM3U8
 
-#EXTINF: group-title="Los números de atención📲 los encuentran en Películas↖️👆🏼",VVin
-
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="https://win.pe/img/logo-oct.png" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",VVin
+
+#EXTINF: tvg-logo="https://win.pe/img/logo-oct.png" group-title="Los números de atención📲 los encuentran en Películas↖️👆🏼",VVin
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="Anime 🇯🇵 🇵🇪",Anime Visión
+#EXTINF: tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Anime Visión
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
-#EXTINF: tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="Anime 🇯🇵 🇵🇪",Anime Visión Clásicos
+#EXTINF: tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Anime Visión Clásicos
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-#EXTINF: tvg-logo="https://nosomosnonos.com/wp-content/uploads/2024/11/mininya-1.jpg" group-title="Anime 🇯🇵 🇵🇪",Onegai 1
+#EXTINF: tvg-logo="https://nosomosnonos.com/wp-content/uploads/2024/11/mininya-1.jpg" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
-#EXTINF: tvg-logo="https://ladyotaku.pe/wp-content/uploads/2020/09/anime-onegai-816x544.jpg" group-title="Anime 🇯🇵 🇵🇪",Onegai 2
+#EXTINF: tvg-logo="https://ladyotaku.pe/wp-content/uploads/2020/09/anime-onegai-816x544.jpg" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
-#EXTINF: tvg-logo="https://poluxweb.com/Polux3/images/data/television/2022/enero/10-anime-onegai.jpg" group-title="Anime 🇯🇵 🇵🇪",Onegai 3
+#EXTINF: tvg-logo="https://poluxweb.com/Polux3/images/data/television/2022/enero/10-anime-onegai.jpg" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
 #EXTINF: tvg-logo="https://static.wikia.nocookie.net/ippo/images/7/79/Hajime_no_Ippo_Logo.png" group-title="Anime 🇯🇵 🇵🇪" group-title="Deportes",Onegai Deportes 🥊
-#EXTINF: tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2022/04/Anime-Onegai-por-Animeka-Lanzamiento-900x506.jpg" group-title="Anime 🇯🇵 🇵🇪",Onegai 5
+#EXTINF: tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2022/04/Anime-Onegai-por-Animeka-Lanzamiento-900x506.jpg" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
-#EXTINF: tvg-logo="https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/49/latest/20220418182233/Wasabi.png/481px-Wasabi.png" group-title="Anime 🇯🇵 🇵🇪",Wasabi la chaîne anime
+#EXTINF: tvg-logo="https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/49/latest/20220418182233/Wasabi.png/481px-Wasabi.png" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Wasabi la chaîne anime
 https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
-#EXTINF: tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="Anime 🇯🇵 🇵🇪", ZTV Anime
+#EXTINF: tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎", ZTV Anime
 https://mitv.zplay.cl/Ztv/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
