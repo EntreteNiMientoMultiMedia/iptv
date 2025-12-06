@@ -649,6 +649,12 @@ https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_480p/c
 #EXTINF: tvg-logo="https://img.onesignal.com/permanent/d06b9ca0-29c7-4577-b943-0ccc2296219a/Tu7HBEpfSTWvBwK79mUr_c6590db6-61f1-4548-9de5-ad662e8cd4f0.png" group-title="Competencia",Canal Claro 🇲🇽 1280x720p
 https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?appVersion=1&deviceDNT=0&deviceId=spencer&deviceMake=safari&deviceModel=web&deviceType=web&deviceVersion=1&servertSideAds=false&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
 
+#EXTINF: tvg-logo="https://img.onesignal.com/permanent/d06b9ca0-29c7-4577-b943-0ccc2296219a/Tu7HBEpfSTWvBwK79mUr_c6590db6-61f1-4548-9de5-ad662e8cd4f0.png" group-title="Competencia",Canal Claro m4a 🇲🇽 1280x720p
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(IBERO)/1765004699361item-05item_Segment-491952400715.m4a
+
+#EXTINF: tvg-logo="https://img.onesignal.com/permanent/d06b9ca0-29c7-4577-b943-0ccc2296219a/Tu7HBEpfSTWvBwK79mUr_c6590db6-61f1-4548-9de5-ad662e8cd4f0.png" group-title="Competencia",Canal Claro m4v 🇲🇽 1280x720p
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(IBERO)/1765004699361item-04item_Segment-492072321382.m4v
+
 #EXTINF================================================================================================================================================================================================================================================================
 
 #EXTINF: tvg-logo="https://win.pe/img/logo-oct.png" group-title="WhatsApp & TeleGram de Apoyo Técnico 🔧⚙️ 9ØØ ØØØ Ø18 📝📲✍🏼",Aquí no hay nada de nada
