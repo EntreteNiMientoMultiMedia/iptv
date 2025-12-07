@@ -97,17 +97,22 @@ https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Liga_1/40-hls/live-media.m3
 #EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1.png&width=50&height=50" group-title="Federación 🇵🇪 de ⚽",L1 👑 1024x576p
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Liga_1/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_stream_6n&_cdn_session=3996520149&_cdn_token=9175aadcb9e42fba809a93a23e10540cf6d9aed1
 
+#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1_MAX.png&width=50&height=50" group-title="Federación 🇵🇪 de ⚽",L1 Max 👑 1280x720p
+https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Liga_1_max/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_max_stream_vh&_cdn_session=3880466092&_cdn_token=3148bbd9d41f21e621056231ed2265633b740e93
 
-#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1_MAX.png&width=50&height=50" group-title="Federación 🇵🇪 de ⚽",L1 Max👑 1024x576p
+#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1_MAX.png&width=50&height=50" group-title="Federación 🇵🇪 de ⚽",L1 Max 👑 1024x576p
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Liga_1_max/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_max_stream_vh&_cdn_session=3997579253&_cdn_token=84efb71cd8b68cb6d27ab67030e967becb287e5f
 
-#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1_MAX.png&width=50&height=50" group-title="Federación 🇵🇪 de ⚽",L1 Max👑 640x360p
+#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1_MAX.png&width=50&height=50" group-title="Federación 🇵🇪 de ⚽",L1 Max 👑 640x360p
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Liga_1_max/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_max_stream_vh&_cdn_session=3997579253&_cdn_token=7d6d141e47a9b9542d9581d4bf332b26825e7694
 
-#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1_MAX.png&width=50&height=50" group-title="Federación 🇵🇪 de ⚽",L1 Max👑 1024x576p
+#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1_MAX.png&width=50&height=50" group-title="Federación 🇵🇪 de ⚽",L1 Max 👑 1280x720p
+https://cdnback5.win.cdn.moderntv.eu:7909/win/stream/Liga_1_max/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_max_stream_vh&_cdn_session=3880464052&_cdn_token=9f4e55804dc4f61c45f8158d63cef3641252fc99
+
+#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1_MAX.png&width=50&height=50" group-title="Federación 🇵🇪 de ⚽",L1 Max 👑 1024x576p
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Liga_1_max/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_max_stream_vh&_cdn_session=3997177421&_cdn_token=fec0f3ca2c2f2a9c4ecc0f9c8840c321421a605b
 
-#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1_MAX.png&width=50&height=50" group-title="Federación 🇵🇪 de ⚽",L1 Max👑 640x360p
+#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1_MAX.png&width=50&height=50" group-title="Federación 🇵🇪 de ⚽",L1 Max 👑 640x360p
 https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/Liga_1_max/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_max_stream_vh&_cdn_session=3996734821&_cdn_token=04b19410e9cf086ee73c4bd5a2510a3cfd8de258
 
 
@@ -610,6 +615,16 @@ https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/chunks.m3u8?uid=1205115
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763740907911/d87f79300a5e_480_270.png" group-title="Culturales 👨🏻‍🏫👨🏻‍🎓",Fierro a fondo 🇻🇳 1920x1080p
 https://live-evg5.tv360.bitel.com.pe/bitel/fierroSRT/chunks.m3u8?uid=1205115
 
+#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FHistory_Channel.png&width=50&height=50" group-title="Culturales 👨🏻‍🏫👨🏻‍🎓",Canal Historia 👑 1280x720p
+https://cdnmain5.win.cdn.moderntv.eu:7909/win/stream/HISTORY_CHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DHISTORY_CHANNEL_stream_u9&_cdn_session=3880452388&_cdn_token=e50b3aca10814d0d16f7b51bfe816dc96153a163
+#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FHistory_Channel.png&width=50&height=50" group-title="Culturales 👨🏻‍🏫👨🏻‍🎓",Canal Historia 👑 1024x576p
+https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/HISTORY_CHANNEL/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DHISTORY_CHANNEL_stream_u9&_cdn_session=3880457700&_cdn_token=e177b5b83ed4e7e452db65439bec48ed25b3a35a
+
+#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FHistory_Channel_2.png&width=50&height=50" group-title="Culturales 👨🏻‍🏫👨🏻‍🎓",Canal Historia 2 👑 1280x720p
+https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/HISTORY_CHANNEL_2/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DHISTORY_CHANNEL_2_stream_9h&_cdn_session=3880461876&_cdn_token=d3bca0d6cac66d0349e44cc8d4bbd3dce32e3ddd
+#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FHistory_Channel_2.png&width=50&height=50" group-title="Culturales 👨🏻‍🏫👨🏻‍🎓",Canal Historia 2 👑 1024x576p
+https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/HISTORY_CHANNEL_2/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DHISTORY_CHANNEL_2_stream_9h&_cdn_session=3880460876&_cdn_token=a78445e611fed42d4355c2b6a1bf689e6d8d8da9
+
 #EXTINF================================================================================================================================================================================================================================================================
 
 #EXTINF: tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="Deportes 🏀🥊",MonteRricoTv 🇵🇪
@@ -671,15 +686,6 @@ https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_480p/c
 #EXTINF: tvg-logo="https://img.onesignal.com/permanent/d06b9ca0-29c7-4577-b943-0ccc2296219a/Tu7HBEpfSTWvBwK79mUr_c6590db6-61f1-4548-9de5-ad662e8cd4f0.png" group-title="Competencia",Canal Claro 🇲🇽 1280x720p
 https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?appVersion=1&deviceDNT=0&deviceId=spencer&deviceMake=safari&deviceModel=web&deviceType=web&deviceVersion=1&servertSideAds=false&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
 
-#EXTINF: tvg-logo="https://img.onesignal.com/permanent/d06b9ca0-29c7-4577-b943-0ccc2296219a/Tu7HBEpfSTWvBwK79mUr_c6590db6-61f1-4548-9de5-ad662e8cd4f0.png" group-title="Competencia",Canal Claro m4a 🇲🇽 1280x720p
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(IBERO)/1765004699361item-05item_Segment-491952400715.m4a
-
-#EXTINF: tvg-logo="https://img.onesignal.com/permanent/d06b9ca0-29c7-4577-b943-0ccc2296219a/Tu7HBEpfSTWvBwK79mUr_c6590db6-61f1-4548-9de5-ad662e8cd4f0.png" group-title="Competencia",Canal Claro m4v 🇲🇽 1280x720p
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(IBERO)/1765004699361item-04item_Segment-492072321382.m4v
-
-#EXTINF: tvg-logo="https://img.onesignal.com/permanent/d06b9ca0-29c7-4577-b943-0ccc2296219a/Tu7HBEpfSTWvBwK79mUr_c6590db6-61f1-4548-9de5-ad662e8cd4f0.png" group-title="Competencia",Canal Claro m4i 🇲🇽 1280x720p
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(IBERO)/1765004699361item-03item_init.m4i
-
 #EXTINF================================================================================================================================================================================================================================================================
 
 #EXTINF: tvg-logo="https://win.pe/img/logo-oct.png" group-title="WhatsApp & TeleGram de Apoyo Técnico 🔧⚙️ 9ØØ ØØØ Ø18 📝📲✍🏼",Aquí no hay nada de nada
@@ -690,7 +696,3 @@ http://url.del.servidor/vod/series/tlos/s01e01.mkv
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="" group-title="Pruebas",Viki
-https://cloudfront-0.vikiplatform.com/1267798v/dash/1267798v_dash_high_480p_drm_23a21a_2512010628-audio-en-mp4a.40.2.mp4
-#EXTINF: tvg-logo="" group-title="Pruebas",Viki2
-https://cloudfront-0.vikiplatform.com/1267798v/dash/1267798v_dash_high_240p_drm_fe286b_2512010618-video-avc1.mp4
