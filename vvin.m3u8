@@ -442,9 +442,8 @@ https://live-evg11.tv360.bitel.com.pe/bitel/vigiltv/chunks.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763756295942/d90528a142cf_480_270.png" group-title="Para variar 🗿🌊 de la Costa",Vision Sur 🇻🇳 Arequipa 1920x1080p
 https://live-evg11.tv360.bitel.com.pe/bitel/visionsur/chunks.m3u8
-#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FVision_sur.png&width=50&height=50" group-title="Para variar 🗿🌊 de la Costa",Vision Sur 🔱 Arequipa 1280x720p
+#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FVision_sur.png&width=50&height=50" group-title="Para variar 🗿🌊 de la Costa",Vision Sur 🔱 Arequipa 1920x1080p
 https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Vision_sur/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DVision_sur_stream_t0&_cdn_session=3999007085&_cdn_token=8ff5631cd5fdadbbf6882bb81beb215ee6ce351f
-#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FVision_sur.png&width=50&height=50" group-title="Para variar 🗿🌊 de la Costa",Vision Sur 👑 Arequipa 1024x576p
 https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/Vision_sur/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DVision_sur_stream_t0&_cdn_session=3999009845&_cdn_token=ba068d31644a50f83d3415b9b68add8ab740f6fa
 
 #EXTINF================================================================================================================================================================================================================================================================
