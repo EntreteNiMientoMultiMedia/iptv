@@ -91,6 +91,14 @@ http://38.183.182.166:8000/play/a0ii/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
+#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1.png&width=50&height=50" group-title="L1 🇵🇪 ",L1 👑🌟 1280x720p
+https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Liga_1/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_stream_6n&_cdn_session=3996534709&_cdn_token=80bd064754a734bc609595daa288e95fc8ff2ef5
+
+#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1.png&width=50&height=50" group-title="L1 🇵🇪 ",L1 👑🌟 1024x576p
+https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Liga_1/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_stream_6n&_cdn_session=3996520149&_cdn_token=9175aadcb9e42fba809a93a23e10540cf6d9aed1
+
+#EXTINF================================================================================================================================================================================================================================================================
+
 #EXTINF: tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Tv Perú 🇵🇪 ",Tv Perú ✅✔️ 1920x1080p
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 
@@ -601,10 +609,6 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes 🏀🥊",ESPN Deportes 🇺🇸
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
-
-#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1.png&width=50&height=50" group-title="Deportes 🏀🥊",Liga 1 Max 🇵🇪
-https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Liga_1/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_stream_6n&_cdn_session=3996520149&_cdn_token=9175aadcb9e42fba809a93a23e10540cf6d9aed1
-https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Liga_1/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_stream_6n&_cdn_session=3996534709&_cdn_token=80bd064754a734bc609595daa288e95fc8ff2ef5
 
 #EXTINF================================================================================================================================================================================================================================================================
 
