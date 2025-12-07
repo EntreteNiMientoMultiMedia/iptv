@@ -91,7 +91,7 @@ http://38.183.182.166:8000/play/a0ii/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1.png&width=50&height=50" group-title="	Federación 🇵🇪 de Fútbol",L1 Pe 👑 1280x720p
+#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1.png&width=50&height=50" group-title="Federación 🇵🇪 de Fútbol",L1 👑 1280x720p
 https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Liga_1/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_stream_6n&_cdn_session=3996534709&_cdn_token=80bd064754a734bc609595daa288e95fc8ff2ef5
 
 #EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1.png&width=50&height=50" group-title="Federación 🇵🇪 de Fútbol",L1 👑 1024x576p
