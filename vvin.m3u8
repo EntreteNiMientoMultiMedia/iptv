@@ -97,8 +97,10 @@ https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Liga_1/40-hls/live-media.m3
 #EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1.png&width=50&height=50" group-title="Federación 🇵🇪 de ⚽",L1 👑 1024x576p
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Liga_1/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_stream_6n&_cdn_session=3996520149&_cdn_token=9175aadcb9e42fba809a93a23e10540cf6d9aed1
 
+
 #EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1_MAX.png&width=50&height=50" group-title="Federación 🇵🇪 de ⚽",L1 Max👑 1280x720p
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Liga_1_max/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_max_stream_vh&_cdn_session=3997579253&_cdn_token=84efb71cd8b68cb6d27ab67030e967becb287e5f
+https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Liga_1_max/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_max_stream_vh&_cdn_session=3997579253&_cdn_token=7d6d141e47a9b9542d9581d4bf332b26825e7694
 
 #EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1_MAX.png&width=50&height=50" group-title="Federación 🇵🇪 de ⚽",L1 Max👑 1024x576p
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Liga_1_max/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_max_stream_vh&_cdn_session=3997177421&_cdn_token=fec0f3ca2c2f2a9c4ecc0f9c8840c321421a605b
