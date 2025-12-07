@@ -3,7 +3,7 @@
 #EXTINF================================================================================================================================================================================================================================================================
 
 
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Los números de atención 🤖📲 los encuentran en Películas 👆🏼 (Arriba entre Tv & Series)",VVin
+#EXTINF: tvg-logo="https://win.pe/img/logo-oct.png" group-title="Los números de atención 🤖📲 los encuentran en Películas 👆🏼 (Arriba entre Tv & Series)",VVin
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
 
 #EXTINF================================================================================================================================================================================================================================================================
@@ -693,10 +693,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="https://win.pe/img/logo-oct.png" group-title="WhatsApp & TeleGram de Apoyo Técnico 🔧⚙️ 9ØØ ØØØ Ø18 📝📲✍🏼",Aquí no hay nada de nada
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="WhatsApp & TeleGram de Apoyo Técnico 🔧⚙️ 9ØØ ØØØ Ø18 📝📲✍🏼",Aquí no hay nada de nada
 http://url.del.servidor/vod/peliculas/johnwick4.mp4
 
-#EXTINF: tvg-logo="https://win.pe/img/logo-oct.png" group-title="WhatsApp & TeleGram de Cobranza Coactiva 🤑💰 9ØØ ØØØ Ø81 📝📲✍🏼",Aquí no hay nada de nada
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="WhatsApp & TeleGram de Cobranza Coactiva 🤑💰 9ØØ ØØØ Ø81 📝📲✍🏼",Aquí no hay nada de nada
 http://url.del.servidor/vod/series/tlos/s01e01.mkv
 
 #EXTINF================================================================================================================================================================================================================================================================
