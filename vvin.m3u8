@@ -28,11 +28,6 @@ https://mitv.zplay.cl/Ztv/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FAmericaTV_WIN.png&width=50&height=50" group-title="América 🇵🇪 ",América 🔱 1280x720p
-https://cdnmain5.win.cdn.moderntv.eu:7909/win/stream/Americatv_WIN/20-hls/storage-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DAmericatv_WIN_stream_a6&_cdn_session=3998972653&duration=8400&start=1765090800&_cdn_token=53651e2f21214d4285cc7dcd5d60c1c07dcabe4f
-#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FAmericaTV_WIN.png&width=50&height=50" group-title="América 🇵🇪 ",América 👑 1024x576p
-https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Americatv_WIN/10-hls/storage-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DAmericatv_WIN_stream_a6&_cdn_session=3998978389&duration=8400&start=1765090800&_cdn_token=4382470aa8eb45b3a8b0a6c0fb02deee0a93d738
-
 #EXTINF: tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FAMERICATV.png&width=50&height=50" group-title="América 🇵🇪 ",América 💸 1280x720p
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=3418014637&_cdn_token=25423aaf485bb1eca9bca889091220b813a4b5dd
 #EXTINF: tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FAMERICATV.png&width=50&height=50" group-title="América 🇵🇪 ",América 💸 1024x576p
@@ -42,6 +37,11 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AMERIK/20-hls/live-media.m3u8
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/chunks.m3u8
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/22/1763740239544/3a9d081c99be_480_270.png" group-title="América 🇵🇪 ",América 🇻🇳 854x480p
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_480p/chunks.m3u8
+
+#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FAmericaTV_WIN.png&width=50&height=50" group-title="América 🇵🇪 ",América 🔱 1280x720p
+https://cdnmain5.win.cdn.moderntv.eu:7909/win/stream/Americatv_WIN/20-hls/storage-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DAmericatv_WIN_stream_a6&_cdn_session=3998972653&duration=8400&start=1765090800&_cdn_token=53651e2f21214d4285cc7dcd5d60c1c07dcabe4f
+#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FAmericaTV_WIN.png&width=50&height=50" group-title="América 🇵🇪 ",América 👑 1024x576p
+https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Americatv_WIN/10-hls/storage-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DAmericatv_WIN_stream_a6&_cdn_session=3998978389&duration=8400&start=1765090800&_cdn_token=4382470aa8eb45b3a8b0a6c0fb02deee0a93d738
 
 #EXTINF: tvg-logo="https://media.giphy.com/avatars/america-tv/xQbOxJZdsl4g/200h.png" group-title="América 🇵🇪 ",América ❓❔ 1920x1080p
 http://38.183.182.166:8000/play/a0rb/index.m3u8
@@ -442,6 +442,10 @@ https://live-evg11.tv360.bitel.com.pe/bitel/vigiltv/chunks.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763756295942/d90528a142cf_480_270.png" group-title="Para variar 🗿🌊 de la Costa",Vision Sur 🇻🇳 Arequipa 1920x1080p
 https://live-evg11.tv360.bitel.com.pe/bitel/visionsur/chunks.m3u8
+#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FVision_sur.png&width=50&height=50" group-title="Para variar 🗿🌊 de la Costa",Vision Sur 🔱 Arequipa 1280x720p
+https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Vision_sur/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DVision_sur_stream_t0&_cdn_session=3999007085&_cdn_token=8ff5631cd5fdadbbf6882bb81beb215ee6ce351f
+#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FVision_sur.png&width=50&height=50" group-title="Para variar 🗿🌊 de la Costa",Vision Sur 👑 Arequipa 1024x576p
+https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/Vision_sur/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DVision_sur_stream_t0&_cdn_session=3999009845&_cdn_token=ba068d31644a50f83d3415b9b68add8ab740f6fa
 
 #EXTINF================================================================================================================================================================================================================================================================
 
@@ -620,12 +624,12 @@ https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/chunks.m3u8?uid=1205115
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763740907911/d87f79300a5e_480_270.png" group-title="Culturales 👨🏻‍🏫👨🏻‍🎓",Fierro a fondo 🇻🇳 1920x1080p
 https://live-evg5.tv360.bitel.com.pe/bitel/fierroSRT/chunks.m3u8?uid=1205115
 
-#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FHistory_Channel.png&width=50&height=50" group-title="Culturales 👨🏻‍🏫👨🏻‍🎓",Canal Historia 👑 1280x720p
+#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FHistory_Channel.png&width=50&height=50" group-title="Culturales 👨🏻‍🏫👨🏻‍🎓",Canal Historia 🔱 1280x720p
 https://cdnmain5.win.cdn.moderntv.eu:7909/win/stream/HISTORY_CHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DHISTORY_CHANNEL_stream_u9&_cdn_session=3880452388&_cdn_token=e50b3aca10814d0d16f7b51bfe816dc96153a163
 #EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FHistory_Channel.png&width=50&height=50" group-title="Culturales 👨🏻‍🏫👨🏻‍🎓",Canal Historia 👑 1024x576p
 https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/HISTORY_CHANNEL/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DHISTORY_CHANNEL_stream_u9&_cdn_session=3880457700&_cdn_token=e177b5b83ed4e7e452db65439bec48ed25b3a35a
 
-#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FHistory_Channel_2.png&width=50&height=50" group-title="Culturales 👨🏻‍🏫👨🏻‍🎓",Canal Historia 2 👑 1280x720p
+#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FHistory_Channel_2.png&width=50&height=50" group-title="Culturales 👨🏻‍🏫👨🏻‍🎓",Canal Historia 2 🔱 1280x720p
 https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/HISTORY_CHANNEL_2/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DHISTORY_CHANNEL_2_stream_9h&_cdn_session=3880461876&_cdn_token=d3bca0d6cac66d0349e44cc8d4bbd3dce32e3ddd
 #EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FHistory_Channel_2.png&width=50&height=50" group-title="Culturales 👨🏻‍🏫👨🏻‍🎓",Canal Historia 2 👑 1024x576p
 https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/HISTORY_CHANNEL_2/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DHISTORY_CHANNEL_2_stream_9h&_cdn_session=3880460876&_cdn_token=a78445e611fed42d4355c2b6a1bf689e6d8d8da9
