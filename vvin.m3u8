@@ -51,15 +51,20 @@ http://38.183.182.166:8000/play/a0rb/index.m3u8
 #EXTINF: tvg-logo="https://alba-pe-atv.cdn.mediatiquepress.com/wp-content/uploads/2025/01/ATVpe_Logo-1-150x58.png" group-title="ATV 🇵🇪 ",Andina ✅✔️ 1280x720p
 https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/medialist_15609871089997455276_hls.m3u8
 
+#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FATVHD.png&width=50&height=50" group-title="ATV 🇵🇪 ",Andina 💸 1280x720p
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATV_stream_of&_cdn_session=3406902653&_cdn_token=6b3ab8e1684bae69a7e84d5f58392c45dbda9f11
+#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FATVHD.png&width=50&height=50" group-title="ATV 🇵🇪 ",Andina 💸 1024x576p
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATV_stream_of&_cdn_session=3406874861&_cdn_token=7a813fa7027435e7c6a4396c70bd8e2e91358154
+
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/22/1763740457705/e6178f3cf4f3_480_270.png" group-title="ATV 🇵🇪 ",Andina 🇻🇳 1280x720p
 https://live-evg20.tv360.bitel.com.pe/bitel/Atv-UDP_abr/bitel/Atv-udp_720p/chunks.m3u8
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/22/1763740457705/e6178f3cf4f3_480_270.png" group-title="ATV 🇵🇪 ",Andina 🇻🇳 854x480p
 https://live-evg20.tv360.bitel.com.pe/bitel/Atv-UDP_abr/bitel/Atv-udp_480p/chunks.m3u8
 
-#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FATVHD.png&width=50&height=50" group-title="ATV 🇵🇪 ",Andina 💸 1280x720p
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATV_stream_of&_cdn_session=3406902653&_cdn_token=6b3ab8e1684bae69a7e84d5f58392c45dbda9f11
-#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FATVHD.png&width=50&height=50" group-title="ATV 🇵🇪 ",Andina 💸 1024x576p
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATV_stream_of&_cdn_session=3406874861&_cdn_token=7a813fa7027435e7c6a4396c70bd8e2e91358154
+#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FATV_WIN.png&width=50&height=50" group-title="ATV 🇵🇪 ",Andina 🔱 1280x720p
+https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/ATV_WIN/20-hls/storage-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DATV_WIN_stream_o4&_cdn_session=3999027253&duration=7800&start=1765090800&_cdn_token=92da90493e02f00a329ea3928adea3decbdc3b64
+#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FATV_WIN.png&width=50&height=50" group-title="ATV 🇵🇪 ",Andina 🔱 1024x576p
+https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/ATV_WIN/20-hls/storage-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DATV_WIN_stream_o4&_cdn_session=3999025181&duration=7800&start=1765090800&_cdn_token=896f6e40d8b3c4ed8e94a55ec0533cbdec2ec071
 
 #EXTINF================================================================================================================================================================================================================================================================
 
