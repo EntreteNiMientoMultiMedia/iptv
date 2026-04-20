@@ -1,5 +1,10 @@
 ﻿#EXTM3U8
+
 curl "http://tv.m3uts.xyz/player_api.php?username=m&password=m"
+
+curl "http://tv.m3uts.xyz/player_api.php?username=m&password=m&action=get_live_streams"
+
+ffplay "http://tv.m3uts.xyz/live/m/m/STREAM_ID.ts"
 
 #EXTINF================================================================================================================================================================================================================================================================
 
