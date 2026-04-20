@@ -699,7 +699,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u
 #EXTINF================================================================================================================================================================================================================================================================
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/10/29/01/1761677258572/3ab70b8b3ff1_640_360.jpg" group-title="Películas",John Wick
-https://vod-evg1.tv360.bitel.com.pe/OkwT7Ucuqnign1vpb4tKRg/1776699300/peru-video/2023/04/28/03/afff0ce0/afff0ce0-22ac-4b66-9a12-6a773ab8d0b5_5_.m3u8
+https://vmvpd.short.gy/JohnWick.mp4
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/19/22/bb492c24/bb492c24-9498-4e80-87e5-18ee6ad64e3b_640_360.jpg" group-title="Películas",John Wick 2: Un nuevo dia para matar
 https://vod-evg1.tv360.bitel.com.pe/Rn_5X3cX14eD6-tb6XOb9g/1776700380/peru-video/2025/11/27/22/1b7581f2/d1dee8/h264/video/avc1/4/media.m3u8
@@ -708,23 +708,11 @@ https://vod-evg1.tv360.bitel.com.pe/Rn_5X3cX14eD6-tb6XOb9g/1776700380/peru-video
 https://vod-evg1.tv360.bitel.com.pe/NQzGOTomUQ1v1MDINCMsgw/1776700380/peru-video/2025/11/27/23/d51905e3/bbfeab/h264/video/avc1/4/media.m3u8
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/12/17/02/1765914252336/21f7ea762481_640_360.jpg" group-title="Películas",John Wick 4
-https://vod-evg1.tv360.bitel.com.pe/c6ED2Of0ZmHo5SwVpb4cpA/1776700440/peru-video/2025/11/27/23/5979972d/c8176d/h264/video/avc1/4/media.m3u8
+https://vmvpd.short.gy/JohnWick4.mp4
 
 #EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="WhatsApp & TeleGram de Apoyo Técnico 🔧⚙️ 9ØØ ØØØ Ø18 📝📲✍🏼",Aquí no hay nada de nada
 
 #EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="WhatsApp & TeleGram de Cobranza Coactiva 🤑💰 9ØØ ØØØ Ø81 📝📲✍🏼",Aquí no hay nada de nada
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/12/17/02/1765914252336/21f7ea762481_640_360.jpg" group-title="Películas",John Wick 4
-https://vod-evg1.tv360.bitel.com.pe/c6ED2Of0ZmHo5SwVpb4cpA/1776700440/peru-video/2025/11/27/23/5979972d/c8176d/h264/video/avc1/4/media.m3u8.mp4
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/19/22/bccb6115/bccb6115-52b7-40de-8db5-4907e681c240_640_360.jpg" group-title="Películas",John Wick 3: Parabellum
-https://vod-evg1.tv360.bitel.com.pe/NQzGOTomUQ1v1MDINCMsgw/1776700380/peru-video/2025/11/27/23/d51905e3/bbfeab/h264/video/avc1/4/media.mkv
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/19/22/bb492c24/bb492c24-9498-4e80-87e5-18ee6ad64e3b_640_360.jpg" group-title="Películas",John Wick 2: Un nuevo dia para matar
-https://vod-evg1.tv360.bitel.com.pe/Rn_5X3cX14eD6-tb6XOb9g/1776700380/peru-video/2025/11/27/22/1b7581f2/d1dee8/h264/video/avc1/4/media.mp4
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/10/29/01/1761677258572/3ab70b8b3ff1_640_360.jpg" group-title="Películas",John Wick
-https://vod-evg1.tv360.bitel.com.pe/OkwT7Ucuqnign1vpb4tKRg/1776699300/peru-video/2023/04/28/03/afff0ce0/afff0ce0-22ac-4b66-9a12-6a773ab8d0b5_5_.m3u8.mkv
 
 #EXTINF================================================================================================================================================================================================================================================================
 
