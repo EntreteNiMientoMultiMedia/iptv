@@ -1,19 +1,9 @@
 ﻿#EXTM3U8
 
-curl "http://tv.m3uts.xyz/player_api.php?username=m&password=m"
-
-curl "http://tv.m3uts.xyz/player_api.php?username=m&password=m&action=get_live_streams"
-
-ffplay "http://tv.m3uts.xyz/live/m/m/STREAM_ID.ts"
-
 #EXTINF================================================================================================================================================================================================================================================================
 
-
-#EXTINF: tvg-logo="https://vMVPD.short.gy/Logo/VerTv" group-title="Los números de atención 🤖📲 los encuentran en Películas 👆🏼 (Arriba entre Tv & Series)",Ver Tv
+#EXTINF: tvg-logo="https://vMVPD.short.gy/Logo/VerTv" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Ver Tv
 https://vMVPD.short.gy/O4D
-
-#EXTINF================================================================================================================================================================================================================================================================
-
 #EXTINF: tvg-logo="https://vMVPD.short.gy/Logo/AV" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Anime Visión
 https://vMVPD.short.gy/AV
 #EXTINF: tvg-logo="https://vMVPD.short.gy/Logo/AVC" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Anime Visión Clásicos
@@ -27,9 +17,9 @@ https://vMVPD.short.gy/O3
 #EXTINF: tvg-logo="https://static.wikia.nocookie.net/ippo/images/7/79/Hajime_no_Ippo_Logo.png" group-title="Anime 🇯🇵 🇵🇪" group-title="Deportes",Onegai Deportes 🥊
 #EXTINF: tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2022/04/Anime-Onegai-por-Animeka-Lanzamiento-900x506.jpg" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 5
 https://vMVPD.short.gy/O5
-#EXTINF: tvg-logo="https://vMVPD.short.gy/Logo/WLca" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Wasabi la chaîne anime
+#EXTINF: tvg-logo="https://vMVPD.short.gy/Logo/WLca" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Wasabi la chaîne
 https://vMVPD.short.gy/WLca
-#EXTINF: tvg-logo="https://vMVPD.short.gy/Logo/ZTVA" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎", ZTV Anime
+#EXTINF: tvg-logo="https://vMVPD.short.gy/Logo/ZTVA" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎", ZTV
 https://vMVPD.short.gy/ZTVA
 
 #EXTINF================================================================================================================================================================================================================================================================
