@@ -840,9 +840,9 @@ https://media-hls.doppiocdn.org/b-hls-26/238171812/238171812_480p.m3u8?playlistT
 https://media-hls.doppiocdn.org/b-hls-26/238171812/238171812_480p.m3u8?playlistType=lowLatency&psch=v2&pkey=Ook7quaiNgiyuhai&_HLS_msn=481&_HLS_part=0
 
 #EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Chat",Urbate
-https://edge10-mia.live.mmcdn.com/v1/edge/streams/origin.nanalindner.01KPQFJKT06TJRGJMSP9ZDRVKP/chunklist_3_video_12898731571345607815_llhls.m3u8?session=00885d88-c47c-49b4-9cbc-d01157d1ea3b&_HLS_msn=9928&_HLS_part=0
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Chat",Urbate
 https://edge14-mia.live.mmcdn.com/v1/edge/streams/origin.milabunny_.01KPQWBSWAP3DCGR1NFEN76THY/chunklist_4_video_7393225809709791967_llhls.m3u8?session=c32a6d00-d27b-455a-a4ad-02c7e9598022&_HLS_msn=1563&_HLS_part=1
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Chat",Urbate
+https://edge10-mia.live.mmcdn.com/v1/edge/streams/origin.nanalindner.01KPQFJKT06TJRGJMSP9ZDRVKP/chunklist_3_video_12898731571345607815_llhls.m3u8?session=00885d88-c47c-49b4-9cbc-d01157d1ea3b&_HLS_msn=9928&_HLS_part=0
 #EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Chat",Urbate
 https://edge1-mia.live.mmcdn.com/v1/edge/streams/origin.dihoney.01KPQJVKJAC30QS94NQ95R2VH7/chunklist_2_video_15050715989861908163_llhls.m3u8?session=c5097dc4-eb8c-47aa-86dc-b29ab75509f3&_HLS_msn=7816&_HLS_part=1
 #EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Chat",Urbate
