@@ -776,6 +776,34 @@ https://al.flv.nimo.tv/live/su2439522793175rffced3aa80b46df2fc9749c2eca8d126.flv
 #EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Nimo",Nimo Tv
 https://tx.flv.nimo.tv/live/su1939514993279r002a5769f13a9ee4dbe0ce032f6542ff.flv?ver=1&wsSecret=fe6364ffee16cda6e1d2ae4d6f51d119&wsTime=69e76009&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=nimo_media_web&appid=81&tp=1776771081751&needwm=0&seqid=3478278912256&dMod=mseh-0&sdkPcdn=1_1&u=1704112880169&t=100&sv=2601201119&sdk_sid=1776771083768&a_block=0
 
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Chat",Urbate
+https://edge14-mia.live.mmcdn.com/v1/edge/streams/origin.milabunny_.01KPQWBSWAP3DCGR1NFEN76THY/chunklist_4_video_7393225809709791967_llhls.m3u8?session=c32a6d00-d27b-455a-a4ad-02c7e9598022&_HLS_msn=1563&_HLS_part=1
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Chat",Urbate
+https://edge10-mia.live.mmcdn.com/v1/edge/streams/origin.nanalindner.01KPQFJKT06TJRGJMSP9ZDRVKP/chunklist_3_video_12898731571345607815_llhls.m3u8?session=00885d88-c47c-49b4-9cbc-d01157d1ea3b&_HLS_msn=9928&_HLS_part=0
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Chat",Urbate
+https://edge1-mia.live.mmcdn.com/v1/edge/streams/origin.dihoney.01KPQJVKJAC30QS94NQ95R2VH7/chunklist_2_video_15050715989861908163_llhls.m3u8?session=c5097dc4-eb8c-47aa-86dc-b29ab75509f3&_HLS_msn=7816&_HLS_part=1
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Chat",Urbate
+https://edge18-mia.live.mmcdn.com/v1/edge/streams/origin.misaki_love.01KPQTNP666TVQDHG3WYWZCPAR/chunklist_5_audio_2849839098383832735_llhls.m3u8?session=4f82f91d-4b0d-45d9-9ac4-7c0825a389d4&_HLS_msn=2708&_HLS_part=0
+
+#EXTINF================================================================================================================================================================================================================================================================
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/10/29/01/1761677258572/3ab70b8b3ff1_640_360.jpg" group-title="Películas",John Wick
+https://vod-evg1.tv360.bitel.com.pe/OkwT7Ucuqnign1vpb4tKRg/1776699300/peru-video/2023/04/28/03/afff0ce0/afff0ce0-22ac-4b66-9a12-6a773ab8d0b5_5_.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/19/22/bb492c24/bb492c24-9498-4e80-87e5-18ee6ad64e3b_640_360.jpg" group-title="Películas",John Wick 2: Un nuevo dia para matar
+https://vod-evg1.tv360.bitel.com.pe/Rn_5X3cX14eD6-tb6XOb9g/1776700380/peru-video/2025/11/27/22/1b7581f2/d1dee8/h264/video/avc1/4/media.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/19/22/bccb6115/bccb6115-52b7-40de-8db5-4907e681c240_640_360.jpg" group-title="Películas",John Wick 3: Parabellum
+https://vod-evg1.tv360.bitel.com.pe/NQzGOTomUQ1v1MDINCMsgw/1776700380/peru-video/2025/11/27/23/d51905e3/bbfeab/h264/video/avc1/4/media.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/12/17/02/1765914252336/21f7ea762481_640_360.jpg" group-title="Películas",John Wick 4
+https://vod-evg1.tv360.bitel.com.pe/vzGq7pdhRhLkjYsWW4GiOg/1776701460/peru-video/2025/11/27/23/5979972d/c8176d/h264/video/avc1/4/media.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/10/29/01/1761677258572/3ab70b8b3ff1_640_360.jpg" group-title="Películas",John Wick
+https://vod-evg1.tv360.bitel.com.pe/o7OoMoSgZ0Bbze66UYFGgQ/1776771000/peru-video/2023/04/28/03/afff0ce0/afff0ce0-22ac-4b66-9a12-6a773ab8d0b5_5_.m3u8
+
+#EXTINF================================================================================================================================================================================================================================================================
+
 #EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Bigo",Bigo Live
 https://d8485bc7.cubetecn.com:1451/list_3451909710_2370243542_0.m3u8
 #EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Bigo",Bigo Live
@@ -812,32 +840,6 @@ https://media-hls.doppiocdn.org/b-hls-26/252500783/252500783_480p.m3u8?playlistT
 https://media-hls.doppiocdn.org/b-hls-26/238171812/238171812_480p.m3u8?playlistType=lowLatency&psch=v2&pkey=Ook7quaiNgiyuhai&_HLS_msn=481&_HLS_part=0
 #EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Hamster",Hamster Live
 https://media-hls.doppiocdn.org/b-hls-26/238171812/238171812_480p.m3u8?playlistType=lowLatency&psch=v2&pkey=Ook7quaiNgiyuhai&_HLS_msn=481&_HLS_part=0
-
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Chat",Urbate
-https://edge14-mia.live.mmcdn.com/v1/edge/streams/origin.milabunny_.01KPQWBSWAP3DCGR1NFEN76THY/chunklist_4_video_7393225809709791967_llhls.m3u8?session=c32a6d00-d27b-455a-a4ad-02c7e9598022&_HLS_msn=1563&_HLS_part=1
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Chat",Urbate
-https://edge10-mia.live.mmcdn.com/v1/edge/streams/origin.nanalindner.01KPQFJKT06TJRGJMSP9ZDRVKP/chunklist_3_video_12898731571345607815_llhls.m3u8?session=00885d88-c47c-49b4-9cbc-d01157d1ea3b&_HLS_msn=9928&_HLS_part=0
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Chat",Urbate
-https://edge1-mia.live.mmcdn.com/v1/edge/streams/origin.dihoney.01KPQJVKJAC30QS94NQ95R2VH7/chunklist_2_video_15050715989861908163_llhls.m3u8?session=c5097dc4-eb8c-47aa-86dc-b29ab75509f3&_HLS_msn=7816&_HLS_part=1
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Chat",Urbate
-https://edge18-mia.live.mmcdn.com/v1/edge/streams/origin.misaki_love.01KPQTNP666TVQDHG3WYWZCPAR/chunklist_5_audio_2849839098383832735_llhls.m3u8?session=4f82f91d-4b0d-45d9-9ac4-7c0825a389d4&_HLS_msn=2708&_HLS_part=0
-
-#EXTINF================================================================================================================================================================================================================================================================
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/10/29/01/1761677258572/3ab70b8b3ff1_640_360.jpg" group-title="Películas",John Wick
-https://vod-evg1.tv360.bitel.com.pe/OkwT7Ucuqnign1vpb4tKRg/1776699300/peru-video/2023/04/28/03/afff0ce0/afff0ce0-22ac-4b66-9a12-6a773ab8d0b5_5_.m3u8
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/19/22/bb492c24/bb492c24-9498-4e80-87e5-18ee6ad64e3b_640_360.jpg" group-title="Películas",John Wick 2: Un nuevo dia para matar
-https://vod-evg1.tv360.bitel.com.pe/Rn_5X3cX14eD6-tb6XOb9g/1776700380/peru-video/2025/11/27/22/1b7581f2/d1dee8/h264/video/avc1/4/media.m3u8
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/19/22/bccb6115/bccb6115-52b7-40de-8db5-4907e681c240_640_360.jpg" group-title="Películas",John Wick 3: Parabellum
-https://vod-evg1.tv360.bitel.com.pe/NQzGOTomUQ1v1MDINCMsgw/1776700380/peru-video/2025/11/27/23/d51905e3/bbfeab/h264/video/avc1/4/media.m3u8
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/12/17/02/1765914252336/21f7ea762481_640_360.jpg" group-title="Películas",John Wick 4
-https://vod-evg1.tv360.bitel.com.pe/vzGq7pdhRhLkjYsWW4GiOg/1776701460/peru-video/2025/11/27/23/5979972d/c8176d/h264/video/avc1/4/media.m3u8
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/10/29/01/1761677258572/3ab70b8b3ff1_640_360.jpg" group-title="Películas",John Wick
-https://vod-evg1.tv360.bitel.com.pe/o7OoMoSgZ0Bbze66UYFGgQ/1776771000/peru-video/2023/04/28/03/afff0ce0/afff0ce0-22ac-4b66-9a12-6a773ab8d0b5_5_.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
