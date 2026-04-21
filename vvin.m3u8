@@ -698,6 +698,63 @@ https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u
 
 #EXTINF================================================================================================================================================================================================================================================================
 
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Rumble",Rumble
+https://1a-1791.com/live/1n1ugl24/slot-49/7ttm-lexc_1080p/chunklist.m3u8
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Rumble",Rumble
+https://1a-1791.com/live/nd3n15l5/slot-46/9erd-mia5/chunklist.m3u8
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Rumble",Rumble
+https://1a-1791.com/live/3fms19g4/slot-15/cly1-k42c/chunklist.m3u8
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Rumble",Rumble
+https://1a-1791.com/live/41ac4fe/slot-12/1n90-3cob_1080p/chunklist_DVR.m3u8
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Rumble",Rumble
+https://1a-1791.com/live/4gf18j5s/slot-75/vsog-0emx_1080p/chunklist_DVR.m3u8
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Rumble",Rumble
+https://1a-1791.com/live/gke17oc4/slot-26/go6t-49mc/chunklist.m3u8
+
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Chat",Urbate
+https://edge14-mia.live.mmcdn.com/v1/edge/streams/origin.milabunny_.01KPQWBSWAP3DCGR1NFEN76THY/chunklist_4_video_7393225809709791967_llhls.m3u8?session=c32a6d00-d27b-455a-a4ad-02c7e9598022&_HLS_msn=1563&_HLS_part=1
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Chat",Urbate
+https://edge10-mia.live.mmcdn.com/v1/edge/streams/origin.nanalindner.01KPQFJKT06TJRGJMSP9ZDRVKP/chunklist_3_video_12898731571345607815_llhls.m3u8?session=00885d88-c47c-49b4-9cbc-d01157d1ea3b&_HLS_msn=9928&_HLS_part=0
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Chat",Urbate
+https://edge1-mia.live.mmcdn.com/v1/edge/streams/origin.dihoney.01KPQJVKJAC30QS94NQ95R2VH7/chunklist_2_video_15050715989861908163_llhls.m3u8?session=c5097dc4-eb8c-47aa-86dc-b29ab75509f3&_HLS_msn=7816&_HLS_part=1
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Chat",Urbate
+https://edge18-mia.live.mmcdn.com/v1/edge/streams/origin.misaki_love.01KPQTNP666TVQDHG3WYWZCPAR/chunklist_5_audio_2849839098383832735_llhls.m3u8?session=4f82f91d-4b0d-45d9-9ac4-7c0825a389d4&_HLS_msn=2708&_HLS_part=0
+
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Nimo",Nimo Tv
+https://al.flv.nimo.tv/live/su2439522832838r950fd82b91b14a2971283e9e880ab8ff.flv?ver=1&wsSecret=5d9d3e50f01c5b8ebba4b3d06e272935&wsTime=69e838bc&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=nimo_web&appid=81&tp=1776740156456&needwm=0&seqid=3478278772027&ratio=500&dMod=mseh-0&sdkPcdn=1_1&u=1704112880169&t=100&sv=2601201119&sdk_sid=1776770943532&a_block=0
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Nimo",Nimo Tv
+https://al.flv.nimo.tv/live/su2439522793175rffced3aa80b46df2fc9749c2eca8d126.flv?ver=1&wsSecret=e88a67ba1d071c01d5df103f78699c7f&wsTime=69e75fca&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=nimo_media_web&appid=81&tp=1776771018196&needwm=0&seqid=3478278887552&ratio=500&dMod=mseh-0&sdkPcdn=1_1&u=1704112880169&t=100&sv=2601201119&sdk_sid=1776771059073&a_block=0
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Nimo",Nimo Tv
+https://tx.flv.nimo.tv/live/su1939514993279r002a5769f13a9ee4dbe0ce032f6542ff.flv?ver=1&wsSecret=fe6364ffee16cda6e1d2ae4d6f51d119&wsTime=69e76009&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=nimo_media_web&appid=81&tp=1776771081751&needwm=0&seqid=3478278912256&dMod=mseh-0&sdkPcdn=1_1&u=1704112880169&t=100&sv=2601201119&sdk_sid=1776771083768&a_block=0
+
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Trovo",Trovo
+https://liveplay.trovo.live/live/73846_109312959_109312959.flv?bizid=73846&txSecret=369a506eee8773d05659563163432591&txTime=69f093cd&_bmlj_t=ChxyK05KUktMK1VKN0I5WmFKVisrYTI2Q2xOdm89EiQ3ZTI0NThlNi1jMDE4LTQxZTktODk0YS00NTZjNGViYzNiZGQaHjEwOTMxMjk1OV8xMDkzMTI5NTlfMTc3Njc2OTM1NyCQt53PBjIZNzM4NDZfMTA5MzEyOTU5XzEwOTMxMjk1OUINMTc5LjYuMTcxLjE3OEobbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoSNTYwOTA2NjQ5NjI2MDQyMTA2kAEE&playScene=innerSite&pvid=560906649626042106&_f_=1776769970317
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Trovo",Trovo
+https://liveplay.trovo.live/live/73846_108036723_108036723.flv?bizid=73846&txSecret=4e2aecbfa8b567bf6ecc27a4786d298e&txTime=69f09310&_bmlj_t=ChxkSHVHbGRxL2U1Wk9QWll6SUY0MlpoWHZtU3c9EiRjZTA4ODBlNS0zYjc5LTRmODAtYmNlNS1lMzZkMGQzODU0MjgaHjEwODAzNjcyM18xMDgwMzY3MjNfMTc3Njc2OTE2OCDut53PBjIZNzM4NDZfMTA4MDM2NzIzXzEwODAzNjcyM0INMTc5LjYuMTcxLjE3OEobbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoSNTYwOTA2NjQ5NjI2MDQyMTA2kAEE&playScene=innerSite&pvid=560906649626042106&_f_=1776770045375
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Trovo",Trovo
+https://liveplay.trovo.live/live/73846_113202519_113202519.flv?bizid=73846&txSecret=32a8a6e4066353e2de124c30b24e9f6d&txTime=69f08f77&_bmlj_t=ChxqRnJiMTlFbVRNcG84dTN1K1VCbVdVcThEMm89EiQzYWQ1ZGU0ZS04MDJiLTQ0MWEtYTFmNC1kOTMwMDQxODExZTgaHjExMzIwMjUxOV8xMTMyMDI1MTlfMTc3Njc2ODI0NyCcuJ3PBjIZNzM4NDZfMTEzMjAyNTE5XzExMzIwMjUxOUILMzguMjUuMzIuOTFKG2xpdmUtcmVhZGVyLXN2cl9HZXRMaXZlSW5mb1AEYAJ6EjU2MDkwNjY0OTYyNjA0MjEwNpABBA%3D%3D&playScene=innerSite&pvid=560906649626042106&_f_=1776770079667
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Trovo",Trovo
+https://liveplay.trovo.live/live/73846_113577003_113577003.flv?bizid=73846&txSecret=ca8677b9e00167b8a0ee0755384cceb3&txTime=69f094fb&_bmlj_t=ChxjaUxCWDFwYlJvdUlicXczcmQ2MFNvNk5UcHM9EiQ0MmYzNWI5Zi0wYTEyLTRhNWQtYTQ5NS01ZjA3NmIzNDVmY2QaHjExMzU3NzAwM18xMTM1NzcwMDNfMTc3Njc2OTY1OSDMuJ3PBjIZNzM4NDZfMTEzNTc3MDAzXzExMzU3NzAwM0INMTc5LjYuMTcxLjE3OEobbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoSNTYwOTA2NjQ5NjI2MDQyMTA2kAEE&playScene=innerSite&pvid=560906649626042106&_f_=1776770128838
+
+#EXTINF================================================================================================================================================================================================================================================================
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/10/29/01/1761677258572/3ab70b8b3ff1_640_360.jpg" group-title="Películas",John Wick
+https://vod-evg1.tv360.bitel.com.pe/OkwT7Ucuqnign1vpb4tKRg/1776699300/peru-video/2023/04/28/03/afff0ce0/afff0ce0-22ac-4b66-9a12-6a773ab8d0b5_5_.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/19/22/bb492c24/bb492c24-9498-4e80-87e5-18ee6ad64e3b_640_360.jpg" group-title="Películas",John Wick 2: Un nuevo dia para matar
+https://vod-evg1.tv360.bitel.com.pe/Rn_5X3cX14eD6-tb6XOb9g/1776700380/peru-video/2025/11/27/22/1b7581f2/d1dee8/h264/video/avc1/4/media.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/19/22/bccb6115/bccb6115-52b7-40de-8db5-4907e681c240_640_360.jpg" group-title="Películas",John Wick 3: Parabellum
+https://vod-evg1.tv360.bitel.com.pe/NQzGOTomUQ1v1MDINCMsgw/1776700380/peru-video/2025/11/27/23/d51905e3/bbfeab/h264/video/avc1/4/media.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/12/17/02/1765914252336/21f7ea762481_640_360.jpg" group-title="Películas",John Wick 4
+https://vod-evg1.tv360.bitel.com.pe/vzGq7pdhRhLkjYsWW4GiOg/1776701460/peru-video/2025/11/27/23/5979972d/c8176d/h264/video/avc1/4/media.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/10/29/01/1761677258572/3ab70b8b3ff1_640_360.jpg" group-title="Películas",John Wick
+https://vod-evg1.tv360.bitel.com.pe/o7OoMoSgZ0Bbze66UYFGgQ/1776771000/peru-video/2023/04/28/03/afff0ce0/afff0ce0-22ac-4b66-9a12-6a773ab8d0b5_5_.m3u8
+
+#EXTINF================================================================================================================================================================================================================================================================
+
 #EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Kick",Kick
 https://sae12.playlist.live-video.net/v1/playlist/CuEFeQuPsyt2UA1h1OOxStjbJdWbksiezJ3mQciuW48vjc-boL0k93gxpcjByfRzUbX3MZ00yUelpfC6k9Mc-yuTLO1KB_hM_mUr59RPiv-nYNKzSUysh0m5-xagc7zvmTvNxSAmPmFsR_7To4blEV5BY4Aov5ksuVEYs9CVWOerdaeSqL9WTjQFqhcXh3K5SR1S4srUNEYVCi8kU9jxyYX6CXczKPhN4wxar8mFl-fKza0-bAD1al-nXTp2qKlRP4lKPTUvw73VP8u-ZBIV6GSgUUKxjEUEyOrSZl6KKPRYcTD8Iz-3RIZDj_gXNLmqlCnpTyBNFNg-LhwSJO15G6FOxjZcAEluAFECaDfiptJX84HkhUXdMb830ifYkgY6uR1CfdKmnRH7_X81aJmTtRtUMWQtf4QjmW5IoqTrFDtrAIL_xHRHatUd71i1kJJrri6Aug0H5gSSEf_7txeQH1iSJM9v12qvbELIyYBxZA0vLuR0FoMKfOPwpDO2KnabyQQFMGyIT9wYTtVONRDDDhZ6IApgUFWo7DQllwU824vkjMsJ90pOj5Sjhstghm58xwq_8mhMV1v3yj890s3iLDeWiojIfH_Q_TXv6RvXBi_YHgWa36ImyRFGqmj9QLJ74svUjm0ieBn3MUAKYC0HP_JnaxA9zYsLYhuEaaTT-bSzvAud5BG8_IBCa6haELMajTTBeA5SCZSo6nIK63vgR3a09M-3pfRtc4vpxh2EiKkIWRrqSI4OMOesH10CM-RJFbhp1417MWxiyM7WhwWRIJi7Drgu-CSnBa9KQL8EIaLwcoyGKS_eQAlSW00vDkYR9SqLQYBIzqCIB68-fRlUjQr0-3BP5wCI6gnFo23LR1f8QpeL--wsS9ETS6s1CiikJfP5ioex56nkXEbABctjF8BTDaRH9A4ol07AolG7uWCVDqh3as6FWvQjldEcuPdbrC7QCQK7mOpnP6SWt4TQdZlh0RgaDJl1pyWt35N524XbxCABKgl1cy1lYXN0LTIw9w4.m3u8
 #EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Kick",Kick
@@ -732,77 +789,7 @@ https://sae11.playlist.ttvnw.net/v1/playlist/CsEGSuqc-cQX2DVdh5zyroLwETaOSG-FFyp
 #EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Twitch",Twitch
 https://sae11.playlist.ttvnw.net/v1/playlist/CscGya0ks322DHsOvuJq5KUd7WKTbruOgsVRgHg5k8nJykXTh9dV5ZU1YLh_bIzWRl0zFC0qj9eIAdo598g9pVN7cTyqU3yX9o2DlXlHcGGzJ1A7fl9W1vaNUjFoCFVEH11A5p1KGmQs280WhpFbsca3FaNLUwefVRWguoght7UA3qx9OoTRUN-LbofAcWMvdB4UED_6l3GkBxTvgAHn4jnHaJlsYcp_mSrfAiHaJ3-De6gtmmy9ite99-T1bWKDU-Q-JI9OoN30Aj6BOfWTwlmqi90x0i37HFMqPBH5vrf5JIKliXyENgKgUulUJQk_p4zGJvi7LpKLXzsVg-3JK0w5hciEYFYMD6uPM8fbXKncHevRgvPY1Pkg5MGpN4hAx06V1vJSdZb82XsNp8RyWsm0uE9RNxmG0jpg9cVWxax9uJrS-8f4r6-SmtGelAgQJLtfSYqidIbRX_tPRz9rAMoEv8HuN0M4U6IO0S2g9BPrrxGuuYvVZpB4_y5NhA3j9FUZAkMu8S9Eq7eKu1oQhhTHxxkiS4a2nENsuHQbFdTB54UGyRTh21JsKEVYlrYvJb3mo4_Y2DlA1OsLWR2NvFHMq7aItSXyNiWoGBYWvqXaP3wBcCd5SGU128DhG5gO1QsBqzAXy-_41rvlpCJeI1k8WRxIVg8nLLkSd9b2Fuv3Fb6k9ZYa_PmWCQC7344yZC7P6Ka_C2rD9MTW2HKpltt5E1o4jZfuu5wf3XQMI_FjE9Y7IHYlpGQ4YRVQEALA1hdTPhO6QtGUTeGtxjUbZ133tb_fxjMo-4agtDjwtDVunRYUbr6q8yf8Esb7Nu5LqcJsBRJjixF3zLeo3ds5Eg-ddM08o5kR4yqJhirOfz9MwcxxpGRVv2PFYT0YLv8HdgOK-CUw7ayepm2sCKWN-3Hge_DwnJY3eX4BwHtsbzp6am-FZeGYiF3K4U4YsojQQNWhqxyRNwF3P0AccbgfX-fnbKhWW4SOS6F_X0gOnKj_vqw0B-x-u3GQuDPL9BMoMiIWLaRorXXGiVQfsakRXeigVfnP5yezH0iaA_dpx8-y1qqWtEQCaZ3H7EsZ8Y9EifcIHtM8Cc-Ibwc2Qacov4XW8Tes4hjd6TMaDPBcSqSwLPNo3ARmICABKgl1cy1lYXN0LTIw9w4.m3u8
 
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Trovo",Trovo
-https://liveplay.trovo.live/live/73846_109312959_109312959.flv?bizid=73846&txSecret=369a506eee8773d05659563163432591&txTime=69f093cd&_bmlj_t=ChxyK05KUktMK1VKN0I5WmFKVisrYTI2Q2xOdm89EiQ3ZTI0NThlNi1jMDE4LTQxZTktODk0YS00NTZjNGViYzNiZGQaHjEwOTMxMjk1OV8xMDkzMTI5NTlfMTc3Njc2OTM1NyCQt53PBjIZNzM4NDZfMTA5MzEyOTU5XzEwOTMxMjk1OUINMTc5LjYuMTcxLjE3OEobbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoSNTYwOTA2NjQ5NjI2MDQyMTA2kAEE&playScene=innerSite&pvid=560906649626042106&_f_=1776769970317
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Trovo",Trovo
-https://liveplay.trovo.live/live/73846_108036723_108036723.flv?bizid=73846&txSecret=4e2aecbfa8b567bf6ecc27a4786d298e&txTime=69f09310&_bmlj_t=ChxkSHVHbGRxL2U1Wk9QWll6SUY0MlpoWHZtU3c9EiRjZTA4ODBlNS0zYjc5LTRmODAtYmNlNS1lMzZkMGQzODU0MjgaHjEwODAzNjcyM18xMDgwMzY3MjNfMTc3Njc2OTE2OCDut53PBjIZNzM4NDZfMTA4MDM2NzIzXzEwODAzNjcyM0INMTc5LjYuMTcxLjE3OEobbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoSNTYwOTA2NjQ5NjI2MDQyMTA2kAEE&playScene=innerSite&pvid=560906649626042106&_f_=1776770045375
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Trovo",Trovo
-https://liveplay.trovo.live/live/73846_113202519_113202519.flv?bizid=73846&txSecret=32a8a6e4066353e2de124c30b24e9f6d&txTime=69f08f77&_bmlj_t=ChxqRnJiMTlFbVRNcG84dTN1K1VCbVdVcThEMm89EiQzYWQ1ZGU0ZS04MDJiLTQ0MWEtYTFmNC1kOTMwMDQxODExZTgaHjExMzIwMjUxOV8xMTMyMDI1MTlfMTc3Njc2ODI0NyCcuJ3PBjIZNzM4NDZfMTEzMjAyNTE5XzExMzIwMjUxOUILMzguMjUuMzIuOTFKG2xpdmUtcmVhZGVyLXN2cl9HZXRMaXZlSW5mb1AEYAJ6EjU2MDkwNjY0OTYyNjA0MjEwNpABBA%3D%3D&playScene=innerSite&pvid=560906649626042106&_f_=1776770079667
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Trovo",Trovo
-https://liveplay.trovo.live/live/73846_113577003_113577003.flv?bizid=73846&txSecret=ca8677b9e00167b8a0ee0755384cceb3&txTime=69f094fb&_bmlj_t=ChxjaUxCWDFwYlJvdUlicXczcmQ2MFNvNk5UcHM9EiQ0MmYzNWI5Zi0wYTEyLTRhNWQtYTQ5NS01ZjA3NmIzNDVmY2QaHjExMzU3NzAwM18xMTM1NzcwMDNfMTc3Njc2OTY1OSDMuJ3PBjIZNzM4NDZfMTEzNTc3MDAzXzExMzU3NzAwM0INMTc5LjYuMTcxLjE3OEobbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoSNTYwOTA2NjQ5NjI2MDQyMTA2kAEE&playScene=innerSite&pvid=560906649626042106&_f_=1776770128838
-
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Rumble",Rumble
-https://1a-1791.com/live/1n1ugl24/slot-49/7ttm-lexc_1080p/chunklist.m3u8
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Rumble",Rumble
-https://1a-1791.com/live/nd3n15l5/slot-46/9erd-mia5/chunklist.m3u8
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Rumble",Rumble
-https://1a-1791.com/live/3fms19g4/slot-15/cly1-k42c/chunklist.m3u8
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Rumble",Rumble
-https://1a-1791.com/live/41ac4fe/slot-12/1n90-3cob_1080p/chunklist_DVR.m3u8
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Rumble",Rumble
-https://1a-1791.com/live/4gf18j5s/slot-75/vsog-0emx_1080p/chunklist_DVR.m3u8
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Rumble",Rumble
-https://1a-1791.com/live/gke17oc4/slot-26/go6t-49mc/chunklist.m3u8
-
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Nimo",Nimo Tv
-https://al.flv.nimo.tv/live/su2439522832838r950fd82b91b14a2971283e9e880ab8ff.flv?ver=1&wsSecret=5d9d3e50f01c5b8ebba4b3d06e272935&wsTime=69e838bc&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=nimo_web&appid=81&tp=1776740156456&needwm=0&seqid=3478278772027&ratio=500&dMod=mseh-0&sdkPcdn=1_1&u=1704112880169&t=100&sv=2601201119&sdk_sid=1776770943532&a_block=0
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Nimo",Nimo Tv
-https://al.flv.nimo.tv/live/su2439522793175rffced3aa80b46df2fc9749c2eca8d126.flv?ver=1&wsSecret=e88a67ba1d071c01d5df103f78699c7f&wsTime=69e75fca&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=nimo_media_web&appid=81&tp=1776771018196&needwm=0&seqid=3478278887552&ratio=500&dMod=mseh-0&sdkPcdn=1_1&u=1704112880169&t=100&sv=2601201119&sdk_sid=1776771059073&a_block=0
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Nimo",Nimo Tv
-https://tx.flv.nimo.tv/live/su1939514993279r002a5769f13a9ee4dbe0ce032f6542ff.flv?ver=1&wsSecret=fe6364ffee16cda6e1d2ae4d6f51d119&wsTime=69e76009&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=nimo_media_web&appid=81&tp=1776771081751&needwm=0&seqid=3478278912256&dMod=mseh-0&sdkPcdn=1_1&u=1704112880169&t=100&sv=2601201119&sdk_sid=1776771083768&a_block=0
-
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Chat",Urbate
-https://edge14-mia.live.mmcdn.com/v1/edge/streams/origin.milabunny_.01KPQWBSWAP3DCGR1NFEN76THY/chunklist_4_video_7393225809709791967_llhls.m3u8?session=c32a6d00-d27b-455a-a4ad-02c7e9598022&_HLS_msn=1563&_HLS_part=1
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Chat",Urbate
-https://edge10-mia.live.mmcdn.com/v1/edge/streams/origin.nanalindner.01KPQFJKT06TJRGJMSP9ZDRVKP/chunklist_3_video_12898731571345607815_llhls.m3u8?session=00885d88-c47c-49b4-9cbc-d01157d1ea3b&_HLS_msn=9928&_HLS_part=0
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Chat",Urbate
-https://edge1-mia.live.mmcdn.com/v1/edge/streams/origin.dihoney.01KPQJVKJAC30QS94NQ95R2VH7/chunklist_2_video_15050715989861908163_llhls.m3u8?session=c5097dc4-eb8c-47aa-86dc-b29ab75509f3&_HLS_msn=7816&_HLS_part=1
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Chat",Urbate
-https://edge18-mia.live.mmcdn.com/v1/edge/streams/origin.misaki_love.01KPQTNP666TVQDHG3WYWZCPAR/chunklist_5_audio_2849839098383832735_llhls.m3u8?session=4f82f91d-4b0d-45d9-9ac4-7c0825a389d4&_HLS_msn=2708&_HLS_part=0
-
 #EXTINF================================================================================================================================================================================================================================================================
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/10/29/01/1761677258572/3ab70b8b3ff1_640_360.jpg" group-title="Películas",John Wick
-https://vod-evg1.tv360.bitel.com.pe/OkwT7Ucuqnign1vpb4tKRg/1776699300/peru-video/2023/04/28/03/afff0ce0/afff0ce0-22ac-4b66-9a12-6a773ab8d0b5_5_.m3u8
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/19/22/bb492c24/bb492c24-9498-4e80-87e5-18ee6ad64e3b_640_360.jpg" group-title="Películas",John Wick 2: Un nuevo dia para matar
-https://vod-evg1.tv360.bitel.com.pe/Rn_5X3cX14eD6-tb6XOb9g/1776700380/peru-video/2025/11/27/22/1b7581f2/d1dee8/h264/video/avc1/4/media.m3u8
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/19/22/bccb6115/bccb6115-52b7-40de-8db5-4907e681c240_640_360.jpg" group-title="Películas",John Wick 3: Parabellum
-https://vod-evg1.tv360.bitel.com.pe/NQzGOTomUQ1v1MDINCMsgw/1776700380/peru-video/2025/11/27/23/d51905e3/bbfeab/h264/video/avc1/4/media.m3u8
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/12/17/02/1765914252336/21f7ea762481_640_360.jpg" group-title="Películas",John Wick 4
-https://vod-evg1.tv360.bitel.com.pe/vzGq7pdhRhLkjYsWW4GiOg/1776701460/peru-video/2025/11/27/23/5979972d/c8176d/h264/video/avc1/4/media.m3u8
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/10/29/01/1761677258572/3ab70b8b3ff1_640_360.jpg" group-title="Películas",John Wick
-https://vod-evg1.tv360.bitel.com.pe/o7OoMoSgZ0Bbze66UYFGgQ/1776771000/peru-video/2023/04/28/03/afff0ce0/afff0ce0-22ac-4b66-9a12-6a773ab8d0b5_5_.m3u8
-
-#EXTINF================================================================================================================================================================================================================================================================
-
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="DLive",DLive
-https://livestreams.prdv3.dlivecdn.com/chilledcat/1776447197/src/live.m3u8?Expires=1776770763&Signature=HsK8SMfiY1zRbEjRtaPy26T9-madY3gaMY20ggC-j5EBwG5sh5mMaz0OGWXtUjAL7zJo8ovicJIG0QW8YbJU2xv~dV9bJWTGSVjb4~aa-gIiJs2FGUQhEpu-0XDuXdwF7s5sx37QvuJxMSO30AhLCa~j8u0qxvQsQvU03lmlt5wRLX~jtPgtm3edeDNqGo4PX8lTB-pNW~5m-0rZXbQFGSQE4TsNxPL1GKWVgCaUYz4BNFrOttPlu8ibpP0YnX1TV5NOVZBd55r6FkgNO-StTh1XA~EtNe8p4YRbMtTdtk-cSI9~Pz5NEvqXiW~RRFYe3MEqs-xBpbwAHWEk9BXpDw__&Key-Pair-Id=K2WZHW3KN5FGBZ
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="DLive",DLive
-https://livestreams.prdv3.dlivecdn.com/farkenredickuless/1776767419/src/live.m3u8?Expires=1776770836&Signature=jYg~8CNmuMzMLA0yhsWNA4xuLo2Ig96nT4fRK1xwXpbMs3~8L4qZb5njtgfs702X3T9j47hI3SPYs1ythuYiNsCNgJ4BmNY8HpfdUbGgm8oJ0UmixHIYFLER8112O4NtzReD25SFQGjgyDsH2Ui1ZsVLDpufkKrPXS5CxD6ZJKqVNlQ9OkOdl523~KEKi~GfVYU4h8wcz2B32C6mYoX3LjtBZIQ2SY2qm7sO3DqNe5qnAcpyzahpyp-Zv1wY7SCmUG78tsk6o-5DJPulKRraRBstBLZLihN1rr0KqB9wfyZ1TCMhkhDnO5HxQ5K-IXdnnbcPryp83bIYH7e3uiSSsQ__&Key-Pair-Id=K2WZHW3KN5FGBZ
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="DLive",DLive
-https://livestreams.prdv3.dlivecdn.com/hottestbeats/1776729889/src/live.m3u8?Expires=1776770859&Signature=Qkg-yzROOOkbmjieQJGa6ZD3CvFQg~dqNsnPy91kxFWX-whc-eNCdnva5kcYMOQBDAPGr9oeak7LNIqsebdof00DQOYLRj4N-1gLhR7sB8y8uGbf1a05w6zQc84h7m3o8s~UlP1tjC8j0lJqvWcAzhdW7Mjy-3~L1XMFXfVw-RBimH78gbsCdbjPVJBfo8a2r~zdC6mtA~ecVALjVcnfx2ZC7Ng4GMQXh60zMwZlPXWjLrWU6oGAFFne1~R~R0x~6cz67UHuHffkS4XOr7wHrOYFbLCEscZNfDKlWM1NsWA~-u~~Qov3tC6SmRuChcp70u8S01ashUkbtu1HSFzpOg__&Key-Pair-Id=K2WZHW3KN5FGBZ
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="DLive",DLive
-https://livestreams.prdv3.dlivecdn.com/pillezky/1776747139/src/live.m3u8?Expires=1776770899&Signature=dhqQFyLwxATrGY464y6H2Al6K3cWcGvQnHgcRFE-mAX4Jk8eoFDaPZINq2BKYkvh~oraVP8tIT1LIw7V02drZHWg3iRHII5Entx30bqxkgvK0G45BtnEMCN0knpxU5owdle18d9bNLbFBmH2h0K7DdgN68kS9Dy0sgt8X1IC~KJs0lDOQAZKvt5VDRSkbn7vXbEd4PW6khGiF1WFuwjYpH7NjBYEZPp-jKgMlbkiFBSc6O0W~3rJuglgqHhjaTBzTAxyohwPSNJ7DfzNoawRIJ7yQKFdvVo1~gbshOjbgOccjzxkFnNJ0PKoBjh0L7pecYz349~nrm9LLzVc2dJ4fw__&Key-Pair-Id=K2WZHW3KN5FGBZ
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="DLive",DLive
-https://livestreams.prdv3.dlivecdn.com/radiotouchchile/1776734472/src/live.m3u8?Expires=1776770970&Signature=Kn13c3DM0GVhLRsCAcMBTcU7GiESppp6aPNiJk7~MOYZsZv9I-GASABk2d~uJVhfLdji26IGSP4uGdyKuMhCL5dy6~aTFwnBRmNylgNI6hs0-YT-kdc6aP-Aj2TqarjH~flv506hOmV1q~JV5vUYtZcZXoBoxC7fykYxokM5sGL-W8bVO7y77fntw2nLF8TO4DeRCRasfl-d-Op46sCxvQjAnfGCMMsPMoriXm41eLU8eoOJt9b2EZSOsNHp4RknA4OKx0Bl3q8eszOogE865ktDrdeMDmRs5QwC-UO2gDm2GUXxcAP4ghLhtZ2HN3JjGcVtZZEioOhhabcJyX5utA__&Key-Pair-Id=K2WZHW3KN5FGBZ
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="DLive",DLive
-https://livestreams.prdv3.dlivecdn.com/derrickcbyron/1776711443/src/live.m3u8?Expires=1776771001&Signature=kK2rGEtNfq1ItcRMSrwSB3lN5NHjg8Da8OMmzHnqxYa9xlLt~~gj-HYnrdGDAxmMgYfRo2j~xI1PGXNgDuVqY5~rGyZk526txNQqHdbHmmXj9O5A~95EoKDcJqZkUpwN5fkBTIogWyP~vpkVBsCt6BfHzQMC~BInwIqkpzARZrDX2ss2hGFkrC-cFBG8LmdoOS~qk08Pwl6g3KQ18MEqo029UE7f5ZwJk8xAvcmVdyb3zyUD7Sp760Zxc-YnokXtYFm41Nie1ruS4jM2T8dQyKXLVClAaWx-IGx~igF6F3m0XZhYtvrbNnUV5HbXZbT0MZqIdJGlwywGQEXQg5Emxg__&Key-Pair-Id=K2WZHW3KN5FGBZ
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="DLive",DLive
-https://livestreams.prdv3.dlivecdn.com/hotbeatsfm/1776236646/src/live.m3u8?Expires=1776771039&Signature=MSD9PslbuD7fkOpRuqvA5gbUWodl8mIgWk2M62fp0xene3IpZKZRl547p4LngBp8GUGvOf4dpi6pJuKsbfhJ5CLQt20UVqxPNtYl~YfShSkdcmNvzlEGHeJT52GKmJdt3lz7RBB-t-LvvjQ2QoZFeyZ~kQVnzuQvDcYJ68KiMkRFScDWsrAvBqiNLNWP8KLezNuL-bIDbqI~a266Q4zZ9bu0UwL0WZ9NAJO7PdzgA397I4zCR43vX8~dED2xSPlUNOrHC7yU7EZlTPeWVORQrinzBp0My-ccJb3tw9AEjsAD8rPsMxLlsXX9203QBB0UBZqQ3T2LWCrzowvo4xXbeQ__&Key-Pair-Id=K2WZHW3KN5FGBZ
 
 #EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Bigo",Bigo Live
 https://d8485bc7.cubetecn.com:1451/list_3451909710_2370243542_0.m3u8
@@ -812,6 +799,19 @@ https://bc500180.cubetecn.com:1466/list_3453390663_2789861601_0.m3u8
 https://bc500180.cubetecn.com:1466/list_3453398710_2833340655_0.m3u8
 #EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Bigo",Bigo Live
 https://d8485bc7.cubetecn.com:1451/list_3453398208_2764101353_0.m3u8
+
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Hamster",xHamster Live
+https://media-hls.doppiocdn.org/b-hls-04/249714546/249714546_720p.m3u8?playlistType=lowLatency&psch=v2&pkey=Ook7quaiNgiyuhai&_HLS_msn=344&_HLS_part=2
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Hamster",xHamster Live
+https://media-hls.doppiocdn.org/b-hls-08/250385993/250385993_480p.m3u8?playlistType=lowLatency&psch=v2&pkey=Ook7quaiNgiyuhai&_HLS_msn=504&_HLS_part=3
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Hamster",xHamster Live
+https://media-hls.doppiocdn.org/b-hls-32/252557886/252557886_960p60.m3u8?playlistType=lowLatency&psch=v2&pkey=Ook7quaiNgiyuhai&_HLS_msn=404&_HLS_part=1
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Hamster",xHamster Live
+https://media-hls.doppiocdn.org/b-hls-26/252500783/252500783_480p.m3u8?playlistType=lowLatency&psch=v2&pkey=Ook7quaiNgiyuhai&_HLS_msn=586&_HLS_part=1
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Hamster",xHamster Live
+https://media-hls.doppiocdn.org/b-hls-26/238171812/238171812_480p.m3u8?playlistType=lowLatency&psch=v2&pkey=Ook7quaiNgiyuhai&_HLS_msn=481&_HLS_part=0
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Hamster",xHamster Live
+https://media-hls.doppiocdn.org/b-hls-26/238171812/238171812_480p.m3u8?playlistType=lowLatency&psch=v2&pkey=Ook7quaiNgiyuhai&_HLS_msn=481&_HLS_part=0
 
 #EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="X",XV Live Cams
 https://edge14-mia.live.mmcdn.com/v1/edge/streams/origin.katxxgolding.01KPQV7W97MWNZJKYKHD7D57GB/chunklist_4_video_7332525691409587220_llhls.m3u8?session=d6e2e873-d422-4577-876b-67cf832c79a9&_HLS_msn=1580&_HLS_part=1
@@ -828,18 +828,20 @@ https://edge14-mia.live.mmcdn.com/v1/edge/streams/origin._blackbee_.01KPQS3P3301
 #EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="X",XV Live Cams
 https://edge4-mia.live.mmcdn.com/v1/edge/streams/origin.sassyt33n.01KPQFWRZDCA3YNH2ZR8XPQC4Z/chunklist_6_audio_7673459894614613624_llhls.m3u8?session=842f2d08-fff8-46eb-9260-dfff6391fd3f&_HLS_msn=9208&_HLS_part=0
 
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Hamster",xHamster Live
-https://media-hls.doppiocdn.org/b-hls-04/249714546/249714546_720p.m3u8?playlistType=lowLatency&psch=v2&pkey=Ook7quaiNgiyuhai&_HLS_msn=344&_HLS_part=2
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Hamster",xHamster Live
-https://media-hls.doppiocdn.org/b-hls-08/250385993/250385993_480p.m3u8?playlistType=lowLatency&psch=v2&pkey=Ook7quaiNgiyuhai&_HLS_msn=504&_HLS_part=3
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Hamster",xHamster Live
-https://media-hls.doppiocdn.org/b-hls-32/252557886/252557886_960p60.m3u8?playlistType=lowLatency&psch=v2&pkey=Ook7quaiNgiyuhai&_HLS_msn=404&_HLS_part=1
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Hamster",xHamster Live
-https://media-hls.doppiocdn.org/b-hls-26/252500783/252500783_480p.m3u8?playlistType=lowLatency&psch=v2&pkey=Ook7quaiNgiyuhai&_HLS_msn=586&_HLS_part=1
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Hamster",xHamster Live
-https://media-hls.doppiocdn.org/b-hls-26/238171812/238171812_480p.m3u8?playlistType=lowLatency&psch=v2&pkey=Ook7quaiNgiyuhai&_HLS_msn=481&_HLS_part=0
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Hamster",xHamster Live
-https://media-hls.doppiocdn.org/b-hls-26/238171812/238171812_480p.m3u8?playlistType=lowLatency&psch=v2&pkey=Ook7quaiNgiyuhai&_HLS_msn=481&_HLS_part=0
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="DLive",DLive
+https://livestreams.prdv3.dlivecdn.com/chilledcat/1776447197/src/live.m3u8?Expires=1776770763&Signature=HsK8SMfiY1zRbEjRtaPy26T9-madY3gaMY20ggC-j5EBwG5sh5mMaz0OGWXtUjAL7zJo8ovicJIG0QW8YbJU2xv~dV9bJWTGSVjb4~aa-gIiJs2FGUQhEpu-0XDuXdwF7s5sx37QvuJxMSO30AhLCa~j8u0qxvQsQvU03lmlt5wRLX~jtPgtm3edeDNqGo4PX8lTB-pNW~5m-0rZXbQFGSQE4TsNxPL1GKWVgCaUYz4BNFrOttPlu8ibpP0YnX1TV5NOVZBd55r6FkgNO-StTh1XA~EtNe8p4YRbMtTdtk-cSI9~Pz5NEvqXiW~RRFYe3MEqs-xBpbwAHWEk9BXpDw__&Key-Pair-Id=K2WZHW3KN5FGBZ
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="DLive",DLive
+https://livestreams.prdv3.dlivecdn.com/farkenredickuless/1776767419/src/live.m3u8?Expires=1776770836&Signature=jYg~8CNmuMzMLA0yhsWNA4xuLo2Ig96nT4fRK1xwXpbMs3~8L4qZb5njtgfs702X3T9j47hI3SPYs1ythuYiNsCNgJ4BmNY8HpfdUbGgm8oJ0UmixHIYFLER8112O4NtzReD25SFQGjgyDsH2Ui1ZsVLDpufkKrPXS5CxD6ZJKqVNlQ9OkOdl523~KEKi~GfVYU4h8wcz2B32C6mYoX3LjtBZIQ2SY2qm7sO3DqNe5qnAcpyzahpyp-Zv1wY7SCmUG78tsk6o-5DJPulKRraRBstBLZLihN1rr0KqB9wfyZ1TCMhkhDnO5HxQ5K-IXdnnbcPryp83bIYH7e3uiSSsQ__&Key-Pair-Id=K2WZHW3KN5FGBZ
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="DLive",DLive
+https://livestreams.prdv3.dlivecdn.com/hottestbeats/1776729889/src/live.m3u8?Expires=1776770859&Signature=Qkg-yzROOOkbmjieQJGa6ZD3CvFQg~dqNsnPy91kxFWX-whc-eNCdnva5kcYMOQBDAPGr9oeak7LNIqsebdof00DQOYLRj4N-1gLhR7sB8y8uGbf1a05w6zQc84h7m3o8s~UlP1tjC8j0lJqvWcAzhdW7Mjy-3~L1XMFXfVw-RBimH78gbsCdbjPVJBfo8a2r~zdC6mtA~ecVALjVcnfx2ZC7Ng4GMQXh60zMwZlPXWjLrWU6oGAFFne1~R~R0x~6cz67UHuHffkS4XOr7wHrOYFbLCEscZNfDKlWM1NsWA~-u~~Qov3tC6SmRuChcp70u8S01ashUkbtu1HSFzpOg__&Key-Pair-Id=K2WZHW3KN5FGBZ
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="DLive",DLive
+https://livestreams.prdv3.dlivecdn.com/pillezky/1776747139/src/live.m3u8?Expires=1776770899&Signature=dhqQFyLwxATrGY464y6H2Al6K3cWcGvQnHgcRFE-mAX4Jk8eoFDaPZINq2BKYkvh~oraVP8tIT1LIw7V02drZHWg3iRHII5Entx30bqxkgvK0G45BtnEMCN0knpxU5owdle18d9bNLbFBmH2h0K7DdgN68kS9Dy0sgt8X1IC~KJs0lDOQAZKvt5VDRSkbn7vXbEd4PW6khGiF1WFuwjYpH7NjBYEZPp-jKgMlbkiFBSc6O0W~3rJuglgqHhjaTBzTAxyohwPSNJ7DfzNoawRIJ7yQKFdvVo1~gbshOjbgOccjzxkFnNJ0PKoBjh0L7pecYz349~nrm9LLzVc2dJ4fw__&Key-Pair-Id=K2WZHW3KN5FGBZ
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="DLive",DLive
+https://livestreams.prdv3.dlivecdn.com/radiotouchchile/1776734472/src/live.m3u8?Expires=1776770970&Signature=Kn13c3DM0GVhLRsCAcMBTcU7GiESppp6aPNiJk7~MOYZsZv9I-GASABk2d~uJVhfLdji26IGSP4uGdyKuMhCL5dy6~aTFwnBRmNylgNI6hs0-YT-kdc6aP-Aj2TqarjH~flv506hOmV1q~JV5vUYtZcZXoBoxC7fykYxokM5sGL-W8bVO7y77fntw2nLF8TO4DeRCRasfl-d-Op46sCxvQjAnfGCMMsPMoriXm41eLU8eoOJt9b2EZSOsNHp4RknA4OKx0Bl3q8eszOogE865ktDrdeMDmRs5QwC-UO2gDm2GUXxcAP4ghLhtZ2HN3JjGcVtZZEioOhhabcJyX5utA__&Key-Pair-Id=K2WZHW3KN5FGBZ
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="DLive",DLive
+https://livestreams.prdv3.dlivecdn.com/derrickcbyron/1776711443/src/live.m3u8?Expires=1776771001&Signature=kK2rGEtNfq1ItcRMSrwSB3lN5NHjg8Da8OMmzHnqxYa9xlLt~~gj-HYnrdGDAxmMgYfRo2j~xI1PGXNgDuVqY5~rGyZk526txNQqHdbHmmXj9O5A~95EoKDcJqZkUpwN5fkBTIogWyP~vpkVBsCt6BfHzQMC~BInwIqkpzARZrDX2ss2hGFkrC-cFBG8LmdoOS~qk08Pwl6g3KQ18MEqo029UE7f5ZwJk8xAvcmVdyb3zyUD7Sp760Zxc-YnokXtYFm41Nie1ruS4jM2T8dQyKXLVClAaWx-IGx~igF6F3m0XZhYtvrbNnUV5HbXZbT0MZqIdJGlwywGQEXQg5Emxg__&Key-Pair-Id=K2WZHW3KN5FGBZ
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="DLive",DLive
+https://livestreams.prdv3.dlivecdn.com/hotbeatsfm/1776236646/src/live.m3u8?Expires=1776771039&Signature=MSD9PslbuD7fkOpRuqvA5gbUWodl8mIgWk2M62fp0xene3IpZKZRl547p4LngBp8GUGvOf4dpi6pJuKsbfhJ5CLQt20UVqxPNtYl~YfShSkdcmNvzlEGHeJT52GKmJdt3lz7RBB-t-LvvjQ2QoZFeyZ~kQVnzuQvDcYJ68KiMkRFScDWsrAvBqiNLNWP8KLezNuL-bIDbqI~a266Q4zZ9bu0UwL0WZ9NAJO7PdzgA397I4zCR43vX8~dED2xSPlUNOrHC7yU7EZlTPeWVORQrinzBp0My-ccJb3tw9AEjsAD8rPsMxLlsXX9203QBB0UBZqQ3T2LWCrzowvo4xXbeQ__&Key-Pair-Id=K2WZHW3KN5FGBZ
 
 #EXTINF================================================================================================================================================================================================================================================================
 
