@@ -834,11 +834,11 @@ https://media-hls.doppiocdn.org/b-hls-04/249714546/249714546_720p.m3u8?playlistT
 https://media-hls.doppiocdn.org/b-hls-08/250385993/250385993_480p.m3u8?playlistType=lowLatency&psch=v2&pkey=Ook7quaiNgiyuhai&_HLS_msn=504&_HLS_part=3
 #EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Hamster",xHamster Live
 https://media-hls.doppiocdn.org/b-hls-32/252557886/252557886_960p60.m3u8?playlistType=lowLatency&psch=v2&pkey=Ook7quaiNgiyuhai&_HLS_msn=404&_HLS_part=1
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Hamster",xxHamster Live
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Hamster",xHamster Live
 https://media-hls.doppiocdn.org/b-hls-26/252500783/252500783_480p.m3u8?playlistType=lowLatency&psch=v2&pkey=Ook7quaiNgiyuhai&_HLS_msn=586&_HLS_part=1
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Hamster",Hamster Live
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Hamster",xHamster Live
 https://media-hls.doppiocdn.org/b-hls-26/238171812/238171812_480p.m3u8?playlistType=lowLatency&psch=v2&pkey=Ook7quaiNgiyuhai&_HLS_msn=481&_HLS_part=0
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Hamster",Hamster Live
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Hamster",xHamster Live
 https://media-hls.doppiocdn.org/b-hls-26/238171812/238171812_480p.m3u8?playlistType=lowLatency&psch=v2&pkey=Ook7quaiNgiyuhai&_HLS_msn=481&_HLS_part=0
 
 #EXTINF================================================================================================================================================================================================================================================================
