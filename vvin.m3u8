@@ -68,11 +68,11 @@ https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Liga_1_max/40-hls/live-medi
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1.png&width=50&height=50" group-title="⚽ LPFB 🇵🇪",L1 🔱 1280x720
-https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Liga_1/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_stream_6n&_cdn_session=3996534709&_cdn_token=80bd064754a734bc609595daa288e95fc8ff2ef5
-
 #EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1.png&width=50&height=50" group-title="⚽ LPFB 🇵🇪",L1 🔱 1024x576
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Liga_1/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_stream_6n&_cdn_session=3996520149&_cdn_token=9175aadcb9e42fba809a93a23e10540cf6d9aed1
+
+#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1.png&width=50&height=50" group-title="⚽ LPFB 🇵🇪",L1 🔱 1280x720
+https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Liga_1/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_stream_6n&_cdn_session=3996534709&_cdn_token=80bd064754a734bc609595daa288e95fc8ff2ef5
 
 #EXTINF================================================================================================================================================================================================================================================================
 
