@@ -34,10 +34,14 @@ https://mitv.zplay.cl/Ztv/index.m3u8
 #EXTINF: tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FAMERICATV.png&width=50&height=50" group-title="América 🇵🇪 ",América 💸 1280x720
 #EXTINF: tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FAMERICATV.png&width=50&height=50" group-title="América 🇵🇪 ",América 💸 1024x576
 
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/22/1763740239544/3a9d081c99be_480_270.png" group-title="América 🇵🇪 ",América 🇻🇳 360x
+https://live-evg20.tv360.bitel.com.pe/8xF0SS4j2aHXNmF1ZLwL7w/1777184280/bitel/America-udp/bitel/America-udp_360p/chunks.m3u8
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/22/1763740239544/3a9d081c99be_480_270.png" group-title="América 🇵🇪 ",América 🇻🇳 480x270
+https://live-evg20.tv360.bitel.com.pe/5VEsGnyvtRUDpKrqv0EV8g/1777184280/bitel/America-udp/bitel/America-udp_480p/chunks.m3u8
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/22/1763740239544/3a9d081c99be_480_270.png" group-title="América 🇵🇪 ",América 🇻🇳 1920x1080
-https://live-evg20.tv360.bitel.com.pe/a4nAZLtx6DdEDHf8YDf4bQ/1777064052/bitel/America-udp/bitel/America-udp_1080p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/A3Ib0PeNfub2Krnz3JfxnA/1777184280/bitel/America-udp/bitel/America-udp_720p/chunks.m3u8
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/22/1763740239544/3a9d081c99be_480_270.png" group-title="América 🇵🇪 ",América 🇻🇳 1280x720
-https://live-evg20.tv360.bitel.com.pe/sCuylUXZXNAIIQ0Y36u-2A/1777064052/bitel/America-udp/bitel/America-udp_720p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/P-SIFePwlLMXJJ_PjvU6lQ/1777184280/bitel/America-udp/bitel/America-udp_1080p/chunks.m3u8
 
 #EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FAmericaTV_WIN.png&width=50&height=50" group-title="América 🇵🇪 ",América 🔱 1280x720
 #EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FAmericaTV_WIN.png&width=50&height=50" group-title="América 🇵🇪 ",América 🔱 1024x576
