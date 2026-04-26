@@ -13,18 +13,12 @@ https://vmvpd.short.gy/AnimeVision
 #EXTINF:  TeleKanal="Anime Visión Clásicos"    Iskhodnyy="CF"  tvg-logo="https://tvg-logo.short.gy/AnimeVisionClasicos" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Anime Visión Clásicos
 https://vmvpd.short.gy/AnimeVisionClasicos
 
-#EXTINF:  TeleKanal="Zona Anime Tv"     Iskhodnyy="AZT"  tvg-logo="v" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Zona Anime Tv
-http://animezonetv.net/hls/stream.m3u8
-http://locomotiontv.com/envivo/xtv/m3u
-
 #EXTINF:  TeleKanal="Anime Onegai 1"    Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai1" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 1
 https://vmvpd.short.gy/Onegai1
 #EXTINF:  TeleKanal="Anime Onegai 2"    Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai2" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 2
 https://vmvpd.short.gy/Onegai2
 #EXTINF:  TeleKanal="Anime Onegai 3"     Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai3" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 3
 https://vmvpd.short.gy/Onegai3
-#EXTINF:  TeleKanal="Onegai 4 Deportes"     Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai4Deportes" group-title="Anime 🇯🇵 🇵🇪" group-title="🥊 Deportes",Onegai Deportes 🥊
-https://vmvpd.short.gy/Onegai4Deportes
 #EXTINF:  TeleKanal="Anime Onegai 5"     Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai5" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 5
 https://vmvpd.short.gy/Onegai5
 
@@ -32,11 +26,6 @@ https://vmvpd.short.gy/Onegai5
 https://vmvpd.short.gy/Wasabi
 #EXTINF:  TeleKanal="ZTv Anime"     Iskhodnyy="ZP"  tvg-logo="https://tvg-logo.short.gy/ZTv" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",ZTV
 https://vmvpd.short.gy/ZTv
-
-#EXTINF================================================================================================================================================================================================================================================================
-
-#EXTINF:  TeleKanal="L1 Max"     Iskhodnyy="WT" tvg-logo="https://tvg-logo.short.gy/WT/L1Max" group-title="🥊 Deportes",L1 Max 🔱
-https://vmvpd.short.gy/WT/L1Max
 
 #EXTINF================================================================================================================================================================================================================================================================
 
@@ -149,6 +138,15 @@ https://live-evg20.tv360.bitel.com.pe/JXd7MkcL8Hcs-CTpTPy1_g/1777278969/bitel/TV
 
 #EXTINF: tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="Tv Perú 🇵🇪 ",Tv Perú ❓❔ 1920x1080p
 http://38.183.182.166:8000/play/a12u/index.m3u8
+
+#EXTINF================================================================================================================================================================================================================================================================
+
+#EXTINF:  TeleKanal="Onegai 4 Deportes"     Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai4Deportes" group-title="Anime 🇯🇵 🇵🇪" group-title="🥊 Deportes",Onegai Deportes 🥊
+https://vmvpd.short.gy/Onegai4Deportes
+
+
+#EXTINF:  TeleKanal="L1 Max"     Iskhodnyy="WT" tvg-logo="https://tvg-logo.short.gy/WT/L1Max" group-title="🥊 Deportes",L1 Max 🔱
+https://vmvpd.short.gy/WT/L1Max
 
 #EXTINF================================================================================================================================================================================================================================================================
 
