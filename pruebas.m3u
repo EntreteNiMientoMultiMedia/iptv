@@ -29,7 +29,16 @@ https://vmvpd.short.gy/ZTv
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-
+#EXTINF:  TeleKanal="América"     Iskhodnyy="T3B2"  tvg-logo="" group-title=" 🇵🇪 Principales",América TeleVisión
+https://live-evg20.tv360.bitel.com.pe/gSUsNylQAWVapADsTWih7A/1777273851/bitel/America-udp/bitel/America-udp_1080p/chunks.m3u8
+#EXTINF:  TeleKanal="ATV"     Iskhodnyy="T3B2"  tvg-logo="" group-title=" 🇵🇪 Principales",ATV
+https://es3-p1-netcdn.bitel.com.pe/netcdn-live-3/bitel/Atv-UDP_abr/bitel/Atv-udp_720p/chunks.m3u8?timestamp=1777214085&wmkid=0&uid=12051151&token=85e47aa50934dfed0807cac4816d409d
+#EXTINF:  TeleKanal="Latina"     Iskhodnyy="T3B2"  tvg-logo="" group-title=" 🇵🇪 Principales",Latina TeleVisión
+https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.m3u8?uid=12051151
+#EXTINF:  TeleKanal="Panamericana"     Iskhodnyy="T3B2"  tvg-logo="" group-title=" 🇵🇪 Principales",Panamericana TeleVisión
+https://live-evg20.tv360.bitel.com.pe/yQi01drSK3t2Eu2ppij1fQ/1777278933/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8
+#EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="T3B2"  tvg-logo="" group-title=" 🇵🇪 Principales",Tv Perú
+https://live-evg20.tv360.bitel.com.pe/ed49CwRVup5WzPSegoLOJg/1777278969/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
