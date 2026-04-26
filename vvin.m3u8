@@ -31,7 +31,7 @@ https://mitv.zplay.cl/Ztv/index.m3u8
 
 
 #EXTINF================================================================================================================================================================================================================================================================
-# --- América Tv ---
+# América Tv
 
 #EXTINF: Iskhodnyy="EC" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FAMERICATV.png&width=50&height=50" group-title="América 🇵🇪 ",América 💸 1280x720
 #EXTINF: Iskhodnyy="EC" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FAMERICATV.png&width=50&height=50" group-title="América 🇵🇪 ",América 💸 1024x576
@@ -49,7 +49,7 @@ https://live-evg20.tv360.bitel.com.pe/gSUsNylQAWVapADsTWih7A/1777273851/bitel/Am
 #EXTINF: Iskhodnyy="WT" tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FAmericaTV_WIN.png&width=50&height=50" group-title="América 🇵🇪 ",América 🔱 1024x576
 
 #EXTINF================================================================================================================================================================================================================================================================
-# --- Liga 1 Max ---
+# Liga 1 Max.
 
 #EXTINF: Iskhodnyy="WT" tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1_MAX.png&width=50&height=50" group-title="⚽ FPF 🇵🇪",L1 Max 🔱 640x360
 https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/Liga_1_max/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_max_stream_vh&_cdn_session=3996734821&_cdn_token=04b19410e9cf086ee73c4bd5a2510a3cfd8de258
