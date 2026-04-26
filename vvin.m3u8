@@ -5,13 +5,17 @@
 #EXTINF:  TeleKanal="Onegai Deportes 4"    Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/VVin" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Ver Tv
 https://vmvpd.short.gy/O4D
 
-#EXTINF:  TeleKanal="Anima Kids"    Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/Tv360/AnimaKids" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Anima Kids
-https://vmvpd.short.gy/Tv360/AnimaKids
+#EXTINF:  TeleKanal="Anima Kids"    Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/AnimaKids" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Anima Kids
+https://vmvpd.short.gy/T3B2/AnimaKids
 
 #EXTINF:  TeleKanal="Anime Visión"    Iskhodnyy="CF"  tvg-logo="https://tvg-logo.short.gy/AnimeVision" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Anime Visión
 https://vmvpd.short.gy/AnimeVision
 #EXTINF:  TeleKanal="Anime Visión Clásicos"    Iskhodnyy="CF"  tvg-logo="https://tvg-logo.short.gy/AnimeVisionClasicos" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Anime Visión Clásicos
 https://vmvpd.short.gy/AnimeVisionClasicos
+
+#EXTINF:  TeleKanal="Zona Anime Tv"     Iskhodnyy="AZT"  tvg-logo="v" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Zona Anime Tv
+http://animezonetv.net/hls/stream.m3u8
+http://locomotiontv.com/envivo/xtv/m3u
 
 #EXTINF:  TeleKanal="Anime Onegai 1"    Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai1" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 1
 https://vmvpd.short.gy/Onegai1
@@ -19,7 +23,7 @@ https://vmvpd.short.gy/Onegai1
 https://vmvpd.short.gy/Onegai2
 #EXTINF:  TeleKanal="Anime Onegai 3"     Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai3" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 3
 https://vmvpd.short.gy/Onegai3
-#EXTINF:  TeleKanal="Onegai 4 Deportes"     Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai4Deportes" group-title="Anime 🇯🇵 🇵🇪" group-title="Deportes",Onegai Deportes 🥊
+#EXTINF:  TeleKanal="Onegai 4 Deportes"     Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai4Deportes" group-title="Anime 🇯🇵 🇵🇪" group-title="🥊 Deportes",Onegai Deportes 🥊
 https://vmvpd.short.gy/Onegai4Deportes
 #EXTINF:  TeleKanal="Anime Onegai 5"     Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai5" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 5
 https://vmvpd.short.gy/Onegai5
@@ -28,6 +32,11 @@ https://vmvpd.short.gy/Onegai5
 https://vmvpd.short.gy/Wasabi
 #EXTINF:  TeleKanal="ZTv Anime"     Iskhodnyy="ZP"  tvg-logo="https://tvg-logo.short.gy/ZTv" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",ZTV
 https://vmvpd.short.gy/ZTv
+
+#EXTINF================================================================================================================================================================================================================================================================
+
+#EXTINF:  TeleKanal="L1 Max"     Iskhodnyy="WT" tvg-logo="https://tvg-logo.short.gy/WT/L1Max" group-title="🥊 Deportes",L1 Max 🔱 1024x576
+https://vmvpd.short.gy/WT/L1Max
 
 #EXTINF================================================================================================================================================================================================================================================================
 
