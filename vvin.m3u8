@@ -29,40 +29,39 @@ https://vmvpd.short.gy/ZTv
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF:  TeleKanal="América"     Iskhodnyy="EC"  tvg-logo="" group-title=" 🇵🇪 Principales",América TeleVisión 💸 
-#EXTINF:  TeleKanal="América"     Iskhodnyy="T3B2"  tvg-logo="" group-title=" 🇵🇪 Principales",América TeleVisión 🇻🇳 
+#EXTINF:  TeleKanal="América"     Iskhodnyy="EC"  tvg-logo="" group-title=" 🇵🇪 Principales",💸 América TeleVisión
+#EXTINF:  TeleKanal="América"     Iskhodnyy="T3B2"  tvg-logo="" group-title=" 🇵🇪 Principales",🇻🇳 América TeleVisión
 https://live-evg20.tv360.bitel.com.pe/gSUsNylQAWVapADsTWih7A/1777273851/bitel/America-udp/bitel/America-udp_1080p/chunks.m3u8
-#EXTINF:  TeleKanal="América"     Iskhodnyy="WT"  tvg-logo="" group-title=" 🇵🇪 Principales",América TeleVisión 🔱
+#EXTINF:  TeleKanal="América"     Iskhodnyy="WT"  tvg-logo="" group-title=" 🇵🇪 Principales",🔱 América TeleVisión
 
 
-#EXTINF:  TeleKanal="ATV"     Iskhodnyy="ATV"  tvg-logo="" group-title=" 🇵🇪 Principales",ATV ✅✔️
+#EXTINF:  TeleKanal="ATV"     Iskhodnyy="ATV"  tvg-logo="" group-title=" 🇵🇪 Principales",✅✔️ ATV
 https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/medialist_15609871089997455276_hls.m3u8
-#EXTINF:  TeleKanal="ATV"     Iskhodnyy="EC"  tvg-logo="" group-title=" 🇵🇪 Principales",ATV 💸 
-#EXTINF:  TeleKanal="ATV"     Iskhodnyy="T3B2"  tvg-logo="" group-title=" 🇵🇪 Principales",ATV 🇻🇳 
-https://es3-p1-netcdn.bitel.com.pe/netcdn-live-3/bitel/Atv-UDP_abr/bitel/Atv-udp_720p/chunks.m3u8?timestamp=1777214085&wmkid=0&uid=12051151&token=85e47aa50934dfed0807cac4816d409d
-#EXTINF:  TeleKanal="ATV"     Iskhodnyy="WT"  tvg-logo="" group-title=" 🇵🇪 Principales",ATV 🔱
+#EXTINF:  TeleKanal="ATV"     Iskhodnyy="EC"  tvg-logo="" group-title=" 🇵🇪 Principales",💸 ATV
+#EXTINF:  TeleKanal="ATV"     Iskhodnyy="T3B2"  tvg-logo="" group-title=" 🇵🇪 Principales",🇻🇳 ATV
+#EXTINF:  TeleKanal="ATV"     Iskhodnyy="WT"  tvg-logo="" group-title=" 🇵🇪 Principales",🔱 ATV
 
 
-#EXTINF:  TeleKanal="Latina"     Iskhodnyy="Latina"  tvg-logo="" group-title=" 🇵🇪 Principales",Latina TeleVisión ✅✔️
+#EXTINF:  TeleKanal="Latina"     Iskhodnyy="Latina"  tvg-logo="" group-title=" 🇵🇪 Principales",✅✔️ Latina TeleVisión
 https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b2120166164669279d778e854&sid=ba5t1l1xb289051337069279d78b4e98&ndvc=0
-#EXTINF:  TeleKanal="Latina"     Iskhodnyy="EC"  tvg-logo="" group-title=" 🇵🇪 Principales",Latina TeleVisión 💸 
-#EXTINF:  TeleKanal="Latina"     Iskhodnyy="T3B2"  tvg-logo="" group-title=" 🇵🇪 Principales",Latina TeleVisión 🇻🇳 
+#EXTINF:  TeleKanal="Latina"     Iskhodnyy="EC"  tvg-logo="" group-title=" 🇵🇪 Principales",💸 Latina TeleVisión
+#EXTINF:  TeleKanal="Latina"     Iskhodnyy="T3B2"  tvg-logo="" group-title=" 🇵🇪 Principales",🇻🇳 Latina TeleVisión
 https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.m3u8?uid=12051151
-#EXTINF:  TeleKanal="Latina"     Iskhodnyy="WT"  tvg-logo="" group-title=" 🇵🇪 Principales",Latina TeleVisión 🔱
+#EXTINF:  TeleKanal="Latina"     Iskhodnyy="WT"  tvg-logo="" group-title=" 🇵🇪 Principales",🔱 Latina TeleVisión
 
 
-#EXTINF:  TeleKanal="Panamericana"     Iskhodnyy="EC"  tvg-logo="" group-title=" 🇵🇪 Principales",Panamericana TeleVisión 💸 
-#EXTINF:  TeleKanal="Panamericana"     Iskhodnyy="T3B2"  tvg-logo="" group-title=" 🇵🇪 Principales",Panamericana TeleVisión 🇻🇳 
+#EXTINF:  TeleKanal="Panamericana"     Iskhodnyy="EC"  tvg-logo="" group-title=" 🇵🇪 Principales",💸 Panamericana TeleVisión
+#EXTINF:  TeleKanal="Panamericana"     Iskhodnyy="T3B2"  tvg-logo="" group-title=" 🇵🇪 Principales",🇻🇳 Panamericana TeleVisión
 https://live-evg20.tv360.bitel.com.pe/yQi01drSK3t2Eu2ppij1fQ/1777278933/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8
-#EXTINF:  TeleKanal="Panamericana"     Iskhodnyy="WT"  tvg-logo="" group-title=" 🇵🇪 Principales",Panamericana TeleVisión 🔱
+#EXTINF:  TeleKanal="Panamericana"     Iskhodnyy="WT"  tvg-logo="" group-title=" 🇵🇪 Principales",🔱 Panamericana TeleVisión
 
 
-#EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="TV Perú"  tvg-logo="" group-title=" 🇵🇪 Principales",Tv Perú ✅✔️
+#EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="TV Perú"  tvg-logo="" group-title=" 🇵🇪 Principales",✅✔️ Tv Perú
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
-#EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="EC"  tvg-logo="" group-title=" 🇵🇪 Principales",Tv Perú 💸 
-#EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="T3B2"  tvg-logo="" group-title=" 🇵🇪 Principales",Tv Perú 🇻🇳 
+#EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="EC"  tvg-logo="" group-title=" 🇵🇪 Principales",💸 Tv Perú
+#EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="T3B2"  tvg-logo="" group-title=" 🇵🇪 Principales",🇻🇳 Tv Perú
 https://live-evg20.tv360.bitel.com.pe/ed49CwRVup5WzPSegoLOJg/1777278969/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8
-#EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="WT"  tvg-logo="" group-title=" 🇵🇪 Principales",Tv Perú 🔱
+#EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="WT"  tvg-logo="" group-title=" 🇵🇪 Principales",🔱Tv Perú
 
 #EXTINF================================================================================================================================================================================================================================================================
 
@@ -178,11 +177,10 @@ http://38.183.182.166:8000/play/a12u/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF:  TeleKanal="Onegai 4 Deportes"     Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai4Deportes" group-title="Anime 🇯🇵 🇵🇪" group-title="🥊 Deportes",Onegai Deportes 🥊
+#EXTINF:  TeleKanal="Onegai 4 Deportes"     Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai4Deportes" group-title="Anime 🇯🇵 🇵🇪" group-title="🥊 Deportes",🥊 Onegai Deportes
 https://vmvpd.short.gy/Onegai4Deportes
 
-
-#EXTINF:  TeleKanal="L1 Max"     Iskhodnyy="WT" tvg-logo="https://tvg-logo.short.gy/WT/L1Max" group-title="🥊 Deportes",L1 Max 🔱
+#EXTINF:  TeleKanal="L1 Max"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/L1Max" group-title="🥊 Deportes",🔱 L1 Max
 https://vmvpd.short.gy/WT/L1Max
 
 #EXTINF================================================================================================================================================================================================================================================================
