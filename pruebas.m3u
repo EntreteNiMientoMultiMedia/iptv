@@ -13,6 +13,9 @@ https://vmvpd.short.gy/AnimeVision
 #EXTINF:  TeleKanal="Anime Visión Clásicos"    Iskhodnyy="CF"  tvg-logo="https://tvg-logo.short.gy/AnimeVisionClasicos" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Anime Visión Clásicos
 https://vmvpd.short.gy/AnimeVisionClasicos
 
+#EXTINF:  TeleKanal="Zona Anime Tv"     Iskhodnyy="AZT"  tvg-logo="v" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Zona Anime Tv
+http://animezonetv.net/hls/stream.m3u8
+
 #EXTINF:  TeleKanal="Anime Onegai 1"    Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai1" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 1
 https://vmvpd.short.gy/Onegai1
 #EXTINF:  TeleKanal="Anime Onegai 2"    Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai2" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 2
