@@ -2,16 +2,16 @@
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: Iskhodnyy="LG" tvg-logo="https://tvg-logo.short.gy/VVin" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Ver Tv
+#EXTINF: Iskhodnyy="LG" Telekanal="Onegai Deportes 4"  "tvg-logo="https://tvg-logo.short.gy/VVin" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",  Ver Tv
 https://vmvpd.short.gy/O4D
 
-#EXTINF: Iskhodnyy="T3B2" tvg-logo="https://tvg-logo.short.gy/Tv360/AnimaKids" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Anima Kids
+#EXTINF: Iskhodnyy="T3B2" Telekanal="Anima Kids"  tvg-logo="https://tvg-logo.short.gy/Tv360/AnimaKids" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",  Anima Kids
 https://vmvpd.short.gy/Tv360/AnimaKids
 
-#EXTINF: Iskhodnyy="CF" tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Anime Visión
-https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
-#EXTINF: Iskhodnyy="CF" tvg-logo="https://i.imgur.com/mTaiEE1.pngC" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Anime Visión Clásicos
-https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+#EXTINF: Iskhodnyy="CF" Telekanal="Anime Visión"  tvg-logo="https://tvg-logo.short.gy/AnimeVision" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",  Anime Visión
+https://vmvpd.short.gy/AnimeVision
+#EXTINF: Iskhodnyy="CF" Telekanal="Anime Visión Clásicos"  tvg-logo="https://tvg-logo.short.gy/AnimeVisionClasicos" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",  Anime Visión Clásicos
+https://vmvpd.short.gy/AnimeVisionClasicos
 
 #EXTINF: Iskhodnyy="LG" tvg-logo="https://nosomosnonos.com/wp-content/uploads/2024/11/mininya-1.jpg" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
