@@ -114,6 +114,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_480p/chunks.m
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
+# --- Panamericana Tv ---
 
 #EXTINF: Iskhodnyy="EC" tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FPANAMERICANATV.png&width=50&height=50" group-title="Panamericana 🇵🇪 ",Panamericana 💸 1280x720p
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3418036229&_cdn_token=45e0aa62cf027fc9058f39021b4a2f34ddfadce9
@@ -129,6 +130,7 @@ https://live-evg20.tv360.bitel.com.pe/GBOR35HJGwKYnwz5nfHgrw/1777278933/bitel/Pa
 http://38.183.182.166:8000/play/a0ii/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
+# --- Tv Perú ---
 
 #EXTINF: Iskhodnyy="TvP" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Tv Perú 🇵🇪 ",Tv Perú ✅✔️ 1920x1080p
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
