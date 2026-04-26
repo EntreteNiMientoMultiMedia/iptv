@@ -23,10 +23,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
 #EXTINF: Iskhodnyy="LG" tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2022/04/Anime-Onegai-por-Animeka-Lanzamiento-900x506.jpg" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
 
-#EXTINF: tvg-logo="https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/49/latest/20220418182233/Wasabi.png/481px-Wasabi.png" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Wasabi la chaîne
+#EXTINF: Iskhodnyy="RT" tvg-logo="https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/49/latest/20220418182233/Wasabi.png/481px-Wasabi.png" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Wasabi la chaîne
 https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
 
-#EXTINF: tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎", ZTV
+#EXTINF: Iskhodnyy="ZP" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎", ZTV
 https://mitv.zplay.cl/Ztv/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
