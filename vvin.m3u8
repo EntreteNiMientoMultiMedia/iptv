@@ -29,7 +29,9 @@ https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01
 #EXTINF: Iskhodnyy="ZP" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎", ZTV
 https://mitv.zplay.cl/Ztv/index.m3u8
 
+
 #EXTINF================================================================================================================================================================================================================================================================
+# --- América Tv ---
 
 #EXTINF: Iskhodnyy="EC" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FAMERICATV.png&width=50&height=50" group-title="América 🇵🇪 ",América 💸 1280x720
 #EXTINF: Iskhodnyy="EC" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FAMERICATV.png&width=50&height=50" group-title="América 🇵🇪 ",América 💸 1024x576
@@ -47,6 +49,7 @@ https://live-evg20.tv360.bitel.com.pe/gSUsNylQAWVapADsTWih7A/1777273851/bitel/Am
 #EXTINF: Iskhodnyy="WT" tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FAmericaTV_WIN.png&width=50&height=50" group-title="América 🇵🇪 ",América 🔱 1024x576
 
 #EXTINF================================================================================================================================================================================================================================================================
+# --- Liga 1 Max ---
 
 #EXTINF: Iskhodnyy="WT" tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1_MAX.png&width=50&height=50" group-title="⚽ FPF 🇵🇪",L1 Max 🔱 640x360
 https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/Liga_1_max/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_max_stream_vh&_cdn_session=3996734821&_cdn_token=04b19410e9cf086ee73c4bd5a2510a3cfd8de258
@@ -71,6 +74,7 @@ https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Liga_1_max/20-hls/live-medi
 #EXTINF: Iskhodnyy="WT" tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FL1.png&width=50&height=50" group-title="⚽ LPFB 🇵🇪",L1 🔱 1280x720
 
 #EXTINF================================================================================================================================================================================================================================================================
+# --- ATV ---
 
 #EXTINF: Iskhodnyy="ATV" tvg-logo="https://alba-pe-atv.cdn.mediatiquepress.com/wp-content/uploads/2025/01/ATVpe_Logo-1-150x58.png" group-title="ATV 🇵🇪 ",Andina ✅✔️ 1280x720p
 https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/medialist_15609871089997455276_hls.m3u8
@@ -91,6 +95,7 @@ https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/ATV_WIN/20-hls/storage-medi
 https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/ATV_WIN/20-hls/storage-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DATV_WIN_stream_o4&_cdn_session=3999025181&duration=7800&start=1765090800&_cdn_token=896f6e40d8b3c4ed8e94a55ec0533cbdec2ec071
 
 #EXTINF================================================================================================================================================================================================================================================================
+# --- Latina ---
 
 #EXTINF: Iskhodnyy="Latina" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Latina 🇵🇪 ",Latina ✅✔️ 1920x1080p
 https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b2120166164669279d778e854&sid=ba5t1l1xb289051337069279d78b4e98&ndvc=0
