@@ -35,13 +35,13 @@ https://mitv.zplay.cl/Ztv/index.m3u8
 #EXTINF: tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FAMERICATV.png&width=50&height=50" group-title="América 🇵🇪 ",América 💸 1024x576
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/22/1763740239544/3a9d081c99be_480_270.png" group-title="América 🇵🇪 ",América 🇻🇳 640x360
-https://live-evg20.tv360.bitel.com.pe/8xF0SS4j2aHXNmF1ZLwL7w/1777184280/bitel/America-udp/bitel/America-udp_360p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/IyWImGDKqgIWflmfYj5klg/1777273851/bitel/America-udp/bitel/America-udp_360p/chunks.m3u8
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/22/1763740239544/3a9d081c99be_480_270.png" group-title="América 🇵🇪 ",América 🇻🇳 854x480
-https://live-evg20.tv360.bitel.com.pe/5VEsGnyvtRUDpKrqv0EV8g/1777184280/bitel/America-udp/bitel/America-udp_480p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/CgX7JW5w0dNoVRfbuI7fVw/1777273851/bitel/America-udp/bitel/America-udp_480p/chunks.m3u8
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/22/1763740239544/3a9d081c99be_480_270.png" group-title="América 🇵🇪 ",América 🇻🇳 1280x720
-https://live-evg20.tv360.bitel.com.pe/A3Ib0PeNfub2Krnz3JfxnA/1777184280/bitel/America-udp/bitel/America-udp_720p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/w_mKrG1wkud3_9jYGWHVUQ/1777273851/bitel/America-udp/bitel/America-udp_720p/chunks.m3u8
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/22/1763740239544/3a9d081c99be_480_270.png" group-title="América 🇵🇪 ",América 🇻🇳 1920x1080
-https://live-evg20.tv360.bitel.com.pe/P-SIFePwlLMXJJ_PjvU6lQ/1777184280/bitel/America-udp/bitel/America-udp_1080p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/gSUsNylQAWVapADsTWih7A/1777273851/bitel/America-udp/bitel/America-udp_1080p/chunks.m3u8
 
 #EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FAmericaTV_WIN.png&width=50&height=50" group-title="América 🇵🇪 ",América 🔱 1280x720
 #EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FAmericaTV_WIN.png&width=50&height=50" group-title="América 🇵🇪 ",América 🔱 1024x576
@@ -707,13 +707,15 @@ https://1a-1791.com/live/1n1ugl24/slot-49/7ttm-lexc_1080p/chunklist.m3u8
 #EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Rumble",Rumble
 https://1a-1791.com/live/nd3n15l5/slot-46/9erd-mia5/chunklist.m3u8
 #EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Rumble",Rumble
+https://1a-1791.com/live/gke17oc4/slot-26/go6t-49mc/chunklist.m3u8
+
+#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Rumble",Rumble
 https://1a-1791.com/live/3fms19g4/slot-15/cly1-k42c/chunklist.m3u8
 #EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Rumble",Rumble
 https://1a-1791.com/live/41ac4fe/slot-12/1n90-3cob_1080p/chunklist_DVR.m3u8
 #EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Rumble",Rumble
 https://1a-1791.com/live/4gf18j5s/slot-75/vsog-0emx_1080p/chunklist_DVR.m3u8
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Rumble",Rumble
-https://1a-1791.com/live/gke17oc4/slot-26/go6t-49mc/chunklist.m3u8
+
 
 #EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="Nimo",Nimo Tv
 https://al.flv.nimo.tv/live/su2439522832838r950fd82b91b14a2971283e9e880ab8ff.flv?ver=1&wsSecret=5d9d3e50f01c5b8ebba4b3d06e272935&wsTime=69e838bc&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=nimo_web&appid=81&tp=1776740156456&needwm=0&seqid=3478278772027&ratio=500&dMod=mseh-0&sdkPcdn=1_1&u=1704112880169&t=100&sv=2601201119&sdk_sid=1776770943532&a_block=0
