@@ -29,42 +29,54 @@ https://vmvpd.short.gy/ZTv
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF:  TeleKanal="América"     Iskhodnyy="EC"  tvg-logo="" group-title=" 🇵🇪 Principales",💸 América TeleVisión
-#EXTINF:  TeleKanal="América"     Iskhodnyy="T3B2"  tvg-logo="" group-title=" 🇵🇪 Principales",🇻🇳 América TeleVisión
+#EXTINF:  TeleKanal="América"     Iskhodnyy="EC"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",💸 América TeleVisión
+#EXTINF:  TeleKanal="América"     Iskhodnyy="T3B2"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",🇻🇳 América TeleVisión
 https://live-evg20.tv360.bitel.com.pe/gSUsNylQAWVapADsTWih7A/1777273851/bitel/America-udp/bitel/America-udp_1080p/chunks.m3u8
-#EXTINF:  TeleKanal="América"     Iskhodnyy="WT"  tvg-logo="" group-title=" 🇵🇪 Principales",🔱 América TeleVisión
+#EXTINF:  TeleKanal="América"     Iskhodnyy="WT"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",🔱 América TeleVisión
 
 
-#EXTINF:  TeleKanal="ATV"     Iskhodnyy="ATV"  tvg-logo="" group-title=" 🇵🇪 Principales",✅✔️ ATV
-https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/medialist_15609871089997455276_hls.m3u8
-#EXTINF:  TeleKanal="ATV"     Iskhodnyy="EC"  tvg-logo="" group-title=" 🇵🇪 Principales",💸 ATV
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATV_stream_of&_cdn_session=3406902653&_cdn_token=6b3ab8e1684bae69a7e84d5f58392c45dbda9f11
-#EXTINF:  TeleKanal="ATV"     Iskhodnyy="T3B2"  tvg-logo="" group-title=" 🇵🇪 Principales",🇻🇳 ATV
-#EXTINF:  TeleKanal="ATV"     Iskhodnyy="WT"  tvg-logo="" group-title=" 🇵🇪 Principales",🔱 ATV
-
-
-#EXTINF:  TeleKanal="Latina"     Iskhodnyy="Latina"  tvg-logo="" group-title=" 🇵🇪 Principales",✅✔️ Latina TeleVisión
+#EXTINF:  TeleKanal="Latina"     Iskhodnyy="Latina"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",✅✔️ Latina TeleVisión
 https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b2120166164669279d778e854&sid=ba5t1l1xb289051337069279d78b4e98&ndvc=0
-#EXTINF:  TeleKanal="Latina"     Iskhodnyy="EC"  tvg-logo="" group-title=" 🇵🇪 Principales",💸 Latina TeleVisión
+#EXTINF:  TeleKanal="Latina"     Iskhodnyy="EC"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",💸 Latina TeleVisión
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=3407271733&_cdn_token=9e2729de874df743ccbdb20d286f9812c720ecc4
-#EXTINF:  TeleKanal="Latina"     Iskhodnyy="T3B2"  tvg-logo="" group-title=" 🇵🇪 Principales",🇻🇳 Latina TeleVisión
+#EXTINF:  TeleKanal="Latina"     Iskhodnyy="T3B2"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",🇻🇳 Latina TeleVisión
 https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.m3u8?uid=12051151
-#EXTINF:  TeleKanal="Latina"     Iskhodnyy="WT"  tvg-logo="" group-title=" 🇵🇪 Principales",🔱 Latina TeleVisión
+#EXTINF:  TeleKanal="Latina"     Iskhodnyy="WT"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",🔱 Latina TeleVisión
 
 
-#EXTINF:  TeleKanal="Panamericana"     Iskhodnyy="EC"  tvg-logo="" group-title=" 🇵🇪 Principales",💸 Panamericana TeleVisión
+#EXTINF:  TeleKanal="ATV"     Iskhodnyy="ATV"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",✅✔️ ATV
+https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/medialist_15609871089997455276_hls.m3u8
+#EXTINF:  TeleKanal="ATV"     Iskhodnyy="EC"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",💸 ATV
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATV_stream_of&_cdn_session=3406902653&_cdn_token=6b3ab8e1684bae69a7e84d5f58392c45dbda9f11
+#EXTINF:  TeleKanal="ATV"     Iskhodnyy="T3B2"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",🇻🇳 ATV
+#EXTINF:  TeleKanal="ATV"     Iskhodnyy="WT"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",🔱 ATV
+
+
+#EXTINF:  TeleKanal="Panamericana"     Iskhodnyy="EC"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",💸 Panamericana TeleVisión
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3418036229&_cdn_token=45e0aa62cf027fc9058f39021b4a2f34ddfadce9
-#EXTINF:  TeleKanal="Panamericana"     Iskhodnyy="T3B2"  tvg-logo="" group-title=" 🇵🇪 Principales",🇻🇳 Panamericana TeleVisión
+#EXTINF:  TeleKanal="Panamericana"     Iskhodnyy="T3B2"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",🇻🇳 Panamericana TeleVisión
 https://live-evg20.tv360.bitel.com.pe/yQi01drSK3t2Eu2ppij1fQ/1777278933/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8
-#EXTINF:  TeleKanal="Panamericana"     Iskhodnyy="WT"  tvg-logo="" group-title=" 🇵🇪 Principales",🔱 Panamericana TeleVisión
+#EXTINF:  TeleKanal="Panamericana"     Iskhodnyy="WT"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",🔱 Panamericana TeleVisión
 
 
-#EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="TV Perú"  tvg-logo="" group-title=" 🇵🇪 Principales",✅✔️ Tv Perú
-#EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="EC"  tvg-logo="" group-title=" 🇵🇪 Principales",💸 Tv Perú
+#EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="TV Perú"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",✅✔️ Tv Perú
+#EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="EC"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",💸 Tv Perú
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TVPERU/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=3418553829&_cdn_token=c2d37b6a166c076c841b12027b81f6754a31e6ef
-#EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="T3B2"  tvg-logo="" group-title=" 🇵🇪 Principales",🇻🇳 Tv Perú
+#EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="T3B2"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",🇻🇳 Tv Perú
 https://live-evg20.tv360.bitel.com.pe/ed49CwRVup5WzPSegoLOJg/1777278969/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8
-#EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="WT"  tvg-logo="" group-title=" 🇵🇪 Principales",🔱Tv Perú
+#EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="WT"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",🔱Tv Perú
+
+
+#EXTINF:  TeleKanal="Willax"     Iskhodnyy="Willax"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",✅✔️ wɪʎaχa
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(eGv4t8eKdUHSodApPkt5tk3secUSvsrDZC3FGeqcUq6KFvu2VRWBkzhea7wOXFkizARianodJ2qMetV0O8zqkLyHyK8BB74v9A4xJAnI_dqThlXMysJaabkTkXSF0OQR)/cloud/3/x9s3ad6/s/live-1080.m3u8
+#EXTINF:  TeleKanal="Willax"     Iskhodnyy="EC"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",💸 wɪʎaχa
+#EXTINF:  TeleKanal="Willax"     Iskhodnyy="T3B2"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",🇻🇳 wɪʎaχa
+https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8?uid=6361701
+#EXTINF:  TeleKanal="Willax"     Iskhodnyy="WTV"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",🔱 wɪʎaχa
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=3418888877&_cdn_token=181050a90619ffbe6ecc952228b949a82888bbdc
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/WILLAX/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=3418891221&_cdn_token=084821bbb23f65c5dccae6b2c4e1986d9de8ca4f
+
+
 
 #EXTINF================================================================================================================================================================================================================================================================
 
