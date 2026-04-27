@@ -81,7 +81,9 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/WILLAX/20-hls/live-media.m3u8
 
 
 #EXTINF:  TeleKanal="RPP"     Iskhodnyy="RPP"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",✅✔️ RPP Tv
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/rpptv/livestream0/chunks.m3u8?dpssid=b2134017601692d58c588dad&sid=ba5t1l1xb21381804646692dff5ad5fc3&ndvc=0
 #EXTINF:  TeleKanal="RPP"     Iskhodnyy="EC"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",💸 RPP Tv
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/RPP/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DRPP_stream_1q&_cdn_session=3418048589&_cdn_token=8c5e21fadbf64937f7a8957ce190557fedfc186b
 #EXTINF:  TeleKanal="RPP"     Iskhodnyy="T3B2"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",🇻🇳 RPP Tv
 #EXTINF:  TeleKanal="RPP"     Iskhodnyy="WT"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",🔱 RPP Tv
 
