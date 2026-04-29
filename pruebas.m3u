@@ -76,7 +76,7 @@ https://vmvpd.short.gy/T3B2/TvPeru
 
 #EXTINF:  TeleKanal="Willax"     Iskhodnyy="Willax"  tvg-logo="https://tvg-logo.short.gy/Willax" group-title="⭐ Top Perú 🇵🇪",✅✔️ wɪʎaχa ✅✔️ 1920x1080
 https://vmvpd.short.gy/Willax
-#EXTINF:  TeleKanal="Willax"     Iskhodnyy="WTV"  tvg-logo="https://tvg-logo.short.gy/WT/Willax" group-title="⭐ Top Perú 🇵🇪",🔱 wɪʎaχa 🔱 1280x720
+#EXTINF:  TeleKanal="Willax"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/Willax" group-title="⭐ Top Perú 🇵🇪",🔱 wɪʎaχa 🔱 1280x720
 https://vmvpd.short.gy/WT/Willax
 #EXTINF:  TeleKanal="Willax"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/Willax" group-title="⭐ Top Perú 🇵🇪",💸 wɪʎaχa 💸 1280x720
 https://vmvpd.short.gy/EC/Willax
@@ -96,10 +96,15 @@ https://vmvpd.short.gy/EC/RPP
 
 #EXTINF================================================================================================================================================================================================================================================================
 
+
 #EXTINF:  TeleKanal="Onegai 4 Deportes"     Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai4Deportes" group-title="Anime 🇯🇵 🇵🇪" group-title="🥊 Deportes",🥊 Onegai Deportes 🥊 1920x1080
 https://vmvpd.short.gy/Onegai4Deportes
 
-#EXTINF:  TeleKanal="L1 Max"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/L1Max" group-title="🥊 Deportes",🔱 L1 Max 🔱
+#EXTINF:  TeleKanal="L1 Max"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/L1Max" group-title="🥊 Deportes",🔱 L1 Max 🔱 1280x720
 https://vmvpd.short.gy/WT/L1Max
+
+#EXTINF:  TeleKanal="L1"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/L1" group-title="🥊 Deportes",🔱 L1 🔱 1280x720
+https://vmvpd.short.gy/WT/L1
+
 
 #EXTINF================================================================================================================================================================================================================================================================
