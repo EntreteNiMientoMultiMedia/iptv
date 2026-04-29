@@ -108,6 +108,11 @@ https://vmvpd.short.gy/WT/Ovacion
 #EXTINF:  TeleKanal="Anima Kids"    Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/AnimaKids" group-title="👀 Animatsiya 🎌",🇻🇳 Anima Kids 🇻🇳 1920x1080
 https://vmvpd.short.gy/T3B2/AnimaKids
 
+#EXTINF:  TeleKanal="BitMe"    Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/BitMe" group-title="👀 Animatsiya 🎌",🔱 BitMe 🔱 1280x720
+https://vmvpd.short.gy/WT/BitMe
+#EXTINF:  TeleKanal="BitMe"    Iskhodnyy="CF"  tvg-logo="https://tvg-logo.short.gy/EC/BitMe" group-title="👀 Animatsiya 🎌",💸 BitMe 💸 720x576
+https://vmvpd.short.gy/EC/BitMe
+
 #EXTINF:  TeleKanal="Anime Visión"    Iskhodnyy="CF"  tvg-logo="https://tvg-logo.short.gy/AnimeVision" group-title="👀 Animatsiya 🎌",Anime Visión 1920x1080
 https://vmvpd.short.gy/AnimeVision
 #EXTINF:  TeleKanal="Anime Visión Clásicos"    Iskhodnyy="CF"  tvg-logo="https://tvg-logo.short.gy/AnimeVisionClasicos" group-title="👀 Animatsiya 🎌",Anime Visión Clásicos 1920x1080
