@@ -32,11 +32,10 @@ https://vmvpd.short.gy/ZTv
 
 #EXTINF:  TeleKanal="América"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/AmericaTv" group-title="⭐ Top Perú 🇵🇪",🔱 América TeleVisión 🔱 1920x1080
 https://vmvpd.short.gy/WT/AmericaTv
-#EXTINF:  TeleKanal="América"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/AmericaTv" group-title="⭐ Top Perú 🇵🇪",🇻🇳 América TeleVisión 🇻🇳 1920x1080
-https://vmvpd.short.gy/T3B2/AmericaTv
 #EXTINF:  TeleKanal="América"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/AmericaTv" group-title="⭐ Top Perú 🇵🇪",💸 América TeleVisión 💸 1280x720
 https://vmvpd.short.gy/EC/AmericaTv
-
+#EXTINF:  TeleKanal="América"     Iskhodnyy="❌T3B2🚩0️⃣"  tvg-logo="https://tvg-logo.short.gy/T3B2/AmericaTv" group-title="⭐ Top Perú 🇵🇪",🇻🇳 América TeleVisión 🇻🇳 1920x1080
+https://vmvpd.short.gy/T3B2/AmericaTv
 
 #EXTINF:  TeleKanal="Latina"     Iskhodnyy="Latina"  tvg-logo="https://tvg-logo.short.gy/LatinaTeleVision" group-title="⭐ Top Perú 🇵🇪",✅✔️ Latina TeleVisión ✅✔️ 1920x1080
 https://vmvpd.short.gy/LatinaTeleVision
@@ -113,11 +112,13 @@ https://vmvpd.short.gy/T3B2/FierroAFondo
 #EXTINF:  TeleKanal="Fierro a Fondo"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/FierroAFondo" group-title="🥊 Deportes 🏀",💸 Fierro a Fondo 💸 1280x720
 https://vmvpd.short.gy/EC/FierroAFondo
 
+#EXTINF:  TeleKanal="Ovacion"     Iskhodnyy="EC"  tvg-logo="" group-title="🥊 Deportes 🏀",💸 Ovacion 💸 1280x720
+
 
 #EXTINF================================================================================================================================================================================================================================================================
 
 
-#EXTINF:  TeleKanal="PlayBoy"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/PlayBoy" group-title="😈 Solo Adultos 🔞 Prohibido Menores 18 Años 🔞",🎮 PlayBoy 👶🏻 1280x720
+#EXTINF:  TeleKanal="PlayBoy"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/PlayBoy" group-title="😈 Solo Adultos 🔞 Prohibido Menores 18 Años 🔞",🎮 Hustler 👶🏻 1280x720
 https://vmvpd.short.gy/EC/PlayBoy
 
 #EXTINF:  TeleKanal="Venus"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/Venus" group-title="😈 Solo Adultos 🔞 Prohibido Menores 18 Años 🔞",🫟 Venus 🍆 1024x576
