@@ -29,10 +29,12 @@ https://vmvpd.short.gy/ZTv
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF:  TeleKanal="América"     Iskhodnyy="EC"  tvg-logo="" group-title=" 🇵🇪 Principales",💸 América TeleVisión
-#EXTINF:  TeleKanal="América"     Iskhodnyy="T3B2"  tvg-logo="" group-title=" 🇵🇪 Principales",🇻🇳 América TeleVisión
-https://live-evg20.tv360.bitel.com.pe/6eMxdyYyDoMH5aRHjjXl9w/1777467741/bitel/America-udp/bitel/America-udp_1080p/chunks.m3u8
-#EXTINF:  TeleKanal="América"     Iskhodnyy="WT"  tvg-logo="" group-title=" 🇵🇪 Principales",🔱 América TeleVisión
+#EXTINF:  TeleKanal="América"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/AmericaTv" group-title="⭐ Top Perú 🇵🇪",💸 América TeleVisión
+https://vmvpd.short.gy/EC/AmericaTv
+#EXTINF:  TeleKanal="América"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/AmericaTv" group-title="⭐ Top Perú 🇵🇪",🇻🇳 América TeleVisión
+https://vmvpd.short.gy/T3B2/AmericaTv
+#EXTINF:  TeleKanal="América"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/AmericaTv" group-title="⭐ Top Perú 🇵🇪",🔱 América TeleVisión
+https://vmvpd.short.gy/WT/AmericaTv
 
 
 #EXTINF:  TeleKanal="ATV"     Iskhodnyy="ATV"  tvg-logo="" group-title=" 🇵🇪 Principales",✅✔️ ATV
