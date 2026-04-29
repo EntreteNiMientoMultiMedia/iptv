@@ -74,17 +74,15 @@ https://vmvpd.short.gy/EC/TvPeru
 https://vmvpd.short.gy/T3B2/TvPeru
 
 
-#EXTINF:  TeleKanal="Willax"     Iskhodnyy="Willax"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",✅✔️ wɪʎaχa
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(eGv4t8eKdUHSodApPkt5tk3secUSvsrDZC3FGeqcUq6KFvu2VRWBkzhea7wOXFkizARianodJ2qMetV0O8zqkLyHyK8BB74v9A4xJAnI_dqThlXMysJaabkTkXSF0OQR)/cloud/3/x9s3ad6/s/live-1080.m3u8
-#EXTINF:  TeleKanal="Willax"     Iskhodnyy="EC"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",💸 wɪʎaχa
-#EXTINF:  TeleKanal="Willax"     Iskhodnyy="T3B2"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",🇻🇳 wɪʎaχa
-https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8?uid=6361701
-#EXTINF:  TeleKanal="Willax"     Iskhodnyy="WTV"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",🔱 wɪʎaχa
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=3418888877&_cdn_token=181050a90619ffbe6ecc952228b949a82888bbdc
+#EXTINF:  TeleKanal="Willax"     Iskhodnyy="Willax"  tvg-logo="https://tvg-logo.short.gy/Willax" group-title="⭐ Top Perú 🇵🇪",✅✔️ wɪʎaχa ✅✔️
+https://vmvpd.short.gy/Willax
+#EXTINF:  TeleKanal="Willax"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/Willax" group-title="⭐ Top Perú 🇵🇪",💸 wɪʎaχa 💸
+https://vmvpd.short.gy/EC/Willax
+#EXTINF:  TeleKanal="Willax"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/Willax" group-title="⭐ Top Perú 🇵🇪",🇻🇳 wɪʎaχa 🇻🇳
+https://vmvpd.short.gy/T3B2/Willax
+#EXTINF:  TeleKanal="Willax"     Iskhodnyy="WTV"  tvg-logo="https://tvg-logo.short.gy/WT/Willax" group-title="⭐ Top Perú 🇵🇪",🔱 wɪʎaχa
+https://vmvpd.short.gy/WT/Willax
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/WILLAX/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=3418891221&_cdn_token=084821bbb23f65c5dccae6b2c4e1986d9de8ca4f
-
-
-#EXTINF:  TeleKanal="Canal N"     Iskhodnyy="Canal N"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",✅✔️ Canal N
 
 
 #EXTINF:  TeleKanal="RPP"     Iskhodnyy="RPP"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",✅✔️ RPP Tv
