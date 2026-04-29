@@ -5,28 +5,6 @@
 #EXTINF:  TeleKanal="Ver Tv"    Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/VVin" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",😎 VerTv 📺 1280x720
 https://vmvpd.short.gy/VerTv
 
-#EXTINF:  TeleKanal="Anima Kids"    Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/AnimaKids" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",🇻🇳 Anima Kids 🇻🇳 1920x1080
-https://vmvpd.short.gy/T3B2/AnimaKids
-
-#EXTINF:  TeleKanal="Anime Visión"    Iskhodnyy="CF"  tvg-logo="https://tvg-logo.short.gy/AnimeVision" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Anime Visión 1920x1080
-https://vmvpd.short.gy/AnimeVision
-#EXTINF:  TeleKanal="Anime Visión Clásicos"    Iskhodnyy="CF"  tvg-logo="https://tvg-logo.short.gy/AnimeVisionClasicos" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Anime Visión Clásicos 1920x1080
-https://vmvpd.short.gy/AnimeVisionClasicos
-
-#EXTINF:  TeleKanal="Anime Onegai 1"    Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai1" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 1 1280x720
-https://vmvpd.short.gy/Onegai1
-#EXTINF:  TeleKanal="Anime Onegai 2"    Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai2" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 2 1280x720
-https://vmvpd.short.gy/Onegai2
-#EXTINF:  TeleKanal="Anime Onegai 3"     Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai3" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 3 1280x720
-https://vmvpd.short.gy/Onegai3
-#EXTINF:  TeleKanal="Anime Onegai 5"     Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai5" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 5 1280x720
-https://vmvpd.short.gy/Onegai5
-
-#EXTINF:  TeleKanal="Wasabi la chaîne"     Iskhodnyy="RT"  tvg-logo="https://tvg-logo.short.gy/Wasabi" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Wasabi la chaîne 1920x1080
-https://vmvpd.short.gy/Wasabi
-#EXTINF:  TeleKanal="ZTv Anime"     Iskhodnyy="ZP"  tvg-logo="https://tvg-logo.short.gy/ZTv" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",ZTV
-https://vmvpd.short.gy/ZTv
-
 #EXTINF================================================================================================================================================================================================================================================================
 
 
@@ -122,6 +100,32 @@ https://vmvpd.short.gy/T3B2/Ovacion
 https://vmvpd.short.gy/EC/Ovacion
 #EXTINF:  TeleKanal="Ovacion"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/WT/Ovacion" group-title="🥊 Deportes 🏀",⚽ Ovacion 🔱 1280x720
 https://vmvpd.short.gy/WT/Ovacion
+
+
+#EXTINF================================================================================================================================================================================================================================================================
+
+
+#EXTINF:  TeleKanal="Anima Kids"    Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/AnimaKids" group-title="👀 Animatsiya 🎌",🇻🇳 Anima Kids 🇻🇳 1920x1080
+https://vmvpd.short.gy/T3B2/AnimaKids
+
+#EXTINF:  TeleKanal="Anime Visión"    Iskhodnyy="CF"  tvg-logo="https://tvg-logo.short.gy/AnimeVision" group-title="👀 Animatsiya 🎌",Anime Visión 1920x1080
+https://vmvpd.short.gy/AnimeVision
+#EXTINF:  TeleKanal="Anime Visión Clásicos"    Iskhodnyy="CF"  tvg-logo="https://tvg-logo.short.gy/AnimeVisionClasicos" group-title="👀 Animatsiya 🎌",Anime Visión Clásicos 1920x1080
+https://vmvpd.short.gy/AnimeVisionClasicos
+
+#EXTINF:  TeleKanal="Anime Onegai 1"    Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai1" group-title="👀 Animatsiya 🎌",Onegai 1 1280x720
+https://vmvpd.short.gy/Onegai1
+#EXTINF:  TeleKanal="Anime Onegai 2"    Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai2" group-title="👀 Animatsiya 🎌",Onegai 2 1280x720
+https://vmvpd.short.gy/Onegai2
+#EXTINF:  TeleKanal="Anime Onegai 3"     Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai3" group-title="👀 Animatsiya 🎌",Onegai 3 1280x720
+https://vmvpd.short.gy/Onegai3
+#EXTINF:  TeleKanal="Anime Onegai 5"     Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai5" group-title="👀 Animatsiya 🎌",Onegai 5 1280x720
+https://vmvpd.short.gy/Onegai5
+
+#EXTINF:  TeleKanal="Wasabi la chaîne"     Iskhodnyy="RT"  tvg-logo="https://tvg-logo.short.gy/Wasabi" group-title="👀 Animatsiya 🎌",Wasabi la chaîne 1920x1080
+https://vmvpd.short.gy/Wasabi
+#EXTINF:  TeleKanal="ZTv Anime"     Iskhodnyy="ZP"  tvg-logo="https://tvg-logo.short.gy/ZTv" group-title="👀 Animatsiya 🎌",ZTV
+https://vmvpd.short.gy/ZTv
 
 
 #EXTINF================================================================================================================================================================================================================================================================
