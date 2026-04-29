@@ -57,11 +57,12 @@ https://vmvpd.short.gy/T3B2/AndinaTeleVision
 https://vmvpd.short.gy/WT/AndinaTeleVision
 
 
-#EXTINF:  TeleKanal="Panamericana"     Iskhodnyy="EC"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",💸 Panamericana TeleVisión
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3418036229&_cdn_token=45e0aa62cf027fc9058f39021b4a2f34ddfadce9
-#EXTINF:  TeleKanal="Panamericana"     Iskhodnyy="T3B2"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",🇻🇳 Panamericana TeleVisión
-https://live-evg20.tv360.bitel.com.pe/yQi01drSK3t2Eu2ppij1fQ/1777278933/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8
-#EXTINF:  TeleKanal="Panamericana"     Iskhodnyy="WT"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",🔱 Panamericana TeleVisión
+#EXTINF:  TeleKanal="Panamericana"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/Panamericana" group-title="⭐ Top Perú 🇵🇪",💸 Panamericana TeleVisión 💸 1280x720
+https://vmvpd.short.gy/EC/Panamericana
+#EXTINF:  TeleKanal="Panamericana"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/Panamericana" group-title="⭐ Top Perú 🇵🇪",🇻🇳 Panamericana TeleVisión 🇻🇳 1280x720
+https://vmvpd.short.gy/T3B2/Panamericana
+#EXTINF:  TeleKanal="Panamericana"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/Panamericana" group-title="⭐ Top Perú 🇵🇪",🔱 Panamericana TeleVisión 🔱 1920x1080
+https://vmvpd.short.gy/WT/Panamericana
 
 
 #EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="TV Perú"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",✅✔️ Tv Perú
@@ -69,7 +70,7 @@ https://live-evg20.tv360.bitel.com.pe/yQi01drSK3t2Eu2ppij1fQ/1777278933/bitel/Pa
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TVPERU/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=3418553829&_cdn_token=c2d37b6a166c076c841b12027b81f6754a31e6ef
 #EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="T3B2"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",🇻🇳 Tv Perú
 https://live-evg20.tv360.bitel.com.pe/ed49CwRVup5WzPSegoLOJg/1777278969/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8
-#EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="WT"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",🔱Tv Perú
+#EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="WT"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",🔱 Tv Perú 🔱 
 
 
 #EXTINF:  TeleKanal="Willax"     Iskhodnyy="Willax"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",✅✔️ wɪʎaχa
