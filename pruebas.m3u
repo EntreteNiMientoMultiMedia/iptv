@@ -32,10 +32,10 @@ https://vmvpd.short.gy/ZTv
 
 #EXTINF:  TeleKanal="América"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/AmericaTv" group-title="⭐ Top Perú 🇵🇪",🔱 América TeleVisión 🔱 1920x1080
 https://vmvpd.short.gy/WT/AmericaTv
-#EXTINF:  TeleKanal="América"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/AmericaTv" group-title="⭐ Top Perú 🇵🇪",💸 América TeleVisión 💸 1280x720
-https://vmvpd.short.gy/EC/AmericaTv
 #EXTINF:  TeleKanal="América"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/AmericaTv" group-title="⭐ Top Perú 🇵🇪",🇻🇳 América TeleVisión 🇻🇳 1920x1080
 https://vmvpd.short.gy/T3B2/AmericaTv
+#EXTINF:  TeleKanal="América"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/AmericaTv" group-title="⭐ Top Perú 🇵🇪",💸 América TeleVisión 💸 1280x720
+https://vmvpd.short.gy/EC/AmericaTv
 
 
 #EXTINF:  TeleKanal="Latina"     Iskhodnyy="Latina"  tvg-logo="https://tvg-logo.short.gy/LatinaTeleVision" group-title="⭐ Top Perú 🇵🇪",✅✔️ Latina TeleVisión ✅✔️ 1920x1080
@@ -76,22 +76,22 @@ https://vmvpd.short.gy/T3B2/TvPeru
 
 #EXTINF:  TeleKanal="Willax"     Iskhodnyy="Willax"  tvg-logo="https://tvg-logo.short.gy/Willax" group-title="⭐ Top Perú 🇵🇪",✅✔️ wɪʎaχa ✅✔️ 1920x1080
 https://vmvpd.short.gy/Willax
+#EXTINF:  TeleKanal="Willax"     Iskhodnyy="WTV"  tvg-logo="https://tvg-logo.short.gy/WT/Willax" group-title="⭐ Top Perú 🇵🇪",🔱 wɪʎaχa 🔱 1280x720
+https://vmvpd.short.gy/WT/Willax
 #EXTINF:  TeleKanal="Willax"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/Willax" group-title="⭐ Top Perú 🇵🇪",💸 wɪʎaχa 💸 1280x720
 https://vmvpd.short.gy/EC/Willax
 #EXTINF:  TeleKanal="Willax"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/Willax" group-title="⭐ Top Perú 🇵🇪",🇻🇳 wɪʎaχa 🇻🇳 1280x720
 https://vmvpd.short.gy/T3B2/Willax
-#EXTINF:  TeleKanal="Willax"     Iskhodnyy="WTV"  tvg-logo="https://tvg-logo.short.gy/WT/Willax" group-title="⭐ Top Perú 🇵🇪",🔱 wɪʎaχa 🔱 1280x720
-https://vmvpd.short.gy/WT/Willax
 
 
-#EXTINF:  TeleKanal="RPP"     Iskhodnyy="RPP"  tvg-logo="https://tvg-logo.short.gy/RPP" group-title="⭐ Top Perú 🇵🇪",✅✔️ RPP Tv ✅✔️
+#EXTINF:  TeleKanal="RPP"     Iskhodnyy="RPP"  tvg-logo="https://tvg-logo.short.gy/RPP" group-title="⭐ Top Perú 🇵🇪",✅✔️ RPP Tv ✅✔️ 1280x720
 https://vmvpd.short.gy/RPP
-#EXTINF:  TeleKanal="RPP"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/RPP" group-title="⭐ Top Perú 🇵🇪",💸 RPP Tv 💸 1280x720
-https://vmvpd.short.gy/EC/RPP
 #EXTINF:  TeleKanal="RPP"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/RPP" group-title="⭐ Top Perú 🇵🇪",🇻🇳 RPP Tv 🇻🇳 1920x1080
 https://vmvpd.short.gy/T3B2/RPP
 #EXTINF:  TeleKanal="RPP"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/RPP" group-title="⭐ Top Perú 🇵🇪",🔱 RPP Tv 🔱 1280x720
 https://vmvpd.short.gy/WT/RPP
+#EXTINF:  TeleKanal="RPP"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/RPP" group-title="⭐ Top Perú 🇵🇪",💸 RPP Tv 💸 1280x720
+https://vmvpd.short.gy/EC/RPP
 
 
 #EXTINF================================================================================================================================================================================================================================================================
