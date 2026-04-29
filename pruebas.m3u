@@ -47,8 +47,8 @@ https://vmvpd.short.gy/T3B2/LatinaTeleVision
 https://vmvpd.short.gy/WT/LatinaTeleVision
 
 
-#EXTINF:  TeleKanal="ATV"     Iskhodnyy="ATV"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",✅✔️ ATV
-https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/medialist_15609871089997455276_hls.m3u8
+#EXTINF:  TeleKanal="ATV"     Iskhodnyy="ATV"  tvg-logo="https://tvg-logo.short.gy/AndinaTeleVision" group-title="⭐ Top Perú 🇵🇪",✅✔️ ATV ✅✔️ 1920x1080
+https://vmvpd.short.gy/AndinaTeleVision
 #EXTINF:  TeleKanal="ATV"     Iskhodnyy="EC"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",💸 ATV
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATV_stream_of&_cdn_session=3406902653&_cdn_token=6b3ab8e1684bae69a7e84d5f58392c45dbda9f11
 #EXTINF:  TeleKanal="ATV"     Iskhodnyy="T3B2"  tvg-logo="" group-title="⭐ Top Perú 🇵🇪",🇻🇳 ATV
