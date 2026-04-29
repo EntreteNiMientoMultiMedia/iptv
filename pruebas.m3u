@@ -112,7 +112,12 @@ https://vmvpd.short.gy/T3B2/FierroAFondo
 #EXTINF:  TeleKanal="Fierro a Fondo"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/FierroAFondo" group-title="🥊 Deportes 🏀",💸 Fierro a Fondo 💸 1280x720
 https://vmvpd.short.gy/EC/FierroAFondo
 
-#EXTINF:  TeleKanal="Ovacion"     Iskhodnyy="EC"  tvg-logo="" group-title="🥊 Deportes 🏀",💸 Ovacion 💸 1280x720
+#EXTINF:  TeleKanal="Ovacion"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/Ovacion" group-title="🥊 Deportes 🏀",💸 Ovacion 💸 1280x720
+https://vmvpd.short.gy/EC/Ovacion
+#EXTINF:  TeleKanal="Ovacion"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/Ovacion" group-title="🥊 Deportes 🏀",🇻🇳 Ovacion 🇻🇳 
+https://vmvpd.short.gy/T3B2/Ovacion
+#EXTINF:  TeleKanal="Ovacion"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/WT/Ovacion" group-title="🥊 Deportes 🏀",🔱 Ovacion 🔱 
+https://vmvpd.short.gy/WT/Ovacion
 
 
 #EXTINF================================================================================================================================================================================================================================================================
