@@ -150,3 +150,15 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/vod/v348/40/vod-media.m3u8?_cdn_attr
 #EXTINF:  TeleKanal="Películas"     Iskhodnyy="EC"  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/jpg?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fstatic%2Fbackdrops%2F810%2F1804810_1280.jpg&width=1280" group-title="Películas",🦅 El Cóndor En Nueva York 💸
 https://cdn5.eco.cdn.moderntv.eu/econocable/vod/v348/40/vod-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dv348_vod_gz&_cdn_session=3890565643&_cdn_token=4bc4fb1833866538ac24deef095534635332fb00
 
+#EXTINF:  TeleKanal="Películas"     Iskhodnyy="T3B2"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/10/29/01/1761677259733/02feaffa0ed9_360_540.jpg" group-title="Películas",🔫 John Wick 🇻🇳 1920X1080
+https://vod-evg1.tv360.bitel.com.pe/HhwGGMgIOq1sYiU2ZNmrPg/1777494120/peru-video/2023/04/28/03/afff0ce0/afff0ce0-22ac-4b66-9a12-6a773ab8d0b5_5_.m3u8
+#EXTINF:  TeleKanal="Películas"     Iskhodnyy="T3B2"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/19/22/b1c86be2/b1c86be2-f944-4498-b7ed-44f97ed0a015_360_540.jpg" group-title="Películas",🔫 John Wick 2 🇻🇳 1920X1080
+https://vod-evg1.tv360.bitel.com.pe/KGp3uSBL3DSVjPvdlnsHRA/1777494240/peru-video/2025/11/27/22/1b7581f2/d1dee8/h264/video/avc1/4/media.m3u8
+#EXTINF:  TeleKanal="Películas"     Iskhodnyy="T3B2"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/19/22/f9fcc71f/f9fcc71f-7af9-4b06-90c9-77f102702014_360_540.jpg" group-title="Películas",🔫 John Wick 3 🇻🇳 1920X1080
+https://vod-evg1.tv360.bitel.com.pe/98VacbeHKBkWpcim28ZvPA/1777494240/peru-video/2025/11/27/23/d51905e3/bbfeab/h264/video/avc1/4/media.m3u8
+#EXTINF:  TeleKanal="Películas"     Iskhodnyy="T3B2"  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/12/17/02/1765914253534/673fd19036d9_360_540.jpg" group-title="Películas",🔫 John Wick 4 🇻🇳 1920X1080
+https://vod-evg1.tv360.bitel.com.pe/gV3HM42HDyuKxC_hdUh7Wg/1777494240/peru-video/2025/11/27/23/5979972d/c8176d/h264/video/avc1/4/media.m3u8
+
+#EXTINF:  TeleKanal="Películas"     Iskhodnyy="EC"  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/jpg?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fstatic%2Fbackdrops%2F809%2F2688809_1280.jpg&width=1280" group-title="Películas",💋 Susy: Una vedette en el Congreso 💸
+https://cdn5.eco.cdn.moderntv.eu/econocable/vod/v425/40/vod-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dv425_vod_3w&_cdn_session=3890596187&_cdn_token=7dca34d404810ad56e10e3c4da9460169f59e09b
+
