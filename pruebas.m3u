@@ -199,14 +199,12 @@ https://vmvpd.short.gy/EC/ATV+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Andina+" group-title="🗞️ Noticias Peruanas 🇵🇪",Andina+ (1280x720)
 https://vmvpd.short.gy/T3B2/ATV+
 
-#EXTINF:    Iskhodnyy="✔️Latina Noticias✅"                  tvg-logo="" group-title="🗞️ Noticias Peruanas 🇵🇪",Latina Noticias (1280x720)
+#EXTINF:    Iskhodnyy="✔️Latina Noticias✅"                  tvg-logo="https://tvg-logo.short.gy/LatinaNoticias" group-title="🗞️ Noticias Peruanas 🇵🇪",Latina Noticias (1280x720)
 https://vmvpd.short.gy/LatinaNoticias
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="🗞️ Noticias Peruanas 🇵🇪",Latina Noticias (1280x720)
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="🗞️ Noticias Peruanas 🇵🇪",Latina Noticias (1280x720)
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🗞️ Noticias Peruanas 🇵🇪",Latina Noticias (1280x720)
-
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LatinaNoticias" group-title="🗞️ Noticias Peruanas 🇵🇪",Latina Noticias (1280x720)
+https://vmvpd.short.gy/EC/LatinaNoticas
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/LatinaNoticias" group-title="🗞️ Noticias Peruanas 🇵🇪",Latina Noticias (1280x720)
+https://vmvpd.short.gy/T3B2/LatinaNoticias
 
 
 #EXTINF=================================================================================================================================================================================================
