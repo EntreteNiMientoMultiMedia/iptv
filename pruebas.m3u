@@ -153,6 +153,11 @@ https://vmvpd.short.gy/EC/CartoonNetWork
 #EXTINF:  TeleKanal="💵Disney Channel💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/DisneyChannel" group-title="🍼 Infantil 👶🏻",Disney Channel (1280x720)
 https://vmvpd.short.gy/EC/DisneyChannel
 
+#EXTINF:  TeleKanal="🔱Dreamworks📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/DreamWorks" group-title="🍼 Infantil 👶🏻",Dreamworks (1280x720)
+https://vmvpd.short.gy/WT/DreamWorks
+#EXTINF:  TeleKanal="💵Dreamworks💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/DreamWorks" group-title="🍼 Infantil 👶🏻",Dreamworks (1280x720)
+https://vmvpd.short.gy/EC/DreamWorks
+
 #EXTINF:  TeleKanal="💵ToonCast💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/ToonCast" group-title="🍼 Infantil 👶🏻",ToonCast (1280x720)
 https://vmvpd.short.gy/EC/ToonCast
 
@@ -169,12 +174,11 @@ https://vmvpd.short.gy/WT/FMHKids
 
 
 
+#EXTINF:  TeleKanal="💵Disney Jr💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/DisneyJr" group-title="🍼 Infantil 👶🏻",Disney Jr (1024x576)
+https://vmvpd.short.gy/EC/DisneyJr
 
 #EXTINF:  TeleKanal="💵Discovery Kids💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryKids" group-title="🍼 Infantil 👶🏻",Discovery Kids (1280x720)
 https://vmvpd.short.gy/EC/DiscoveryKids
-
-#EXTINF:  TeleKanal="💵Disney Jr💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/DisneyJr" group-title="🍼 Infantil 👶🏻",Disney Jr (1280x720)
-https://vmvpd.short.gy/EC/DisneyJr
 
 #EXTINF:  TeleKanal="💵Plim Plim💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/PlimPlim" group-title="🍼 Infantil 👶🏻",Plim Plim (1280x720)
 https://vmvpd.short.gy/EC/PlimPlim
@@ -182,18 +186,14 @@ https://vmvpd.short.gy/EC/PlimPlim
 #EXTINF:  TeleKanal="💵Cartoonito💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/Cartoonito" group-title="🍼 Infantil 👶🏻",Cartoonito (1280x720)
 https://vmvpd.short.gy/EC/Cartoonito
 
-#EXTINF:  TeleKanal="🔱Dreamworks📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/DreamWorks" group-title="🍼 Infantil 👶🏻",Dreamworks (1280x720)
-https://vmvpd.short.gy/WT/DreamWorks
-#EXTINF:  TeleKanal="💵Dreamworks💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/DreamWorks" group-title="🍼 Infantil 👶🏻",Dreamworks (1280x720)
-https://vmvpd.short.gy/EC/DreamWorks
-
 #EXTINF:  TeleKanal="🔱Fun Box📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/FunBox" group-title="🍼 Infantil 👶🏻",Fun Box (1280x720)
 https://vmvpd.short.gy/WT/FunBox
 
 #EXTINF:  TeleKanal="🎯PequeTv⏲️"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/PequeTv" group-title="🍼 Infantil 👶🏻",PequeTv (1920x1080)
 https://vmvpd.short.gy/T3B2/PequeTv
 
-
+#EXTINF:  TeleKanal="💵ZooMoo💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/ZooMoo" group-title="😈 Solo Adultos 🔞 Prohibido Menores 18 Años 🔞",ZooMoo (1024x576)
+https://vmvpd.short.gy/EC/ZooMoo
 
 
 #EXTINF=================================================================================================================================================================================================
@@ -215,9 +215,6 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/vod/v447/40/vod-media.m3u8?_cdn_attr
 
 #EXTINF=================================================================================================================================================================================================
 
-
-#EXTINF:  TeleKanal="💵ZooMoo💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/ZooMoo" group-title="😈 Solo Adultos 🔞 Prohibido Menores 18 Años 🔞",ZooMoo (720x576)
-https://vmvpd.short.gy/EC/ZooMoo
 
 #EXTINF:  TeleKanal="💵PlayBoy💸"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/PlayBoy" group-title="😈 Solo Adultos 🔞 Prohibido Menores 18 Años 🔞",🎮 PlayBoy 👶🏻 (1280x720)
 https://vmvpd.short.gy/EC/PlayBoy
