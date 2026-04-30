@@ -87,6 +87,13 @@ https://vmvpd.short.gy/WT/L1Max
 #EXTINF:  TeleKanal="🎯L1 Max⏲️"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/L1Max" group-title="🥊 Deportes 🏀",L1 Max ⚽
 https://vmvpd.short.gy/T3B2/L1Max
 
+#EXTINF:  TeleKanal="MonteRricoTv"     Iskhodnyy="MonteRicoTv"  tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 Deportes 🏀",MonteRricoTv 🏇 (1280x720)
+https://vmvpd.short.gy/MonteRicoTv
+#EXTINF:  TeleKanal="✅✔️MonteRricoTv✅✔️"     Iskhodnyy="MonteRicoTv"  tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 Deportes 🏀",MonteRricoTv 🏇 (1920x1080)
+https://vmvpd.short.gy/MonteRricoTv
+#EXTINF:  TeleKanal="MonteRricoTv"     Iskhodnyy="MonteRicoTv"  tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 Deportes 🏀",MonteRricoTv 🏇 (1280x720)
+https://vmvpd.short.gy/MonteRrricoTv
+
 #EXTINF:  TeleKanal="🔱L1📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/L1" group-title="🥊 Deportes 🏀",L1 ⚽ (1280x720)
 https://vmvpd.short.gy/WT/L1
 
@@ -101,20 +108,6 @@ https://vmvpd.short.gy/T3B2/Ovacion
 https://vmvpd.short.gy/EC/Ovacion
 #EXTINF:  TeleKanal="🔱Ovacion📺"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/WT/Ovacion" group-title="🥊 Deportes 🏀",Ovacion ⚽ (1280x720)
 https://vmvpd.short.gy/WT/Ovacion
-
-#EXTINF:  TeleKanal="MonteRricoTv"     Iskhodnyy="MonteRicoTv"  tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 Deportes 🏀",MonteRricoTv 🏇 (1280x720)
-https://vmvpd.short.gy/MonteRicoTv
-#EXTINF:  TeleKanal="✅✔️MonteRricoTv✅✔️"     Iskhodnyy="MonteRicoTv"  tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 Deportes 🏀",MonteRricoTv 🏇 (1920x1080)
-https://vmvpd.short.gy/MonteRricoTv
-#EXTINF:  TeleKanal="MonteRricoTv"     Iskhodnyy="MonteRicoTv"  tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 Deportes 🏀",MonteRricoTv 🏇 (1280x720)
-https://vmvpd.short.gy/MonteRrricoTv
-
-
-#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🥊 Deportes 🏀",DirecTV Sports 🇺🇸
-http://38.183.182.166:8000/play/a125/index.m3u8
-
-#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="🥊 Deportes 🏀",ESPN Deportes 🇺🇸
-https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 
 #EXTINF================================================================================================================================================================================================================================================================
