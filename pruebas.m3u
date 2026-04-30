@@ -213,7 +213,7 @@ https://vmvpd.short.gy/EC/ZooMoo
 
 #EXTINF=================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️Exitosa✅"                  tvg-logo="" group-title="🗞️ Noticias Peruanas 🇵🇪",Exitosa (1280x720)
+#EXTINF:    Iskhodnyy="✔️Exitosa✅"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Exitosa" group-title="🗞️ Noticias Peruanas 🇵🇪",Exitosa (1280x720)
 https://vmvpd.short.gy/Exitosa
 #EXTINF:    Iskhodnyy="🔱Exitosa📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Exitosa" group-title="🗞️ Noticias Peruanas 🇵🇪",Exitosa (1280x720)
 https://vmvpd.short.gy/WT/Exitosa
@@ -222,13 +222,13 @@ https://vmvpd.short.gy/EC/Exitosa
 #EXTINF:    Iskhodnyy="🎯Exitosa⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Exitosa" group-title="🗞️ Noticias Peruanas 🇵🇪",Exitosa (1280x720)
 https://vmvpd.short.gy/T3B2/Exitosa
 
-#EXTINF:    Iskhodnyy="✔️PBO✅"                  tvg-logo="" group-title="🗞️ Noticias Peruanas 🇵🇪",PBO (1280x720)
+#EXTINF:    Iskhodnyy="✔️PBO✅"                  tvg-logo="https://tvg-logo.short.gy/PBO" group-title="🗞️ Noticias Peruanas 🇵🇪",PBO (1920x1080)
 https://vmvpd.short.gy/PBO
-#EXTINF:    Iskhodnyy="🔱PBO📺"                  tvg-logo="" group-title="🗞️ Noticias Peruanas 🇵🇪",PBO (1024x576)
+#EXTINF:    Iskhodnyy="🔱PBO📺"                  tvg-logo="https://tvg-logo.short.gy/T3B2/PBO" group-title="🗞️ Noticias Peruanas 🇵🇪",PBO (720x576)
 https://vmvpd.short.gy/WT/PBO
-#EXTINF:    Iskhodnyy="💵PBO💸"                  tvg-logo="" group-title="🗞️ Noticias Peruanas 🇵🇪",PBO (1280x720)
+#EXTINF:    Iskhodnyy="💵PBO💸"                  tvg-logo="https://tvg-logo.short.gy/EC/PBO" group-title="🗞️ Noticias Peruanas 🇵🇪",PBO (1280x720)
 https://vmvpd.short.gy/EC/PBO
-#EXTINF:    Iskhodnyy="🎯PBO⏲️"                  tvg-logo="" group-title="🗞️ Noticias Peruanas 🇵🇪",PBO (1280x720)
+#EXTINF:    Iskhodnyy="🎯PBO⏲️"                  tvg-logo="https://tvg-logo.short.gy/WT/PBO" group-title="🗞️ Noticias Peruanas 🇵🇪",PBO (1280x720)
 https://vmvpd.short.gy/T3B2/PBO
 
 
