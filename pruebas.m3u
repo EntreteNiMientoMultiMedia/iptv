@@ -107,9 +107,14 @@ https://int.node.live.opencaster.com/play_src/index.m3u8?token=sjWKSRZ%2FTWeauyv
 
 #EXTINF:  TeleKanal="MonteRricoTv"     Iskhodnyy="MonteRicoTv"  tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="🥊 Deportes 🏀",MonteRricoTv 🏇 1280x720
 https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
-
-
-
+#EXTINF:  TeleKanal="MonteRricoTv"     Iskhodnyy="MonteRicoTv"  tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="🥊 Deportes 🏀",MonteRricoTv 🏇 1280x720
+https://www.opencaster.com/resources/hls_stream/hipodromojcp1.m3u8
+#EXTINF:  TeleKanal="MonteRricoTv"     Iskhodnyy="MonteRicoTv"  tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="🥊 Deportes 🏀",MonteRricoTv 🏇 1280x720
+https://www.opencaster.com/resources/hls_stream/hipodromojcp4.m3u8
+#EXTINF:  TeleKanal="MonteRricoTv"     Iskhodnyy="MonteRicoTv"  tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="🥊 Deportes 🏀",MonteRricoTv 🏇 1280x720
+https://www.opencaster.com/resources/hls_stream/hipodromojcp8.m3u8
+#EXTINF:  TeleKanal="MonteRricoTv"     Iskhodnyy="MonteRicoTv"  tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="🥊 Deportes 🏀",MonteRricoTv 🏇 1280x720
+https://www.opencaster.com/resources/hls_stream/hipodromojcp3.m3u8
 
 #EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🥊 Deportes 🏀",DirecTV Sports 🇺🇸
 http://38.183.182.166:8000/play/a125/index.m3u8
