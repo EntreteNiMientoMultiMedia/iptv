@@ -2,8 +2,33 @@
 
 #EXTINF=================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="LG"            tvg-logo="https://tvg-logo.short.gy/VVin" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",😎 VerTv 📺 (1280x720)
+
+#EXTINF:    Iskhodnyy="LG"        tvg-logo="https://tvg-logo.short.gy/VVin" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",😎 VerTv 📺 (1280x720)
 https://vmvpd.short.gy/VerTv
+
+
+#EXTINF=================================================================================================================================================================================================
+
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryKids" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Discovery Kids (1280x720)
+https://vmvpd.short.gy/EC/DiscoveryKids
+
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/DisneyJr" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Disney Jr (1280x720)
+https://vmvpd.short.gy/EC/DisneyJr
+
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Cartoonito" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Cartoonito (1280x720)
+https://vmvpd.short.gy/EC/Cartoonito
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/PlimPlim" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Plim Plim (1280x720)
+https://vmvpd.short.gy/EC/PlimPlim
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                    tvg-logo="https://tvg-logo.short.gy/WT/FunBox" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Fun Box (1280x720)
+https://vmvpd.short.gy/WT/FunBox
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/PequeTv" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Peque Tv (1920x1080)
+https://vmvpd.short.gy/T3B2/PequeTv
+
+
 #EXTINF=================================================================================================================================================================================================
 
 
@@ -109,7 +134,7 @@ https://vmvpd.short.gy/EC/Ovacion
 https://vmvpd.short.gy/WT/Ovacion
 
 
-#EXTINF================================================================================================================================================================================================================================================================
+#EXTINF=================================================================================================================================================================================================
 
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/AnimaKids" group-title="🎌 Animatsiya 👀",Anima Kids (1920x1080)
@@ -147,23 +172,65 @@ https://vmvpd.short.gy/ZTv
 #EXTINF=================================================================================================================================================================================================
 
 
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Cartoonito" group-title="🍼 Infantil 👶🏻",Cartoonito (1280x720)
-https://vmvpd.short.gy/EC/Cartoonito
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CartoonNetWork" group-title="Niños y Juvenil 🔥 7 a 14 años 🌋",Cartoon NetWork (1280x720)
+https://vmvpd.short.gy/EC/CartoonNetWork
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryKids" group-title="🍼 Infantil 👶🏻",Discovery Kids (1280x720)
-https://vmvpd.short.gy/EC/DiscoveryKids
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DisneyChannel" group-title="Niños y Juvenil 🔥 7 a 14 años 🌋",Disney Channel (1280x720)
+https://vmvpd.short.gy/EC/DisneyChannel
 
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/DisneyJr" group-title="🍼 Infantil 👶🏻",Disney Jr (1024x576)
-https://vmvpd.short.gy/EC/DisneyJr
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/DreamWorks" group-title="Niños y Juvenil 🔥 7 a 14 años 🌋",Dream Works (1280x720)
+https://vmvpd.short.gy/WT/DreamWorks
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DreamWorks" group-title="Niños y Juvenil 🔥 7 a 14 años 🌋",Dream Works (1280x720)
+https://vmvpd.short.gy/EC/DreamWorks
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                    tvg-logo="https://tvg-logo.short.gy/WT/FunBox" group-title="🍼 Infantil 👶🏻",Fun Box (1280x720)
-https://vmvpd.short.gy/WT/FunBox
+#EXTINF:    Iskhodnyy="EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/ToonCast" group-title="Niños y Juvenil 🔥 7 a 14 años 🌋",Toon Cast (1280x720)
+https://vmvpd.short.gy/EC/ToonCast
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/PequeTv" group-title="🍼 Infantil 👶🏻",Peque Tv (1920x1080)
-https://vmvpd.short.gy/T3B2/PequeTv
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/ChikiToonz" group-title="Niños y Juvenil 🔥 7 a 14 años 🌋",Chiki Toonz (1920x1080)
+https://vmvpd.short.gy/T3B2/ChikiToonz
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/PlimPlim" group-title="🍼 Infantil 👶🏻",Plim Plim (1280x720)
-https://vmvpd.short.gy/EC/PlimPlim
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/FMHKids" group-title="Niños y Juvenil 🔥 7 a 14 años 🌋",FM H Kids (1280x720)
+https://vmvpd.short.gy/T3B2/FMHKids
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/FMHKids" group-title="Niños y Juvenil 🔥 7 a 14 años 🌋",FM H Kids (1280x720)
+https://vmvpd.short.gy/WT/FMHKids
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/CreoKids" group-title="Niños y Juvenil 🔥 7 a 14 años 🌋",Creo Kids (1920x1080)
+https://vmvpd.short.gy/T3B2/CreoKids
+
+
+#EXTINF=================================================================================================================================================================================================
+
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/PlayBoy" group-title="😈 Solo Adultos 🕵🏻‍♂️🕵🏼 Prohibido Menores 18 Años 🔞",🎮 PlayBoy 👶🏻 (1280x720)
+https://vmvpd.short.gy/EC/PlayBoy
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Venus" group-title="😈 Solo Adultos 🕵🏻‍♂️🕵🏼 Prohibido Menores 18 Años 🔞",🫟 Venus 🍆 (1024x576)
+https://vmvpd.short.gy/EC/Venus
+
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/ZooMoo" group-title="😈 Solo Adultos 🕵🏻‍♂️🕵🏼 Prohibido Menores 18 Años 🔞",Zoo Moo (1024x576)
+https://vmvpd.short.gy/EC/ZooMoo
+
+
+#EXTINF=================================================================================================================================================================================================
+
+
+#EXTINF:  TeleKanal="Películas"     Iskhodnyy="EC"  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/jpg?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fstatic%2Fbackdrops%2F397%2F1731397_1280.jpg&width=1280" group-title="Películas",Super Cóndor 🦅
+https://cdn5.eco.cdn.moderntv.eu/econocable/vod/v348/40/vod-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dv348_vod_gz&_cdn_session=3890565643&_cdn_token=4bc4fb1833866538ac24deef095534635332fb00
+#EXTINF:  TeleKanal="Películas"     Iskhodnyy="EC"  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/jpg?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fstatic%2Fbackdrops%2F810%2F1804810_1280.jpg&width=1280" group-title="Películas",El Cóndor 🦅 En Nueva York
+https://cdn5.eco.cdn.moderntv.eu/econocable/vod/v348/40/vod-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dv348_vod_gz&_cdn_session=3890565643&_cdn_token=4bc4fb1833866538ac24deef095534635332fb00
+#EXTINF:  TeleKanal="Películas"     Iskhodnyy="EC"  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/jpg?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fstatic%2Fbackdrops%2F809%2F2688809_1280.jpg&width=1280" group-title="Películas",Susy 💋 Una vedette en el Congreso
+https://cdn5.eco.cdn.moderntv.eu/econocable/vod/v425/40/vod-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dv425_vod_3w&_cdn_session=3890596187&_cdn_token=7dca34d404810ad56e10e3c4da9460169f59e09b
+#EXTINF:  TeleKanal="Películas"     Iskhodnyy="EC"  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/jpg?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fstatic%2Fbackdrops%2F781%2F2735781_1280.jpg&width=1280" group-title="Películas",Milagros 🐼 Una osa extraordinaria
+https://cdn4.eco.cdn.moderntv.eu/econocable/vod/v426/40/vod-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dv426_vod_79&_cdn_session=3892371331&_cdn_token=4b6c4c2cf169717c8ce047f077090a54669a7dcf
+#EXTINF:  TeleKanal="Películas"     Iskhodnyy="EC"  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/jpg?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fstatic%2Fbackdrops%2F699%2F2838699_1280.jpg&width=1280" group-title="Películas",Una Aventura Gigante
+https://cdn4.eco.cdn.moderntv.eu/econocable/vod/v429/40/vod-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dv429_vod_y3&_cdn_session=3894031235&_cdn_token=f40da380e9a9ce4b8b0d87cc8076afefd8f4e472
+#EXTINF:  TeleKanal="Películas"     Iskhodnyy="EC"  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/jpg?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fstatic%2Fbackdrops%2F654%2F3081654_1280.jpg&width=1280" group-title="Películas",Sugar en aprietos
+https://cdn5.eco.cdn.moderntv.eu/econocable/vod/v447/40/vod-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dv447_vod_v4&_cdn_session=3894033675&_cdn_token=5223acc21161566a8c766c5263665697a6832ec6
+
+
+#EXTINF=================================================================================================================================================================================================
+
+
 
 
 #EXTINF=================================================================================================================================================================================================
