@@ -109,6 +109,11 @@ https://vmvpd.short.gy/EC/Ovacion
 #EXTINF:  TeleKanal="🔱Ovacion📺"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/WT/Ovacion" group-title="🥊 Deportes 🏀",Ovacion ⚽ (1280x720)
 https://vmvpd.short.gy/WT/Ovacion
 
+#EXTINF:  TeleKanal="MonteRricoTv"     Iskhodnyy="MonteRicoTv"  tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 Deportes 🏀",MonteRricoTv 🏇 (1280x720)
+https://int.node.live.opencaster.com/play_src/index.m3u8?
+#EXTINF:  TeleKanal="MonteRricoTv"     Iskhodnyy="MonteRicoTv"  tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 Deportes 🏀",MonteRricoTv 🏇 (1280x720)
+https://int.node.live.opencaster.com/play_src/index.m3u8
+
 
 #EXTINF================================================================================================================================================================================================================================================================
 
