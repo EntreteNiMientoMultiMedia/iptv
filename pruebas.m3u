@@ -155,10 +155,10 @@ https://vmvpd.short.gy/WT/FMHKids
 #EXTINF:  TeleKanal="🔱Fun Box📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/FunBox" group-title="👶🏻 Infantil 🍼",Fun Box (1280x720)
 https://vmvpd.short.gy/WT/FunBox
 
-#EXTINF:  TeleKanal="🔱Fun Box📺"     Iskhodnyy="WT"  tvg-logo="" group-title="👶🏻 Infantil 🍼",Dreamworks (1280x720)
-https://tvg-logo.short.gy/WT/DreamWorks
-#EXTINF:  TeleKanal="💵Fun Box💵"     Iskhodnyy="EC"  tvg-logo="" group-title="👶🏻 Infantil 🍼",Dreamworks (1280x720)
-https://tvg-logo.short.gy/EC/DreamWorks
+#EXTINF:  TeleKanal="🔱Dreamworks📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/DreamWorks" group-title="👶🏻 Infantil 🍼",Dreamworks (1280x720)
+https://vmvpd.short.gy/WT/DreamWorks
+#EXTINF:  TeleKanal="💵Dreamworks💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/DreamWorks" group-title="👶🏻 Infantil 🍼",Dreamworks (1280x720)
+https://vmvpd.short.gy/EC/DreamWorks
 
 
 #EXTINF=================================================================================================================================================================================================
