@@ -151,20 +151,20 @@ https://vmvpd.short.gy/ZTv
 #EXTINF:  TeleKanal="💵Disney Jr💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/DisneyJr" group-title="🍼 Infantil 👶🏻",Disney Jr (1024x576)
 https://vmvpd.short.gy/EC/DisneyJr
 
-#EXTINF:  TeleKanal="💵Discovery Kids💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryKids" group-title="🍼 Infantil 👶🏻",Discovery Kids (1280x720)
-https://vmvpd.short.gy/EC/DiscoveryKids
-
-#EXTINF:  TeleKanal="💵Plim Plim💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/PlimPlim" group-title="🍼 Infantil 👶🏻",Plim Plim (1280x720)
-https://vmvpd.short.gy/EC/PlimPlim
-
 #EXTINF:  TeleKanal="💵Cartoonito💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/Cartoonito" group-title="🍼 Infantil 👶🏻",Cartoonito (1280x720)
 https://vmvpd.short.gy/EC/Cartoonito
+
+#EXTINF:  TeleKanal="💵Discovery Kids💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryKids" group-title="🍼 Infantil 👶🏻",Discovery Kids (1280x720)
+https://vmvpd.short.gy/EC/DiscoveryKids
 
 #EXTINF:  TeleKanal="🔱Fun Box📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/FunBox" group-title="🍼 Infantil 👶🏻",Fun Box (1280x720)
 https://vmvpd.short.gy/WT/FunBox
 
 #EXTINF:  TeleKanal="🎯PequeTv⏲️"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/PequeTv" group-title="🍼 Infantil 👶🏻",PequeTv (1920x1080)
 https://vmvpd.short.gy/T3B2/PequeTv
+
+#EXTINF:  TeleKanal="💵Plim Plim💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/PlimPlim" group-title="🍼 Infantil 👶🏻",Plim Plim (1280x720)
+https://vmvpd.short.gy/EC/PlimPlim
 
 #EXTINF:  TeleKanal="💵ZooMoo💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/ZooMoo" group-title="🍼 Infantil 👶🏻",ZooMoo (1024x576)
 https://vmvpd.short.gy/EC/ZooMoo
