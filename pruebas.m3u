@@ -214,14 +214,15 @@ https://vmvpd.short.gy/EC/ZooMoo
 #EXTINF=================================================================================================================================================================================================
 
 
-#EXTINF:    Iskhodnyy="✔️Exitosa✅"                  tvg-logo="" group-title="🗞️ Noticias Peruanas 🇵🇪",
-
-#EXTINF:    Iskhodnyy="🔱Exitosa📺"                  tvg-logo="" group-title="🗞️ Noticias Peruanas 🇵🇪",
-
-#EXTINF:    Iskhodnyy="💵Exitosa💸"                  tvg-logo="" group-title="🗞️ Noticias Peruanas 🇵🇪",
-
-#EXTINF:    Iskhodnyy="🎯Exitosa⏲️"                  tvg-logo="" group-title="🗞️ Noticias Peruanas 🇵🇪",
-
+#EXTINF:    Iskhodnyy="✔️Exitosa✅"                  tvg-logo="https://tvg-logo.short.gy/Exitosa" group-title="🗞️ Noticias Peruanas 🇵🇪",Exitosa (1280x720)
+https://vmvpd.short.gy/Exitosa
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/tracks-v1/index.fmp4.m3u8
+#EXTINF:    Iskhodnyy="🔱Exitosa📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Exitosa" group-title="🗞️ Noticias Peruanas 🇵🇪",Exitosa (1280x720)
+https://vmvpd.short.gy/WT/Exitosa
+#EXTINF:    Iskhodnyy="💵Exitosa💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Exitosa" group-title="🗞️ Noticias Peruanas 🇵🇪",Exitosa (1280x720)
+https://vmvpd.short.gy/EC/Exitosa
+#EXTINF:    Iskhodnyy="🎯Exitosa⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Exitosa" group-title="🗞️ Noticias Peruanas 🇵🇪",Exitosa (1280x720)
+https://vmvpd.short.gy/T3B2/Exitosa
 
 
 #EXTINF=================================================================================================================================================================================================
