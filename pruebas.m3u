@@ -2,8 +2,32 @@
 
 #EXTINF=================================================================================================================================================================================================
 
+
 #EXTINF:    Iskhodnyy="LG"        tvg-logo="https://tvg-logo.short.gy/VVin" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",😎 VerTv 📺 (1280x720)
 https://vmvpd.short.gy/VerTv
+
+
+#EXTINF=================================================================================================================================================================================================
+
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryKids" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Discovery Kids (1280x720)
+https://vmvpd.short.gy/EC/DiscoveryKids
+
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/DisneyJr" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Disney Jr (1280x720)
+https://vmvpd.short.gy/EC/DisneyJr
+
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Cartoonito" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Cartoonito (1280x720)
+https://vmvpd.short.gy/EC/Cartoonito
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/PlimPlim" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Plim Plim (1280x720)
+https://vmvpd.short.gy/EC/PlimPlim
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                    tvg-logo="https://tvg-logo.short.gy/WT/FunBox" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Fun Box (1280x720)
+https://vmvpd.short.gy/WT/FunBox
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/PequeTv" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Peque Tv (1920x1080)
+https://vmvpd.short.gy/T3B2/PequeTv
+
 
 #EXTINF=================================================================================================================================================================================================
 
@@ -148,23 +172,43 @@ https://vmvpd.short.gy/ZTv
 #EXTINF=================================================================================================================================================================================================
 
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryKids" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Discovery Kids (1280x720)
-https://vmvpd.short.gy/EC/DiscoveryKids
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CartoonNetWork" group-title="Niños y Juvenil 🔥 7 a 14 años 🌋",Cartoon NetWork (1280x720)
+https://vmvpd.short.gy/EC/CartoonNetWork
 
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/DisneyJr" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Disney Jr (1280x720)
-https://vmvpd.short.gy/EC/DisneyJr
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DisneyChannel" group-title="Niños y Juvenil 🔥 7 a 14 años 🌋",Disney Channel (1280x720)
+https://vmvpd.short.gy/EC/DisneyChannel
 
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Cartoonito" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Cartoonito (1280x720)
-https://vmvpd.short.gy/EC/Cartoonito
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/DreamWorks" group-title="Niños y Juvenil 🔥 7 a 14 años 🌋",Dream Works (1280x720)
+https://vmvpd.short.gy/WT/DreamWorks
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DreamWorks" group-title="Niños y Juvenil 🔥 7 a 14 años 🌋",Dream Works (1280x720)
+https://vmvpd.short.gy/EC/DreamWorks
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/PlimPlim" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Plim Plim (1280x720)
-https://vmvpd.short.gy/EC/PlimPlim
+#EXTINF:    Iskhodnyy="EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/ToonCast" group-title="Niños y Juvenil 🔥 7 a 14 años 🌋",Toon Cast (1280x720)
+https://vmvpd.short.gy/EC/ToonCast
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                    tvg-logo="https://tvg-logo.short.gy/WT/FunBox" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Fun Box (1280x720)
-https://vmvpd.short.gy/WT/FunBox
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/ChikiToonz" group-title="Niños y Juvenil 🔥 7 a 14 años 🌋",Chiki Toonz (1920x1080)
+https://vmvpd.short.gy/T3B2/ChikiToonz
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/PequeTv" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Peque Tv (1920x1080)
-https://vmvpd.short.gy/T3B2/PequeTv
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/FMHKids" group-title="Niños y Juvenil 🔥 7 a 14 años 🌋",FM H Kids (1280x720)
+https://vmvpd.short.gy/T3B2/FMHKids
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/FMHKids" group-title="Niños y Juvenil 🔥 7 a 14 años 🌋",FM H Kids (1280x720)
+https://vmvpd.short.gy/WT/FMHKids
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/CreoKids" group-title="Niños y Juvenil 🔥 7 a 14 años 🌋",Creo Kids (1920x1080)
+https://vmvpd.short.gy/T3B2/CreoKids
+
+
+#EXTINF=================================================================================================================================================================================================
+
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/PlayBoy" group-title="😈 Solo Adultos 🕵🏻‍♂️🕵🏼 Prohibido Menores 18 Años 🔞",🎮 PlayBoy 👶🏻 (1280x720)
+https://vmvpd.short.gy/EC/PlayBoy
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Venus" group-title="😈 Solo Adultos 🕵🏻‍♂️🕵🏼 Prohibido Menores 18 Años 🔞",🫟 Venus 🍆 (1024x576)
+https://vmvpd.short.gy/EC/Venus
+
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/ZooMoo" group-title="😈 Solo Adultos 🕵🏻‍♂️🕵🏼 Prohibido Menores 18 Años 🔞",Zoo Moo (1024x576)
+https://vmvpd.short.gy/EC/ZooMoo
 
 
 #EXTINF=================================================================================================================================================================================================
@@ -186,44 +230,3 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/vod/v447/40/vod-media.m3u8?_cdn_attr
 
 #EXTINF=================================================================================================================================================================================================
 
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CartoonNetWork" group-title="👽🤡👻🎃🤖👾💩👹 Niños y Juvenil 🔥 7 a 14 años 🌋",Cartoon NetWork (1280x720)
-https://vmvpd.short.gy/EC/CartoonNetWork
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DisneyChannel" group-title="👽🤡👻🎃🤖👾💩👹 Niños y Juvenil 🔥 7 a 14 años 🌋",Disney Channel (1280x720)
-https://vmvpd.short.gy/EC/DisneyChannel
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/DreamWorks" group-title="👽🤡👻🎃🤖👾💩👹 Niños y Juvenil 🔥 7 a 14 años 🌋",Dream Works (1280x720)
-https://vmvpd.short.gy/WT/DreamWorks
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DreamWorks" group-title="👽🤡👻🎃🤖👾💩👹 Niños y Juvenil 🔥 7 a 14 años 🌋",Dream Works (1280x720)
-https://vmvpd.short.gy/EC/DreamWorks
-
-#EXTINF:    Iskhodnyy="EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/ToonCast" group-title="👽🤡👻🎃🤖👾💩👹 Niños y Juvenil 🔥 7 a 14 años 🌋",Toon Cast (1280x720)
-https://vmvpd.short.gy/EC/ToonCast
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/ChikiToonz" group-title="👽🤡👻🎃🤖👾💩👹 Niños y Juvenil 🔥 7 a 14 años 🌋",Chiki Toonz (1920x1080)
-https://vmvpd.short.gy/T3B2/ChikiToonz
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/FMHKids" group-title="👽🤡👻🎃🤖👾💩👹 Niños y Juvenil 🔥 7 a 14 años 🌋",FM H Kids (1280x720)
-https://vmvpd.short.gy/T3B2/FMHKids
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/FMHKids" group-title="👽🤡👻🎃🤖👾💩👹 Niños y Juvenil 🔥 7 a 14 años 🌋",FM H Kids (1280x720)
-https://vmvpd.short.gy/WT/FMHKids
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/CreoKids" group-title="👽🤡👻🎃🤖👾💩👹 Niños y Juvenil 🔥 7 a 14 años 🌋",Creo Kids (1920x1080)
-https://vmvpd.short.gy/T3B2/CreoKids
-
-
-#EXTINF=================================================================================================================================================================================================
-
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/PlayBoy" group-title="😈 Solo Adultos 🕵🏻‍♂️🕵🏼 Prohibido Menores 18 Años 🔞",🎮 PlayBoy 👶🏻 (1280x720)
-https://vmvpd.short.gy/EC/PlayBoy
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Venus" group-title="😈 Solo Adultos 🕵🏻‍♂️🕵🏼 Prohibido Menores 18 Años 🔞",🫟 Venus 🍆 (1024x576)
-https://vmvpd.short.gy/EC/Venus
-
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/ZooMoo" group-title="😈 Solo Adultos 🕵🏻‍♂️🕵🏼 Prohibido Menores 18 Años 🔞",Zoo Moo (1024x576)
-https://vmvpd.short.gy/EC/ZooMoo
-
-
-#EXTINF=================================================================================================================================================================================================
