@@ -2,43 +2,43 @@
 
 #EXTINF=================================================================================================================================================================================================
 
-#EXTINF:  TeleKanal="Ver Tv"    Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/VVin" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",😎 VerTv 📺 (1280x720)
+#EXTINF:    Iskhodnyy="LG"        tvg-logo="https://tvg-logo.short.gy/VVin" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",😎 VerTv 📺 (1280x720)
 https://vmvpd.short.gy/VerTv
 
 #EXTINF=================================================================================================================================================================================================
 
 
-#EXTINF:  TeleKanal="🔱América📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/AmericaTv" group-title="🇵🇪📡 Primørdial 📺📲",América (1920x1080)
+#EXTINF:    Iskhodnyy="🔱WT📺"        tvg-logo="https://tvg-logo.short.gy/WT/AmericaTv" group-title="🇵🇪📡 Primørdial 📺📲",América (1920x1080)
 https://vmvpd.short.gy/WT/AmericaTv
-#EXTINF:  TeleKanal="💵América💸"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/AmericaTv" group-title="🇵🇪📡 Primørdial 📺📲", América (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"        tvg-logo="https://tvg-logo.short.gy/EC/AmericaTv" group-title="🇵🇪📡 Primørdial 📺📲", América (1280x720)
 https://vmvpd.short.gy/EC/AmericaTv
-#EXTINF:  TeleKanal="🎯Onegai⏲️"     Iskhodnyy="❌T3B2🚩0️⃣"  tvg-logo="https://tvg-logo.short.gy/T3B2/AmericaTv" group-title="🇵🇪📡 Primørdial 📺📲",América (1280x720)
+#EXTINF:    Iskhodnyy="❌🎯T3B2⏲️🚩0️⃣"    tvg-logo="https://tvg-logo.short.gy/T3B2/AmericaTv" group-title="🇵🇪📡 Primørdial 📺📲",América (1280x720)
 https://vmvpd.short.gy/T3B2/AmericaTv
 
-#EXTINF:  TeleKanal="✅✔️Latina✅✔️"     Iskhodnyy="Latina"  tvg-logo="https://tvg-logo.short.gy/LatinaTeleVision" group-title="🇵🇪📡 Primørdial 📺📲",Latina (1920x1080)
+#EXTINF:    Iskhodnyy="✔️Latina✅"        tvg-logo="https://tvg-logo.short.gy/LatinaTeleVision" group-title="🇵🇪📡 Primørdial 📺📲",Latina (1920x1080)
 https://vmvpd.short.gy/LatinaTeleVision
-#EXTINF:  TeleKanal="🔱Latina📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/LatinaTeleVisión" group-title="🇵🇪📡 Primørdial 📺📲",Latina (1920x1080)
+#EXTINF:    Iskhodnyy="🔱WT📺"        tvg-logo="https://tvg-logo.short.gy/WT/LatinaTeleVisión" group-title="🇵🇪📡 Primørdial 📺📲",Latina (1920x1080)
 https://vmvpd.short.gy/WT/LatinaTeleVision
-#EXTINF:  TeleKanal="🎯Latina⏲️"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/LatinaTeleVision" group-title="🇵🇪📡 Primørdial 📺📲",Latina (1280x720)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"        tvg-logo="https://tvg-logo.short.gy/T3B2/LatinaTeleVision" group-title="🇵🇪📡 Primørdial 📺📲",Latina (1280x720)
 https://vmvpd.short.gy/T3B2/LatinaTeleVision
-#EXTINF:  TeleKanal="💵Latina💸"     Iskhodnyy="❌EC🚩0️⃣"  tvg-logo="https://tvg-logo.short.gy/EC/LatinaTeleVision" group-title="🇵🇪📡 Primørdial 📺📲",Latina (1280x720)
+#EXTINF:    Iskhodnyy="❌💵EC💸🚩0️⃣"        tvg-logo="https://tvg-logo.short.gy/EC/LatinaTeleVision" group-title="🇵🇪📡 Primørdial 📺📲",Latina (1280x720)
 https://vmvpd.short.gy/EC/LatinaTeleVision
 
-#EXTINF:  TeleKanal="✅✔️ATV✅✔️"     Iskhodnyy="ATV"  tvg-logo="https://tvg-logo.short.gy/AndinaTeleVision" group-title="🇵🇪📡 Primørdial 📺📲",Andina (1280x720)
+#EXTINF    Iskhodnyy="✔️ATV✅"        tvg-logo="https://tvg-logo.short.gy/AndinaTeleVision" group-title="🇵🇪📡 Primørdial 📺📲",Andina (1280x720)
 https://vmvpd.short.gy/AndinaTeleVision
-#EXTINF:  TeleKanal="🔱ATV📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/AndinaTeleVision" group-title="🇵🇪📡 Primørdial 📺📲",Andina (1920x1080)
+#EXTINF:    Iskhodnyy="🔱WT📺"        tvg-logo="https://tvg-logo.short.gy/WT/AndinaTeleVision" group-title="🇵🇪📡 Primørdial 📺📲",Andina (1920x1080)
 https://vmvpd.short.gy/WT/AndinaTeleVision
-#EXTINF:  TeleKanal="💵ATV💸"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/AndinaTeleVision" group-title="🇵🇪📡 Primørdial 📺📲",Andina (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"        tvg-logo="https://tvg-logo.short.gy/EC/AndinaTeleVision" group-title="🇵🇪📡 Primørdial 📺📲",Andina (1280x720)
 https://vmvpd.short.gy/EC/AndinaTeleVision
-#EXTINF:  TeleKanal="🎯ATV⏲️"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/AndinaTeleVision" group-title="🇵🇪📡 Primørdial 📺📲",Andina (1280x720)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"        tvg-logo="https://tvg-logo.short.gy/T3B2/AndinaTeleVision" group-title="🇵🇪📡 Primørdial 📺📲",Andina (1280x720)
 https://vmvpd.short.gy/T3B2/AndinaTeleVision
 
 
-#EXTINF:  TeleKanal="🔱Panamericana📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/Panamericana" group-title="🇵🇪📡 Primørdial 📺📲",Panamericana (1920x1080)
+#EXTINF:    Iskhodnyy="🔱WT📺"        tvg-logo="https://tvg-logo.short.gy/WT/Panamericana" group-title="🇵🇪📡 Primørdial 📺📲",Panamericana (1920x1080)
 https://vmvpd.short.gy/WT/Panamericana
-#EXTINF:  TeleKanal="💵Panamericana💸"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/Panamericana" group-title="🇵🇪📡 Primørdial 📺📲",Panamericana (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"        tvg-logo="https://tvg-logo.short.gy/EC/Panamericana" group-title="🇵🇪📡 Primørdial 📺📲",Panamericana (1280x720)
 https://vmvpd.short.gy/EC/Panamericana
-#EXTINF:  TeleKanal="🎯Panamericana⏲️"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/Panamericana" group-title="🇵🇪📡 Primørdial 📺📲",Panamericana (1280x720)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"        tvg-logo="https://tvg-logo.short.gy/T3B2/Panamericana" group-title="🇵🇪📡 Primørdial 📺📲",Panamericana (1280x720)
 https://vmvpd.short.gy/T3B2/Panamericana
 
 
