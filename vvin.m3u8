@@ -1,133 +1,151 @@
 ﻿#EXTM3U8
 
-#EXTINF================================================================================================================================================================================================================================================================
+#EXTINF=================================================================================================================================================================================================
 
-#EXTINF:  TeleKanal="Ver Tv"    Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/VVin" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",VerTv 1280x720
+#EXTINF:  TeleKanal="Ver Tv"    Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/VVin" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",😎 VerTv 📺 (1280x720)
 https://vmvpd.short.gy/VerTv
-
-#EXTINF:  TeleKanal="Anima Kids"    Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/AnimaKids" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",🇻🇳 Anima Kids 🇻🇳 1920x1080
-https://vmvpd.short.gy/T3B2/AnimaKids
-
-#EXTINF:  TeleKanal="Anime Visión"    Iskhodnyy="CF"  tvg-logo="https://tvg-logo.short.gy/AnimeVision" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Anime Visión 1920x1080
-https://vmvpd.short.gy/AnimeVision
-#EXTINF:  TeleKanal="Anime Visión Clásicos"    Iskhodnyy="CF"  tvg-logo="https://tvg-logo.short.gy/AnimeVisionClasicos" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Anime Visión Clásicos 1920x1080
-https://vmvpd.short.gy/AnimeVisionClasicos
-
-#EXTINF:  TeleKanal="Anime Onegai 1"    Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai1" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 1 1280x720
-https://vmvpd.short.gy/Onegai1
-#EXTINF:  TeleKanal="Anime Onegai 2"    Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai2" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 2 1280x720
-https://vmvpd.short.gy/Onegai2
-#EXTINF:  TeleKanal="Anime Onegai 3"     Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai3" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 3 1280x720
-https://vmvpd.short.gy/Onegai3
-#EXTINF:  TeleKanal="Anime Onegai 5"     Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai5" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Onegai 5 1280x720
-https://vmvpd.short.gy/Onegai5
-
-#EXTINF:  TeleKanal="Wasabi la chaîne"     Iskhodnyy="RT"  tvg-logo="https://tvg-logo.short.gy/Wasabi" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",Wasabi la chaîne 1920x1080
-https://vmvpd.short.gy/Wasabi
-#EXTINF:  TeleKanal="ZTv Anime"     Iskhodnyy="ZP"  tvg-logo="https://tvg-logo.short.gy/ZTv" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",ZTV
-https://vmvpd.short.gy/ZTv
-
-#EXTINF================================================================================================================================================================================================================================================================
+#EXTINF=================================================================================================================================================================================================
 
 
-#EXTINF:  TeleKanal="América"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/AmericaTv" group-title="⭐ Top Perú 🇵🇪",🔱 América TeleVisión 🔱 1920x1080
+#EXTINF:  TeleKanal="🔱América📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/AmericaTv" group-title="⭐ Top Perú 🇵🇪",América (1920x1080)
 https://vmvpd.short.gy/WT/AmericaTv
-#EXTINF:  TeleKanal="América"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/AmericaTv" group-title="⭐ Top Perú 🇵🇪",🇻🇳 América TeleVisión 🇻🇳 1920x1080
-https://vmvpd.short.gy/T3B2/AmericaTv
-#EXTINF:  TeleKanal="América"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/AmericaTv" group-title="⭐ Top Perú 🇵🇪",💸 América TeleVisión 💸 1280x720
+#EXTINF:  TeleKanal="💵América💸"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/AmericaTv" group-title="⭐ Top Perú 🇵🇪", América (1280x720)
 https://vmvpd.short.gy/EC/AmericaTv
+#EXTINF:  TeleKanal="🎯América⏲️"     Iskhodnyy="❌T3B2🚩0️⃣"  tvg-logo="https://tvg-logo.short.gy/T3B2/AmericaTv" group-title="⭐ Top Perú 🇵🇪",América (1920x1080)
+https://vmvpd.short.gy/T3B2/AmericaTv
 
-
-#EXTINF:  TeleKanal="Latina"     Iskhodnyy="Latina"  tvg-logo="https://tvg-logo.short.gy/LatinaTeleVision" group-title="⭐ Top Perú 🇵🇪",✅✔️ Latina TeleVisión ✅✔️ 1920x1080
+#EXTINF:  TeleKanal="✅✔️Latina✅✔️"     Iskhodnyy="Latina"  tvg-logo="https://tvg-logo.short.gy/LatinaTeleVision" group-title="⭐ Top Perú 🇵🇪",Latina (1920x1080)
 https://vmvpd.short.gy/LatinaTeleVision
-#EXTINF:  TeleKanal="Latina"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/LatinaTeleVisión" group-title="⭐ Top Perú 🇵🇪",🔱 Latina TeleVisión 🔱 1920x1080
+#EXTINF:  TeleKanal="🔱Latina📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/LatinaTeleVisión" group-title="⭐ Top Perú 🇵🇪",Latina (1920x1080)
 https://vmvpd.short.gy/WT/LatinaTeleVision
-#EXTINF:  TeleKanal="Latina"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/LatinaTeleVision" group-title="⭐ Top Perú 🇵🇪",💸 Latina TeleVisión 💸 1280x720
-https://vmvpd.short.gy/EC/LatinaTeleVision
-#EXTINF:  TeleKanal="Latina"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/LatinaTeleVision" group-title="⭐ Top Perú 🇵🇪",🇻🇳 Latina TeleVisión 🇻🇳 1280x720
+#EXTINF:  TeleKanal="🎯Latina⏲️"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/LatinaTeleVision" group-title="⭐ Top Perú 🇵🇪",Latina (1280x720)
 https://vmvpd.short.gy/T3B2/LatinaTeleVision
+#EXTINF:  TeleKanal="💵Latina💸"     Iskhodnyy="❌EC🚩0️⃣"  tvg-logo="https://tvg-logo.short.gy/EC/LatinaTeleVision" group-title="⭐ Top Perú 🇵🇪",Latina (1280x720)
+https://vmvpd.short.gy/EC/LatinaTeleVision
 
-
-#EXTINF:  TeleKanal="ATV"     Iskhodnyy="ATV"  tvg-logo="https://tvg-logo.short.gy/AndinaTeleVision" group-title="⭐ Top Perú 🇵🇪",✅✔️ ATV ✅✔️ 1280x720
+#EXTINF:  TeleKanal="✅✔️ATV✅✔️"     Iskhodnyy="ATV"  tvg-logo="https://tvg-logo.short.gy/AndinaTeleVision" group-title="⭐ Top Perú 🇵🇪",Andina (1280x720)
 https://vmvpd.short.gy/AndinaTeleVision
-#EXTINF:  TeleKanal="ATV"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/AndinaTeleVision" group-title="⭐ Top Perú 🇵🇪",🔱 ATV 🔱 1920x1080
+#EXTINF:  TeleKanal="🔱ATV📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/AndinaTeleVision" group-title="⭐ Top Perú 🇵🇪",Andina (1920x1080)
 https://vmvpd.short.gy/WT/AndinaTeleVision
-#EXTINF:  TeleKanal="ATV"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/AndinaTeleVision" group-title="⭐ Top Perú 🇵🇪",💸 ATV 💸 1280x720
+#EXTINF:  TeleKanal="💵ATV💸"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/AndinaTeleVision" group-title="⭐ Top Perú 🇵🇪",Andina (1280x720)
 https://vmvpd.short.gy/EC/AndinaTeleVision
-#EXTINF:  TeleKanal="ATV"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/AndinaTeleVision" group-title="⭐ Top Perú 🇵🇪",🇻🇳 ATV 🇻🇳 1280x720
+#EXTINF:  TeleKanal="🎯ATV⏲️"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/AndinaTeleVision" group-title="⭐ Top Perú 🇵🇪",Andina (1280x720)
 https://vmvpd.short.gy/T3B2/AndinaTeleVision
 
 
-#EXTINF:  TeleKanal="Panamericana"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/Panamericana" group-title="⭐ Top Perú 🇵🇪",🔱 Panamericana TeleVisión 🔱 1920x1080
+#EXTINF:  TeleKanal="🔱Panamericana📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/Panamericana" group-title="⭐ Top Perú 🇵🇪",Panamericana (1920x1080)
 https://vmvpd.short.gy/WT/Panamericana
-#EXTINF:  TeleKanal="Panamericana"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/Panamericana" group-title="⭐ Top Perú 🇵🇪",💸 Panamericana TeleVisión 💸 1280x720
+#EXTINF:  TeleKanal="💵Panamericana💸"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/Panamericana" group-title="⭐ Top Perú 🇵🇪",Panamericana (1280x720)
 https://vmvpd.short.gy/EC/Panamericana
-#EXTINF:  TeleKanal="Panamericana"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/Panamericana" group-title="⭐ Top Perú 🇵🇪",🇻🇳 Panamericana TeleVisión 🇻🇳 1280x720
+#EXTINF:  TeleKanal="🎯Panamericana⏲️"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/Panamericana" group-title="⭐ Top Perú 🇵🇪",Panamericana (1280x720)
 https://vmvpd.short.gy/T3B2/Panamericana
 
 
-#EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/TvPeru" group-title="⭐ Top Perú 🇵🇪",🔱 Tv Perú 🔱 1920x1080
+#EXTINF:  TeleKanal="🔱Tv Perú📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/TvPeru" group-title="⭐ Top Perú 🇵🇪",📺 🇵🇪 (1920x1080)
 https://vmvpd.short.gy/WT/TvPeru
-#EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/TvPeru" group-title="⭐ Top Perú 🇵🇪",💸 Tv Perú 💸 1280x720
+#EXTINF:  TeleKanal="💵Tv Perú💸"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/TvPeru" group-title="⭐ Top Perú 🇵🇪",📺 🇵🇪 (1280x720)
 https://vmvpd.short.gy/EC/TvPeru
-#EXTINF:  TeleKanal="Tv Perú"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/TvPeru" group-title="⭐ Top Perú 🇵🇪",🇻🇳 Tv Perú 🇻🇳 1280x720
+#EXTINF:  TeleKanal="🎯Tv Perú⏲️"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/TvPeru" group-title="⭐ Top Perú 🇵🇪",📺 🇵🇪 (1280x720)
 https://vmvpd.short.gy/T3B2/TvPeru
 
 
-#EXTINF:  TeleKanal="Willax"     Iskhodnyy="Willax"  tvg-logo="https://tvg-logo.short.gy/Willax" group-title="⭐ Top Perú 🇵🇪",✅✔️ wɪʎaχa ✅✔️ 1920x1080
-https://vmvpd.short.gy/Willax
-#EXTINF:  TeleKanal="Willax"     Iskhodnyy="WTV"  tvg-logo="https://tvg-logo.short.gy/WT/Willax" group-title="⭐ Top Perú 🇵🇪",🔱 wɪʎaχa 🔱 1280x720
+#EXTINF:  TeleKanal="🔱Willax📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/Willax" group-title="⭐ Top Perú 🇵🇪",wɪʎaχa (1280x720)
 https://vmvpd.short.gy/WT/Willax
-#EXTINF:  TeleKanal="Willax"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/Willax" group-title="⭐ Top Perú 🇵🇪",💸 wɪʎaχa 💸 1280x720
+#EXTINF:  TeleKanal="💵Willax💸"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/Willax" group-title="⭐ Top Perú 🇵🇪",wɪʎaχa (1280x720)
 https://vmvpd.short.gy/EC/Willax
-#EXTINF:  TeleKanal="Willax"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/Willax" group-title="⭐ Top Perú 🇵🇪",🇻🇳 wɪʎaχa 🇻🇳 1280x720
+#EXTINF:  TeleKanal="🎯Willax⏲️"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/Willax" group-title="⭐ Top Perú 🇵🇪",wɪʎaχa (1280x720)
 https://vmvpd.short.gy/T3B2/Willax
+#EXTINF:  TeleKanal="✅✔️Willax✅✔️"     Iskhodnyy="❌Willax🚩0️⃣"  tvg-logo="https://tvg-logo.short.gy/Willax" group-title="⭐ Top Perú 🇵🇪",wɪʎaχa (1920x1080)
+https://vmvpd.short.gy/Willax
 
 
-#EXTINF:  TeleKanal="RPP"     Iskhodnyy="RPP"  tvg-logo="https://tvg-logo.short.gy/RPP" group-title="⭐ Top Perú 🇵🇪",✅✔️ RPP Tv ✅✔️ 1280x720
-https://vmvpd.short.gy/RPP
-#EXTINF:  TeleKanal="RPP"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/RPP" group-title="⭐ Top Perú 🇵🇪",🇻🇳 RPP Tv 🇻🇳 1920x1080
-https://vmvpd.short.gy/T3B2/RPP
-#EXTINF:  TeleKanal="RPP"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/RPP" group-title="⭐ Top Perú 🇵🇪",🔱 RPP Tv 🔱 1280x720
+#EXTINF:  TeleKanal="🔱RPP📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/RPP" group-title="⭐ Top Perú 🇵🇪",РПП Тв (1280x720)
 https://vmvpd.short.gy/WT/RPP
-#EXTINF:  TeleKanal="RPP"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/RPP" group-title="⭐ Top Perú 🇵🇪",💸 RPP Tv 💸 1280x720
+#EXTINF:  TeleKanal="💵RPP💸"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/RPP" group-title="⭐ Top Perú 🇵🇪",РПП Тв (1280x720)
 https://vmvpd.short.gy/EC/RPP
+#EXTINF:  TeleKanal="✅✔️RPP✅✔️"     Iskhodnyy="❌RPP🚩0️⃣"  tvg-logo="https://tvg-logo.short.gy/RPP" group-title="⭐ Top Perú 🇵🇪",РПП Тв (1280x720)
+https://vmvpd.short.gy/RPP
+#EXTINF:  TeleKanal="🎯RPP⏲️"     Iskhodnyy="❌T3B2🚩0️⃣"  tvg-logo="https://tvg-logo.short.gy/T3B2/RPP" group-title="⭐ Top Perú 🇵🇪",РПП Тв (1920x1080)
+https://vmvpd.short.gy/T3B2/RPP
 
 
-#EXTINF================================================================================================================================================================================================================================================================
+#EXTINF=================================================================================================================================================================================================
 
 
-#EXTINF:  TeleKanal="Onegai 4 Deportes"     Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai4Deportes" group-title="Anime 🇯🇵 🇵🇪" group-title="🥊 Deportes",🥊 Onegai Deportes 🥊 1280x720
+#EXTINF:  TeleKanal="Onegai 4 Deportes"     Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai4Deportes" group-title="Anime 🇯🇵 🇵🇪" group-title="🥊 Deportes 🏀",🥊 Onegai Deportes 🇯🇵 (1280x720)
 https://vmvpd.short.gy/Onegai4Deportes
 
-#EXTINF:  TeleKanal="L1 Max"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/L1Max" group-title="🥊 Deportes",🔱 L1 Max 🔱 1280x720
-https://vmvpd.short.gy/WT/L1Max
+#EXTINF:  TeleKanal="🔱Titan📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/Titan" group-title="🥊 Deportes 🏀",Titán 🥊 (1280x720)
+https://vmvpd.short.gy/WT/Titan
 
-#EXTINF:  TeleKanal="L1"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/L1" group-title="🥊 Deportes",🔱 L1 🔱 1280x720
+#EXTINF:  TeleKanal="🔱E Sports Go📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/ESportsGo" group-title="🥊 Deportes 🏀",E Sports Go 🎮 (720x576)
+https://vmvpd.short.gy/WT/ESportsGo
+
+#EXTINF:  TeleKanal="🔱L1 Max📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/L1Max" group-title="🥊 Deportes 🏀",L1 Max ⚽ (1280x720)
+https://vmvpd.short.gy/WT/L1Max
+#EXTINF:  TeleKanal="🎯L1 Max⏲️"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/L1Max" group-title="🥊 Deportes 🏀",L1 Max ⚽
+https://vmvpd.short.gy/T3B2/L1Max
+
+#EXTINF:  TeleKanal="MonteRricoTv"     Iskhodnyy="MonteRicoTv"  tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 Deportes 🏀",MonteRricoTv 🏇 (1280x720)
+https://vmvpd.short.gy/MonteRicoTv
+#EXTINF:  TeleKanal="✅✔️MonteRricoTv✅✔️"     Iskhodnyy="MonteRicoTv"  tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 Deportes 🏀",MonteRricoTv 🏇 (1920x1080)
+https://vmvpd.short.gy/MonteRricoTv
+#EXTINF:  TeleKanal="MonteRricoTv"     Iskhodnyy="MonteRicoTv"  tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 Deportes 🏀",MonteRricoTv 🏇 (1280x720)
+https://vmvpd.short.gy/MonteRrricoTv
+
+#EXTINF:  TeleKanal="🔱L1📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/L1" group-title="🥊 Deportes 🏀",L1 ⚽ (1280x720)
 https://vmvpd.short.gy/WT/L1
 
-#EXTINF:  TeleKanal="Fierro a Fondo"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/FierroAFondo" group-title="🥊 Deportes",🇻🇳 Fierro a Fondo 🇻🇳 1920x1080
+#EXTINF:  TeleKanal="🎯Fierro a Fondo⏲️"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/FierroAFondo" group-title="🥊 Deportes 🏀",Fierro a Fondo 🏎️ (1920x1080)
 https://vmvpd.short.gy/T3B2/FierroAFondo
-#EXTINF:  TeleKanal="Fierro a Fondo"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/FierroAFondo" group-title="🥊 Deportes",💸 Fierro a Fondo 💸 1280x720
+#EXTINF:  TeleKanal="💵Fierro a Fondo💸"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/FierroAFondo" group-title="🥊 Deportes 🏀",Fierro a Fondo 🏎️ (1280x720)
 https://vmvpd.short.gy/EC/FierroAFondo
 
+#EXTINF:  TeleKanal="🎯Ovacion⏲️"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/Ovacion" group-title="🥊 Deportes 🏀",Ovacion ⚽ (1920x1080)
+https://vmvpd.short.gy/T3B2/Ovacion
+#EXTINF:  TeleKanal="💵Ovacion💸"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/Ovacion" group-title="🥊 Deportes 🏀",Ovacion ⚽ (1280x720)
+https://vmvpd.short.gy/EC/Ovacion
+#EXTINF:  TeleKanal="🔱Ovacion📺"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/WT/Ovacion" group-title="🥊 Deportes 🏀",Ovacion ⚽ (1280x720)
+https://vmvpd.short.gy/WT/Ovacion
+
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="https://alba-pe-atv.cdn.mediatiquepress.com/wp-content/uploads/2025/01/ATVmas-150x50.png" group-title="ATV+ 🇵🇪 ",Andina+ ✅✔️ 1280x720p
-https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/medialist_15609871089997455276_hls.m3u8
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/22/1763740481859/003b34712f87_480_270.png" group-title="ATV+ 🇵🇪 ",Andina+ 🇻🇳 1280x720p
-https://live-evg20.tv360.bitel.com.pe/bitel/Atv+-UDP_abr/bitel/Atv+-udp_720p/chunks.m3u8
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/22/1763740481859/003b34712f87_480_270.png" group-title="ATV+ 🇵🇪 ",Andina+ 🇻🇳 854x480p
-https://live-evg20.tv360.bitel.com.pe/bitel/Atv+-UDP_abr/bitel/Atv+-udp_480p/chunks.m3u8
+#EXTINF:  TeleKanal="🎯Anima Kids⏲️"    Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/AnimaKids" group-title="👀 Animatsiya 🎌",Anima Kids (1920x1080)
+https://vmvpd.short.gy/T3B2/AnimaKids
 
-#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FATVMAS.png&width=50&height=50" group-title="ATV+ 🇵🇪 ",Andina+ 💸 1280x720p
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATVMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVMAS_stream_nu&_cdn_session=3407014965&_cdn_token=4296d033051c16166abc9f538e31bfeeb8fd20ef
-#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FATVMAS.png&width=50&height=50" group-title="ATV+ 🇵🇪 ",Andina+ 💸 1024x576p
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATVMAS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVMAS_stream_nu&_cdn_session=3406974165&_cdn_token=cc6deb3b9ab3d20706ba8a94869be04100730ee0
+#EXTINF:  TeleKanal="🔱BitMe📺"    Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/BitMe" group-title="👀 Animatsiya 🎌",BitMe (1280x720)
+https://vmvpd.short.gy/WT/BitMe
+#EXTINF:  TeleKanal="💵BitMe💸"    Iskhodnyy="CF"  tvg-logo="https://tvg-logo.short.gy/EC/BitMe" group-title="👀 Animatsiya 🎌",BitMe (720x576)
+https://vmvpd.short.gy/EC/BitMe
 
-#EXTINF================================================================================================================================================================================================================================================================
+#EXTINF:  TeleKanal="Anime Visión"    Iskhodnyy="CF"  tvg-logo="https://tvg-logo.short.gy/AnimeVision" group-title="👀 Animatsiya 🎌",Anime Visión (1920x1080)
+https://vmvpd.short.gy/AnimeVision
+#EXTINF:  TeleKanal="Anime Visión Clásicos"    Iskhodnyy="CF"  tvg-logo="https://tvg-logo.short.gy/AnimeVisionClasicos" group-title="👀 Animatsiya 🎌",Anime Visión Clásicos (1920x1080)
+https://vmvpd.short.gy/AnimeVisionClasicos
+
+#EXTINF:  TeleKanal="Anime Onegai 1"    Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai1" group-title="👀 Animatsiya 🎌",Onegai 1 (1280x720)
+https://vmvpd.short.gy/Onegai1
+#EXTINF:  TeleKanal="Anime Onegai 2"    Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai2" group-title="👀 Animatsiya 🎌",Onegai 2 (1280x720)
+https://vmvpd.short.gy/Onegai2
+#EXTINF:  TeleKanal="Anime Onegai 3"     Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai3" group-title="👀 Animatsiya 🎌",Onegai 3 (1280x720)
+https://vmvpd.short.gy/Onegai3
+#EXTINF:  TeleKanal="Anime Onegai 5"     Iskhodnyy="LG"  tvg-logo="https://tvg-logo.short.gy/Onegai5" group-title="👀 Animatsiya 🎌",Onegai 5 (1280x720)
+https://vmvpd.short.gy/Onegai5
+
+#EXTINF:  TeleKanal="💵Adult Swim💸"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/AdultSwim" group-title="👀 Animatsiya 🎌",🔞Adult🫥Swim (1280x720)
+https://vmvpd.short.gy/EC/AdultSwim
+
+#EXTINF:  TeleKanal="Wasabi la chaîne"     Iskhodnyy="RT"  tvg-logo="https://tvg-logo.short.gy/Wasabi" group-title="👀 Animatsiya 🎌",Wasabi la chaîne (1920x1080)
+https://vmvpd.short.gy/Wasabi
+
+#EXTINF:  TeleKanal="ZTv Anime"     Iskhodnyy="ZP"  tvg-logo="https://tvg-logo.short.gy/ZTv" group-title="👀 Animatsiya 🎌",ZTV
+https://vmvpd.short.gy/ZTv
+
+
+#EXTINF=================================================================================================================================================================================================
+
 
 #EXTINF: tvg-logo="https://alba-pe-atv.cdn.mediatiquepress.com/wp-content/uploads/2025/01/ATVsur-150x47.png" group-title="ATV Sur 🇵🇪 ",Andina Sur ✅✔️ 1280x720p
 https://d2qsan2ut81n2k.cloudfront.net/live/1dedd057-0bc1-44a7-a747-bd52e12166b3/medialist_15609871089997455276_hls.m3u8
