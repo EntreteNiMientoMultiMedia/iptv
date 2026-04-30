@@ -103,6 +103,18 @@ https://vmvpd.short.gy/EC/Ovacion
 https://vmvpd.short.gy/WT/Ovacion
 
 
+
+
+#EXTINF: tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="🥊 Deportes 🏀",MonteRricoTv 🇵🇪
+https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
+
+#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🥊 Deportes 🏀",DirecTV Sports 🇺🇸
+http://38.183.182.166:8000/play/a125/index.m3u8
+
+#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="🥊 Deportes 🏀",ESPN Deportes 🇺🇸
+https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+
+
 #EXTINF================================================================================================================================================================================================================================================================
 
 
