@@ -231,6 +231,15 @@ https://vmvpd.short.gy/EC/PBO
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/PBO" group-title="🗞️ Noticias Peruanas 🇵🇪",PBO (1280x720)
 https://vmvpd.short.gy/T3B2/PBO
 
+#EXTINF:    Iskhodnyy="✔️ATV+✅"                  tvg-logo="https://tvg-logo.short.gy/Andina+" group-title="🗞️ Noticias Peruanas 🇵🇪",Andina+ (1280x720)
+https://vmvpd.short.gy/ATV+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Andina+" group-title="🗞️ Noticias Peruanas 🇵🇪",Andina+ (720x576)
+https://vmvpd.short.gy/WT/ATV+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Andina+" group-title="🗞️ Noticias Peruanas 🇵🇪",Andina+ (1280x720)
+https://vmvpd.short.gy/EC/ATV+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Andina+" group-title="🗞️ Noticias Peruanas 🇵🇪",Andina+ (1280x720)
+https://vmvpd.short.gy/T3B2/ATV+
+
 
 #EXTINF=================================================================================================================================================================================================
 
