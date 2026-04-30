@@ -147,32 +147,6 @@ https://vmvpd.short.gy/ZTv
 
 #EXTINF=================================================================================================================================================================================================
 
-#EXTINF:  TeleKanal="💵Cartoon NetWork💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/CartoonNetWork" group-title="🍼 Infantil 👶🏻",Cartoon NetWork (1280x720)
-https://vmvpd.short.gy/EC/CartoonNetWork
-
-#EXTINF:  TeleKanal="💵Disney Channel💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/DisneyChannel" group-title="🍼 Infantil 👶🏻",Disney Channel (1280x720)
-https://vmvpd.short.gy/EC/DisneyChannel
-
-#EXTINF:  TeleKanal="🔱Dreamworks📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/DreamWorks" group-title="🍼 Infantil 👶🏻",Dreamworks (1280x720)
-https://vmvpd.short.gy/WT/DreamWorks
-#EXTINF:  TeleKanal="💵Dreamworks💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/DreamWorks" group-title="🍼 Infantil 👶🏻",Dreamworks (1280x720)
-https://vmvpd.short.gy/EC/DreamWorks
-
-#EXTINF:  TeleKanal="💵ToonCast💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/ToonCast" group-title="🍼 Infantil 👶🏻",ToonCast (1280x720)
-https://vmvpd.short.gy/EC/ToonCast
-
-#EXTINF:  TeleKanal="🎯Chiki Toonz⏲️"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/ChikiToonz" group-title="🍼 Infantil 👶🏻",Chiki Toonz (1920x1080)
-https://vmvpd.short.gy/T3B2/ChikiToonz
-
-#EXTINF:  TeleKanal="🎯Creo Kids⏲️"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/CreoKids" group-title="🍼 Infantil 👶🏻",Creo Kids (1920x1080)
-https://vmvpd.short.gy/T3B2/CreoKids
-
-#EXTINF:  TeleKanal="🎯FM H Kids⏲️"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/FMHKids" group-title="🍼 Infantil 👶🏻",FM H Kids (1280x720)
-https://vmvpd.short.gy/T3B2/FMHKids
-#EXTINF:  TeleKanal="🔱FM H Kids📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/FMHKids" group-title="🍼 Infantil 👶🏻",FM H Kids (1280x720)
-https://vmvpd.short.gy/WT/FMHKids
-
-
 
 #EXTINF:  TeleKanal="💵Disney Jr💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/DisneyJr" group-title="🍼 Infantil 👶🏻",Disney Jr (1024x576)
 https://vmvpd.short.gy/EC/DisneyJr
@@ -211,6 +185,35 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/vod/v426/40/vod-media.m3u8?_cdn_attr
 https://cdn4.eco.cdn.moderntv.eu/econocable/vod/v429/40/vod-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dv429_vod_y3&_cdn_session=3894031235&_cdn_token=f40da380e9a9ce4b8b0d87cc8076afefd8f4e472
 #EXTINF:  TeleKanal="Películas"     Iskhodnyy="EC"  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/jpg?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fstatic%2Fbackdrops%2F654%2F3081654_1280.jpg&width=1280" group-title="Películas",Sugar en aprietos
 https://cdn5.eco.cdn.moderntv.eu/econocable/vod/v447/40/vod-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dv447_vod_v4&_cdn_session=3894033675&_cdn_token=5223acc21161566a8c766c5263665697a6832ec6
+
+
+#EXTINF=================================================================================================================================================================================================
+
+
+#EXTINF:  TeleKanal="💵Cartoon NetWork💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/CartoonNetWork" group-title="🍼 Niñas 👶🏻",Cartoon NetWork (1280x720)
+https://vmvpd.short.gy/EC/CartoonNetWork
+
+#EXTINF:  TeleKanal="💵Disney Channel💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/DisneyChannel" group-title="🍼 Niñas 👶🏻",Disney Channel (1280x720)
+https://vmvpd.short.gy/EC/DisneyChannel
+
+#EXTINF:  TeleKanal="🔱Dreamworks📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/DreamWorks" group-title="🍼 Niñas 👶🏻",Dreamworks (1280x720)
+https://vmvpd.short.gy/WT/DreamWorks
+#EXTINF:  TeleKanal="💵Dreamworks💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/DreamWorks" group-title="🍼 Niñas 👶🏻",Dreamworks (1280x720)
+https://vmvpd.short.gy/EC/DreamWorks
+
+#EXTINF:  TeleKanal="💵ToonCast💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/ToonCast" group-title="🍼 Niñas 👶🏻",ToonCast (1280x720)
+https://vmvpd.short.gy/EC/ToonCast
+
+#EXTINF:  TeleKanal="🎯Chiki Toonz⏲️"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/ChikiToonz" group-title="🍼 Niñas 👶🏻",Chiki Toonz (1920x1080)
+https://vmvpd.short.gy/T3B2/ChikiToonz
+
+#EXTINF:  TeleKanal="🎯Creo Kids⏲️"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/CreoKids" group-title="🍼 Niñas 👶🏻",Creo Kids (1920x1080)
+https://vmvpd.short.gy/T3B2/CreoKids
+
+#EXTINF:  TeleKanal="🎯FM H Kids⏲️"     Iskhodnyy="T3B2"  tvg-logo="https://tvg-logo.short.gy/T3B2/FMHKids" group-title="🍼 Niñas 👶🏻",FM H Kids (1280x720)
+https://vmvpd.short.gy/T3B2/FMHKids
+#EXTINF:  TeleKanal="🔱FM H Kids📺"     Iskhodnyy="WT"  tvg-logo="https://tvg-logo.short.gy/WT/FMHKids" group-title="🍼 Niñas 👶🏻",FM H Kids (1280x720)
+https://vmvpd.short.gy/WT/FMHKids
 
 
 #EXTINF=================================================================================================================================================================================================
