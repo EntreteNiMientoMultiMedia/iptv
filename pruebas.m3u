@@ -147,6 +147,11 @@ https://vmvpd.short.gy/ZTv
 
 #EXTINF=================================================================================================================================================================================================
 
+#EXTINF:  TeleKanal="💵Cartoon NetWork💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/CartoonNetWork" group-title="🍼 Infantil 👶🏻",Cartoon NetWork (1280x720)
+https://vmvpd.short.gy/EC/CartoonNetWork
+
+#EXTINF:  TeleKanal="💵Disney Channel💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/DisneyChannel" group-title="🍼 Infantil 👶🏻",Disney Channel (1280x720)
+https://vmvpd.short.gy/EC/DisneyChannel
 
 #EXTINF:  TeleKanal="💵ToonCast💵"     Iskhodnyy="EC"  tvg-logo="https://tvg-logo.short.gy/EC/ToonCast" group-title="🍼 Infantil 👶🏻",ToonCast (1280x720)
 https://vmvpd.short.gy/EC/ToonCast
