@@ -194,11 +194,13 @@ https://vmvpd.short.gy/T3B2/LatinaNoticias
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/TvPeruNoticias" group-title="🗞️ Noticiero Perûąnø 🇵🇪",TvPe Noticias (720x576)
 https://vmvpd.short.gy/WT/TvPeruNoticias
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/JusticiaTv" group-title="🗞️ Noticiero Perûąnø 🇵🇪",Justicia (720x576)
-https://vmvpd.short.gy/WT/JusticiaTv
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/JusticiaTv" group-title="🗞️ Noticiero Perûąnø 🇵🇪",Justicia (1280x720)
 https://vmvpd.short.gy/EC/JusticiaTv
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/JusticiaTv" group-title="🗞️ Noticiero Perûąnø 🇵🇪",Justicia (720x576)
+https://vmvpd.short.gy/WT/JusticiaTv
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LaNoticiaTv" group-title="🗞️ Noticiero Perûąnø 🇵🇪",La Noticia (1280x720)
+https://vmvpd.short.gy/EC/LaNoticiaTv
 
 #EXTINF=================================================================================================================================================================================================
 
