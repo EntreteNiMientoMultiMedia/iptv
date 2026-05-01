@@ -175,9 +175,9 @@ https://vmvpd.short.gy/EC/PBO
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/PBO" group-title="🗞️ Noticiero Peruano 🇵🇪",PBO (1280x720)
 https://vmvpd.short.gy/T3B2/PBO
 
-#EXTINF:    Iskhodnyy="✔️Sol Tv✅"                  tvg-logo="https://tvg-logo.short.gy/SolTv" group-title="🗞️ Noticiero Peruano 🇵🇪",Sol (1280x720)
+#EXTINF:    Iskhodnyy="✔️Sol Tv✅"                  tvg-logo="" group-title="🗞️ Noticiero Peruano 🇵🇪",Sol (1280x720)
 https://vmvpd.short.gy/SolTv
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/SolTv" group-title="🗞️ Noticiero Peruano 🇵🇪",Sol (1280x720)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🗞️ Noticiero Peruano 🇵🇪",Sol (1280x720)
 https://vmvpd.short.gy/T3B2/SolTv
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="🗞️ Noticiero Peruano 🇵🇪",Sol (720x576)
 https://vmvpd.short.gy/WT/SolTv
