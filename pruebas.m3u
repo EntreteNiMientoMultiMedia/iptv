@@ -255,10 +255,15 @@ https://vmvpd.short.gy/WT/VenezolanosPorLaInformacion
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/NoticiasCaracol" group-title="📰 Noticias InterNacionales 🌎",Noticia Caracol (1280x720)
 https://vmvpd.short.gy/EC/NoticiasCaracol
 
-#EXTINF:    Iskhodnyy="✔️Exitosa✅"                  tvg-logo="" group-title="📰 Noticias InterNacionales 🌎",
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="📰 Noticias InterNacionales 🌎",
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="📰 Noticias InterNacionales 🌎",
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="📰 Noticias InterNacionales 🌎",
+#EXTINF=====================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TvEmpresa" group-title="🌒 EmprendiMiento 🦾",Empresa (1920x1080)
+https://vmvpd.short.gy/T3B2/TvEmpresa
+
+#EXTINF:    Iskhodnyy="✔️Exitosa✅"                  tvg-logo="" group-title="🌒 EmprendiMiento 🦾",
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="🌒 EmprendiMiento 🦾",
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="🌒 EmprendiMiento 🦾",
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🌒 EmprendiMiento 🦾",
 
 #EXTINF=====================================================================================================================================================================================================
 
