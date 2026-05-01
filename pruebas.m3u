@@ -222,11 +222,11 @@ https://vmvpd.short.gy/T3B2/LatinaNoticias
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TvEmpresa" group-title="🦾 EmprendiMiento 🌒",Empresa (1920x1080)
-https://vmvpd.short.gy/T3B2/TvEmpresa
-
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/GamarraChannel" group-title="🦾 EmprendiMiento 🌒",Gamarra (1280x720)
 https://vmvpd.short.gy/WT/GamarraChannel
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TvEmpresa" group-title="🦾 EmprendiMiento 🌒",Empresa (1920x1080)
+https://vmvpd.short.gy/T3B2/TvEmpresa
 
 #EXTINF:    Iskhodnyy="✔️Exitosa✅"                  tvg-logo="" group-title="🦾 EmprendiMiento 🌒",
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="🦾 EmprendiMiento 🌒",
