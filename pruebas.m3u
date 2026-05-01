@@ -175,12 +175,12 @@ https://vmvpd.short.gy/EC/PBO
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/PBO" group-title="🗞️ Noticiero Perûąnø 🇵🇪",PBO (1280x720)
 https://vmvpd.short.gy/T3B2/PBO
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/SolTv" group-title="🗞️ Noticiero Perûąnø 🇵🇪",Sol (1280x720)
+https://vmvpd.short.gy/T3B2/SolTv
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/SolTv" group-title="🗞️ Noticiero Perûąnø 🇵🇪",Sol (720x576)
+https://vmvpd.short.gy/WT/SolTv
 #EXTINF:    Iskhodnyy="✔️Sol Tv✅"                  tvg-logo="https://tvg-logo.short.gy/SolTv" group-title="🗞️ Noticiero Perûąnø 🇵🇪",Sol
 https://vmvpd.short.gy/SolTv
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/SolTv" group-title="🗞️ Noticiero Perûąnø 🇵🇪",Sol
-https://vmvpd.short.gy/WT/SolTv
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/SolTv" group-title="🗞️ Noticiero Perûąnø 🇵🇪",Sol
-https://vmvpd.short.gy/T3B2/SolTv
 
 #EXTINF:    Iskhodnyy="✔️ATV+✅"                  tvg-logo="https://tvg-logo.short.gy/Andina+" group-title="🗞️ Noticiero Perûąnø 🇵🇪",Andina+ (1280x720)
 https://vmvpd.short.gy/ATV+
