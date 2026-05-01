@@ -206,6 +206,18 @@ https://vmvpd.short.gy/EC/LaNoticiaTv
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/CanalB" group-title="🗞️ Noticiero Peruano 🇵🇪",Canal B (1280x720)
 https://vmvpd.short.gy/WT/CanalB
 
+#EXTINF:    Iskhodnyy="✔️Nativa✅"                  tvg-logo="https://tvg-logo.short.gy/Nativa" group-title="🗞️ Noticiero Peruano 🇵🇪",Nativa (1280x720)
+https://vmvpd.short.gy/Nativa
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Nativa" group-title="🗞️ Noticiero Peruano 🇵🇪",Nativa (1280x720)
+https://vmvpd.short.gy/WT/Nativa
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Nativa" group-title="🗞️ Noticiero Peruano 🇵🇪",Nativa (1280x720)
+https://vmvpd.short.gy/EC/Nativa
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Nativa" group-title="🗞️ Noticiero Peruano 🇵🇪",Nativa (1280x720)
+https://vmvpd.short.gy/T3B2/Nativa
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Monitor" group-title="🗞️ Noticiero Peruano 🇵🇪",Monitor (1280x720)
+https://vmvpd.short.gy/WT/Monitor
+
 #EXTINF:    Iskhodnyy="✔️ATV+✅"                  tvg-logo="https://tvg-logo.short.gy/Andina+" group-title="🗞️ Noticiero Peruano 🇵🇪",Andina+ (1280x720)
 https://vmvpd.short.gy/ATV+
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Andina+" group-title="🗞️ Noticiero Peruano 🇵🇪",Andina+ (1280x720)
