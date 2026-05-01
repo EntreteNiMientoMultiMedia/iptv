@@ -1,11 +1,11 @@
 #EXTM3U8
 
-#EXTINF=====================================================================================================================================================================================
+#EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="❌LG🚩0️⃣"        tvg-logo="https://tvg-logo.short.gy/VVin" group-title="InterNet📡 & TeleVisión📺 de Collique⛰️ en Comas 🇵🇪 para el mundo🌎",😎 VerTv 📺 (1280x720)
 https://vmvpd.short.gy/VerTv
 
-#EXTINF=====================================================================================================================================================================================
+#EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryKids" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Discovery Kids (1280x720)
 https://vmvpd.short.gy/EC/DiscoveryKids
@@ -25,7 +25,7 @@ https://vmvpd.short.gy/WT/FunBox
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/PequeTv" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Peque Tv (1920x1080)
 https://vmvpd.short.gy/T3B2/PequeTv
 
-#EXTINF=====================================================================================================================================================================================
+#EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/WT/AmericaTv" group-title="🇵🇪📡 Primørdial 📺📲",América (1920x1080)
 https://vmvpd.short.gy/WT/AmericaTv
@@ -84,7 +84,7 @@ https://vmvpd.short.gy/RPP
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/RPP" group-title="🇵🇪📡 Primørdial 📺📲",РПП (1920x1080)
 https://vmvpd.short.gy/T3B2/RPP
 
-#EXTINF=====================================================================================================================================================================================
+#EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="LG"                tvg-logo="https://tvg-logo.short.gy/Onegai4Deportes" group-title="🥊 Deportes 🏀",Onegai Deportes 🇯🇵 (1280x720)
 https://vmvpd.short.gy/Onegai4Deportes
@@ -122,7 +122,7 @@ https://vmvpd.short.gy/EC/Ovacion
 #EXTINF:    Iskhodnyy="🔱EC📺"                tvg-logo="https://tvg-logo.short.gy/WT/Ovacion" group-title="🥊 Deportes 🏀",Ovacion ⚽ (1280x720)
 https://vmvpd.short.gy/WT/Ovacion
 
-#EXTINF=====================================================================================================================================================================================
+#EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/AnimaKids" group-title="🎌 Animatsiya 👀",Anima Kids (1920x1080)
 https://vmvpd.short.gy/T3B2/AnimaKids
@@ -155,7 +155,7 @@ https://vmvpd.short.gy/Wasabi
 #EXTINF:    Iskhodnyy="ZP"                    tvg-logo="https://tvg-logo.short.gy/ZTv" group-title="🎌 Animatsiya 👀",ZTV
 https://vmvpd.short.gy/ZTv
 
-#EXTINF=====================================================================================================================================================================================
+#EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️Exitosa✅"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Exitosa" group-title="🗞️ Noticiero Perûąnø 🇵🇪",Exitosa (1280x720)
 https://vmvpd.short.gy/Exitosa
@@ -207,7 +207,7 @@ https://vmvpd.short.gy/LaNoticiaTv
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LaNoticiaTv" group-title="🗞️ Noticiero Perûąnø 🇵🇪",La Noticia (1280x720)
 https://vmvpd.short.gy/EC/LaNoticiaTv
 
-#EXTINF=====================================================================================================================================================================================
+#EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CNN" group-title="📰 Noticias InterNacionales 🌎",Cable News Network (1280x720)
 https://vmvpd.short.gy/EC/CNN
@@ -236,13 +236,15 @@ https://vmvpd.short.gy/WT/France24
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/NuestraTeleNoticias24" group-title="📰 Noticias InterNacionales 🌎",Nuestra Tele Noticias 24 (1280x720)
 https://vmvpd.short.gy/WT/NuestraTeleNoticias24
 
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/VenezolanosPorLaInformacion" group-title="📰 Noticias InterNacionales 🌎",Venezolanos por la Información (1280x720)
+https://vmvpd.short.gy/WT/VenezolanosPorLaInformacion
 
 #EXTINF:    Iskhodnyy="✔️Exitosa✅"                  tvg-logo="" group-title="📰 Noticias InterNacionales 🌎",
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="📰 Noticias InterNacionales 🌎",
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="📰 Noticias InterNacionales 🌎",
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="📰 Noticias InterNacionales 🌎",
 
-#EXTINF=====================================================================================================================================================================================
+#EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CartoonNetWork" group-title="Niños y Juvenil 🔥 7 a 14 años 🌋",Cartoon NetWork (1280x720)
 https://vmvpd.short.gy/EC/CartoonNetWork
@@ -269,7 +271,7 @@ https://vmvpd.short.gy/WT/FMHKids
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/ChikiToonz" group-title="Niños y Juvenil 🔥 7 a 14 años 🌋",Chiki Toonz (1920x1080)
 https://vmvpd.short.gy/T3B2/ChikiToonz
 
-#EXTINF=====================================================================================================================================================================================
+#EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/PlayBoy" group-title="😈 Solo Adultos 🕵🏻‍♂️🕵🏼 Prohibido Menores 18 Años 🔞",🎮 PlayBoy 👶🏻 (1280x720)
 https://vmvpd.short.gy/EC/PlayBoy
@@ -280,7 +282,7 @@ https://vmvpd.short.gy/EC/Venus
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/ZooMoo" group-title="😈 Solo Adultos 🕵🏻‍♂️🕵🏼 Prohibido Menores 18 Años 🔞",Zoo Moo (1024x576)
 https://vmvpd.short.gy/EC/ZooMoo
 
-#EXTINF=====================================================================================================================================================================================
+#EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:  TeleKanal="Películas"     Iskhodnyy="EC"  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/jpg?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fstatic%2Fbackdrops%2F397%2F1731397_1280.jpg&width=1280" group-title="Películas",Super Cóndor 🦅
 https://cdn5.eco.cdn.moderntv.eu/econocable/vod/v348/40/vod-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dv348_vod_gz&_cdn_session=3890565643&_cdn_token=4bc4fb1833866538ac24deef095534635332fb00
@@ -295,11 +297,11 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/vod/v429/40/vod-media.m3u8?_cdn_attr
 #EXTINF:  TeleKanal="Películas"     Iskhodnyy="EC"  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/jpg?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fstatic%2Fbackdrops%2F654%2F3081654_1280.jpg&width=1280" group-title="Películas",Sugar en aprietos
 https://cdn5.eco.cdn.moderntv.eu/econocable/vod/v447/40/vod-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dv447_vod_v4&_cdn_session=3894033675&_cdn_token=5223acc21161566a8c766c5263665697a6832ec6
 
-#EXTINF=====================================================================================================================================================================================
+#EXTINF=====================================================================================================================================================================================================
 #EXTINF                VerTv - Información legal y manifiesto.
-#EXTINF===========================================================================================================================================================================================
+#EXTINF=====================================================================================================================================================================================================
 #EXTINF                El Mundo al Alcance de tu Pantalla.
 #EXTINF                Nuestro trabajo es facilitarte la vida, actuando como un mapa en la inmensidad digital.
 #EXTINF                No almacenamos copias ni alojamos contenido en nuestros servidores.
 #EXTINF                Si hay algún inconveniente, contáctanos con respeto y empatía.
-#EXTINF===========================================================================================================================================================================================
+#EXTINF=====================================================================================================================================================================================================
