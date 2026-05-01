@@ -185,9 +185,6 @@ https://vmvpd.short.gy/T3B2/SolTv
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/SolTv" group-title="🗞️ Noticiero Peruano 🇵🇪",Sol (720x576)
 https://vmvpd.short.gy/WT/SolTv
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CongresoTv" group-title="🗞️ Noticiero Peruano 🇵🇪",Congreso (1280x720)
-https://vmvpd.short.gy/EC/CongresoTv
-
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/JusticiaTv" group-title="🗞️ Noticiero Peruano 🇵🇪",Justicia (1280x720)
 https://vmvpd.short.gy/EC/JusticiaTv
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/JusticiaTv" group-title="🗞️ Noticiero Peruano 🇵🇪",Justicia (720x576)
@@ -232,6 +229,9 @@ https://vmvpd.short.gy/WT/GamarraChannel
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TvEmpresa" group-title="🦾 EmprendiMiento 🌒",Empresa (1920x1080)
 https://vmvpd.short.gy/T3B2/TvEmpresa
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CongresoTv" group-title="🦾 EmprendiMiento 🌒",Congreso (1280x720)
+https://vmvpd.short.gy/EC/CongresoTv
 
 #EXTINF:    Iskhodnyy="✔️Exitosa✅"                  tvg-logo="" group-title="🦾 EmprendiMiento 🌒",
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="🦾 EmprendiMiento 🌒",
