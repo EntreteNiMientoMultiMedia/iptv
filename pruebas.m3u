@@ -122,6 +122,9 @@ https://vmvpd.short.gy/EC/Ovacion
 #EXTINF:    Iskhodnyy="🔱EC📺"                tvg-logo="https://tvg-logo.short.gy/WT/Ovacion" group-title="🥊 Deportes 🏀",Ovacion ⚽ (1280x720)
 https://vmvpd.short.gy/WT/Ovacion
 
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Eventos" group-title="🥊 Deportes 🏀",Eventos ⚽ (1280x720)
+https://vmvpd.short.gy/EC/Eventos
+
 #EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/AnimaKids" group-title="🎌 Animatsiya 👀",Anima Kids (1920x1080)
@@ -175,11 +178,11 @@ https://vmvpd.short.gy/EC/PBO
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/PBO" group-title="🗞️ Noticiero Peruano 🇵🇪",PBO (1280x720)
 https://vmvpd.short.gy/T3B2/PBO
 
-#EXTINF:    Iskhodnyy="✔️Sol Tv✅"                  tvg-logo="" group-title="🗞️ Noticiero Peruano 🇵🇪",Sol (1280x720)
+#EXTINF:    Iskhodnyy="✔️Sol Tv✅"                  tvg-logo="https://tvg-logo.short.gy/SolTv" group-title="🗞️ Noticiero Peruano 🇵🇪",Sol (1280x720)
 https://vmvpd.short.gy/SolTv
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🗞️ Noticiero Peruano 🇵🇪",Sol (1280x720)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/SolTv" group-title="🗞️ Noticiero Peruano 🇵🇪",Sol (1280x720)
 https://vmvpd.short.gy/T3B2/SolTv
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="🗞️ Noticiero Peruano 🇵🇪",Sol (720x576)
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/SolTv" group-title="🗞️ Noticiero Peruano 🇵🇪",Sol (720x576)
 https://vmvpd.short.gy/WT/SolTv
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CongresoTv" group-title="🗞️ Noticiero Peruano 🇵🇪",Congreso (1280x720)
