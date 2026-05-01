@@ -239,6 +239,9 @@ https://vmvpd.short.gy/WT/NuestraTeleNoticias24
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/VenezolanosPorLaInformacion" group-title="📰 Noticias InterNacionales 🌎",Venezolanos por la Información (1280x720)
 https://vmvpd.short.gy/WT/VenezolanosPorLaInformacion
 
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/NoticiasCaracol" group-title="📰 Noticias InterNacionales 🌎",Noticia Caracol (1280x720)
+https://vmvpd.short.gy/EC/NoticiasCaracol
+
 #EXTINF:    Iskhodnyy="✔️Exitosa✅"                  tvg-logo="" group-title="📰 Noticias InterNacionales 🌎",
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="📰 Noticias InterNacionales 🌎",
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="📰 Noticias InterNacionales 🌎",
