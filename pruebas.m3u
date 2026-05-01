@@ -221,12 +221,12 @@ https://vmvpd.short.gy/EC/RusiaToday
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/RusiaToday" group-title="📰 Noticias InterNacionales 🌎",Rusia Today (1280x720)
 https://vmvpd.short.gy/WT/RusiaToday
 
-#EXTINF:    Iskhodnyy="✔️DW✅"                  tvg-logo="" group-title="📰 Noticias InterNacionales 🌎",Deutsche Welle (1920X1080)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="📰 Noticias InterNacionales 🌎",Deutsche Welle (1280x720)
-https://cdnmain5.win.cdn.moderntv.eu:7909/win/stream/DWEspanolHD/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DDWEspanolHD_stream_9m&_cdn_session=5152443019&_cdn_token=e0087b693dcf28dd786b5dc521bfa15d6580e929
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="📰 Noticias InterNacionales 🌎",Deutsche Welle
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DWESPANOL/20-hls/storage-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDW_stream_47&_cdn_session=3897671715&duration=2700&start=1777601700&_cdn_token=e89ed63a4ae6f357fa1ccb71a7613e4f69d7ef05
+#EXTINF:    Iskhodnyy="✔️DW✅"                  tvg-logo="https://tvg-logo.short.gy/DeutscheWelle" group-title="📰 Noticias InterNacionales 🌎",Deutsche Welle (1920x1080)
+https://vmvpd.short.gy/DeutscheWelle
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/DeutscheWelle" group-title="📰 Noticias InterNacionales 🌎",Deutsche Welle (1280x720)
+https://vmvpd.short.gy/WT/DeutscheWelle
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DeutscheWelle" group-title="📰 Noticias InterNacionales 🌎",Deutsche Welle (1024x576)
+https://vmvpd.short.gy/EC/DeutscheWelle
 
 
 #EXTINF:    Iskhodnyy="✔️Exitosa✅"                  tvg-logo="" group-title="📰 Noticias InterNacionales 🌎",
