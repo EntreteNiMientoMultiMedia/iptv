@@ -209,6 +209,18 @@ https://vmvpd.short.gy/EC/LaNoticiaTv
 
 #EXTINF=====================================================================================================================================================================================
 
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CNN" group-title="📰 Noticias InterNacionales 🌎",CNN (1280x720)
+https://vmvpd.short.gy/EC/CNN
+
+#EXTINF:    Iskhodnyy="✔️RT✅"                  tvg-logo="" group-title="📰 Noticias InterNacionales 🌎",RT
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="📰 Noticias InterNacionales 🌎",RT (1280x720)
+https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/RT_L/40-hls/storage-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DRT_L_stream_tf&_cdn_session=5151778379&duration=2400&start=1777600800&_cdn_token=02dba40be5a300f2fa9294d301529763e5be8579
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="📰 Noticias InterNacionales 🌎",RT (1920X1080)
+https://live-evg10.tv360.bitel.com.pe/bitel/rt/chunks.m3u8?uid=12051151
+
+
 #EXTINF:    Iskhodnyy="✔️Exitosa✅"                  tvg-logo="" group-title="📰 Noticias InterNacionales 🌎",
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="📰 Noticias InterNacionales 🌎",
