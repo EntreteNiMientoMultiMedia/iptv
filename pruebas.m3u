@@ -1,12 +1,3 @@
-#EXTINF=======================================================================================================================================================================================
-#EXTINF                VerTv - Información legal y manifiesto.
-#EXTINF===========================================================================================================================================================================================
-#EXTINF                El Mundo al Alcance de tu Pantalla.
-#EXTINF                Nuestro trabajo es facilitarte la vida, actuando como un mapa en la inmensidad digital.
-#EXTINF                No almacenamos copias ni alojamos contenido en nuestros servidores.
-#EXTINF                Si hay algún inconveniente, contáctanos con respeto y empatía.
-#EXTINF===========================================================================================================================================================================================
-
 #EXTM3U8
 
 #EXTINF=====================================================================================================================================================================================
@@ -277,3 +268,10 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/vod/v429/40/vod-media.m3u8?_cdn_attr
 https://cdn5.eco.cdn.moderntv.eu/econocable/vod/v447/40/vod-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dv447_vod_v4&_cdn_session=3894033675&_cdn_token=5223acc21161566a8c766c5263665697a6832ec6
 
 #EXTINF=====================================================================================================================================================================================
+#EXTINF                VerTv - Información legal y manifiesto.
+#EXTINF===========================================================================================================================================================================================
+#EXTINF                El Mundo al Alcance de tu Pantalla.
+#EXTINF                Nuestro trabajo es facilitarte la vida, actuando como un mapa en la inmensidad digital.
+#EXTINF                No almacenamos copias ni alojamos contenido en nuestros servidores.
+#EXTINF                Si hay algún inconveniente, contáctanos con respeto y empatía.
+#EXTINF===========================================================================================================================================================================================
