@@ -182,12 +182,6 @@ https://vmvpd.short.gy/T3B2/SolTv
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/SolTv" group-title="🗞️ Noticiero Peruano 🇵🇪",Sol (720x576)
 https://vmvpd.short.gy/WT/SolTv
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/CanalB" group-title="🗞️ Noticiero Peruano 🇵🇪",Canal B (1280x720)
-https://vmvpd.short.gy/WT/CanalB
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/TvPeruNoticias" group-title="🗞️ Noticiero Peruano 🇵🇪",TvPe Noticias (720x576)
-https://vmvpd.short.gy/WT/TvPeruNoticias
-
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CongresoTv" group-title="🗞️ Noticiero Peruano 🇵🇪",Congreso (1280x720)
 https://vmvpd.short.gy/EC/CongresoTv
 
@@ -195,6 +189,12 @@ https://vmvpd.short.gy/EC/CongresoTv
 https://vmvpd.short.gy/EC/JusticiaTv
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/JusticiaTv" group-title="🗞️ Noticiero Peruano 🇵🇪",Justicia (720x576)
 https://vmvpd.short.gy/WT/JusticiaTv
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/TvPeruNoticias" group-title="🗞️ Noticiero Peruano 🇵🇪",TvPe Noticias (720x576)
+https://vmvpd.short.gy/WT/TvPeruNoticias
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/CanalB" group-title="🗞️ Noticiero Peruano 🇵🇪",Canal B (1280x720)
+https://vmvpd.short.gy/WT/CanalB
 
 #EXTINF:    Iskhodnyy="✔️La Noticia Tv✅"                  tvg-logo="https://tvg-logo.short.gy/LaNoticiaTv" group-title="🗞️ Noticiero Peruano 🇵🇪",La Noticia (1280x720)
 https://vmvpd.short.gy/LaNoticiaTv
