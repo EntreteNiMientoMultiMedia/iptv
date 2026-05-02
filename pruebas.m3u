@@ -309,14 +309,24 @@ https://vmvpd.short.gy/T3B2/InkaVision
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/InkaVision" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Inka Vision (Cusco) 1280x720
 https://vmvpd.short.gy/WT/InkaVision
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
+#EXTINF=====================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="✔️Tarapoto✅"                  tvg-logo="https://tvg-logo.short.gy/Tarapoto" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Tarapoto (Tarapoto) 1280x720
+https://vmvpd.short.gy/TaraPoto
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Tarapoto" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Tarapoto (Tarapoto) 1280x720
+https://vmvpd.short.gy/T3B2/Tarapoto
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/TaraPoto" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Tarapoto (Tarapoto) 1280x720
+https://vmvpd.short.gy/EC/TaraPoto
 
 #EXTINF=====================================================================================================================================================================================================
 
+
+
 #EXTINF:    Iskhodnyy="✔️ATV✅"                  tvg-logo="" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
 
