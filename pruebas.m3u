@@ -303,11 +303,10 @@ https://vmvpd.short.gy/WT/VisionSur
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/InkaVision" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Inka Vision (Cusco)
-https://vmvpd.short.gy/WT/InkaVision
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/InkaVision" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Inka Vision (Cusco)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/InkaVision" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Inka Vision (Cusco) 1920x1080
 https://vmvpd.short.gy/T3B2/InkaVision
-
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/InkaVision" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Inka Vision (Cusco) 1280x720
+https://vmvpd.short.gy/WT/InkaVision
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
