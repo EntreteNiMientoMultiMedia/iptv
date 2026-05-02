@@ -245,11 +245,6 @@ https://vmvpd.short.gy/T3B2/TvEmpresa
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CongresoTv" group-title="🦾 EmprendiMiento 🌒",Congreso (1280x720)
 https://vmvpd.short.gy/EC/CongresoTv
 
-#EXTINF:    Iskhodnyy="✔️Exitosa✅"                  tvg-logo="" group-title="🦾 EmprendiMiento 🌒",
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="🦾 EmprendiMiento 🌒",
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="🦾 EmprendiMiento 🌒",
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🦾 EmprendiMiento 🌒",
-
 #EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CNN" group-title="📰 Noticias InterNacionales 🌎",Cable News Network (1280x720)
@@ -284,6 +279,14 @@ https://vmvpd.short.gy/WT/VenezolanosPorLaInformacion
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/NoticiasCaracol" group-title="📰 Noticias InterNacionales 🌎",Noticia Caracol (1280x720)
 https://vmvpd.short.gy/EC/NoticiasCaracol
+
+
+#EXTINF=====================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="✔️Exitosa✅"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
 
 #EXTINF=====================================================================================================================================================================================================
 
