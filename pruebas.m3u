@@ -314,8 +314,13 @@ https://vmvpd.short.gy/WT/Bethel
 #EXTINF:    Iskhodnyy="✔️Bethel✅"                  tvg-logo="https://tvg-logo.short.gy/Bethel" group-title="🕊️ Religión y Fe 🙏🏼",Bethel
 https://vmvpd.short.gy/Bethel
 
-#EXTINF:    Iskhodnyy="✔️JN19✅"                  tvg-logo="https://tvg-logo.short.gy/JN19" group-title="🕊️ Religión y Fe 🙏🏼",JN19
+#EXTINF:    Iskhodnyy="✔️JN19✅"                  tvg-logo="https://tvg-logo.short.gy/JN19" group-title="🕊️ Religión y Fe 🙏🏼",JN19 (1280x720)
 https://vmvpd.short.gy/JN19
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/JN19" group-title="🕊️ Religión y Fe 🙏🏼",JN19 (1280x720)
+https://vmvpd.short.gy/EC/JN19
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/JN19" group-title="🕊️ Religión y Fe 🙏🏼",JN19 (720x576)
+https://vmvpd.short.gy/WT/JN19
+
 
 #EXTINF=====================================================================================================================================================================================================
 
