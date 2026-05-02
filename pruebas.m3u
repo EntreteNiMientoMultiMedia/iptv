@@ -416,27 +416,6 @@ https://vmvpd.short.gy/T3B2/ViaTeleVision
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://vmvpd.short.gy/EC/ViaTeleVision" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Via (San Martín) 1280x720
 
 
-
-#EXTINF=====================================================================================================================================================================================================
-
-#EXTINF:    Iskhodnyy="✔️ATV+✅"                  tvg-logo="https://tvg-logo.short.gy/Andina+" group-title="🎭 Variedad Alternativa 🔄",Andina+ (1280x720)
-https://vmvpd.short.gy/ATV+
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Andina+" group-title="🎭 Variedad Alternativa 🔄",Andina+ (1280x720)
-https://vmvpd.short.gy/WT/ATV+
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Andina+" group-title="🎭 Variedad Alternativa 🔄",Andina+ (1280x720)
-https://vmvpd.short.gy/EC/ATV+
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Andina+" group-title="🎭 Variedad Alternativa 🔄",Andina+ (1280x720)
-https://vmvpd.short.gy/T3B2/ATV+
-
-#EXTINF:    Iskhodnyy="✔️Nativa✅"                  tvg-logo="https://tvg-logo.short.gy/Nativa" group-title="🎭 Variedad Alternativa 🔄",Nativa (1280x720)
-https://vmvpd.short.gy/Nativa
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Nativa" group-title="🎭 Variedad Alternativa 🔄",Nativa (1280x720)
-https://vmvpd.short.gy/WT/Nativa
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Nativa" group-title="🎭 Variedad Alternativa 🔄",Nativa (1280x720)
-https://vmvpd.short.gy/EC/Nativa
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Nativa" group-title="🎭 Variedad Alternativa 🔄",Nativa (1280x720)
-https://vmvpd.short.gy/T3B2/Nativa
-
 #EXTINF=====================================================================================================================================================================================================
 
 
@@ -447,7 +426,6 @@ https://vmvpd.short.gy/T3B2/Nativa
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
-
 
 
 #EXTINF================================================================================================================================================================================================================================================================
