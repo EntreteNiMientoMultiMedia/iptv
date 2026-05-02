@@ -195,28 +195,19 @@ https://vmvpd.short.gy/NacionalTvPeru
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/NacionalTvPeru" group-title="🗞️ Noticiero Peruano 🇵🇪",Nacional (1920x1080)
 https://vmvpd.short.gy/T3B2/NacionalTvPeru
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/TvPeruNoticias" group-title="🗞️ Noticiero Peruano 🇵🇪",TvPe Noticias (720x576)
-https://vmvpd.short.gy/WT/TvPeruNoticias
-
 #EXTINF:    Iskhodnyy="✔️La Noticia Tv✅"                  tvg-logo="https://tvg-logo.short.gy/LaNoticiaTv" group-title="🗞️ Noticiero Peruano 🇵🇪",La Noticia (1280x720)
 https://vmvpd.short.gy/LaNoticiaTv
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LaNoticiaTv" group-title="🗞️ Noticiero Peruano 🇵🇪",La Noticia (1280x720)
 https://vmvpd.short.gy/EC/LaNoticiaTv
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/CanalB" group-title="🗞️ Noticiero Peruano 🇵🇪",Canal B (1280x720)
-https://vmvpd.short.gy/WT/CanalB
-
-#EXTINF:    Iskhodnyy="✔️Nativa✅"                  tvg-logo="https://tvg-logo.short.gy/Nativa" group-title="🗞️ Noticiero Peruano 🇵🇪",Nativa (1280x720)
-https://vmvpd.short.gy/Nativa
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Nativa" group-title="🗞️ Noticiero Peruano 🇵🇪",Nativa (1280x720)
-https://vmvpd.short.gy/WT/Nativa
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Nativa" group-title="🗞️ Noticiero Peruano 🇵🇪",Nativa (1280x720)
-https://vmvpd.short.gy/EC/Nativa
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Nativa" group-title="🗞️ Noticiero Peruano 🇵🇪",Nativa (1280x720)
-https://vmvpd.short.gy/T3B2/Nativa
-
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Monitor" group-title="🗞️ Noticiero Peruano 🇵🇪",Monitor (1280x720)
 https://vmvpd.short.gy/WT/Monitor
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/TvPeruNoticias" group-title="🗞️ Noticiero Peruano 🇵🇪",TvPe Noticias (720x576)
+https://vmvpd.short.gy/WT/TvPeruNoticias
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/CanalB" group-title="🗞️ Noticiero Peruano 🇵🇪",Canal B (1280x720)
+https://vmvpd.short.gy/WT/CanalB
 
 #EXTINF:    Iskhodnyy="✔️ATV+✅"                  tvg-logo="https://tvg-logo.short.gy/Andina+" group-title="🗞️ Noticiero Peruano 🇵🇪",Andina+ (1280x720)
 https://vmvpd.short.gy/ATV+
