@@ -890,62 +890,11 @@ https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/chunks.m3u8?uid=1205115
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763740907911/d87f79300a5e_480_270.png" group-title="Culturales 👨🏻‍🏫👨🏻‍🎓",Fierro a fondo 🇻🇳 1920x1080p
-https://live-evg5.tv360.bitel.com.pe/bitel/fierroSRT/chunks.m3u8?uid=1205115
-
-#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FHistory_Channel.png&width=50&height=50" group-title="Culturales 👨🏻‍🏫👨🏻‍🎓",Canal Historia 🔱 1280x720p
-https://cdnmain5.win.cdn.moderntv.eu:7909/win/stream/HISTORY_CHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DHISTORY_CHANNEL_stream_u9&_cdn_session=3880452388&_cdn_token=e50b3aca10814d0d16f7b51bfe816dc96153a163
-#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FHistory_Channel.png&width=50&height=50" group-title="Culturales 👨🏻‍🏫👨🏻‍🎓",Canal Historia 🔱 1024x576p
-https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/HISTORY_CHANNEL/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DHISTORY_CHANNEL_stream_u9&_cdn_session=3880457700&_cdn_token=e177b5b83ed4e7e452db65439bec48ed25b3a35a
-
-#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FHistory_Channel_2.png&width=50&height=50" group-title="Culturales 👨🏻‍🏫👨🏻‍🎓",Canal Historia 2 🔱 1280x720p
-https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/HISTORY_CHANNEL_2/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DHISTORY_CHANNEL_2_stream_9h&_cdn_session=3880461876&_cdn_token=d3bca0d6cac66d0349e44cc8d4bbd3dce32e3ddd
-#EXTINF: tvg-logo="http://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FHistory_Channel_2.png&width=50&height=50" group-title="Culturales 👨🏻‍🏫👨🏻‍🎓",Canal Historia 2 🔱 1024x576p
-https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/HISTORY_CHANNEL_2/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DHISTORY_CHANNEL_2_stream_9h&_cdn_session=3880460876&_cdn_token=a78445e611fed42d4355c2b6a1bf689e6d8d8da9
-
-#EXTINF================================================================================================================================================================================================================================================================
-
-#EXTINF: tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="Deportes 🏀🥊",MonteRricoTv 🇵🇪
-https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
-
-#EXTINF: tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Deportes 🏀🥊",OvacionTv 🇵🇪
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-
-#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes 🏀🥊",DirecTV Sports 🇺🇸
-http://38.183.182.166:8000/play/a125/index.m3u8
-
-#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Deportes 🏀🥊",ESPN Deportes 🇺🇸
-https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
-
-#EXTINF================================================================================================================================================================================================================================================================
-
-#EXTINF: tvg-logo="" group-title="Infantiles 👼🏻",Chiki Toonz 🇻🇳 
-#EXTINF: tvg-logo="" group-title="Infantiles 👼🏻",Anima Kids 🇻🇳 
-
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763744241135/5e085ec79f90_480_270.png" group-title="Infantiles 👼🏻",Creo Kids 🇻🇳 1920x1080
-https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/chunks.m3u8
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/06/1763767524667/016be71abc86_480_270.png" group-title="Infantiles 👼🏻",FMH Kids 🇻🇳 1280x720p
-https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_720p/chunks.m3u8
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/06/1763767524667/016be71abc86_480_270.png" group-title="Infantiles 👼🏻",FMH Kids 🇻🇳 854x480p
-https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_480p/chunks.m3u8
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763742815961/56bd7ccd2092_480_270.png" group-title="Infantiles 👼🏻",PekeTv 🇻🇳 1920x1080p
-https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/chunks.m3u8?uid=12051151
-
-#EXTINF================================================================================================================================================================================================================================================================
-
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/16/02/1744744885980/fe2d329ae60f_480_270.png" group-title="Musicales 🔊🎵",NovaTv 🇻🇳 1280x720p
 https://live-evg7.tv360.bitel.com.pe/bitel/NovaSRT/chunks.m3u8?uid=12051151
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835622757/0fb19a3b961d_480_270.jpg" group-title="Musicales 🔊🎵",Top Latino 🇻🇳 720x404p
 https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
-
-#EXTINF================================================================================================================================================================================================================================================================
-
-#EXTINF: tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Noticias 📰",RT 🇷🇺 ❓❔ 1920x1080p
-https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
@@ -1116,16 +1065,5 @@ https://livestreams.prdv3.dlivecdn.com/radiotouchchile/1776734472/src/live.m3u8?
 https://livestreams.prdv3.dlivecdn.com/derrickcbyron/1776711443/src/live.m3u8?Expires=1776771001&Signature=kK2rGEtNfq1ItcRMSrwSB3lN5NHjg8Da8OMmzHnqxYa9xlLt~~gj-HYnrdGDAxmMgYfRo2j~xI1PGXNgDuVqY5~rGyZk526txNQqHdbHmmXj9O5A~95EoKDcJqZkUpwN5fkBTIogWyP~vpkVBsCt6BfHzQMC~BInwIqkpzARZrDX2ss2hGFkrC-cFBG8LmdoOS~qk08Pwl6g3KQ18MEqo029UE7f5ZwJk8xAvcmVdyb3zyUD7Sp760Zxc-YnokXtYFm41Nie1ruS4jM2T8dQyKXLVClAaWx-IGx~igF6F3m0XZhYtvrbNnUV5HbXZbT0MZqIdJGlwywGQEXQg5Emxg__&Key-Pair-Id=K2WZHW3KN5FGBZ
 #EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="DLive",DLive
 https://livestreams.prdv3.dlivecdn.com/hotbeatsfm/1776236646/src/live.m3u8?Expires=1776771039&Signature=MSD9PslbuD7fkOpRuqvA5gbUWodl8mIgWk2M62fp0xene3IpZKZRl547p4LngBp8GUGvOf4dpi6pJuKsbfhJ5CLQt20UVqxPNtYl~YfShSkdcmNvzlEGHeJT52GKmJdt3lz7RBB-t-LvvjQ2QoZFeyZ~kQVnzuQvDcYJ68KiMkRFScDWsrAvBqiNLNWP8KLezNuL-bIDbqI~a266Q4zZ9bu0UwL0WZ9NAJO7PdzgA397I4zCR43vX8~dED2xSPlUNOrHC7yU7EZlTPeWVORQrinzBp0My-ccJb3tw9AEjsAD8rPsMxLlsXX9203QBB0UBZqQ3T2LWCrzowvo4xXbeQ__&Key-Pair-Id=K2WZHW3KN5FGBZ
-
-#EXTINF================================================================================================================================================================================================================================================================
-
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="WhatsApp & TeleGram de Apoyo Técnico 🔧⚙️ 9ØØ ØØØ Ø18 📝📲✍🏼",Aquí no hay nada de nada
-http://tuservidor.com/ruta/stranger_things_s01e01.mp4
-
-#EXTINF: tvg-logo="https://static.srv.win.i.mtvreg.com/cache/upload/WinTV-Web-Logo-White.png" group-title="WhatsApp & TeleGram de Cobranza Coactiva 🤑💰 9ØØ ØØØ Ø81 📝📲✍🏼",Aquí no hay nada de nada
-http://tuservidor.com/ruta/stranger_things_s01e02.mp4
-
-#EXTINF================================================================================================================================================================================================================================================================
-
 
 
