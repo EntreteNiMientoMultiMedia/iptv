@@ -283,7 +283,20 @@ https://vmvpd.short.gy/EC/NoticiasCaracol
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️Exitosa✅"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
+#EXTINF:    Iskhodnyy="✔️ATV Sur✅"                  tvg-logo="https://tvg-logo.short.gy/Andina Sur" group-title="Para variar 🗿🌊 de la Costa",Andina Sur (Arequipa)
+https://vmvpd.short.gy/ATVSur
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/AndinaSur" group-title="Para variar 🗿🌊 de la Costa",Andina Sur (Arequipa)
+https://vmvpd.short.gy/WT/AndinaSur
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/AndinaSur" group-title="Para variar 🗿🌊 de la Costa",Andina Sur (Arequipa)
+https://vmvpd.short.gy/EC/AndinaSur
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/AndinaSur" group-title="Para variar 🗿🌊 de la Costa",Andina Sur (Arequipa)
+https://vmvpd.short.gy/T3B2/AndinaSur
+
+
+#EXTINF:    Iskhodnyy="✔️ATV✅"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
