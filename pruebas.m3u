@@ -127,39 +127,6 @@ https://vmvpd.short.gy/EC/Eventos
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/AnimaKids" group-title="🎌 Animatsiya 👀",Anima Kids (1920x1080)
-https://vmvpd.short.gy/T3B2/AnimaKids
-
-#EXTINF:    Iskhodnyy="CF"              tvg-logo="https://tvg-logo.short.gy/AnimeVision" group-title="🎌 Animatsiya 👀",Anime Visión (1920x1080)
-https://vmvpd.short.gy/AnimeVision
-#EXTINF:    Iskhodnyy="CF"              tvg-logo="https://tvg-logo.short.gy/AnimeVisionClasicos" group-title="🎌 Animatsiya 👀",Anime Visión Clásicos (1920x1080)
-https://vmvpd.short.gy/AnimeVisionClasicos
-
-#EXTINF:    Iskhodnyy="💵EC💸"              tvg-logo="https://tvg-logo.short.gy/EC/AdultSwim" group-title="🎌 Animatsiya 👀",Adult Swim (1280x720)
-https://vmvpd.short.gy/EC/AdultSwim
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/WT/BitMe" group-title="🎌 Animatsiya 👀",BitMe (1280x720)
-https://vmvpd.short.gy/WT/BitMe
-#EXTINF:    Iskhodnyy="💵CF💸"                tvg-logo="https://tvg-logo.short.gy/EC/BitMe" group-title="🎌 Animatsiya 👀",BitMe (1024x576)
-https://vmvpd.short.gy/EC/BitMe
-
-#EXTINF:    Iskhodnyy="LG"                  tvg-logo="https://tvg-logo.short.gy/Onegai1" group-title="🎌 Animatsiya 👀",Onegai 1 (1280x720)
-https://vmvpd.short.gy/Onegai1
-#EXTINF:    Iskhodnyy="LG"                tvg-logo="https://tvg-logo.short.gy/Onegai2" group-title="🎌 Animatsiya 👀",Onegai 2 (1280x720)
-https://vmvpd.short.gy/Onegai2
-#EXTINF:    Iskhodnyy="LG"                  tvg-logo="https://tvg-logo.short.gy/Onegai3" group-title="🎌 Animatsiya 👀",Onegai 3 (1280x720)
-https://vmvpd.short.gy/Onegai3
-#EXTINF:    Iskhodnyy="LG"                    tvg-logo="https://tvg-logo.short.gy/Onegai5" group-title="🎌 Animatsiya 👀",Onegai 5 (1280x720)
-https://vmvpd.short.gy/Onegai5
-
-#EXTINF:    Iskhodnyy="RT"                  tvg-logo="https://tvg-logo.short.gy/Wasabi" group-title="🎌 Animatsiya 👀",Wasabi la chaîne (1920x1080)
-https://vmvpd.short.gy/Wasabi
-
-#EXTINF:    Iskhodnyy="ZP"                    tvg-logo="https://tvg-logo.short.gy/ZTv" group-title="🎌 Animatsiya 👀",ZTV
-https://vmvpd.short.gy/ZTv
-
-#EXTINF=====================================================================================================================================================================================================
-
 #EXTINF:    Iskhodnyy="✔️Exitosa✅"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Exitosa" group-title="🗞️ Noticiero Peruano 🇵🇪",Exitosa (1280x720)
 https://vmvpd.short.gy/Exitosa
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Exitosa" group-title="🗞️ Noticiero Peruano 🇵🇪",Exitosa (1280x720)
@@ -218,16 +185,36 @@ https://vmvpd.short.gy/T3B2/LatinaNoticias
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/GamarraChannel" group-title="🦾 EmprendiMiento 🌒",Gamarra (1280x720)
-https://vmvpd.short.gy/WT/GamarraChannel
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/AnimaKids" group-title="🎌 Animatsiya 👀",Anima Kids (1920x1080)
+https://vmvpd.short.gy/T3B2/AnimaKids
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TvEmpresa" group-title="🦾 EmprendiMiento 🌒",Empresa (1920x1080)
-https://vmvpd.short.gy/T3B2/TvEmpresa
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Qosmo" group-title="🦾 EmprendiMiento 🌒",Empresa (1280x720)
-https://vmvpd.short.gy/EC/Qosmo
+#EXTINF:    Iskhodnyy="CF"              tvg-logo="https://tvg-logo.short.gy/AnimeVision" group-title="🎌 Animatsiya 👀",Anime Visión (1920x1080)
+https://vmvpd.short.gy/AnimeVision
+#EXTINF:    Iskhodnyy="CF"              tvg-logo="https://tvg-logo.short.gy/AnimeVisionClasicos" group-title="🎌 Animatsiya 👀",Anime Visión Clásicos (1920x1080)
+https://vmvpd.short.gy/AnimeVisionClasicos
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CongresoTv" group-title="🦾 EmprendiMiento 🌒",Congreso (1280x720)
-https://vmvpd.short.gy/EC/CongresoTv
+#EXTINF:    Iskhodnyy="💵EC💸"              tvg-logo="https://tvg-logo.short.gy/EC/AdultSwim" group-title="🎌 Animatsiya 👀",Adult Swim (1280x720)
+https://vmvpd.short.gy/EC/AdultSwim
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/WT/BitMe" group-title="🎌 Animatsiya 👀",BitMe (1280x720)
+https://vmvpd.short.gy/WT/BitMe
+#EXTINF:    Iskhodnyy="💵CF💸"                tvg-logo="https://tvg-logo.short.gy/EC/BitMe" group-title="🎌 Animatsiya 👀",BitMe (1024x576)
+https://vmvpd.short.gy/EC/BitMe
+
+#EXTINF:    Iskhodnyy="LG"                  tvg-logo="https://tvg-logo.short.gy/Onegai1" group-title="🎌 Animatsiya 👀",Onegai 1 (1280x720)
+https://vmvpd.short.gy/Onegai1
+#EXTINF:    Iskhodnyy="LG"                tvg-logo="https://tvg-logo.short.gy/Onegai2" group-title="🎌 Animatsiya 👀",Onegai 2 (1280x720)
+https://vmvpd.short.gy/Onegai2
+#EXTINF:    Iskhodnyy="LG"                  tvg-logo="https://tvg-logo.short.gy/Onegai3" group-title="🎌 Animatsiya 👀",Onegai 3 (1280x720)
+https://vmvpd.short.gy/Onegai3
+#EXTINF:    Iskhodnyy="LG"                    tvg-logo="https://tvg-logo.short.gy/Onegai5" group-title="🎌 Animatsiya 👀",Onegai 5 (1280x720)
+https://vmvpd.short.gy/Onegai5
+
+#EXTINF:    Iskhodnyy="RT"                  tvg-logo="https://tvg-logo.short.gy/Wasabi" group-title="🎌 Animatsiya 👀",Wasabi la chaîne (1920x1080)
+https://vmvpd.short.gy/Wasabi
+
+#EXTINF:    Iskhodnyy="ZP"                    tvg-logo="https://tvg-logo.short.gy/ZTv" group-title="🎌 Animatsiya 👀",ZTV
+https://vmvpd.short.gy/ZTv
 
 #EXTINF=====================================================================================================================================================================================================
 
@@ -263,6 +250,19 @@ https://vmvpd.short.gy/WT/VenezolanosPorLaInformacion
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/NoticiasCaracol" group-title="📰 Noticias InterNacionales 🌎",Noticia Caracol (1280x720)
 https://vmvpd.short.gy/EC/NoticiasCaracol
+
+#EXTINF=====================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/GamarraChannel" group-title="🦾 EmprendiMiento 🌒",Gamarra (1280x720)
+https://vmvpd.short.gy/WT/GamarraChannel
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TvEmpresa" group-title="🦾 EmprendiMiento 🌒",Empresa (1920x1080)
+https://vmvpd.short.gy/T3B2/TvEmpresa
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Qosmo" group-title="🦾 EmprendiMiento 🌒",Empresa (1280x720)
+https://vmvpd.short.gy/EC/Qosmo
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CongresoTv" group-title="🦾 EmprendiMiento 🌒",Congreso (1280x720)
+https://vmvpd.short.gy/EC/CongresoTv
 
 #EXTINF=====================================================================================================================================================================================================
 
