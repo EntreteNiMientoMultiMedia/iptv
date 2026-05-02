@@ -288,15 +288,6 @@ https://vmvpd.short.gy/T3B2/TvNorte
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️ATV Sur✅"                  tvg-logo="https://tvg-logo.short.gy/AndinaSur" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Andina Sur (Arequipa) 1280x720
-https://vmvpd.short.gy/ATVSur
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/AndinaSur" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Andina Sur (Arequipa) 1280x720
-https://vmvpd.short.gy/WT/AndinaSur
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/AndinaSur" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Andina Sur (Arequipa) 1280x720
-https://vmvpd.short.gy/EC/AndinaSur
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/AndinaSur" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Andina Sur (Arequipa) 1280x720
-https://vmvpd.short.gy/T3B2/AndinaSur
-
 #EXTINF:    Iskhodnyy="✔️Vision Sur✅"                  tvg-logo="https://tvg-logo.short.gy/VisionSur" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Vision Sur (Arequipa) 1920x1080
 https://vmvpd.short.gy/VisionSur
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/VisionSur" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Vision Sur (Arequipa) 1920x1080
@@ -309,20 +300,35 @@ https://vmvpd.short.gy/T3B2/InkaVision
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/InkaVision" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Inka Vision (Cusco) 1280x720
 https://vmvpd.short.gy/WT/InkaVision
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/BellaAbanquina" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Bella Abanquina (Apurimac) 1920x1080
+https://vmvpd.short.gy/T3B2/BellaAbanquina
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/BellaAbanquina" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Bella Abanquina (Apurimac) 720x576
+https://vmvpd.short.gy/EC/BellaAbanquina
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/AndinaSur" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Andina Sur (Arequipa) 1280x720
+https://vmvpd.short.gy/WT/AndinaSur
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/AndinaSur" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Andina Sur (Arequipa) 1280x720
+https://vmvpd.short.gy/EC/AndinaSur
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/AndinaSur" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Andina Sur (Arequipa) 1280x720
+https://vmvpd.short.gy/T3B2/AndinaSur
+#EXTINF:    Iskhodnyy="✔️ATV Sur✅"                  tvg-logo="https://tvg-logo.short.gy/AndinaSur" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Andina Sur (Arequipa) 1280x720
+https://vmvpd.short.gy/ATVSur
+
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️Tarapoto✅"                  tvg-logo="https://tvg-logo.short.gy/Tarapoto" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Tarapoto (San Martín) 1280x720
-https://vmvpd.short.gy/TaraPoto
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Tarapoto" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Tarapoto (San Martín) 1280x720
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Tarapoto" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Tarapoto (San Martín) 1920x1080
 https://vmvpd.short.gy/T3B2/Tarapoto
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/TaraPoto" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Tarapoto (San Martín) 1280x720
 https://vmvpd.short.gy/EC/TaraPoto
+#EXTINF:    Iskhodnyy="✔️Tarapoto✅"                  tvg-logo="https://tvg-logo.short.gy/Tarapoto" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Tarapoto (San Martín) 1280x720
+https://vmvpd.short.gy/TaraPoto
 
 #EXTINF:    Iskhodnyy="✔️Via✅"                  tvg-logo="https://tvg-logo.short.gy/ViaTeleVision" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Via (San Martín) 1280x720
 https://vmvpd.short.gy/ViaTeleVision
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/ViaTeleVision" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Via (San Martín) 1280x720
 https://vmvpd.short.gy/T3B2/ViaTeleVision
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://vmvpd.short.gy/EC/ViaTeleVision" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Via (San Martín) 1280x720
+
 
 
 #EXTINF=====================================================================================================================================================================================================
