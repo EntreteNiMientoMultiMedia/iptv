@@ -434,9 +434,6 @@ https://vmvpd.short.gy/EC/DreamWorks
 #EXTINF:    Iskhodnyy="EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/ToonCast" group-title="😎 Niños y Juvenil ⚡ 7 a 14 años 💥",Toon Cast (1280x720)
 https://vmvpd.short.gy/EC/ToonCast
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/CreoKids" group-title="😎 Niños y Juvenil ⚡ 7 a 14 años 💥",Creo Kids (1920x1080)
-https://vmvpd.short.gy/T3B2/CreoKids
-
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/FMHKids" group-title="😎 Niños y Juvenil ⚡ 7 a 14 años 💥",FM H Kids (1280x720)
 https://vmvpd.short.gy/T3B2/FMHKids
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/FMHKids" group-title="😎 Niños y Juvenil ⚡ 7 a 14 años 💥",FM H Kids (1280x720)
@@ -444,6 +441,9 @@ https://vmvpd.short.gy/WT/FMHKids
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/ChikiToonz" group-title="😎 Niños y Juvenil ⚡ 7 a 14 años 💥",Chiki Toonz (1920x1080)
 https://vmvpd.short.gy/T3B2/ChikiToonz
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/CreoKids" group-title="😎 Niños y Juvenil ⚡ 7 a 14 años 💥",Creo Kids (1920x1080)
+https://vmvpd.short.gy/T3B2/CreoKids
 
 #EXTINF=====================================================================================================================================================================================================
 
@@ -556,62 +556,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/vod/v429/40/vod-media.m3u8?_cdn_attr
 #EXTINF:  TeleKanal="Películas"     Iskhodnyy="EC"  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/jpg?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fstatic%2Fbackdrops%2F654%2F3081654_1280.jpg&width=1280" group-title="Películas",Sugar en aprietos
 https://cdn5.eco.cdn.moderntv.eu/econocable/vod/v447/40/vod-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dv447_vod_v4&_cdn_session=3894033675&_cdn_token=5223acc21161566a8c766c5263665697a6832ec6
 
-
 #EXTINF================================================================================================================================================================================================================================================================
-
-
-
-#EXTINF: tvg-logo="https://alba-pe-atv.cdn.mediatiquepress.com/wp-content/uploads/2025/01/ATVsur-150x47.png" group-title="ATV Sur 🇵🇪 ",Andina Sur ✅✔️ 1280x720p
-https://d2qsan2ut81n2k.cloudfront.net/live/1dedd057-0bc1-44a7-a747-bd52e12166b3/medialist_15609871089997455276_hls.m3u8
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/22/1763740777342/c690fa5fe016_480_270.png" group-title="ATV Sur 🇵🇪 ",Andina Sur 🇻🇳 1280x720p
-https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_abr/bitel/atvsur_720p/chunks.m3u8
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/22/1763740777342/c690fa5fe016_480_270.png" group-title="ATV Sur 🇵🇪 ",Andina Sur 🇻🇳 854x480p
-https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_abr/bitel/atvsur_480p/chunks.m3u8
-
-#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FATVSUR.png&width=50&height=50" group-title="ATV Sur 🇵🇪 ",Andina Sur 💸 1280x720p
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATVSUR/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVSUR_stream_5h&_cdn_session=3418617517&_cdn_token=dfc06322a3a21922b9b07378cac84a89aa9f391b
-#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FATVSUR.png&width=50&height=50" group-title="ATV Sur 🇵🇪 ",Andina Sur 💸 1024x576p
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATVSUR/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVSUR_stream_5h&_cdn_session=3418629389&_cdn_token=d5bb4bc69887f851824b1648ed08d66bcceda076
-
-
-#EXTINF================================================================================================================================================================================================================================================================
-
-
-
-#EXTINF================================================================================================================================================================================================================================================================
-
-
-#EXTINF: tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Latina Noticias 🇵🇪 ",Latina Noticias ✅✔️ 1920x1080p
-https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream0/chunks.m3u8?dpssid=b24027682816927a2a8b833f&sid=ba5t1l1xb215171014026927a2aa29290&ndvc=0
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763742062348/1fd0828a116a_480_270.png" group-title="Latina Noticias 🇵🇪 ",Latina Noticias 🇻🇳 1280x720p
-https://live-evg11.tv360.bitel.com.pe/bitel/latinanoticias_abr/bitel/latinanoticias_720p/chunks.m3u8
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763742062348/1fd0828a116a_480_270.png" group-title="Latina Noticias 🇵🇪 ",Latina Noticias 🇻🇳  1024x576p
-https://live-evg11.tv360.bitel.com.pe/bitel/latinanoticias_abr/bitel/latinanoticias_480p/chunks.m3u8
-
-#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FLATINANOTI.png&width=50&height=50" group-title="Latina Noticias 🇵🇪 ",Latina Noticias 💸 1280x720p
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATINANOTI/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINANOTI_stream_er&_cdn_session=3407351509&_cdn_token=b507c28e8a595c6b4e06161d1c2983b1b48255ac
-#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FLATINANOTI.png&width=50&height=50" group-title="Latina Noticias 🇵🇪 ",Latina Noticias 💸 1024x576p
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/LATINANOTI/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINANOTI_stream_er&_cdn_session=3419791539&_cdn_token=31f7d0cfb9f1d267020dc7ba4130661512e96697
-
-#EXTINF: tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Latina Noticias 🇵🇪 ",Latina Noticias ❓❔ 1920x1080p
-https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
-
-#EXTINF================================================================================================================================================================================================================================================================
-
-
-
-#EXTINF================================================================================================================================================================================================================================================================
-
-#EXTINF: tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title=" Tv Perú 🇵🇪 ",Tv Perú Noticias ✅✔️ 640x360p
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
-
-#EXTINF: tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title=" Tv Perú 🇵🇪 ",TvPerú InterNacion ✅✔️ 1280x720p
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
-
-#EXTINF: tvg-logo="https://www.radionacional.gob.pe/sites/all/themes/stability/images/RADIO-NACIONAL.png" group-title=" Tv Perú 🇵🇪 ",Radio Nacional ✅✔️ (Audio)
-https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
 
 #EXTINF: tvg-logo="https://www.canalipe.gob.pe/sites/default/themes/concise_drupal/static/media/header/logo.png" group-title=" Tv Perú 🇵🇪 ",Canal IPE ✅✔️ 1280x720p
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
@@ -619,24 +564,6 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/IPE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DIPE_stream_ft&_cdn_session=3418753389&_cdn_token=9fc56a27b6ca8f97bb7e8ac79664c3b8ca33771a
 #EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FIPE.png&width=50&height=50" group-title=" Tv Perú 🇵🇪 ",Canal IPE 💸 1024x576p
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/IPE/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DIPE_stream_ft&_cdn_session=3418735765&_cdn_token=eb50f2e1df7aa2af6c945e2895b648eae0fae45b
-
-#EXTINF================================================================================================================================================================================================================================================================
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835719280/34cd78cef450_480_270.png" group-title="CaraCol Universal 🇵🇪 ",Exitosa ✅✔️ 1280x720p
-https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/tracks-v1/index.fmp4.m3u8
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/27/02/1764185387243/3c598b1996ac_480_270.png" group-title="CaraCol Universal 🇵🇪 ",Exitosa 🇻🇳 1280x720p
-https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_720p/chunks.m3u8?uid=12051151
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/27/02/1764185387243/3c598b1996ac_480_270.png" group-title="CaraCol Universal 🇵🇪 ",Exitosa 🇻🇳  854x480p
-https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_480p/chunks.m3u8?uid=12051151
-
-#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FEXITOSATV.png&width=50&height=50" group-title="CaraCol Universal 🇵🇪 ",Exitosa 💸 1280x720p
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEXITOSATV_stream_o1&_cdn_session=3418854653&_cdn_token=f387e0487a7a6e11c217b4c86f468106882f2d12
-#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FEXITOSATV.png&width=50&height=50" group-title="CaraCol Universal 🇵🇪 ",Exitosa 💸 1024x576p
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEXITOSATV_stream_o1&_cdn_session=3418857125&_cdn_token=7b6f0010f966ac2c98bc4df2dba2aaf17783bd92
-
-#EXTINF: tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="CaraCol Universal 🇵🇪 ",Exitosa ❓❔ 1280x720p
-https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
@@ -667,30 +594,6 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/USMPTV/20-hls/live-media.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="https://www.milenial.news/images/advert-box.png" group-title="Enrutador Chasqui 🇵🇪 ",MilenialTV ✅✔️ 1920x1080p
-https://www.milenial.news/salida/sd/milenial.m3u8
-https://www.milenial.news/salida/milenial.m3u8
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763743622668/a4a9386efcd8_480_270.png" group-title="Enrutador Chasqui 🇵🇪 ",MilenialTV 🇻🇳 1920x1080p
-https://live-evg5.tv360.bitel.com.pe/bitel/milenial/chunks.m3u8?uid=12051151
-
-#EXTINF: tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Enrutador Chasqui 🇵🇪 " ,Trivu ✅✔️ 1920x1080p
-https://www.chasquirouter.com/salida/sd/trivu.m3u8
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763742156631/298c0d17c859_480_270.png" group-title="Enrutador Chasqui 🇵🇪 " ,Trivu 🇻🇳 1920x1080p
-https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/chunks.m3u8
-#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FTRIVUTV.png&width=50&height=50" group-title="Enrutador Chasqui 🇵🇪 " ,Trivu 💸 1280x720p
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TRIVUTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRIVUTV_stream_56&_cdn_session=3419483237&_cdn_token=ccaeb21037c190dae00d0099de68ec036f40a9ef
-#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FTRIVUTV.png&width=50&height=50" group-title="Enrutador Chasqui 🇵🇪 " ,Trivu 💸 1024x576p
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TRIVUTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRIVUTV_stream_56&_cdn_session=3419487309&_cdn_token=04421641be68818039ac7bc39e93020fb5db3648
-
-#EXTINF:-6 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/173583565692/7885cf39a6b2_480_270.png" group-title="Enrutador Chasqui 🇵🇪 ",Nativa ✅✔️ 1280x720p
-https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763757481891/33b0867d116c_480_270.png" group-title="Enrutador Chasqui 🇵🇪 ",Nativa 🇻🇳 1280x720p
-https://live-evg5.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8?uid=12051151
-#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FNATIVA.png&width=50&height=50" group-title="Enrutador Chasqui 🇵🇪 ",Nativa 💸 1280x720p
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/UCITV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUCITV_stream_mg&_cdn_session=3419625469&_cdn_token=b54d1c35c5a3f62600c5d6c92553fc47fd585086
-#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FNATIVA.png&width=50&height=50" group-title="Enrutador Chasqui 🇵🇪 ",Nativa 💸 1024x576p
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/UCITV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUCITV_stream_mg&_cdn_session=3419621757&_cdn_token=abebc1e4a508dfce2b75ec92cde0414be9eacbf2
-
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/02/1763754326389/d90f463eb27c_480_270.png" group-title="Enrutador Chasqui 🇵🇪 ",Creo 🇻🇳 1920x1080p
 https://live-evg5.tv360.bitel.com.pe/bitel/creosrt/chunks.m3u8?uid=12051151
 
@@ -701,26 +604,6 @@ https://live-evg18.tv360.bitel.com.pe/bitel/CreomasSRT/chunks.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/chunks.m3u8?uid=12051151
 #EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FNEOTV.png&width=50&height=50" group-title="Enrutador Chasqui 🇵🇪 ",NeoTV 💸 1280x720p
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/NEOTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNEOTV_stream_83&_cdn_session=3419726901&_cdn_token=ced5d179e7de63819ee3f009747cdbdec32ba40f
-
-#EXTINF================================================================================================================================================================================================================================================================
-
-#EXTINF: tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="Oficina de Radiodifusión del Perú 🇵🇪 ",PBO ✅✔️ 1920x1080p
-https://use22.playlist.ttvnw.net/v1/playlist/CsQGA6PKKX5lhB1Q7D8J-fCrveRq0ji1uSNQQuL4HzSqTVSH5O687iRNq_CGIi2719v2VtK_9SwWz4Xl5w6f8dRlXK8Byz__HgHC890PsaUXeoIE6m35nPOYc-0dL0NUJohGqoENKt86p6tp1yQjVt71gBS9310SMb2rDLjINguKzD2rpEqxaW-lUf0cABI-ZOcBGZenaLYyL2LJL9Qe_TCzTS8Bg9uPhCNY0x-MCusxHvMF78p17djiU-O3nVtU54yTn5crJ4tOAZkjIzxAPCn6xX_ncR6_sdCeMkTA0IMafkUEpTEmvh8WPO7VR1Sadl1gVDemXgGtO68OXJQvAwugR-KOr2Ife_lKvA27vW18M9tVg6AsPfJo3QujOP-vMWIWvV2kb8ek1UwoqTgD4nvALsn-DVJntMFtybo2U0u_4pbn5TjJDwVtQFDKGJEBnWZwV_BlvhIgl-JLaQdr_vmjFwn8kD2vNBesNYW4wiMWd1Q_qybULcYOH5EeA1VPlVWOEn9F0rXwYAhHKHMo4pJZ04QzqLo39KAAbNUX30mfkKFyLAbFM8K6j7eABqvO98gRJ1sQ_vQ5_reUypXtXtevBa2m7SNv5hqyIjRzHkStYoIq1Xm5uPiSRR-fs7nElToqCB9176RfHQWZGs7TVNb_zrnJ2J5DJILjU7KcSlLqEBOVfn-XkyB2dpsHpslmfat_7NWMLNoDuP8FNwPDX1SeEiFxXs6vyna0wKw5rnK98PfZIRvrA_-ni74HUIVdJQKNhEBKlAKG7DTw4LzOVwjZAtPlnNqLijPH5TNwzGnWChQ-Hs2bgO7NMswQrReK4N4mlpz5rihlFrD-O91fCEJYCf4OX6QO6RmEG-L5ne9AEZXN_CpFewvA_gVV_AJIMccA4wY7cplQf57ESBWU2mQOro5N_gXZf12FBtFPFyhqZXw34TLGMIMWP7yObLlVLTVV7k7zrl8mOu0nS6BXiL2fN3xIlpMW69zuuGj8NpLPT28BplVFF-mkIR-2SuEe1OoFLzPwiFWfL2Wvt2L4ncBbcFVzu5GgJ-XFlPdYET91jlsscMDJGkB6naOhmrjCsRNyp3zC3dNvlaG_Z8oZVyGQ9i1SA1MaDFzLk9P1sxmIT1EbbyABKgl1cy1lYXN0LTIw6w0.m3u8
-#EXTINF: tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="Oficina de Radiodifusión del Perú 🇵🇪 ",PBO ✅✔️ 1920x1080p
-https://use23.playlist.ttvnw.net/v1/playlist/CtMGL_yCF8_jj743JZIqHsjbeRTOPlE0XkDLRHpkKldraEEGwaQA8Lw3q9QVy-MOne5BngwtjJa9nSyk4ty_zOcEI1Vj0fgEyrqg_7UYgrdS0x-KhZexkIaRDgQ_r28GDzuU2Gh07TtRIQmzlFgMgkcA8dtNysb9Vo9e4ZkL8lDrhV35q0kQtvygET6GBTz9Jt1CQ0IxjIa2wfI9WKr0g1-jZ4Ay62Yy_k5GFspPjf4FCJRObIZjovtYN6eM-6XxHytPGcwyoV1T0kC9m5rz2fLGzFYnALnATVNtbXcJ5AKZ3TyPb2R0wFFcBoSqbBCaCmZUgzgHr2ZOA7c9AnlywY-7BnW6XGRgNFFcyGNM7c7ARKmDg-6UKZ5bC1uRHdjMYo3V5_ZUw21y605tSGxU8WU9Nvgc3z41ibDNYC07QHSsvLMqKq6Mhw1h7q6ZFIjquKRXUOPerutAW8AJNPGsK_Yg3Ylcy67pqYBeBfxUXiXmVGjJkvrgGaj4UGpwXmFrSdKdKA2yGZPWnYG3jZQjy1goKkOdKHgDOs-pFcAUEAcjI-0m6aLoiJffWQn-Ju1qdL-wcSzX5EjsC7qQz7s_L9v6r-qi-wtixI4BkoSf4ei9vVfug2yPsYRpcDM59X2N6Nje6rNDnsILqY8UV3kXyIyfBwXjpKDG2mpK_-Al6Ggln2uMD8kpKGPcwwMy12Z39w9X10_z17HQOyOfxhifclPDKtoa4WoOqWtTL3WLKmlaZtcpFxWXGp9XZh0yFd1XfSWDArlZtLr9eyQXXpkylET_jspki_ACgBjKAeJ8KxXYeR4W2TABCyYv4zTJH2HPriRKLHYhG2xuheo6EuMEklyayRDnKUnNXolzJKPJQ1HRwU2H_4klCxEpKC8xM9-Z2Qz1jApS2qxg0ymYEqZN25zfBxe--22kMSTN-xjWeKG_9bmAID7FqQP6BSRyjUNlkEIqzqWHsf9SDb3Md7mmw2B7Z1PXDy4CSip34QhYnvLgGQBMW5evN6QN2DbdRWAeTMsmf8pzR-RyjD22bFGp2_5w5i6EppfnmqLN-J7qVzNE677jj5wwNYJ-_Kkh57V7XGpP6BUtxUQkJ6Ky9EUb7o3lpkf8isy4mHWxhO9A0p0S4Mx44T4aDBvLNkqIxRr1Okt3CSABKgl1cy1lYXN0LTIw6w0.m3u8
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763756810490/6024d31b3008_480_270.png" group-title="Oficina de Radiodifusión del Perú 🇵🇪 ",PBO 🇻🇳 1280x720p
-https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763756810490/6024d31b3008_480_270.png" group-title="Oficina de Radiodifusión del Perú 🇵🇪 ",PBO 🇻🇳 854x480p
-https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_480p/chunks.m3u8
-
-#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FPBO.png&width=50&height=50" group-title="Oficina de Radiodifusión del Perú 🇵🇪 ",PBO 💸 1280x720p
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=3419986173&_cdn_token=9540ddf8e913aa03242295e090bc1604d4d468b8
-#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FPBO.png&width=50&height=50" group-title="Oficina de Radiodifusión del Perú 🇵🇪 ",PBO 💸 1024x576p
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PBO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=3419988757&_cdn_token=c875b643f01a45fd69e7a3df25222cd152496bc0
-
-#EXTINF: tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="Oficina de Radiodifusión del Perú 🇵🇪 ",PBO ❓❔ 1280x720p
-http://38.183.182.166:8000/play/a13k/index.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
@@ -971,14 +854,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/viatvSRT/chunks.m3u8
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/12/22/173401728675/a4cd78baf453_480_270.png" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",YuriVisión 🇻🇳 Loreto 1920x1080p
 https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/chunks.m3u8?uid=12051151
-
-#EXTINF================================================================================================================================================================================================================================================================
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/04/16/02/1744744885980/fe2d329ae60f_480_270.png" group-title="Musicales 🔊🎵",NovaTv 🇻🇳 1280x720p
-https://live-evg7.tv360.bitel.com.pe/bitel/NovaSRT/chunks.m3u8?uid=12051151
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835622757/0fb19a3b961d_480_270.jpg" group-title="Musicales 🔊🎵",Top Latino 🇻🇳 720x404p
-https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
