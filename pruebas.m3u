@@ -329,6 +329,34 @@ https://vmvpd.short.gy/WT/Milenial
 
 #EXTINF=====================================================================================================================================================================================================
 
+#EXTINF:    Iskhodnyy="✔️ATV+✅"                  tvg-logo="https://tvg-logo.short.gy/Andina+" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Andina+ (1280x720)
+https://vmvpd.short.gy/ATV+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Andina+" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Andina+ (1280x720)
+https://vmvpd.short.gy/WT/ATV+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Andina+" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Andina+ (1280x720)
+https://vmvpd.short.gy/EC/ATV+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Andina+" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Andina+ (1280x720)
+https://vmvpd.short.gy/T3B2/ATV+
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/InkaVision" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Inka Vision (1920x1080)
+https://vmvpd.short.gy/T3B2/InkaVision
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/InkaVision" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Inka Vision (1280x720)
+https://vmvpd.short.gy/WT/InkaVision
+
+#EXTINF:    Iskhodnyy="✔️Via✅"                  tvg-logo="https://tvg-logo.short.gy/ViaTeleVision" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Via (1280x720)
+https://vmvpd.short.gy/ViaTeleVision
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/ViaTeleVision" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Via (1280x720)
+https://vmvpd.short.gy/EC/ViaTeleVision
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/ViaTeleVision" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Via (1280x720)
+https://vmvpd.short.gy/T3B2/ViaTeleVision
+
+#EXTINF:    Iskhodnyy="✔️Eco✅"                  tvg-logo="https://tvg-logo.short.gy/Eco" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Eco (1280x720)
+https://vmvpd.short.gy/Eco
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Eco" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Eco (1280x720)
+https://vmvpd.short.gy/EC/Eco
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Eco" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Eco (1280x720)
+https://vmvpd.short.gy/T3B2/Eco
+
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Global" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Global (1280x720)
 https://vmvpd.short.gy/WT/Global
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Global" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Global (1280x720)
@@ -342,15 +370,6 @@ https://vmvpd.short.gy/WT/LaTele
 https://vmvpd.short.gy/EC/LaTele
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/B3T2/LaTele" group-title="🌐☁️ Señal Digital 🤖🤳🏼",La Tele (720x576)
 https://vmvpd.short.gy/T3B2/LaTele
-
-#EXTINF:    Iskhodnyy="✔️ATV+✅"                  tvg-logo="https://tvg-logo.short.gy/Andina+" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Andina+ (1280x720)
-https://vmvpd.short.gy/ATV+
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Andina+" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Andina+ (1280x720)
-https://vmvpd.short.gy/WT/ATV+
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Andina+" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Andina+ (1280x720)
-https://vmvpd.short.gy/EC/ATV+
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Andina+" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Andina+ (1280x720)
-https://vmvpd.short.gy/T3B2/ATV+
 
 #EXTINF=====================================================================================================================================================================================================
 
