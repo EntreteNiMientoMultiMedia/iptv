@@ -253,16 +253,9 @@ https://vmvpd.short.gy/EC/NoticiasCaracol
 
 #EXTINF=====================================================================================================================================================================================================
 
-
-
-
-
-
-
-
 #EXTINF:    Iskhodnyy="✔️Latina Clásicos✅"                  tvg-logo="https://tvg-logo.short.gy/LatinaClasicos" group-title="🎭 Variedad Alternativa 🔄",Latina Clásicos (1920x1080)
 https://vmvpd.short.gy/LatinaClasicos
-https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
+https://vmvpd.short.gy/LatinaClásicos
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Global" group-title="🎭 Variedad Alternativa 🔄",Global (1280x720)
 https://vmvpd.short.gy/WT/Global
@@ -295,6 +288,15 @@ https://vmvpd.short.gy/WT/Nativa
 https://vmvpd.short.gy/EC/Nativa
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Nativa" group-title="🎭 Variedad Alternativa 🔄",Nativa (1280x720)
 https://vmvpd.short.gy/T3B2/Nativa
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Viva" group-title="🎭 Variedad Alternativa 🔄",Viva (1280x720)
+https://vmvpd.short.gy/WT/Viva
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🎭 Variedad Alternativa 🔄",TeleLima (1280x720)
+https://vmvpd.short.gy/T3B2/TeleLima
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/TeleLima" group-title="🎭 Variedad Alternativa 🔄",TeleLima (1280x720)
+https://vmvpd.short.gy/WT/TeleLima
+
 
 #EXTINF=====================================================================================================================================================================================================
 
