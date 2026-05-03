@@ -273,19 +273,6 @@ https://vmvpd.short.gy/T3B2/Nativa
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/GamarraChannel" group-title="🦾 EmprendiMiento 🌒",Gamarra (1280x720)
-https://vmvpd.short.gy/WT/GamarraChannel
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TvEmpresa" group-title="🦾 EmprendiMiento 🌒",Empresa (1920x1080)
-https://vmvpd.short.gy/T3B2/TvEmpresa
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Qosmo" group-title="🦾 EmprendiMiento 🌒",Empresa (1280x720)
-https://vmvpd.short.gy/EC/Qosmo
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CongresoTv" group-title="🦾 EmprendiMiento 🌒",Congreso (1280x720)
-https://vmvpd.short.gy/EC/CongresoTv
-
-#EXTINF=====================================================================================================================================================================================================
-
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Bethel" group-title="🕊️ Religión y Fe 🙏🏼",Bethel (1280x720)
 https://vmvpd.short.gy/EC/Bethel
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Bethel" group-title="🕊️ Religión y Fe 🙏🏼",Bethel (1280x720)
@@ -350,6 +337,19 @@ https://vmvpd.short.gy/WT/FMHKids
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/ChikiToonz" group-title="😎 Niños y Juvenil ⚡ 7 a 14 años 💥",Chiki Toonz (1920x1080)
 https://vmvpd.short.gy/T3B2/ChikiToonz
+
+#EXTINF=====================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/GamarraChannel" group-title="🦾 EmprendiMiento 🌒",Gamarra (1280x720)
+https://vmvpd.short.gy/WT/GamarraChannel
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TvEmpresa" group-title="🦾 EmprendiMiento 🌒",Empresa (1920x1080)
+https://vmvpd.short.gy/T3B2/TvEmpresa
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Qosmo" group-title="🦾 EmprendiMiento 🌒",Empresa (1280x720)
+https://vmvpd.short.gy/EC/Qosmo
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CongresoTv" group-title="🦾 EmprendiMiento 🌒",Congreso (1280x720)
+https://vmvpd.short.gy/EC/CongresoTv
 
 #EXTINF=====================================================================================================================================================================================================
 
