@@ -97,7 +97,12 @@ https://vmvpd.short.gy/WT/L1
 #EXTINF:    Iskhodnyy=""                tvg-logo="" group-title="🏆 Pasión Deportiva 🥊",ESPN 🏟️
 #EXTINF:    Iskhodnyy=""                tvg-logo="" group-title="🏆 Pasión Deportiva 🥊",Fox Sports 🏆
 #EXTINF:    Iskhodnyy=""                tvg-logo="" group-title="🏆 Pasión Deportiva 🥊",DSports 🛰️
-#EXTINF:    Iskhodnyy=""                tvg-logo="" group-title="🏆 Pasión Deportiva 🥊",DAZN 🌐
+
+#EXTINF:    Iskhodnyy="🐶🌕"                tvg-logo="https://tvg-logo.short.gy/DAZNCombat" group-title="🏆 Pasión Deportiva 🥊",DAZN Combat 🥋
+https://vmvpd.short.gy/DAZNCombat
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Titan" group-title="🏆 Pasión Deportiva 🥊",Titán 🥊 (1280x720)
+https://vmvpd.short.gy/WT/Titan
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/Ovacion" group-title="🏆 Pasión Deportiva 🥊",Ovacion 🎙️ (1920x1080)
 https://vmvpd.short.gy/T3B2/Ovacion
@@ -106,20 +111,8 @@ https://vmvpd.short.gy/EC/Ovacion
 #EXTINF:    Iskhodnyy="🔱EC📺"                tvg-logo="https://tvg-logo.short.gy/WT/Ovacion" group-title="🏆 Pasión Deportiva 🥊",Ovacion 🎙️ (1280x720)
 https://vmvpd.short.gy/WT/Ovacion
 
-#EXTINF:    Iskhodnyy="🐶🌕"                tvg-logo="" group-title="🏆 Pasión Deportiva 🥊",Real Madrid 👑
-
-#EXTINF:    Iskhodnyy="✔️ClaroSports✅"                tvg-logo="" group-title="🏆 Pasión Deportiva 🥊",Claro Sports 🏅
+#EXTINF:    Iskhodnyy="✔️ClaroSports✅"                tvg-logo="https://tvg-logo.short.gy/ClaroSports" group-title="🏆 Pasión Deportiva 🥊",Claro Sports 🏅
 https://vmvpd.short.gy/ClaroSports
-#EXTINF:    Iskhodnyy="🐶🌕"                tvg-logo="" group-title="🏆 Pasión Deportiva 🥊",Claro Sports 🏅
-
-#EXTINF:    Iskhodnyy="🐶🌕"                tvg-logo="" group-title="🏆 Pasión Deportiva 🥊",DAZN Combat 🥋
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Titan" group-title="🏆 Pasión Deportiva 🥊",Titán 🥊 (1280x720)
-https://vmvpd.short.gy/WT/Titan
-
-#EXTINF:    Iskhodnyy="✔️RedBull✅"                tvg-logo="" group-title="🏆 Pasión Deportiva 🥊",Red Bull 🏂
-https://vmvpd.short.gy/RedBull
-#EXTINF:    Iskhodnyy="🐶🌕"                tvg-logo="" group-title="🏆 Pasión Deportiva 🥊",Red Bull 🏂
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/FierroAFondo" group-title="🏆 Pasión Deportiva 🥊",Fierro a Fondo 🏎️ (1920x1080)
 https://vmvpd.short.gy/T3B2/FierroAFondo
