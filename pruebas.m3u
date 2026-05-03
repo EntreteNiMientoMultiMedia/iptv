@@ -122,15 +122,15 @@ https://vmvpd.short.gy/EC/Ovacion
 #EXTINF:    Iskhodnyy="🔱EC📺"                tvg-logo="https://tvg-logo.short.gy/WT/Ovacion" group-title="🥊 Deportes 🏀",Ovacion ⚽ (1280x720)
 https://vmvpd.short.gy/WT/Ovacion
 
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Eventos" group-title="🥊 Deportes 🏀",Eventos ⚽ (1280x720)
-https://vmvpd.short.gy/EC/Eventos
-
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/B3T2/Juntos" group-title="🥊 Deportes 🏀",Juntos (1920x1080)
 https://vmvpd.short.gy/T3B2/Juntos
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Juntos" group-title="🥊 Deportes 🏀",Canal J (1280x720)
 https://vmvpd.short.gy/WT/Juntos
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Juntos" group-title="🥊 Deportes 🏀",Juntos (1280x720)
 https://vmvpd.short.gy/EC/Juntos
+
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Eventos" group-title="🥊 Deportes 🏀",Eventos ⚽ (1280x720)
+https://vmvpd.short.gy/EC/Eventos
 
 #EXTINF=====================================================================================================================================================================================================
 
@@ -164,13 +164,13 @@ https://vmvpd.short.gy/EC/JusticiaTv
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/JusticiaTv" group-title="🗞️ Noticiero Peruano 🇵🇪",Justicia (720x576)
 https://vmvpd.short.gy/WT/JusticiaTv
 
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Monitor" group-title="🗞️ Noticiero Peruano 🇵🇪",Monitor (1280x720)
+https://vmvpd.short.gy/WT/Monitor
+
 #EXTINF:    Iskhodnyy="✔️Nacional✅"                  tvg-logo="https://tvg-logo.short.gy/NacionalTvPeru" group-title="🗞️ Noticiero Peruano 🇵🇪",Nacional (1280x720)
 https://vmvpd.short.gy/NacionalTvPeru
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/NacionalTvPeru" group-title="🗞️ Noticiero Peruano 🇵🇪",Nacional (1920x1080)
 https://vmvpd.short.gy/T3B2/NacionalTvPeru
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Monitor" group-title="🗞️ Noticiero Peruano 🇵🇪",Monitor (1280x720)
-https://vmvpd.short.gy/WT/Monitor
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/TvPeruNoticias" group-title="🗞️ Noticiero Peruano 🇵🇪",TvPe Noticias (720x576)
 https://vmvpd.short.gy/WT/TvPeruNoticias
@@ -284,11 +284,6 @@ https://vmvpd.short.gy/T3B2/Nativa
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Viva" group-title="🎭 Variedad Alternativa 🔄",Viva (1280x720)
 https://vmvpd.short.gy/WT/Viva
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/B3T2/TeleLima" group-title="🎭 Variedad Alternativa 🔄",TeleLima (1280x720)
-https://vmvpd.short.gy/T3B2/TeleLima
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/TeleLima" group-title="🎭 Variedad Alternativa 🔄",TeleLima (1280x720)
-https://vmvpd.short.gy/WT/TeleLima
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Neo" group-title="🎭 Variedad Alternativa 🔄",Neo (1280x720)
 https://vmvpd.short.gy/T3B2/Neo
@@ -476,7 +471,10 @@ https://vmvpd.short.gy/EC/PlayBoy
 
 #EXTINF=====================================================================================================================================================================================================
 
-
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/B3T2/TeleLima" group-title="Sin Contenido Propio",TeleLima (Películas & Series)
+https://vmvpd.short.gy/T3B2/TeleLima
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/TeleLima" group-title="Sin Contenido Propio",TeleLima (Películas & Series)
+https://vmvpd.short.gy/WT/TeleLima
 
 
 
