@@ -258,14 +258,21 @@ https://vmvpd.short.gy/TW/Libertad
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Libertad" group-title="📰 Noticias InterNacionales 🌎",Libertad (1280x720)
 https://vmvpd.short.gy/EC/Libertad
 
+#EXTINF:    Iskhodnyy="✔️GiroVisual✅"                  tvg-logo="https://tvg-logo.short.gy/GiroVisual" group-title="📰 Noticias InterNacionales 🌎",Giro Visual (1920x1080)
+https://vmvpd.short.gy/GiroVisual
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/GiroVisual" group-title="📰 Noticias InterNacionales 🌎",Giro Visual (1920x1080)
+https://vmvpd.short.gy/T3B2/GiroVisual
+
+#EXTINF:    Iskhodnyy="✔️NoticiasCaracol✅"                  tvg-logo="https://tvg-logo.short.gy/NoticiasCaracol" group-title="📰 Noticias InterNacionales 🌎",Noticias Caracol (1920x1080)
+https://vmvpd.short.gy/NoticiasCaracol
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/NoticiasCaracol" group-title="📰 Noticias InterNacionales 🌎",Noticia Caracol (1280x720)
+https://vmvpd.short.gy/EC/NoticiasCaracol
+
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/NuestraTeleNoticias24" group-title="📰 Noticias InterNacionales 🌎",Nuestra Tele Noticias 24 (1280x720)
 https://vmvpd.short.gy/WT/NuestraTeleNoticias24
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/VenezolanosPorLaInformacion" group-title="📰 Noticias InterNacionales 🌎",Venezolanos por la Información (1280x720)
 https://vmvpd.short.gy/WT/VenezolanosPorLaInformacion
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/NoticiasCaracol" group-title="📰 Noticias InterNacionales 🌎",Noticia Caracol (1280x720)
-https://vmvpd.short.gy/EC/NoticiasCaracol
 
 #EXTINF=====================================================================================================================================================================================================
 
@@ -363,6 +370,11 @@ https://vmvpd.short.gy/T3B2/ATV+
 https://vmvpd.short.gy/OndaDigital
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/OndaDigital" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Onda Digital (1280x720)
 https://vmvpd.short.gy/T3B2/OndaDigital
+
+#EXTINF:    Iskhodnyy="✔️EPA!✅"                  tvg-logo="https://tvg-logo.short.gy/EPA!" group-title="🌐☁️ Señal Digital 🤖🤳🏼",EPA! (1280x720) 🇨🇱
+https://vmvpd.short.gy/EPA!
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/EPA!" group-title="🌐☁️ Señal Digital 🤖🤳🏼",EPA! (1280x720) 🇨🇱
+https://vmvpd.short.gy/T3B2/EPA!
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Global" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Global (1280x720)
 https://vmvpd.short.gy/WT/Global
