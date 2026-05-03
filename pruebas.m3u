@@ -471,12 +471,12 @@ https://vmvpd.short.gy/EC/PlayBoy
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Antena1" group-title="Sin Contenido Propio",Antena 1 (Musicales)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Antena1" group-title="Sin Contenido Propio",Antena 1 (Musicales & Películas)
 https://vmvpd.short.gy/EC/Antena1
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Antena1" group-title="Sin Contenido Propio",Antena 1 (Musicales)
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Antena1" group-title="Sin Contenido Propio",Antena 1 (Musicales & Películas)
 https://vmvpd.short.gy/WT/Antena1
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Agro" group-title="Sin Contenido Propio",Arussa (Musicales)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Arussa" group-title="Sin Contenido Propio",Arussa (Musicales & Películas & Series)
 https://vmvpd.short.gy/EC/Arussa
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Agro" group-title="Sin Contenido Propio",Agro (Musicales & Películas)
