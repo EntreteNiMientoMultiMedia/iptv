@@ -321,6 +321,13 @@ https://vmvpd.short.gy/EC/BlueHouse
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/BlueHouse" group-title="🎭 Variedad Alternativa 🔄",Blue House (720x576)
 https://vmvpd.short.gy/WT/BlueHouse
 
+#EXTINF:    Iskhodnyy="✔️Via✅"                  tvg-logo="https://tvg-logo.short.gy/ViaTeleVision" group-title="🎭 Variedad Alternativa 🔄",Via (1280x720)
+https://vmvpd.short.gy/ViaTeleVision
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/ViaTeleVision" group-title="🎭 Variedad Alternativa 🔄",Via (1280x720)
+https://vmvpd.short.gy/EC/ViaTeleVision
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/ViaTeleVision" group-title="🎭 Variedad Alternativa 🔄",Via (1280x720)
+https://vmvpd.short.gy/T3B2/ViaTeleVision
+
 #EXTINF:    Iskhodnyy="✔️Trivu✅"                  tvg-logo="https://tvg-logo.short.gy/Trivu" group-title="🎭 Variedad Alternativa 🔄",Trivu (1280x720)
 https://vmvpd.short.gy/Trivu
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Trivu" group-title="🎭 Variedad Alternativa 🔄",Trivuv (1920x1080)
@@ -498,14 +505,6 @@ https://vmvpd.short.gy/EC/Sumac
 https://vmvpd.short.gy/T3B2/TeleLima
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/TeleLima" group-title="Sin Contenido Propio",TeleLima (Películas & Series)
 https://vmvpd.short.gy/WT/TeleLima
-
-#EXTINF:    Iskhodnyy="✔️Via✅"                  tvg-logo="https://tvg-logo.short.gy/ViaTeleVision" group-title="Sin Contenido Propio",Via (Musicales) Evaluación
-https://vmvpd.short.gy/ViaTeleVision
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/ViaTeleVision" group-title="Sin Contenido Propio",Via (Musicales) Evaluación
-https://vmvpd.short.gy/EC/ViaTeleVision
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/ViaTeleVision" group-title="Sin Contenido Propio",Via (Musicales) Evaluación
-https://vmvpd.short.gy/T3B2/ViaTeleVision
-
 
 #EXTINF=====================================================================================================================================================================================================
 
