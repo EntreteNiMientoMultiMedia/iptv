@@ -253,6 +253,17 @@ https://vmvpd.short.gy/EC/NoticiasCaracol
 
 #EXTINF=====================================================================================================================================================================================================
 
+
+
+
+
+
+
+
+#EXTINF:    Iskhodnyy="✔️Latina Clásicos✅"                  tvg-logo="https://tvg-logo.short.gy/LatinaClasicos" group-title="🎭 Variedad Alternativa 🔄",Latina Clásicos (1920x1080)
+https://vmvpd.short.gy/LatinaClasicos
+https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
+
 #EXTINF:    Iskhodnyy="✔️ATV+✅"                  tvg-logo="https://tvg-logo.short.gy/Andina+" group-title="🎭 Variedad Alternativa 🔄",Andina+ (1280x720)
 https://vmvpd.short.gy/ATV+
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Andina+" group-title="🎭 Variedad Alternativa 🔄",Andina+ (1280x720)
@@ -509,11 +520,7 @@ https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Latina Clásicos 🇵🇪 ",Latina Clasicos ✅✔️ 1920x1080p
-https://jireh-6-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream0/chunks.m3u8?dpssid=b24900835076927a23736b54&sid=ba5t1l1xb217436165296927a2389e5f1&ndvc=0
 
-#EXTINF: tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Latina Clásicos 🇵🇪 ",Latina Clasicos ❓❔ 1920x1080p
-https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
