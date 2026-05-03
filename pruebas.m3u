@@ -292,11 +292,17 @@ https://vmvpd.short.gy/T3B2/Nativa
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Viva" group-title="🎭 Variedad Alternativa 🔄",Viva (1280x720)
 https://vmvpd.short.gy/WT/Viva
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🎭 Variedad Alternativa 🔄",TeleLima (1280x720)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/B3T2/TeleLima" group-title="🎭 Variedad Alternativa 🔄",TeleLima (1280x720)
 https://vmvpd.short.gy/T3B2/TeleLima
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/TeleLima" group-title="🎭 Variedad Alternativa 🔄",TeleLima (1280x720)
 https://vmvpd.short.gy/WT/TeleLima
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/B3T2/Juntos" group-title="🎭 Variedad Alternativa 🔄",Juntos (1920x1080)
+https://vmvpd.short.gy/T3B2/Juntos
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Juntos" group-title="🎭 Variedad Alternativa 🔄",Canal J (1280x720)
+https://vmvpd.short.gy/WT/Juntos
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Juntos" group-title="🎭 Variedad Alternativa 🔄",Juntos (1280x720)
+https://vmvpd.short.gy/EC/Juntos
 
 #EXTINF=====================================================================================================================================================================================================
 
