@@ -357,6 +357,13 @@ https://vmvpd.short.gy/EC/Eco
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Eco" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Eco (1280x720)
 https://vmvpd.short.gy/T3B2/Eco
 
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Fuego" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Fuego (1280x720)
+https://vmvpd.short.gy/WT/Fuego
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Fuego" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Fuego (1280x720)
+https://vmvpd.short.gy/T3B2/Fuego
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Fuego" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Fuego (720x576)
+https://vmvpd.short.gy/EC/Fuego
+
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Global" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Global (1280x720)
 https://vmvpd.short.gy/WT/Global
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Global" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Global (1280x720)
