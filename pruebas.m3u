@@ -94,6 +94,11 @@ https://vmvpd.short.gy/T3B2/L1Max
 #EXTINF:    Iskhodnyy="🔱WT📺"              tvg-logo="https://tvg-logo.short.gy/WT/L1" group-title="🏆 Pasión Deportiva 🥊",L1 ⚽ (1280x720)
 https://vmvpd.short.gy/WT/L1
 
+#EXTINF:    Iskhodnyy=""                tvg-logo="" group-title="🏆 Pasión Deportiva 🥊",ESPN 🏟️
+#EXTINF:    Iskhodnyy=""                tvg-logo="" group-title="🏆 Pasión Deportiva 🥊",Fox Sports 🏆
+#EXTINF:    Iskhodnyy=""                tvg-logo="" group-title="🏆 Pasión Deportiva 🥊",DSports 🛰️
+#EXTINF:    Iskhodnyy=""                tvg-logo="" group-title="🏆 Pasión Deportiva 🥊",DAZN 🌐
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/Ovacion" group-title="🏆 Pasión Deportiva 🥊",Ovacion 🎙️ (1920x1080)
 https://vmvpd.short.gy/T3B2/Ovacion
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Ovacion" group-title="🏆 Pasión Deportiva 🥊",Ovacion 🎙️ (1280x720)
@@ -101,13 +106,31 @@ https://vmvpd.short.gy/EC/Ovacion
 #EXTINF:    Iskhodnyy="🔱EC📺"                tvg-logo="https://tvg-logo.short.gy/WT/Ovacion" group-title="🏆 Pasión Deportiva 🥊",Ovacion 🎙️ (1280x720)
 https://vmvpd.short.gy/WT/Ovacion
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/WT/ESportsGo" group-title="🏆 Pasión Deportiva 🥊",E Sports Go 🎮 (720x576)
-https://vmvpd.short.gy/WT/ESportsGo
+#EXTINF:    Iskhodnyy="🐶🌕"                tvg-logo="" group-title="🏆 Pasión Deportiva 🥊",Real Madrid 👑
+
+#EXTINF:    Iskhodnyy="✔️ClaroSports✅"                tvg-logo="" group-title="🏆 Pasión Deportiva 🥊",Claro Sports 🏅
+https://vmvpd.short.gy/ClaroSports
+#EXTINF:    Iskhodnyy="🐶🌕"                tvg-logo="" group-title="🏆 Pasión Deportiva 🥊",Claro Sports 🏅
+
+#EXTINF:    Iskhodnyy="🐶🌕"                tvg-logo="" group-title="🏆 Pasión Deportiva 🥊",DAZN Combat 🥋
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Titan" group-title="🏆 Pasión Deportiva 🥊",Titán 🥊 (1280x720)
+https://vmvpd.short.gy/WT/Titan
+
+#EXTINF:    Iskhodnyy="✔️RedBull✅"                tvg-logo="" group-title="🏆 Pasión Deportiva 🥊",Red Bull 🏂
+https://vmvpd.short.gy/RedBull
+#EXTINF:    Iskhodnyy="🐶🌕"                tvg-logo="" group-title="🏆 Pasión Deportiva 🥊",Red Bull 🏂
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/FierroAFondo" group-title="🏆 Pasión Deportiva 🥊",Fierro a Fondo 🏎️ (1920x1080)
 https://vmvpd.short.gy/T3B2/FierroAFondo
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/FierroAFondo" group-title="🏆 Pasión Deportiva 🥊",Fierro a Fondo 🏎️ (1280x720)
 https://vmvpd.short.gy/EC/FierroAFondo
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/WT/ESportsGo" group-title="🏆 Pasión Deportiva 🥊",E Sports Go 🎮 (720x576)
+https://vmvpd.short.gy/WT/ESportsGo
+
+#EXTINF:    Iskhodnyy="LG"                tvg-logo="https://tvg-logo.short.gy/Onegai4Deportes" group-title="🏆 Pasión Deportiva 🥊",Onegai Deportes 🇯🇵 (1280x720)
+https://vmvpd.short.gy/Onegai4Deportes
 
 #EXTINF:    Iskhodnyy="MonteRicoTv"                tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🏆 Pasión Deportiva 🥊",MonteRricoTv 🏇 (1280x720)
 https://vmvpd.short.gy/MonteRicoTv
@@ -115,12 +138,6 @@ https://vmvpd.short.gy/MonteRicoTv
 https://vmvpd.short.gy/MonteRricoTv
 #EXTINF:    Iskhodnyy="MonteRicoTv"                tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🏆 Pasión Deportiva 🥊",MonteRricoTv 🏇 (1280x720)
 https://vmvpd.short.gy/MonteRrricoTv
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Titan" group-title="🏆 Pasión Deportiva 🥊",Titán 🥊 (1280x720)
-https://vmvpd.short.gy/WT/Titan
-
-#EXTINF:    Iskhodnyy="LG"                tvg-logo="https://tvg-logo.short.gy/Onegai4Deportes" group-title="🏆 Pasión Deportiva 🥊",Onegai Deportes 🇯🇵 (1280x720)
-https://vmvpd.short.gy/Onegai4Deportes
 
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Eventos" group-title="🏆 Pasión Deportiva 🥊",Eventos 📡 (1280x720)
 https://vmvpd.short.gy/EC/Eventos
