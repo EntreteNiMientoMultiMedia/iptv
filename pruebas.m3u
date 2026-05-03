@@ -333,19 +333,27 @@ https://vmvpd.short.gy/EC/ATV+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Andina+" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Andina+ (1280x720)
 https://vmvpd.short.gy/T3B2/ATV+
 
-#EXTINF:    Iskhodnyy="✔️Via✅"                  tvg-logo="https://tvg-logo.short.gy/ViaTeleVision" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Via (1280x720)
-https://vmvpd.short.gy/ViaTeleVision
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/ViaTeleVision" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Via (1280x720)
-https://vmvpd.short.gy/EC/ViaTeleVision
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/ViaTeleVision" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Via (1280x720)
-https://vmvpd.short.gy/T3B2/ViaTeleVision
-
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Fuego" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Fuego (1280x720)
 https://vmvpd.short.gy/WT/Fuego
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Fuego" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Fuego (1280x720)
 https://vmvpd.short.gy/T3B2/Fuego
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Fuego" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Fuego (720x576)
 https://vmvpd.short.gy/EC/Fuego
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Cosmos" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Cosmos (1280x720)
+https://vmvpd.short.gy/T3B2/Cosmos
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/OndaDigital" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Onda Digital (1280x720)
+https://vmvpd.short.gy/T3B2/OndaDigital
+
+#EXTINF:    Iskhodnyy="✔️Conecta2✅"                  tvg-logo="https://tvg-logo.short.gy/Conecta2" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Conecta2 (1280x720)
+https://vmvpd.short.gy/Conecta2
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Conecta2" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Conecta2 (1280x720)
+https://vmvpd.short.gy/T3B2/Conecta2
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Conecta2" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Conecta2 (1280x720)
+https://vmvpd.short.gy/WT/Conecta2
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Conecta2" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Conecta2 (1280x720)
+https://vmvpd.short.gy/EC/Conecta2
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Global" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Global (1280x720)
 https://vmvpd.short.gy/WT/Global
@@ -476,7 +484,12 @@ https://vmvpd.short.gy/T3B2/TeleLima
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/TeleLima" group-title="Sin Contenido Propio",TeleLima (Películas & Series)
 https://vmvpd.short.gy/WT/TeleLima
 
-
+#EXTINF:    Iskhodnyy="✔️Via✅"                  tvg-logo="https://tvg-logo.short.gy/ViaTeleVision" group-title="Sin Contenido Propio",Via (Musicales) Evaluación
+https://vmvpd.short.gy/ViaTeleVision
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/ViaTeleVision" group-title="Sin Contenido Propio",Via (Musicales) Evaluación
+https://vmvpd.short.gy/EC/ViaTeleVision
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/ViaTeleVision" group-title="Sin Contenido Propio",Via (Musicales) Evaluación
+https://vmvpd.short.gy/T3B2/ViaTeleVision
 
 
 #EXTINF=====================================================================================================================================================================================================
