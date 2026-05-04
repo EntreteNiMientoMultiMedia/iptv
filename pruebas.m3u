@@ -126,9 +126,6 @@ https://vmvpd.short.gy/MonteRricoTv
 #EXTINF:    Iskhodnyy="MonteRicoTv"                tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🏆 Pasión Deportiva 🥊",MonteRricoTv 🏇 (1280x720)
 https://vmvpd.short.gy/MonteRrricoTv
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Facetas" group-title="🏆 Pasión Deportiva 🥊",Facetas 🇧🇴 (1280x720)
-https://vmvpd.short.gy/T3B2/Facetas
-
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Eventos" group-title="🏆 Pasión Deportiva 🥊",Eventos 📡 (1280x720)
 https://vmvpd.short.gy/EC/Eventos
 
@@ -273,6 +270,9 @@ https://vmvpd.short.gy/WT/NuestraTeleNoticias24
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/VenezolanosPorLaInformacion" group-title="📰 Noticias InterNacionales 🌎",Venezolanos por la Información (1280x720)
 https://vmvpd.short.gy/WT/VenezolanosPorLaInformacion
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Facetas" group-title="📰 Noticias InterNacionales 🌎",Facetas 🇧🇴 (1280x720)
+https://vmvpd.short.gy/T3B2/Facetas
 
 #EXTINF=====================================================================================================================================================================================================
 
