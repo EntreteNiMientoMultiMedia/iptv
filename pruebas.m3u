@@ -292,14 +292,8 @@ https://vmvpd.short.gy/EC/Nativa
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Nativa" group-title="🎭 Variedad Alternativa 🔄",Nativa (1280x720)
 https://vmvpd.short.gy/T3B2/Nativa
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Hogar" group-title="🎭 Variedad Alternativa 🔄",Hogar 🇨🇴 (1280x720)
-https://vmvpd.short.gy/WT/Hogar
-
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Viva" group-title="🎭 Variedad Alternativa 🔄",Viva (1280x720)
 https://vmvpd.short.gy/WT/Viva
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/NuestraTele" group-title="🎭 Variedad Alternativa 🔄",Nuestra Tele 🇨🇴 (720x576)
-https://vmvpd.short.gy/WT/NuestraTele
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Neo" group-title="🎭 Variedad Alternativa 🔄",Neo (1280x720)
 https://vmvpd.short.gy/T3B2/Neo
@@ -384,10 +378,7 @@ https://vmvpd.short.gy/OndaDigital
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/OndaDigital" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Onda Digital (1280x720)
 https://vmvpd.short.gy/T3B2/OndaDigital
 
-#EXTINF:    Iskhodnyy="✔️EPA!✅"                  tvg-logo="https://tvg-logo.short.gy/EPA!" group-title="🌐☁️ Señal Digital 🤖🤳🏼",EPA! 🇨🇱 (1280x720)
-https://vmvpd.short.gy/EPA!
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/EPA!" group-title="🌐☁️ Señal Digital 🤖🤳🏼",EPA! 🇨🇱 (1280x720)
-https://vmvpd.short.gy/T3B2/EPA!
+
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Facetas" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Facetas 🇧🇴 (1280x720)
 https://vmvpd.short.gy/T3B2/Facetas
@@ -410,6 +401,24 @@ https://vmvpd.short.gy/WT/LaTele
 https://vmvpd.short.gy/EC/LaTele
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/B3T2/LaTele" group-title="🌐☁️ Señal Digital 🤖🤳🏼",La Tele (720x576)
 https://vmvpd.short.gy/T3B2/LaTele
+
+#EXTINF=====================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/DistritoComedia" group-title="Extranjeros",Distrito Comedia 🇲🇽 (1280x720)
+https://vmvpd.short.gy/WT/DistritoComedia
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DistritoComedia" group-title="Extranjeros",Distrito Comedia 🇲🇽 (720x576)
+https://vmvpd.short.gy/EC/DistritoComedia
+
+#EXTINF:    Iskhodnyy="✔️EPA!✅"                  tvg-logo="https://tvg-logo.short.gy/EPA!" group-title="Extranjeros",EPA! 🇨🇱 (1280x720)
+https://vmvpd.short.gy/EPA!
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/EPA!" group-title="Extranjeros",EPA! 🇨🇱 (1280x720)
+https://vmvpd.short.gy/T3B2/EPA!
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Hogar" group-title="Extranjeros",Hogar 🇨🇴 (1280x720)
+https://vmvpd.short.gy/WT/Hogar
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/NuestraTele" group-title="Extranjeros",Nuestra Tele 🇨🇴 (720x576)
+https://vmvpd.short.gy/WT/NuestraTele
 
 #EXTINF=====================================================================================================================================================================================================
 
@@ -480,11 +489,6 @@ https://vmvpd.short.gy/T3B2/VozCristiana
 https://vmvpd.short.gy/T3B2/CreoFe
 
 #EXTINF=====================================================================================================================================================================================================
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/DistritoComedia" group-title="😎 Niños y Juvenil ⚡ 7 a 14 años 💥",Distrito Comedia (1280x720)
-https://vmvpd.short.gy/WT/DistritoComedia
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DistritoComedia" group-title="😎 Niños y Juvenil ⚡ 7 a 14 años 💥",Distrito Comedia (720x576)
-https://vmvpd.short.gy/EC/DistritoComedia
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CartoonNetWork" group-title="😎 Niños y Juvenil ⚡ 7 a 14 años 💥",Cartoon NetWork (1280x720)
 https://vmvpd.short.gy/EC/CartoonNetWork
