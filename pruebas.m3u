@@ -129,6 +129,9 @@ https://vmvpd.short.gy/MonteRricoTv
 #EXTINF:    Iskhodnyy="MonteRicoTv"                tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🏆 Pasión Deportiva 🥊",MonteRricoTv 🏇 (1280x720)
 https://vmvpd.short.gy/MonteRrricoTv
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Facetas" group-title="🏆 Pasión Deportiva 🥊",Facetas 🇧🇴 (1280x720)
+https://vmvpd.short.gy/T3B2/Facetas
+
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Eventos" group-title="🏆 Pasión Deportiva 🥊",Eventos 📡 (1280x720)
 https://vmvpd.short.gy/EC/Eventos
 
@@ -377,11 +380,6 @@ https://vmvpd.short.gy/T3B2/ATV+
 https://vmvpd.short.gy/OndaDigital
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/OndaDigital" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Onda Digital (1280x720)
 https://vmvpd.short.gy/T3B2/OndaDigital
-
-
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Facetas" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Facetas 🇧🇴 (1280x720)
-https://vmvpd.short.gy/T3B2/Facetas
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/InkaVision" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Inka Vision (1280x720)
 https://vmvpd.short.gy/T3B2/InkaVision
