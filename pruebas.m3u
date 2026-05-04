@@ -271,9 +271,6 @@ https://vmvpd.short.gy/WT/NuestraTeleNoticias24
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/VenezolanosPorLaInformacion" group-title="📰 Noticias InterNacionales 🌎",Venezolanos por la Información (1280x720)
 https://vmvpd.short.gy/WT/VenezolanosPorLaInformacion
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Facetas" group-title="📰 Noticias InterNacionales 🌎",Facetas 🇧🇴 (1280x720)
-https://vmvpd.short.gy/T3B2/Facetas
-
 #EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️Nativa✅"                  tvg-logo="https://tvg-logo.short.gy/Nativa" group-title="🎭 Variedad Alternativa 🔄",Nativa (1280x720)
@@ -390,6 +387,9 @@ https://vmvpd.short.gy/T3B2/EPA!
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Hogar" group-title="Extranjeros",Hogar 🇨🇴 (1280x720)
 https://vmvpd.short.gy/WT/Hogar
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Facetas" group-title="Extranjeros",Facetas 🇧🇴 (1280x720)
+https://vmvpd.short.gy/T3B2/Facetas
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/NuestraTele" group-title="Extranjeros",Nuestra Tele 🇨🇴 (720x576)
 https://vmvpd.short.gy/WT/NuestraTele
