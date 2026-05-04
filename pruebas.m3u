@@ -114,9 +114,6 @@ https://vmvpd.short.gy/Onegai4Deportes
 #EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/WT/ESportsGo" group-title="🏆 Pasión Deportiva 🥊",E Sports Go 🎮 (720x576)
 https://vmvpd.short.gy/WT/ESportsGo
 
-#EXTINF:    Iskhodnyy="✔️ClaroSports✅"                tvg-logo="https://tvg-logo.short.gy/ClaroSports" group-title="🏆 Pasión Deportiva 🥊",Claro Sports 🏅
-https://vmvpd.short.gy/ClaroSports
-
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/FierroAFondo" group-title="🏆 Pasión Deportiva 🥊",Fierro a Fondo 🏎️ (1920x1080)
 https://vmvpd.short.gy/T3B2/FierroAFondo
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/FierroAFondo" group-title="🏆 Pasión Deportiva 🥊",Fierro a Fondo 🏎️ (1280x720)
@@ -134,13 +131,6 @@ https://vmvpd.short.gy/T3B2/Facetas
 
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Eventos" group-title="🏆 Pasión Deportiva 🥊",Eventos 📡 (1280x720)
 https://vmvpd.short.gy/EC/Eventos
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/B3T2/Juntos" group-title="🏆 Pasión Deportiva 🥊",Juntos 📺 (1920x1080)
-https://vmvpd.short.gy/T3B2/Juntos
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Juntos" group-title="🏆 Pasión Deportiva 🥊",Canal J 📺 (1280x720)
-https://vmvpd.short.gy/WT/Juntos
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Juntos" group-title="🏆 Pasión Deportiva 🥊",Juntos 📺 (1280x720)
-https://vmvpd.short.gy/EC/Juntos
 
 #EXTINF=====================================================================================================================================================================================================
 
@@ -294,6 +284,13 @@ https://vmvpd.short.gy/WT/Nativa
 https://vmvpd.short.gy/EC/Nativa
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Nativa" group-title="🎭 Variedad Alternativa 🔄",Nativa (1280x720)
 https://vmvpd.short.gy/T3B2/Nativa
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/B3T2/Juntos" group-title="🎭 Variedad Alternativa 🔄",Juntos 📺 (1920x1080)
+https://vmvpd.short.gy/T3B2/Juntos
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Juntos" group-title="🎭 Variedad Alternativa 🔄",Canal J 📺 (1280x720)
+https://vmvpd.short.gy/WT/Juntos
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Juntos" group-title="🎭 Variedad Alternativa 🔄",Juntos 📺 (1280x720)
+https://vmvpd.short.gy/EC/Juntos
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Viva" group-title="🎭 Variedad Alternativa 🔄",Viva (1280x720)
 https://vmvpd.short.gy/WT/Viva
