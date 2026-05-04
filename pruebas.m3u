@@ -108,6 +108,12 @@ https://vmvpd.short.gy/EC/Ovacion
 #EXTINF:    Iskhodnyy="🔱EC📺"                tvg-logo="https://tvg-logo.short.gy/WT/Ovacion" group-title="🏆 Pasión Deportiva 🥊",Ovacion 🎙️ (1280x720)
 https://vmvpd.short.gy/WT/Ovacion
 
+#EXTINF:    Iskhodnyy="LG"                tvg-logo="https://tvg-logo.short.gy/Onegai4Deportes" group-title="🏆 Pasión Deportiva 🥊",Onegai Deportes 🇯🇵 (1280x720)
+https://vmvpd.short.gy/Onegai4Deportes
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/WT/ESportsGo" group-title="🏆 Pasión Deportiva 🥊",E Sports Go 🎮 (720x576)
+https://vmvpd.short.gy/WT/ESportsGo
+
 #EXTINF:    Iskhodnyy="✔️ClaroSports✅"                tvg-logo="https://tvg-logo.short.gy/ClaroSports" group-title="🏆 Pasión Deportiva 🥊",Claro Sports 🏅
 https://vmvpd.short.gy/ClaroSports
 
@@ -115,12 +121,6 @@ https://vmvpd.short.gy/ClaroSports
 https://vmvpd.short.gy/T3B2/FierroAFondo
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/FierroAFondo" group-title="🏆 Pasión Deportiva 🥊",Fierro a Fondo 🏎️ (1280x720)
 https://vmvpd.short.gy/EC/FierroAFondo
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/WT/ESportsGo" group-title="🏆 Pasión Deportiva 🥊",E Sports Go 🎮 (720x576)
-https://vmvpd.short.gy/WT/ESportsGo
-
-#EXTINF:    Iskhodnyy="LG"                tvg-logo="https://tvg-logo.short.gy/Onegai4Deportes" group-title="🏆 Pasión Deportiva 🥊",Onegai Deportes 🇯🇵 (1280x720)
-https://vmvpd.short.gy/Onegai4Deportes
 
 #EXTINF:    Iskhodnyy="MonteRicoTv"                tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🏆 Pasión Deportiva 🥊",MonteRricoTv 🏇 (1280x720)
 https://vmvpd.short.gy/MonteRicoTv
