@@ -292,8 +292,14 @@ https://vmvpd.short.gy/EC/Nativa
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Nativa" group-title="🎭 Variedad Alternativa 🔄",Nativa (1280x720)
 https://vmvpd.short.gy/T3B2/Nativa
 
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Hogar" group-title="🎭 Variedad Alternativa 🔄",Hogar 🇨🇴 (1280x720)
+https://vmvpd.short.gy/WT/Hogar
+
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Viva" group-title="🎭 Variedad Alternativa 🔄",Viva (1280x720)
 https://vmvpd.short.gy/WT/Viva
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/NuestraTele" group-title="🎭 Variedad Alternativa 🔄",Nuestra Tele 🇨🇴 (720x576)
+https://vmvpd.short.gy/WT/NuestraTele
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Neo" group-title="🎭 Variedad Alternativa 🔄",Neo (1280x720)
 https://vmvpd.short.gy/T3B2/Neo
@@ -475,6 +481,11 @@ https://vmvpd.short.gy/T3B2/CreoFe
 
 #EXTINF=====================================================================================================================================================================================================
 
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/DistritoComedia" group-title="😎 Niños y Juvenil ⚡ 7 a 14 años 💥",Distrito Comedia (1280x720)
+https://vmvpd.short.gy/WT/DistritoComedia
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DistritoComedia" group-title="😎 Niños y Juvenil ⚡ 7 a 14 años 💥",Distrito Comedia (720x576)
+https://vmvpd.short.gy/EC/DistritoComedia
+
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CartoonNetWork" group-title="😎 Niños y Juvenil ⚡ 7 a 14 años 💥",Cartoon NetWork (1280x720)
 https://vmvpd.short.gy/EC/CartoonNetWork
 
@@ -561,12 +572,12 @@ https://vmvpd.short.gy/Fillka
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Fillka" group-title="Sin Contenido Propio",Fillka (Películas) Evaluacion
 https://vmvpd.short.gy/T3B2/Fillka
 
-#EXTINF:    Iskhodnyy="✔️LDM✅"                  tvg-logo="https://tvg-logo.short.gy/LDM" group-title="Sin Contenido Propio",La Pampa Argentina 🇦🇷 (Películas)
+#EXTINF:    Iskhodnyy="✔️LDM✅"                  tvg-logo="https://tvg-logo.short.gy/LDM" group-title="Sin Contenido Propio",La Pampa Argentina 🇦🇷 (Películas) Evaluacion
 https://vmvpd.short.gy/LDM
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/LDM" group-title="Sin Contenido Propio",La Pampa Argentina 🇦🇷 (Películas)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/LDM" group-title="Sin Contenido Propio",La Pampa Argentina 🇦🇷 (Películas) Evaluacion
 https://vmvpd.short.gy/T3B2/LDM
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/OnceTvDigital" group-title="Sin Contenido Propio",Once Tv Digital (Películas)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/OnceTvDigital" group-title="Sin Contenido Propio",Once Tv Digital 🇦🇷 (Películas)
 https://vmvpd.short.gy/T3B2/OnceTvDigital
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Sumac" group-title="Sin Contenido Propio",Sumac (Musicales) Evaluación
