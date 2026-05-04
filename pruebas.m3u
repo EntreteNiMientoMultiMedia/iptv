@@ -383,20 +383,6 @@ https://vmvpd.short.gy/T3B2/InkaVision
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/InkaVision" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Inka Vision (1280x720)
 https://vmvpd.short.gy/WT/InkaVision
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Global" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Global (1280x720)
-https://vmvpd.short.gy/WT/Global
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Global" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Global (1280x720)
-https://vmvpd.short.gy/T3B2/Global
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Global" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Global (1280x720)
-https://vmvpd.short.gy/EC/Global
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/LaTele" group-title="🌐☁️ Señal Digital 🤖🤳🏼",La Tele (1280x720)
-https://vmvpd.short.gy/WT/LaTele
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LaTele" group-title="🌐☁️ Señal Digital 🤖🤳🏼",La Tele (1280x720)
-https://vmvpd.short.gy/EC/LaTele
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/B3T2/LaTele" group-title="🌐☁️ Señal Digital 🤖🤳🏼",La Tele (720x576)
-https://vmvpd.short.gy/T3B2/LaTele
-
 #EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/DistritoComedia" group-title="Extranjeros",Distrito Comedia 🇲🇽 (1280x720)
@@ -556,13 +542,13 @@ https://vmvpd.short.gy/AlasDeAguilaLota
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/AlasDeAguilaLota" group-title="Sin Contenido Propio",Alas De Aguila Lota 🇨🇱 (Películas)
 https://vmvpd.short.gy/T3B2/AlasDeAguilaLota
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/AndinaSur" group-title="Sin Contenido Propio",Andina Sur (ReFritos)
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/AndinaSur" group-title="Sin Contenido Propio",Andina Sur (ReFritos) Evaluacion
 https://vmvpd.short.gy/WT/AndinaSur
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/AndinaSur" group-title="Sin Contenido Propio",Andina Sur (ReFritos)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/AndinaSur" group-title="Sin Contenido Propio",Andina Sur (ReFritos) Evaluacion
 https://vmvpd.short.gy/EC/AndinaSur
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/AndinaSur" group-title="Sin Contenido Propio",Andina Sur (ReFritos)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/AndinaSur" group-title="Sin Contenido Propio",Andina Sur (ReFritos) Evaluacion
 https://vmvpd.short.gy/T3B2/AndinaSur
-#EXTINF:    Iskhodnyy="✔️ATV Sur✅"                  tvg-logo="https://tvg-logo.short.gy/AndinaSur" group-title="Sin Contenido Propio",Andina Sur (ReFritos)
+#EXTINF:    Iskhodnyy="✔️ATV Sur✅"                  tvg-logo="https://tvg-logo.short.gy/AndinaSur" group-title="Sin Contenido Propio",Andina Sur (ReFritos) Evaluacion
 https://vmvpd.short.gy/ATVSur
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Antena1" group-title="Sin Contenido Propio",Antena 1 (Musicales & Películas)
@@ -595,10 +581,24 @@ https://vmvpd.short.gy/Fillka
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Fillka" group-title="Sin Contenido Propio",Fillka (Películas) Evaluacion
 https://vmvpd.short.gy/T3B2/Fillka
 
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Global" group-title="Sin Contenido Propio",Global (1280x720) Evaluacion
+https://vmvpd.short.gy/WT/Global
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Global" group-title="Sin Contenido Propio",Global (1280x720) Evaluacion
+https://vmvpd.short.gy/T3B2/Global
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Global" group-title="Sin Contenido Propio",Global (1280x720) Evaluacion
+https://vmvpd.short.gy/EC/Global
+
 #EXTINF:    Iskhodnyy="✔️LDM✅"                  tvg-logo="https://tvg-logo.short.gy/LDM" group-title="Sin Contenido Propio",La Pampa Argentina 🇦🇷 (Películas) Evaluacion
 https://vmvpd.short.gy/LDM
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/LDM" group-title="Sin Contenido Propio",La Pampa Argentina 🇦🇷 (Películas) Evaluacion
 https://vmvpd.short.gy/T3B2/LDM
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/LaTele" group-title="Sin Contenido Propio",La Tele (1280x720) Evaluacion
+https://vmvpd.short.gy/WT/LaTele
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LaTele" group-title="Sin Contenido Propio",La Tele (1280x720) Evaluacion
+https://vmvpd.short.gy/EC/LaTele
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/B3T2/LaTele" group-title="Sin Contenido Propio",La Tele (720x576) Evaluacion
+https://vmvpd.short.gy/T3B2/LaTele
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TvNorte" group-title="Sin Contenido Propio",Tv Norte (Docmentales) Evaluacion
 https://vmvpd.short.gy/T3B2/TvNorte
