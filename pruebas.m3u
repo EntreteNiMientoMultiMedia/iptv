@@ -378,10 +378,18 @@ https://vmvpd.short.gy/OndaDigital
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/OndaDigital" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Onda Digital (1280x720)
 https://vmvpd.short.gy/T3B2/OndaDigital
 
-#EXTINF:    Iskhodnyy="✔️EPA!✅"                  tvg-logo="https://tvg-logo.short.gy/EPA!" group-title="🌐☁️ Señal Digital 🤖🤳🏼",EPA! (1280x720) 🇨🇱
+#EXTINF:    Iskhodnyy="✔️EPA!✅"                  tvg-logo="https://tvg-logo.short.gy/EPA!" group-title="🌐☁️ Señal Digital 🤖🤳🏼",EPA! 🇨🇱 (1280x720)
 https://vmvpd.short.gy/EPA!
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/EPA!" group-title="🌐☁️ Señal Digital 🤖🤳🏼",EPA! (1280x720) 🇨🇱
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/EPA!" group-title="🌐☁️ Señal Digital 🤖🤳🏼",EPA! 🇨🇱 (1280x720)
 https://vmvpd.short.gy/T3B2/EPA!
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Facetas" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Facetas 🇧🇴 (1280x720)
+https://vmvpd.short.gy/T3B2/Facetas
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/InkaVision" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Inka Vision (1280x720)
+https://vmvpd.short.gy/T3B2/InkaVision
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/InkaVision" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Inka Vision (1280x720)
+https://vmvpd.short.gy/WT/InkaVision
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Global" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Global (1280x720)
 https://vmvpd.short.gy/WT/Global
@@ -542,11 +550,6 @@ https://vmvpd.short.gy/T3B2/Eco
 https://vmvpd.short.gy/Fillka
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Fillka" group-title="Sin Contenido Propio",Fillka (Películas) Evaluacion
 https://vmvpd.short.gy/T3B2/Fillka
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/InkaVision" group-title="Sin Contenido Propio",Inka Vision (Películas) Evaluación
-https://vmvpd.short.gy/T3B2/InkaVision
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/InkaVision" group-title="Sin Contenido Propio",Inka Vision (Películas) Evaluación
-https://vmvpd.short.gy/WT/InkaVision
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Sumac" group-title="Sin Contenido Propio",Sumac (Musicales) Evaluación
 https://vmvpd.short.gy/T3B2/Sumac
