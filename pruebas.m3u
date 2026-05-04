@@ -526,6 +526,11 @@ https://vmvpd.short.gy/EC/PlayBoy
 
 #EXTINF=====================================================================================================================================================================================================
 
+#EXTINF:    Iskhodnyy="✔️AlasDeAguilaLota✅"                  tvg-logo="https://tvg-logo.short.gy/AlasDeAguilaLota" group-title="Sin Contenido Propio",Alas De Aguila Lota 🇨🇱 (Películas)
+https://vmvpd.short.gy/AlasDeAguilaLota
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/AlasDeAguilaLota" group-title="Sin Contenido Propio",Alas De Aguila Lota 🇨🇱 (Películas)
+https://vmvpd.short.gy/T3B2/AlasDeAguilaLota
+
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Antena1" group-title="Sin Contenido Propio",Antena 1 (Musicales & Películas)
 https://vmvpd.short.gy/EC/Antena1
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Antena1" group-title="Sin Contenido Propio",Antena 1 (Musicales & Películas)
@@ -539,6 +544,11 @@ https://vmvpd.short.gy/T3B2/Agro
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Agro" group-title="Sin Contenido Propio",Agro (Musicales & Películas)
 https://vmvpd.short.gy/EC/Agro
 
+#EXTINF:    Iskhodnyy="✔️DobleC✅"                  tvg-logo="https://tvg-logo.short.gy/DobleC" group-title="Sin Contenido Propio",Doble C (Series)
+https://vmvpd.short.gy/DobleC
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/DobleC" group-title="Sin Contenido Propio",Doble C (Series)
+https://vmvpd.short.gy/T3B2/DobleC
+
 #EXTINF:    Iskhodnyy="✔️Eco✅"                  tvg-logo="https://tvg-logo.short.gy/Eco" group-title="Sin Contenido Propio",Eco (Musicales & Películas)
 https://vmvpd.short.gy/Eco
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Eco" group-title="Sin Contenido Propio",Eco (Musicales & Películas)
@@ -550,6 +560,14 @@ https://vmvpd.short.gy/T3B2/Eco
 https://vmvpd.short.gy/Fillka
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Fillka" group-title="Sin Contenido Propio",Fillka (Películas) Evaluacion
 https://vmvpd.short.gy/T3B2/Fillka
+
+#EXTINF:    Iskhodnyy="✔️LDM✅"                  tvg-logo="https://tvg-logo.short.gy/LDM" group-title="Sin Contenido Propio",La Pampa Argentina 🇦🇷 (Películas)
+https://vmvpd.short.gy/LDM
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/LDM" group-title="Sin Contenido Propio",La Pampa Argentina 🇦🇷 (Películas)
+https://vmvpd.short.gy/T3B2/LDM
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/OnceTvDigital" group-title="Sin Contenido Propio",Once Tv Digital (Películas)
+https://vmvpd.short.gy/T3B2/OnceTvDigital
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Sumac" group-title="Sin Contenido Propio",Sumac (Musicales) Evaluación
 https://vmvpd.short.gy/T3B2/Sumac
