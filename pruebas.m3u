@@ -341,7 +341,7 @@ https://vmvpd.short.gy/WT/BlueHouse
 
 #EXTINF:    Iskhodnyy="✔️Trivu✅"                  tvg-logo="https://tvg-logo.short.gy/Trivu" group-title="🎭 Variedad Alternativa 🔄",Trivu (1280x720)
 https://vmvpd.short.gy/Trivu
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Trivu" group-title="🎭 Variedad Alternativa 🔄",Trivuv (1920x1080)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Trivu" group-title="🎭 Variedad Alternativa 🔄",Trivu (1920x1080)
 https://vmvpd.short.gy/T3B2/Trivu
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Trivu" group-title="🎭 Variedad Alternativa 🔄",Trivu (1280x720)
 https://vmvpd.short.gy/EC/Trivu
@@ -576,6 +576,9 @@ https://vmvpd.short.gy/T3B2/Media
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/HoyPeru" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Hoy Perú (Jaen)
 https://vmvpd.short.gy/T3B2/HoyPeru
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Cajamarca" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Cajamarca (Cajamarca)
+https://vmvpd.short.gy/T3B2/Cajamarca
+
 #EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️Via✅"                  tvg-logo="https://tvg-logo.short.gy/ViaTeleVision" group-title="De la selva 🌳🌴 Su encanto 🦜🐒 Ya vuelta Ñañito",Via (Tarapoto)
@@ -595,6 +598,14 @@ https://vmvpd.short.gy/T3B2/Selvatica
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Selva" group-title="De la selva 🌳🌴 Su encanto 🦜🐒 Ya vuelta Ñañito",Selva (Loreto)
 https://vmvpd.short.gy/T3B2/Selva
+
+#EXTINF:    Iskhodnyy="✔️RTvLibertad✅"                  tvg-logo="https://tvg-logo.short.gy/RLibertad" group-title="De la selva 🌳🌴 Su encanto 🦜🐒 Ya vuelta Ñañito",R Libertad (San Lorenzo)
+https://vmvpd.short.gy/RLibertad
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/RLibertad" group-title="De la selva 🌳🌴 Su encanto 🦜🐒 Ya vuelta Ñañito",R Libertad (San Lorenzo)
+https://vmvpd.short.gy/T3B2/RLibertad
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/MaxCanal" group-title="De la selva 🌳🌴 Su encanto 🦜🐒 Ya vuelta Ñañito",Canal Max (Iquitos)
+https://vmvpd.short.gy/T3B2/MaxCanal
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Arpegio" group-title="De la selva 🌳🌴 Su encanto 🦜🐒 Ya vuelta Ñañito",Apegio (Iquitos)
 https://vmvpd.short.gy/T3B2/Arpegio
