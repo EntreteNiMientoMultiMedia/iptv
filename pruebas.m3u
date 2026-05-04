@@ -420,6 +420,21 @@ https://vmvpd.short.gy/WT/Hogar
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/NuestraTele" group-title="Extranjeros",Nuestra Tele 🇨🇴 (720x576)
 https://vmvpd.short.gy/WT/NuestraTele
 
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/LasEstrellas" group-title="Extranjeros",Las Estrellas 🇲🇽 (1280x720)
+https://vmvpd.short.gy/WT/LasEstrellas
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LasEstrellas" group-title="Extranjeros",Las Estrellas 🇲🇽 (720x576)
+https://vmvpd.short.gy/EC/LasEstrellas
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/UniVision" group-title="Extranjeros",UniVision 🇺🇸 (1280x720)
+https://vmvpd.short.gy/WT/UniVision
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/UniVision" group-title="Extranjeros",UniVision 🇺🇸 (720x576)
+https://vmvpd.short.gy/EC/UniVision
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/TeleMundo" group-title="Extranjeros",TeleMundo 🇺🇸 (1280x720)
+https://vmvpd.short.gy/WT/TeleMundo
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/TeleMundo" group-title="Extranjeros",TeleMundo 🇺🇸 (720x576)
+https://vmvpd.short.gy/EC/TeleMundo
+
 #EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Bonita" group-title="💔🥀 Drama y Novelas 💋🍷",Bonita 🇰🇷 (1280x720)
