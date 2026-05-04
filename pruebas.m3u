@@ -180,6 +180,13 @@ https://vmvpd.short.gy/LaNoticiaTv
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LaNoticiaTv" group-title="🗞️ Noticiero Peruano 🇵🇪",La Noticia (1280x720)
 https://vmvpd.short.gy/EC/LaNoticiaTv
 
+#EXTINF:    Iskhodnyy="✔️RedComunicaciónRegional✅"                  tvg-logo="https://tvg-logo.short.gy/RedComunicacionRegional" group-title="🗞️ Noticiero Peruano 🇵🇪",Red de Comunicación Regional (1920x1080)
+https://vmvpd.short.gy/RedComunicacionRegional
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/RedComunicacionRegional" group-title="🗞️ Noticiero Peruano 🇵🇪",Red de Comunicación Regional (1280x720)
+https://vmvpd.short.gy/EC/RedComunicacionRegional
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/RedComunicacionRegional" group-title="🗞️ Noticiero Peruano 🇵🇪",Red de Comunicación Regional (1280x720)
+https://vmvpd.short.gy/T3B2/RedComunicacionRegional
+
 #EXTINF:    Iskhodnyy="✔️Latina Noticias✅"                  tvg-logo="https://tvg-logo.short.gy/LatinaNoticias" group-title="🗞️ Noticiero Peruano 🇵🇪",Latina Noticias (1920x1080)
 https://vmvpd.short.gy/LatinaNoticias
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LatinaNoticias" group-title="🗞️ Noticiero Peruano 🇵🇪",Latina Noticias (1280x720)
