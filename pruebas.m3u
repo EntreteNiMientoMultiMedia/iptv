@@ -591,7 +591,10 @@ https://vmvpd.short.gy/LDM
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/LDM" group-title="Sin Contenido Propio",La Pampa Argentina 🇦🇷 (Películas) Evaluacion
 https://vmvpd.short.gy/T3B2/LDM
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/OnceTvDigital" group-title="Sin Contenido Propio",Once Tv Digital 🇦🇷 (Películas)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TvNorte" group-title="Sin Contenido Propio",Tv Norte (Docmentales) Evaluacion
+https://vmvpd.short.gy/T3B2/TvNorte
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/OnceTvDigital" group-title="Sin Contenido Propio",Once Digital 🇦🇷 (Películas)
 https://vmvpd.short.gy/T3B2/OnceTvDigital
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Sumac" group-title="Sin Contenido Propio",Sumac (Musicales) Evaluación
@@ -606,8 +609,7 @@ https://vmvpd.short.gy/WT/TeleLima
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TvNorte" group-title="Para variar 🗿🌊 de la Costa",Tv Norte (Lambayeque) 1280x720
-https://vmvpd.short.gy/T3B2/TvNorte
+
 
 #EXTINF=====================================================================================================================================================================================================
 
