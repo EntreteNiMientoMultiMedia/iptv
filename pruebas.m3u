@@ -289,11 +289,11 @@ https://vmvpd.short.gy/EC/Nativa
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Nativa" group-title="🎭 Variedad Alternativa 🔄",Nativa (1280x720)
 https://vmvpd.short.gy/T3B2/Nativa
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/B3T2/Juntos" group-title="🎭 Variedad Alternativa 🔄",Juntos 📺 (1920x1080)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/B3T2/Juntos" group-title="🎭 Variedad Alternativa 🔄",Juntos (1920x1080)
 https://vmvpd.short.gy/T3B2/Juntos
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Juntos" group-title="🎭 Variedad Alternativa 🔄",Canal J 📺 (1280x720)
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Juntos" group-title="🎭 Variedad Alternativa 🔄",Canal J (1280x720)
 https://vmvpd.short.gy/WT/Juntos
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Juntos" group-title="🎭 Variedad Alternativa 🔄",Juntos 📺 (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Juntos" group-title="🎭 Variedad Alternativa 🔄",Juntos (1280x720)
 https://vmvpd.short.gy/EC/Juntos
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Viva" group-title="🎭 Variedad Alternativa 🔄",Viva (1280x720)
@@ -551,13 +551,22 @@ https://vmvpd.short.gy/Region
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Region" group-title="Para variar 🗿🌊 de la Costa",Region (Callao) 1920x1080
 https://vmvpd.short.gy/T3B2/Region
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Onda" group-title="Para variar 🗿🌊 de la Costa",Onda (Ica) 1920x1080
+https://vmvpd.short.gy/T3B2/Onda
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/HuaralEnLinea" group-title="Para variar 🗿🌊 de la Costa",Huaral En Linea (Huaral) 1920x1080
 https://vmvpd.short.gy/T3B2/HuaralEnLinea
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Dunas" group-title="Para variar 🗿🌊 de la Costa",Dunas (Ica) 1920x1080
+https://vmvpd.short.gy/T3B2/Dunas
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/36Huacho" group-title="Para variar 🗿🌊 de la Costa",36 Huacho (Huacho) 1920x1080
 https://vmvpd.short.gy/T3B2/36Huacho
 
 #EXTINF=====================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Yungay" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Yungay (Yungay)
+https://vmvpd.short.gy/T3B2/Yungay
 
 #EXTINF:    Iskhodnyy="✔️TurboMix✅"                  tvg-logo="https://tvg-logo.short.gy/TurboMix" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",TurboMix (Cajamarca)
 https://vmvpd.short.gy/TurboMix
@@ -579,6 +588,9 @@ https://vmvpd.short.gy/T3B2/HoyPeru
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Cajamarca" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Cajamarca (Cajamarca)
 https://vmvpd.short.gy/T3B2/Cajamarca
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Aura" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Aura (Cajamarca)
+https://vmvpd.short.gy/T3B2/Aura
+
 #EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️Via✅"                  tvg-logo="https://tvg-logo.short.gy/ViaTeleVision" group-title="De la selva 🌳🌴 Su encanto 🦜🐒 Ya vuelta Ñañito",Via (Tarapoto)
@@ -599,10 +611,16 @@ https://vmvpd.short.gy/T3B2/Selvatica
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Selva" group-title="De la selva 🌳🌴 Su encanto 🦜🐒 Ya vuelta Ñañito",Selva (Loreto)
 https://vmvpd.short.gy/T3B2/Selva
 
-#EXTINF:    Iskhodnyy="✔️RTvLibertad✅"                  tvg-logo="https://tvg-logo.short.gy/RLibertad" group-title="De la selva 🌳🌴 Su encanto 🦜🐒 Ya vuelta Ñañito",R Libertad (San Lorenzo)
-https://vmvpd.short.gy/RLibertad
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/RLibertad" group-title="De la selva 🌳🌴 Su encanto 🦜🐒 Ya vuelta Ñañito",R Libertad (San Lorenzo)
 https://vmvpd.short.gy/T3B2/RLibertad
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Mar" group-title="De la selva 🌳🌴 Su encanto 🦜🐒 Ya vuelta Ñañito",Mar (Puerto Maldonado)
+https://vmvpd.short.gy/T3B2/Mar
+
+#EXTINF:    Iskhodnyy="✔️ConsueloEstrella✅"                  tvg-logo="https://tvg-logo.short.gy/ConsueloEstrella" group-title="De la selva 🌳🌴 Su encanto 🦜🐒 Ya vuelta Ñañito",Consuelo Estrella (Valle del Sisa)
+https://vmvpd.short.gy/ConsueloEstrella
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/ConsueloEstrella" group-title="De la selva 🌳🌴 Su encanto 🦜🐒 Ya vuelta Ñañito",Consuelo Estrella (Valle del Sisa)
+https://vmvpd.short.gy/T3B2/ConsueloEstrella
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/MaxCanal" group-title="De la selva 🌳🌴 Su encanto 🦜🐒 Ya vuelta Ñañito",Canal Max (Iquitos)
 https://vmvpd.short.gy/T3B2/MaxCanal
