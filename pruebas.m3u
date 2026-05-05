@@ -823,6 +823,9 @@ https://vmvpd.short.gy/T3B2/TeleLima
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/TeleLima" group-title="Sin Contenido Propio",TeleLima (Películas & Series)
 https://vmvpd.short.gy/WT/TeleLima
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="Sin Contenido Propio",Tiempo Real (Películas)
+https://live-evg11.tv360.bitel.com.pe/bitel/tiemporealtv/chunks.m3u8
+
 #EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:  TeleKanal="Películas"     Iskhodnyy="EC"  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/jpg?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fstatic%2Fbackdrops%2F397%2F1731397_1280.jpg&width=1280" group-title="Películas",Super Cóndor 🦅
