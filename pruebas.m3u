@@ -256,6 +256,9 @@ https://vmvpd.short.gy/WT/DistritoComedia
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DistritoComedia" group-title="💃 Variedad Hispana 🌎",Distrito Comedia 🇲🇽 (720x576)
 https://vmvpd.short.gy/EC/DistritoComedia
 
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/ElGourmet" group-title="💃 Variedad Hispana 🌎",El Gastrónomo  🇦🇷  (720x576)
+https://vmvpd.short.gy/EC/ElGourmet
+
 #EXTINF:    Iskhodnyy="✔️EPA!✅"                  tvg-logo="https://tvg-logo.short.gy/EPA!" group-title="💃 Variedad Hispana 🌎",EPA! 🇨🇱 (1280x720)
 https://vmvpd.short.gy/EPA!
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/EPA!" group-title="💃 Variedad Hispana 🌎",EPA! 🇨🇱 (1280x720)
@@ -267,9 +270,9 @@ https://vmvpd.short.gy/WT/Hogar
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Facetas" group-title="💃 Variedad Hispana 🌎",Facetas 🇧🇴 (1280x720)
 https://vmvpd.short.gy/T3B2/Facetas
 
-#EXTINF:    Iskhodnyy="✔️LDM✅"                  tvg-logo="https://tvg-logo.short.gy/LDM" group-title="💃 Variedad Hispana 🌎",La Pampa Argentina 🇦🇷 (Películas) Evaluacion
+#EXTINF:    Iskhodnyy="✔️LDM✅"                  tvg-logo="https://tvg-logo.short.gy/LDM" group-title="💃 Variedad Hispana 🌎",La Pampa Argentina 🇦🇷 (1280x720)
 https://vmvpd.short.gy/LDM
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/LDM" group-title="💃 Variedad Hispana 🌎",La Pampa Argentina 🇦🇷 (Películas) Evaluacion
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/LDM" group-title="💃 Variedad Hispana 🌎",La Pampa Argentina 🇦🇷 (1280x720)
 https://vmvpd.short.gy/T3B2/LDM
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/NuestraTele" group-title="💃 Variedad Hispana 🌎",Nuestra Tele 🇨🇴 (720x576)
@@ -396,6 +399,12 @@ https://vmvpd.short.gy/T3B2/USMP
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/NationalGeographic" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",National Geographic (1280x720)
 https://vmvpd.short.gy/EC/NationalGeographic
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LoveNature" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Ama la Naturaleza (1280x720)
+
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/AnimalPlanet" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Planeta Animal (1280x720)
+
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/CanalHistoria2" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Canal Historia 2 (1280x720)
 https://vmvpd.short.gy/WT/CanalHistoria2
@@ -715,6 +724,19 @@ https://vmvpd.short.gy/WT/ATV+
 https://vmvpd.short.gy/EC/ATV+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Andina+" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Andina+ (1280x720)
 https://vmvpd.short.gy/T3B2/ATV+
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryHome&Health" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Discovery Hogar y Salud (1280x720)
+https://vmvpd.short.gy/EC/DiscoveryHome&Health
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/E!" group-title="🌐☁️ Señal Digital 🤖🤳🏼",E! (1280x720)
+https://vmvpd.short.gy/WT/E!
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/E!" group-title="🌐☁️ Señal Digital 🤖🤳🏼",E! (1280x720)
+https://vmvpd.short.gy/EC/E!
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/TLC" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Viajes y Estilo de Vida (1280x720)
+https://vmvpd.short.gy/EC/TLC
+
+
 
 #EXTINF=====================================================================================================================================================================================================
 
