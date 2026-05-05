@@ -339,6 +339,9 @@ https://vmvpd.short.gy/EC/RedComunicacionRegional
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/RedComunicacionRegional" group-title="🎭 Variedad Alternativa 🔄",Red de Comunicación Regional (1280x720)
 https://vmvpd.short.gy/T3B2/RedComunicacionRegional
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Creo+" group-title="🎭 Variedad Alternativa 🔄",Creo+ (1920x1080)
+https://vmvpd.short.gy/T3B2/Creo+
+
 #EXTINF:    Iskhodnyy="✔️Trivu✅"                  tvg-logo="https://tvg-logo.short.gy/Trivu" group-title="🎭 Variedad Alternativa 🔄",Trivu (1280x720)
 https://vmvpd.short.gy/Trivu
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Trivu" group-title="🎭 Variedad Alternativa 🔄",Trivu (1920x1080)
@@ -684,6 +687,9 @@ https://vmvpd.short.gy/T3B2/BellaAbanquina
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/BellaAbanquina" group-title="Sin Contenido Propio",Bella Abanquina (Apurimac) 720x576
 https://vmvpd.short.gy/EC/BellaAbanquina
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/02/1763754326389/d90f463eb27c_480_270.png" group-title="Sin Contenido Propio",Creo (Musicales)
+https://live-evg5.tv360.bitel.com.pe/bitel/creosrt/chunks.m3u8?uid=12051151
+
 #EXTINF:    Iskhodnyy="✔️DobleC✅"                  tvg-logo="https://tvg-logo.short.gy/DobleC" group-title="Sin Contenido Propio",Doble C (Series)
 https://vmvpd.short.gy/DobleC
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/DobleC" group-title="Sin Contenido Propio",Doble C (Series)
@@ -774,11 +780,9 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/USMPTV/20-hls/live-media.m3u8
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/02/1763754326389/d90f463eb27c_480_270.png" group-title="Enrutador Chasqui 🇵🇪 ",Creo 🇻🇳 1920x1080p
-https://live-evg5.tv360.bitel.com.pe/bitel/creosrt/chunks.m3u8?uid=12051151
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763742182307/93df7a94018a_480_270.png" group-title="Enrutador Chasqui 🇵🇪 ",Creo+ 🇻🇳 1920x1080p
-https://live-evg18.tv360.bitel.com.pe/bitel/CreomasSRT/chunks.m3u8
+
+
 
 #EXTINF================================================================================================================================================================================================================================================================
 
