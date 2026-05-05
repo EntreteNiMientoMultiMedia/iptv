@@ -380,6 +380,22 @@ https://vmvpd.short.gy/T3B2/OndaDigital
 
 #EXTINF=====================================================================================================================================================================================================
 
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/IdentidadPeruana" group-title="Culturales & Documentales",Identidad Peruana (1280x720)
+https://vmvpd.short.gy/EC/IdentidadPeruana
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/IdentidadPeruana" group-title="Culturales & Documentales",Identidad Peruana (720x576)
+https://vmvpd.short.gy/WT/IdentidadPeruana
+
+#EXTINF:    Iskhodnyy="✔️USMP✅"                  tvg-logo="https://tvg-logo.short.gy/USMP" group-title="Culturales & Documentales",USMP (1280x720)
+https://vmvpd.short.gy/USMP
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/USMP" group-title="Culturales & Documentales",USMP (1280x720)
+https://vmvpd.short.gy/WT/USMP
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/USMP" group-title="Culturales & Documentales",USMP (1280x720)
+https://vmvpd.short.gy/EC/USMP
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/USMP" group-title="Culturales & Documentales",USMP (1920x1080)
+https://vmvpd.short.gy/T3B2/USMP
+
+#EXTINF=====================================================================================================================================================================================================
+
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/DistritoComedia" group-title="Extranjeros",Distrito Comedia 🇲🇽 (1280x720)
 https://vmvpd.short.gy/WT/DistritoComedia
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DistritoComedia" group-title="Extranjeros",Distrito Comedia 🇲🇽 (720x576)
@@ -444,8 +460,6 @@ https://vmvpd.short.gy/EC/TeleNovelas
 https://vmvpd.short.gy/EC/Corazon
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Corazon" group-title="💔🥀 Drama y Novelas 💋🍷",Corazón 🇲🇽 (1280x720)
 https://vmvpd.short.gy/WT/Corazon
-
-
 
 #EXTINF=====================================================================================================================================================================================================
 
@@ -744,15 +758,6 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/vod/v447/40/vod-media.m3u8?_cdn_attr
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="https://www.canalipe.gob.pe/sites/default/themes/concise_drupal/static/media/header/logo.png" group-title=" Tv Perú 🇵🇪 ",Canal IPE ✅✔️ 1280x720p
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
-#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FIPE.png&width=50&height=50" group-title=" Tv Perú 🇵🇪 ",Canal IPE 💸 1280x720p
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/IPE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DIPE_stream_ft&_cdn_session=3418753389&_cdn_token=9fc56a27b6ca8f97bb7e8ac79664c3b8ca33771a
-#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FIPE.png&width=50&height=50" group-title=" Tv Perú 🇵🇪 ",Canal IPE 💸 1024x576p
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/IPE/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DIPE_stream_ft&_cdn_session=3418735765&_cdn_token=eb50f2e1df7aa2af6c945e2895b648eae0fae45b
-
-#EXTINF================================================================================================================================================================================================================================================================
-
 #EXTINF: tvg-logo="https://www.radiolakaribenahuancayo.com/wp-content/uploads/2025/06/karibenalogo.png" group-title="CaraCol Universal 🇵🇪 ",Karibeña ✅✔️ 1280x720p
 https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/tracks-v1/index.fmp4.m3u8
 
@@ -763,26 +768,6 @@ https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/KARIBENA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dkaribena_stream_4z&_cdn_session=3418862501&_cdn_token=6d515675616f6a58c3d4ca6cb7b3b914950f6ee1
 #EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FKARIBENA.png&width=50&height=50" group-title="CaraCol Universal 🇵🇪 ",Karibeña 💸 1024x576p
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KARIBENA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dkaribena_stream_4z&_cdn_session=3418860589&_cdn_token=e1d587c43cf0735c46707fb303b167c9fca53917
-
-#EXTINF================================================================================================================================================================================================================================================================
-
-#EXTINF: tvg-logo="https://cdn.usmptv.pe/v1/images/logo-usmptv-main.png" group-title="ColVisión 🇵🇪 " ,USMP Tv ✅✔️ 1280x720p
-https://streamusmptv.ddns.net/live/stream.m3u8
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/17637562635/3149c0754605_480_270.png" group-title="ColVisión 🇵🇪 " ,USMP Tv 🇻🇳 1920x1080p
-https://live-evg11.tv360.bitel.com.pe/bitel/usmp/chunks.m3u8
-
-#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FUSMPTV.png&width=50&height=50" group-title="ColVisión 🇵🇪 " ,USMP Tv 💸 1280x720p
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/USMPTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_session=3418912685&_cdn_token=bcca2a12a253cf3eb84c8a260c5ef6adba022aae
-
-#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FUSMPTV.png&width=50&height=50" group-title="ColVisión 🇵🇪 " ,USMP Tv 💸 1024x576p
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/USMPTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_session=3418909605&_cdn_token=59809fefdf965a16de5d8591c07a400e1a88b1d4
-
-#EXTINF================================================================================================================================================================================================================================================================
-
-
-
-
 
 #EXTINF================================================================================================================================================================================================================================================================
 
