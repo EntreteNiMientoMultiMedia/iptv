@@ -358,6 +358,11 @@ https://vmvpd.short.gy/T3B2/Milenial
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Milenial" group-title="🎭 Variedad Alternativa 🔄",Milenial (1280x720)
 https://vmvpd.short.gy/WT/Milenial
 
+#EXTINF:    Iskhodnyy="✔️OndaDigital✅"                  tvg-logo="https://tvg-logo.short.gy/OndaDigital" group-title="🎭 Variedad Alternativa 🔄",Onda Digital (1280x720)
+https://vmvpd.short.gy/OndaDigital
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/OndaDigital" group-title="🎭 Variedad Alternativa 🔄",Onda Digital (1280x720)
+https://vmvpd.short.gy/T3B2/OndaDigital
+
 #EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️Latina Clásicos✅"                  tvg-logo="https://tvg-logo.short.gy/LatinaClasicos" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Latina Clásicos (1920x1080)
@@ -373,51 +378,49 @@ https://vmvpd.short.gy/EC/ATV+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Andina+" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Andina+ (1280x720)
 https://vmvpd.short.gy/T3B2/ATV+
 
-#EXTINF:    Iskhodnyy="✔️OndaDigital✅"                  tvg-logo="https://tvg-logo.short.gy/OndaDigital" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Onda Digital (1280x720)
-https://vmvpd.short.gy/OndaDigital
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/OndaDigital" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Onda Digital (1280x720)
-https://vmvpd.short.gy/T3B2/OndaDigital
-
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/IdentidadPeruana" group-title="Culturales & Documentales",Identidad Peruana (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/IdentidadPeruana" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Identidad Peruana (1280x720)
 https://vmvpd.short.gy/EC/IdentidadPeruana
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/IdentidadPeruana" group-title="Culturales & Documentales",Identidad Peruana (720x576)
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/IdentidadPeruana" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Identidad Peruana (720x576)
 https://vmvpd.short.gy/WT/IdentidadPeruana
 
-#EXTINF:    Iskhodnyy="✔️USMP✅"                  tvg-logo="https://tvg-logo.short.gy/USMP" group-title="Culturales & Documentales",USMP (1280x720)
+#EXTINF:    Iskhodnyy="✔️USMP✅"                  tvg-logo="https://tvg-logo.short.gy/USMP" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",USMP (1280x720)
 https://vmvpd.short.gy/USMP
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/USMP" group-title="Culturales & Documentales",USMP (1280x720)
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/USMP" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",USMP (1280x720)
 https://vmvpd.short.gy/WT/USMP
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/USMP" group-title="Culturales & Documentales",USMP (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/USMP" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",USMP (1280x720)
 https://vmvpd.short.gy/EC/USMP
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/USMP" group-title="Culturales & Documentales",USMP (1920x1080)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/USMP" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",USMP (1920x1080)
 https://vmvpd.short.gy/T3B2/USMP
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryScience" group-title="Culturales & Documentales",Discovery Science (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryScience" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Discovery Science (1280x720)
 https://vmvpd.short.gy/EC/DiscoveryScience
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryTheater" group-title="Culturales & Documentales",Discovery Theater (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryTheater" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Discovery Theater (1280x720)
 https://vmvpd.short.gy/EC/DiscoveryTheater
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryTurbo" group-title="Culturales & Documentales",Discovery Turbo (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryTurbo" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Discovery Turbo (1280x720)
 https://vmvpd.short.gy/EC/DiscoveryTurbo
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryWorld" group-title="Culturales & Documentales",Discovery World (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryWorld" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Discovery World (1280x720)
 https://vmvpd.short.gy/EC/DiscoveryWorld
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/CanalHistoria" group-title="Culturales & Documentales",Canal Historia (1280x720)
-https://vmvpd.short.gy/WT/CanalHistoria
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CanalHistoria" group-title="Culturales & Documentales",Canal Historia (1280x720)
-https://vmvpd.short.gy/EC/CanalHistoria
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/CanalHistoria2" group-title="Culturales & Documentales",Canal Historia 2 (1280x720)
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/CanalHistoria2" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Canal Historia 2 (1280x720)
 https://vmvpd.short.gy/WT/CanalHistoria2
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CanalHistoria2" group-title="Culturales & Documentales",Canal Historia 2 (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CanalHistoria2" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Canal Historia 2 (1280x720)
 https://vmvpd.short.gy/EC/CanalHistoria2
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/NationalGeographic" group-title="Culturales & Documentales",National Geographic (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/NationalGeographic" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",National Geographic (1280x720)
 https://vmvpd.short.gy/EC/NationalGeographic
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/CanalHistoria" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Canal Historia (1280x720)
+https://vmvpd.short.gy/WT/CanalHistoria
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CanalHistoria" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Canal Historia (1280x720)
+https://vmvpd.short.gy/EC/CanalHistoria
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryChannel" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Discovery Channel (1280x720)
+https://vmvpd.short.gy/EC/DiscoveryChannel
 
 #EXTINF=====================================================================================================================================================================================================
 
