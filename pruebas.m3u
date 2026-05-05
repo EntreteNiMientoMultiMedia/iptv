@@ -180,13 +180,6 @@ https://vmvpd.short.gy/LaNoticiaTv
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LaNoticiaTv" group-title="🗞️ Noticiero Peruano 🇵🇪",La Noticia (1280x720)
 https://vmvpd.short.gy/EC/LaNoticiaTv
 
-#EXTINF:    Iskhodnyy="✔️RedComunicaciónRegional✅"                  tvg-logo="https://tvg-logo.short.gy/RedComunicacionRegional" group-title="🗞️ Noticiero Peruano 🇵🇪",Red de Comunicación Regional (1920x1080)
-https://vmvpd.short.gy/RedComunicacionRegional
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/RedComunicacionRegional" group-title="🗞️ Noticiero Peruano 🇵🇪",Red de Comunicación Regional (1280x720)
-https://vmvpd.short.gy/EC/RedComunicacionRegional
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/RedComunicacionRegional" group-title="🗞️ Noticiero Peruano 🇵🇪",Red de Comunicación Regional (1280x720)
-https://vmvpd.short.gy/T3B2/RedComunicacionRegional
-
 #EXTINF:    Iskhodnyy="✔️Latina Noticias✅"                  tvg-logo="https://tvg-logo.short.gy/LatinaNoticias" group-title="🗞️ Noticiero Peruano 🇵🇪",Latina Noticias (1920x1080)
 https://vmvpd.short.gy/LatinaNoticias
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LatinaNoticias" group-title="🗞️ Noticiero Peruano 🇵🇪",Latina Noticias (1280x720)
@@ -339,6 +332,13 @@ https://vmvpd.short.gy/EC/BlueHouse
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/BlueHouse" group-title="🎭 Variedad Alternativa 🔄",Blue House (720x576)
 https://vmvpd.short.gy/WT/BlueHouse
 
+#EXTINF:    Iskhodnyy="✔️RedComunicaciónRegional✅"                  tvg-logo="https://tvg-logo.short.gy/RedComunicacionRegional" group-title="🎭 Variedad Alternativa 🔄",Red de Comunicación Regional (1920x1080)
+https://vmvpd.short.gy/RedComunicacionRegional
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/RedComunicacionRegional" group-title="🎭 Variedad Alternativa 🔄",Red de Comunicación Regional (1280x720)
+https://vmvpd.short.gy/EC/RedComunicacionRegional
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/RedComunicacionRegional" group-title="🎭 Variedad Alternativa 🔄",Red de Comunicación Regional (1280x720)
+https://vmvpd.short.gy/T3B2/RedComunicacionRegional
+
 #EXTINF:    Iskhodnyy="✔️Trivu✅"                  tvg-logo="https://tvg-logo.short.gy/Trivu" group-title="🎭 Variedad Alternativa 🔄",Trivu (1280x720)
 https://vmvpd.short.gy/Trivu
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Trivu" group-title="🎭 Variedad Alternativa 🔄",Trivu (1920x1080)
@@ -374,11 +374,6 @@ https://vmvpd.short.gy/T3B2/ATV+
 https://vmvpd.short.gy/OndaDigital
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/OndaDigital" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Onda Digital (1280x720)
 https://vmvpd.short.gy/T3B2/OndaDigital
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/InkaVision" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Inka Vision (1280x720)
-https://vmvpd.short.gy/T3B2/InkaVision
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/InkaVision" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Inka Vision (1280x720)
-https://vmvpd.short.gy/WT/InkaVision
 
 #EXTINF=====================================================================================================================================================================================================
 
@@ -581,6 +576,11 @@ https://vmvpd.short.gy/T3B2/Solar
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Media" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Media (Ayacucho)
 https://vmvpd.short.gy/T3B2/Media
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/InkaVision" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Inka Vision (Wanchaq)
+https://vmvpd.short.gy/T3B2/InkaVision
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/InkaVision" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Inka Vision (Wanchaq)
+https://vmvpd.short.gy/WT/InkaVision
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/HoyPeru" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Hoy Perú (Jaen)
 https://vmvpd.short.gy/T3B2/HoyPeru
