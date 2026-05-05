@@ -278,6 +278,11 @@ https://vmvpd.short.gy/T3B2/LDM
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/NuestraTele" group-title="💃 Variedad Hispana 🌎",Nuestra Tele 🇨🇴 (720x576)
 https://vmvpd.short.gy/WT/NuestraTele
 
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Clic" group-title="💃 Variedad Hispana 🌎",Clic 🇲🇽 (1280x720)
+https://vmvpd.short.gy/WT/Clic
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Clic" group-title="💃 Variedad Hispana 🌎",Clic 🇲🇽 (1280x720)
+https://vmvpd.short.gy/EC/Clic
+
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/LasEstrellas" group-title="💃 Variedad Hispana 🌎",Las Estrellas 🇲🇽 (1280x720)
 https://vmvpd.short.gy/WT/LasEstrellas
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LasEstrellas" group-title="💃 Variedad Hispana 🌎",Las Estrellas 🇲🇽 (720x576)
@@ -788,6 +793,9 @@ https://vmvpd.short.gy/WT/LaTele
 https://vmvpd.short.gy/EC/LaTele
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/B3T2/LaTele" group-title="Sin Contenido Propio",La Tele (720x576)
 https://vmvpd.short.gy/T3B2/LaTele
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="Sin Contenido Propio",Nuestro Canal (1920x1080) Evaluar
+https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/chunks.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/OnceTvDigital" group-title="Sin Contenido Propio",Once Digital 🇦🇷 (Películas)
 https://vmvpd.short.gy/T3B2/OnceTvDigital
