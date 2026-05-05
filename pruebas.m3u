@@ -546,6 +546,9 @@ https://vmvpd.short.gy/Region
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Region" group-title="Para variar 🗿🌊 de la Costa",Region (Callao) 1920x1080
 https://vmvpd.short.gy/T3B2/Region
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TvNorte" group-title="Sin Contenido Propio",Norte (Chiclayo) 1920x1080
+https://vmvpd.short.gy/T3B2/TvNorte
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Onda" group-title="Para variar 🗿🌊 de la Costa",Onda (Ica) 1920x1080
 https://vmvpd.short.gy/T3B2/Onda
 
@@ -699,9 +702,6 @@ https://vmvpd.short.gy/WT/LaTele
 https://vmvpd.short.gy/EC/LaTele
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/B3T2/LaTele" group-title="Sin Contenido Propio",La Tele (720x576)
 https://vmvpd.short.gy/T3B2/LaTele
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TvNorte" group-title="Sin Contenido Propio",Tv Norte (Docmentales) Evaluacion
-https://vmvpd.short.gy/T3B2/TvNorte
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/OnceTvDigital" group-title="Sin Contenido Propio",Once Digital 🇦🇷 (Películas)
 https://vmvpd.short.gy/T3B2/OnceTvDigital
