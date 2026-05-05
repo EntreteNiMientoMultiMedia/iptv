@@ -810,6 +810,9 @@ https://vmvpd.short.gy/EC/LaTele
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/B3T2/LaTele" group-title="Sin Contenido Propio",La Tele (720x576)
 https://vmvpd.short.gy/T3B2/LaTele
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="Sin Contenido Propio",Monitor (Cajamarca)
+https://live-evg5.tv360.bitel.com.pe/bitel/monitortvSRT/chunks.m3u8?uid=12051151
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="Sin Contenido Propio",Nuestro Canal (1920x1080) Evaluar
 https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/chunks.m3u8
 
