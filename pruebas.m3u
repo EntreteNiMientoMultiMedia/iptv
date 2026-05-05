@@ -555,6 +555,13 @@ https://vmvpd.short.gy/T3B2/HuaralEnLinea
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Dunas" group-title="Para variar 🗿🌊 de la Costa",Dunas (Ica) 1920x1080
 https://vmvpd.short.gy/T3B2/Dunas
 
+#EXTINF:    Iskhodnyy="✔️Eco✅"                  tvg-logo="https://tvg-logo.short.gy/Eco" group-title="Para variar 🗿🌊 de la Costa",Eco (Ica)
+https://vmvpd.short.gy/Eco
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Eco" group-title="Para variar 🗿🌊 de la Costa",Eco (Ica)
+https://vmvpd.short.gy/EC/Eco
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Eco" group-title="Para variar 🗿🌊 de la Costa",Eco (Ica)
+https://vmvpd.short.gy/T3B2/Eco
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/36Huacho" group-title="Para variar 🗿🌊 de la Costa",36 Huacho (Huacho) 1920x1080
 https://vmvpd.short.gy/T3B2/36Huacho
 
@@ -590,6 +597,11 @@ https://vmvpd.short.gy/T3B2/Cajamarca
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Aura" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Aura (Cajamarca)
 https://vmvpd.short.gy/T3B2/Aura
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Antena1" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Canal Antena 1 (Puno)
+https://vmvpd.short.gy/EC/Antena1
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Antena1" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Canal Antena 1 (Puno)
+https://vmvpd.short.gy/WT/Antena1
 
 #EXTINF=====================================================================================================================================================================================================
 
@@ -655,11 +667,6 @@ https://vmvpd.short.gy/T3B2/AndinaSur
 #EXTINF:    Iskhodnyy="✔️ATV Sur✅"                  tvg-logo="https://tvg-logo.short.gy/AndinaSur" group-title="Sin Contenido Propio",Andina Sur (ReFritos)
 https://vmvpd.short.gy/ATVSur
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Antena1" group-title="Sin Contenido Propio",Antena 1 (Musicales & Películas)
-https://vmvpd.short.gy/EC/Antena1
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Antena1" group-title="Sin Contenido Propio",Antena 1 (Musicales & Películas)
-https://vmvpd.short.gy/WT/Antena1
-
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Arussa" group-title="Sin Contenido Propio",Arussa (Musicales & Películas & Series)
 https://vmvpd.short.gy/EC/Arussa
 
@@ -667,13 +674,6 @@ https://vmvpd.short.gy/EC/Arussa
 https://vmvpd.short.gy/DobleC
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/DobleC" group-title="Sin Contenido Propio",Doble C (Series)
 https://vmvpd.short.gy/T3B2/DobleC
-
-#EXTINF:    Iskhodnyy="✔️Eco✅"                  tvg-logo="https://tvg-logo.short.gy/Eco" group-title="Sin Contenido Propio",Eco (Musicales & Películas) (Religioso)
-https://vmvpd.short.gy/Eco
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Eco" group-title="Sin Contenido Propio",Eco (Musicales & Películas) (Religioso)
-https://vmvpd.short.gy/EC/Eco
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Eco" group-title="Sin Contenido Propio",Eco (Musicales & Películas) (Religioso)
-https://vmvpd.short.gy/T3B2/Eco
 
 #EXTINF:    Iskhodnyy="✔️Fillka✅"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Fillka" group-title="Sin Contenido Propio",Fillka (Películas)
 https://vmvpd.short.gy/Fillka
