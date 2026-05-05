@@ -679,6 +679,11 @@ https://vmvpd.short.gy/ATVSur
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Arussa" group-title="Sin Contenido Propio",Arussa (Musicales & Películas & Series)
 https://vmvpd.short.gy/EC/Arussa
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/BellaAbanquina" group-title="Sin Contenido Propio",Bella Abanquina (Apurimac) 1920x1080
+https://vmvpd.short.gy/T3B2/BellaAbanquina
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/BellaAbanquina" group-title="Sin Contenido Propio",Bella Abanquina (Apurimac) 720x576
+https://vmvpd.short.gy/EC/BellaAbanquina
+
 #EXTINF:    Iskhodnyy="✔️DobleC✅"                  tvg-logo="https://tvg-logo.short.gy/DobleC" group-title="Sin Contenido Propio",Doble C (Series)
 https://vmvpd.short.gy/DobleC
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/DobleC" group-title="Sin Contenido Propio",Doble C (Series)
@@ -717,33 +722,6 @@ https://vmvpd.short.gy/T3B2/TeleLima
 https://vmvpd.short.gy/WT/TeleLima
 
 #EXTINF=====================================================================================================================================================================================================
-
-
-
-#EXTINF=====================================================================================================================================================================================================
-
-
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/BellaAbanquina" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Bella Abanquina (Apurimac) 1920x1080
-https://vmvpd.short.gy/T3B2/BellaAbanquina
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/BellaAbanquina" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Bella Abanquina (Apurimac) 720x576
-https://vmvpd.short.gy/EC/BellaAbanquina
-
-
-
-#EXTINF=====================================================================================================================================================================================================
-
-#EXTINF:    Iskhodnyy="✔️ATV✅"                  tvg-logo="" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",
-
-
-#EXTINF================================================================================================================================================================================================================================================================
-
 
 #EXTINF:  TeleKanal="Películas"     Iskhodnyy="EC"  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/jpg?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fstatic%2Fbackdrops%2F397%2F1731397_1280.jpg&width=1280" group-title="Películas",Super Cóndor 🦅
 https://cdn5.eco.cdn.moderntv.eu/econocable/vod/v348/40/vod-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dv348_vod_gz&_cdn_session=3890565643&_cdn_token=4bc4fb1833866538ac24deef095534635332fb00
@@ -801,11 +779,6 @@ https://live-evg5.tv360.bitel.com.pe/bitel/creosrt/chunks.m3u8?uid=12051151
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763742182307/93df7a94018a_480_270.png" group-title="Enrutador Chasqui 🇵🇪 ",Creo+ 🇻🇳 1920x1080p
 https://live-evg18.tv360.bitel.com.pe/bitel/CreomasSRT/chunks.m3u8
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/00/1763745678843/c0a44cbe6005_480_270.png" group-title="Enrutador Chasqui 🇵🇪 ",NeoTV 🇻🇳 1280x720p
-https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/chunks.m3u8?uid=12051151
-#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FNEOTV.png&width=50&height=50" group-title="Enrutador Chasqui 🇵🇪 ",NeoTV 💸 1280x720p
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/NEOTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNEOTV_stream_83&_cdn_session=3419726901&_cdn_token=ced5d179e7de63819ee3f009747cdbdec32ba40f
 
 #EXTINF================================================================================================================================================================================================================================================================
 
