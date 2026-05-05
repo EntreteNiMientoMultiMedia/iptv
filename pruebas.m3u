@@ -385,6 +385,14 @@ https://vmvpd.short.gy/EC/IdentidadPeruana
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/IdentidadPeruana" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Identidad Peruana (720x576)
 https://vmvpd.short.gy/WT/IdentidadPeruana
 
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryChannel" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Discovery Channel (1280x720)
+https://vmvpd.short.gy/EC/DiscoveryChannel
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/CanalHistoria" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Canal Historia (1280x720)
+https://vmvpd.short.gy/WT/CanalHistoria
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CanalHistoria" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Canal Historia (1280x720)
+https://vmvpd.short.gy/EC/CanalHistoria
+
 #EXTINF:    Iskhodnyy="✔️USMP✅"                  tvg-logo="https://tvg-logo.short.gy/USMP" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",USMP (1280x720)
 https://vmvpd.short.gy/USMP
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/USMP" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",USMP (1280x720)
@@ -393,6 +401,14 @@ https://vmvpd.short.gy/WT/USMP
 https://vmvpd.short.gy/EC/USMP
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/USMP" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",USMP (1920x1080)
 https://vmvpd.short.gy/T3B2/USMP
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/NationalGeographic" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",National Geographic (1280x720)
+https://vmvpd.short.gy/EC/NationalGeographic
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/CanalHistoria2" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Canal Historia 2 (1280x720)
+https://vmvpd.short.gy/WT/CanalHistoria2
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CanalHistoria2" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Canal Historia 2 (1280x720)
+https://vmvpd.short.gy/EC/CanalHistoria2
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryScience" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Discovery Science (1280x720)
 https://vmvpd.short.gy/EC/DiscoveryScience
@@ -405,22 +421,6 @@ https://vmvpd.short.gy/EC/DiscoveryTurbo
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryWorld" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Discovery World (1280x720)
 https://vmvpd.short.gy/EC/DiscoveryWorld
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/CanalHistoria2" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Canal Historia 2 (1280x720)
-https://vmvpd.short.gy/WT/CanalHistoria2
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CanalHistoria2" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Canal Historia 2 (1280x720)
-https://vmvpd.short.gy/EC/CanalHistoria2
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/NationalGeographic" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",National Geographic (1280x720)
-https://vmvpd.short.gy/EC/NationalGeographic
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/CanalHistoria" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Canal Historia (1280x720)
-https://vmvpd.short.gy/WT/CanalHistoria
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CanalHistoria" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Canal Historia (1280x720)
-https://vmvpd.short.gy/EC/CanalHistoria
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryChannel" group-title="🧠🔭 Ciencia y Cultura 🌎🔬",Discovery Channel (1280x720)
-https://vmvpd.short.gy/EC/DiscoveryChannel
 
 #EXTINF=====================================================================================================================================================================================================
 
