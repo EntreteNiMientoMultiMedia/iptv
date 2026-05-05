@@ -406,6 +406,16 @@ https://vmvpd.short.gy/EC/DiscoveryTurbo
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryWorld" group-title="Culturales & Documentales",Discovery World (1280x720)
 https://vmvpd.short.gy/EC/DiscoveryWorld
 
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/CanalHistoria" group-title="Culturales & Documentales",Canal Historia (1280x720)
+https://vmvpd.short.gy/WT/CanalHistoria
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CanalHistoria" group-title="Culturales & Documentales",Canal Historia (1280x720)
+https://vmvpd.short.gy/EC/CanalHistoria
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/CanalHistoria2" group-title="Culturales & Documentales",Canal Historia 2 (1280x720)
+https://vmvpd.short.gy/WT/CanalHistoria2
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CanalHistoria2" group-title="Culturales & Documentales",Canal Historia 2 (1280x720)
+https://vmvpd.short.gy/EC/CanalHistoria2
+
 #EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/DistritoComedia" group-title="Extranjeros",Distrito Comedia 🇲🇽 (1280x720)
