@@ -762,6 +762,11 @@ https://vmvpd.short.gy/ATVSur
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Arussa" group-title="Sin Contenido Propio",Arussa (Musicales & Películas & Series) Retransmite otros canales
 https://vmvpd.short.gy/EC/Arussa
 
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="Sin Contenido Propio",Asiri (Peliculas)
+https://cdnback5.win.cdn.moderntv.eu:7909/win/stream/ASIRI_TV/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DASIRI_TV_stream_ak&_cdn_session=5172262524&_cdn_token=47094dd5b9bba9d73ea71ef5b95ae5f7dd7bb515
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="Sin Contenido Propio",Asiri (Peliculas)
+https://live-evg10.tv360.bitel.com.pe/bitel/asiritv/chunks.m3u8?uid=3737324
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/BellaAbanquina" group-title="Sin Contenido Propio",Bella Abanquina (Apurimac) 1920x1080
 https://vmvpd.short.gy/T3B2/BellaAbanquina
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/BellaAbanquina" group-title="Sin Contenido Propio",Bella Abanquina (Apurimac) 720x576
