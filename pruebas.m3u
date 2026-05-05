@@ -416,6 +416,9 @@ https://vmvpd.short.gy/WT/CanalHistoria2
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CanalHistoria2" group-title="Culturales & Documentales",Canal Historia 2 (1280x720)
 https://vmvpd.short.gy/EC/CanalHistoria2
 
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/NationalGeographic" group-title="Culturales & Documentales",National Geographic (1280x720)
+https://vmvpd.short.gy/EC/NationalGeographic
+
 #EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/DistritoComedia" group-title="Extranjeros",Distrito Comedia 🇲🇽 (1280x720)
@@ -482,6 +485,11 @@ https://vmvpd.short.gy/EC/TeleNovelas
 https://vmvpd.short.gy/EC/Corazon
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Corazon" group-title="💔🥀 Drama y Novelas 💋🍷",Corazón 🇲🇽 (1280x720)
 https://vmvpd.short.gy/WT/Corazon
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LifeTime" group-title="💔🥀 Drama y Novelas 💋🍷",Life Time 🇺🇸 (1280x720)
+https://vmvpd.short.gy/EC/LifeTime
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/LifeTime" group-title="💔🥀 Drama y Novelas 💋🍷",Life Time 🇺🇸 (1280x720)
+https://vmvpd.short.gy/WT/LifeTime
 
 #EXTINF=====================================================================================================================================================================================================
 
