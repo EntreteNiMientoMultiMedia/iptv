@@ -432,6 +432,12 @@ https://vmvpd.short.gy/EC/Agro
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CongresoTv" group-title="🚀 Emprendimiento y Negocios 📈",Congreso (1280x720)
 https://vmvpd.short.gy/EC/CongresoTv
 
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/FoodNetWork" group-title="🚀 Emprendimiento y Negocios 📈",Red De Alimentos (1280x720)
+https://vmvpd.short.gy/EC/FoodNetWork
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/HGTV" group-title="🚀 Emprendimiento y Negocios 📈",Red De Alimentos (1280x720)
+https://vmvpd.short.gy/EC/HGTV
+
 #EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️Vision Sur✅"                  tvg-logo="https://tvg-logo.short.gy/VisionSur" group-title="🌊 Para Variar... de la Costa 🏖️",Vision Sur (Arequipa) 1920x1080
@@ -726,7 +732,7 @@ https://vmvpd.short.gy/T3B2/AndinaSur
 #EXTINF:    Iskhodnyy="✔️ATV Sur✅"                  tvg-logo="https://tvg-logo.short.gy/AndinaSur" group-title="Sin Contenido Propio",Andina Sur (ReFritos)
 https://vmvpd.short.gy/ATVSur
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Arussa" group-title="Sin Contenido Propio",Arussa (Musicales & Películas & Series)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Arussa" group-title="Sin Contenido Propio",Arussa (Musicales & Películas & Series) Retransmite otros canales
 https://vmvpd.short.gy/EC/Arussa
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/BellaAbanquina" group-title="Sin Contenido Propio",Bella Abanquina (Apurimac) 1920x1080
