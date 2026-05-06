@@ -176,6 +176,9 @@ https://vmvpd.short.gy/EC/DeutscheWelle
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/NuestraTeleNoticias24" group-title="📰 Noticia InterNacional 🌎",Nuestra Tele Noticias 24 (1280x720) NTN 24
 https://vmvpd.short.gy/WT/NuestraTeleNoticias24
 
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/VenezolanosPorLaInformacion" group-title="📰 Noticia InterNacional 🌎",Venezolanos por la Información (1280x720) VPItv
+https://vmvpd.short.gy/WT/VenezolanosPorLaInformacion
+
 #EXTINF:    Iskhodnyy="✔️NoticiasCaracol✅"                  tvg-logo="https://tvg-logo.short.gy/NoticiasCaracol" group-title="📰 Noticia InterNacional 🌎",Noticias Caracol (1920x1080)
 https://vmvpd.short.gy/NoticiasCaracol
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/NoticiasCaracol" group-title="📰 Noticia InterNacional 🌎",Noticia Caracol (1280x720)
@@ -194,9 +197,6 @@ https://vmvpd.short.gy/EC/Libertad
 https://vmvpd.short.gy/GiroVisual
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/GiroVisual" group-title="📰 Noticia InterNacional 🌎",Giro Visual (1920x1080)
 https://vmvpd.short.gy/T3B2/GiroVisual
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/VenezolanosPorLaInformacion" group-title="📰 Noticia InterNacional 🌎",Venezolanos por la Información (1280x720)
-https://vmvpd.short.gy/WT/VenezolanosPorLaInformacion
 
 #EXTINF=====================================================================================================================================================================================================
 
@@ -276,52 +276,52 @@ https://vmvpd.short.gy/T3B2/Bonita
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryKids" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Discovery Kids (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryKids" group-title="🛹 Zona Juvenil ⚡ 7 a 14 años",Discovery Kids (1280x720)
 https://vmvpd.short.gy/EC/DiscoveryKids
 
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/DisneyJr" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Disney Jr (1024x576)
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/DisneyJr" group-title="🛹 Zona Juvenil ⚡ 7 a 14 años",Disney Jr (1024x576)
 https://vmvpd.short.gy/EC/DisneyJr
 
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Cartoonito" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Cartoonito (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Cartoonito" group-title="🛹 Zona Juvenil ⚡ 7 a 14 años",Cartoonito (1280x720)
 https://vmvpd.short.gy/EC/Cartoonito
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/PlimPlim" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Plim Plim (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/PlimPlim" group-title="🛹 Zona Juvenil ⚡ 7 a 14 años",Plim Plim (1280x720)
 https://vmvpd.short.gy/EC/PlimPlim
 
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/ZooMoo" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Zoo Moo (1024x576)
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/ZooMoo" group-title="🛹 Zona Juvenil ⚡ 7 a 14 años",Zoo Moo (1024x576)
 https://vmvpd.short.gy/EC/ZooMoo
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/PequeTv" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Peque Tv (1920x1080)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/PequeTv" group-title="🛹 Zona Juvenil ⚡ 7 a 14 años",Peque Tv (1920x1080)
 https://vmvpd.short.gy/T3B2/PequeTv
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                    tvg-logo="https://tvg-logo.short.gy/WT/FunBox" group-title="🍼 Infantil 👶🏻 0 a 6 años 👼🏻",Fun Box (1280x720)
+#EXTINF:    Iskhodnyy="🔱WT📺"                    tvg-logo="https://tvg-logo.short.gy/WT/FunBox" group-title="🛹 Zona Juvenil ⚡ 7 a 14 años",Fun Box (1280x720)
 https://vmvpd.short.gy/WT/FunBox
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CartoonNetWork" group-title="Zona Juvenil ⚡ 7 a 14 años 🛹",Cartoon NetWork (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CartoonNetWork" group-title="🛹 Zona Juvenil ⚡ 7 a 14 años",Cartoon NetWork (1280x720)
 https://vmvpd.short.gy/EC/CartoonNetWork
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DisneyChannel" group-title="Zona Juvenil ⚡ 7 a 14 años 🛹",Canal Disney (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DisneyChannel" group-title="🛹 Zona Juvenil ⚡ 7 a 14 años",Canal Disney (1280x720)
 https://vmvpd.short.gy/EC/DisneyChannel
 
-#EXTINF:    Iskhodnyy="EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/ToonCast" group-title="Zona Juvenil ⚡ 7 a 14 años 🛹",Toon Cast (1280x720)
+#EXTINF:    Iskhodnyy="EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/ToonCast" group-title="🛹 Zona Juvenil ⚡ 7 a 14 años",Toon Cast (1280x720)
 https://vmvpd.short.gy/EC/ToonCast
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/DreamWorks" group-title="Zona Juvenil ⚡ 7 a 14 años 🛹",Dream Works (1280x720)
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/DreamWorks" group-title="🛹 Zona Juvenil ⚡ 7 a 14 años",Dream Works (1280x720)
 https://vmvpd.short.gy/WT/DreamWorks
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DreamWorks" group-title="Zona Juvenil ⚡ 7 a 14 años 🛹",Dream Works (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DreamWorks" group-title="🛹 Zona Juvenil ⚡ 7 a 14 años",Dream Works (1280x720)
 https://vmvpd.short.gy/EC/DreamWorks
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/ChikiToonz" group-title="Zona Juvenil ⚡ 7 a 14 años 🛹",Chiki Toonz (1920x1080)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/ChikiToonz" group-title="🛹 Zona Juvenil ⚡ 7 a 14 años",Chiki Toonz (1920x1080)
 https://vmvpd.short.gy/T3B2/ChikiToonz
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/FMHKids" group-title="Zona Juvenil ⚡ 7 a 14 años 🛹",FM H Kids (1280x720)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/FMHKids" group-title="🛹 Zona Juvenil ⚡ 7 a 14 años",FM H Kids (1280x720)
 https://vmvpd.short.gy/T3B2/FMHKids
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/FMHKids" group-title="Zona Juvenil ⚡ 7 a 14 años 🛹",FM H Kids (1280x720)
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/FMHKids" group-title="🛹 Zona Juvenil ⚡ 7 a 14 años",FM H Kids (1280x720)
 https://vmvpd.short.gy/WT/FMHKids
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/CreoKids" group-title="Zona Juvenil ⚡ 7 a 14 años 🛹",Creo Kids (1920x1080)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/CreoKids" group-title="🛹 Zona Juvenil ⚡ 7 a 14 años",Creo Kids (1920x1080)
 https://vmvpd.short.gy/T3B2/CreoKids
 
 #EXTINF=====================================================================================================================================================================================================
@@ -606,159 +606,173 @@ https://vmvpd.short.gy/EC/Venus
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/DistritoComedia" group-title="💃 Variedad Hispana 🌎",Distrito Comedia 🇲🇽 (1280x720)
-https://vmvpd.short.gy/WT/DistritoComedia
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DistritoComedia" group-title="💃 Variedad Hispana 🌎",Distrito Comedia 🇲🇽 (720x576)
-https://vmvpd.short.gy/EC/DistritoComedia
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Global" group-title="🎭 Variedad Alternativa Digital 🔄",Global (1280x720)
+https://vmvpd.short.gy/WT/Global
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Global" group-title="🎭 Variedad Alternativa Digital 🔄",Global (1280x720)
+https://vmvpd.short.gy/T3B2/Global
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Global" group-title="🎭 Variedad Alternativa Digital 🔄",Global (1280x720)
+https://vmvpd.short.gy/EC/Global
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/ElGourmet" group-title="💃 Variedad Hispana 🌎",El Gastronomo  🇦🇷  (720x576)
-https://vmvpd.short.gy/EC/ElGourmet
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/LaTele" group-title="🎭 Variedad Alternativa Digital 🔄",La Tele (1280x720)
+https://vmvpd.short.gy/WT/LaTele
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LaTele" group-title="🎭 Variedad Alternativa Digital 🔄",La Tele (1280x720)
+https://vmvpd.short.gy/EC/LaTele
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/B3T2/LaTele" group-title="🎭 Variedad Alternativa Digital 🔄",La Tele (720x576)
+https://vmvpd.short.gy/T3B2/LaTele
 
-#EXTINF:    Iskhodnyy="✔️EPA!✅"                  tvg-logo="https://tvg-logo.short.gy/EPA!" group-title="💃 Variedad Hispana 🌎",EPA! 🇨🇱 (1280x720)
-https://vmvpd.short.gy/EPA!
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/EPA!" group-title="💃 Variedad Hispana 🌎",EPA! 🇨🇱 (1280x720)
-https://vmvpd.short.gy/T3B2/EPA!
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Hogar" group-title="💃 Variedad Hispana 🌎",Hogar 🇨🇴 (1280x720)
-https://vmvpd.short.gy/WT/Hogar
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Facetas" group-title="💃 Variedad Hispana 🌎",Facetas 🇧🇴 (1280x720)
-https://vmvpd.short.gy/T3B2/Facetas
-
-#EXTINF:    Iskhodnyy="✔️LDM✅"                  tvg-logo="https://tvg-logo.short.gy/LDM" group-title="💃 Variedad Hispana 🌎",La Pampa Argentina 🇦🇷 (1280x720)
-https://vmvpd.short.gy/LDM
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/LDM" group-title="💃 Variedad Hispana 🌎",La Pampa Argentina 🇦🇷 (1280x720)
-https://vmvpd.short.gy/T3B2/LDM
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/NuestraTele" group-title="💃 Variedad Hispana 🌎",Nuestra Tele 🇨🇴 (720x576)
-https://vmvpd.short.gy/WT/NuestraTele
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Clic" group-title="💃 Variedad Hispana 🌎",Clic 🇲🇽 (1280x720)
-https://vmvpd.short.gy/WT/Clic
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Clic" group-title="💃 Variedad Hispana 🌎",Clic 🇲🇽 (1280x720)
-https://vmvpd.short.gy/EC/Clic
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/LasEstrellas" group-title="💃 Variedad Hispana 🌎",Las Estrellas 🇲🇽 (1280x720)
-https://vmvpd.short.gy/WT/LasEstrellas
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LasEstrellas" group-title="💃 Variedad Hispana 🌎",Las Estrellas 🇲🇽 (720x576)
-https://vmvpd.short.gy/EC/LasEstrellas
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/UniVision" group-title="💃 Variedad Hispana 🌎",UniVision 🇺🇸 (1280x720)
-https://vmvpd.short.gy/WT/UniVision
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/UniVision" group-title="💃 Variedad Hispana 🌎",UniVision 🇺🇸 (720x576)
-https://vmvpd.short.gy/EC/UniVision
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/TeleMundo" group-title="💃 Variedad Hispana 🌎",TeleMundo 🇺🇸 (1280x720)
-https://vmvpd.short.gy/WT/TeleMundo
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/TeleMundo" group-title="💃 Variedad Hispana 🌎",TeleMundo 🇺🇸 (720x576)
-https://vmvpd.short.gy/EC/TeleMundo
-
-#EXTINF=====================================================================================================================================================================================================
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/FoodNetWork" group-title="🎭 Variedad Alternativa 🔄",Red De Alimentos (1280x720)
-https://vmvpd.short.gy/EC/FoodNetWork
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/HGTV" group-title="🎭 Variedad Alternativa 🔄",Hogar y Jardin (1280x720)
-https://vmvpd.short.gy/EC/HGTV
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/B3T2/Juntos" group-title="🎭 Variedad Alternativa 🔄",Juntos (1920x1080)
-https://vmvpd.short.gy/T3B2/Juntos
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Juntos" group-title="🎭 Variedad Alternativa 🔄",Canal J (1280x720)
-https://vmvpd.short.gy/WT/Juntos
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Juntos" group-title="🎭 Variedad Alternativa 🔄",Juntos (1280x720)
-https://vmvpd.short.gy/EC/Juntos
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/CircuitoDigital" group-title="🎭 Variedad Alternativa 🔄",Circuito Digital (1280x720)
-https://vmvpd.short.gy/T3B2/CircuitoDigital
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Viva" group-title="🎭 Variedad Alternativa 🔄",Viva (1280x720)
-https://vmvpd.short.gy/WT/Viva
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Neo" group-title="🎭 Variedad Alternativa 🔄",Neo (1280x720)
-https://vmvpd.short.gy/T3B2/Neo
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Neo" group-title="🎭 Variedad Alternativa 🔄",Neo (1280x720)
-https://vmvpd.short.gy/EC/Neo
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Neo" group-title="🎭 Variedad Alternativa 🔄",Neo (720x576)
-https://vmvpd.short.gy/WT/Neo
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Fuego" group-title="🎭 Variedad Alternativa 🔄",Fuego (1280x720)
-https://vmvpd.short.gy/WT/Fuego
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Fuego" group-title="🎭 Variedad Alternativa 🔄",Fuego (1280x720)
-https://vmvpd.short.gy/T3B2/Fuego
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Fuego" group-title="🎭 Variedad Alternativa 🔄",Fuego (720x576)
-https://vmvpd.short.gy/EC/Fuego
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Cosmos" group-title="🎭 Variedad Alternativa 🔄",Cosmos (1280x720)
-https://vmvpd.short.gy/T3B2/Cosmos
-
-#EXTINF:    Iskhodnyy="✔️Conecta2✅"                  tvg-logo="https://tvg-logo.short.gy/Conecta2" group-title="🎭 Variedad Alternativa 🔄",Conecta2 (1280x720)
-https://vmvpd.short.gy/Conecta2
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Conecta2" group-title="🎭 Variedad Alternativa 🔄",Conecta2 (1280x720)
-https://vmvpd.short.gy/T3B2/Conecta2
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Conecta2" group-title="🎭 Variedad Alternativa 🔄",Conecta2 (1280x720)
-https://vmvpd.short.gy/WT/Conecta2
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Conecta2" group-title="🎭 Variedad Alternativa 🔄",Conecta2 (1280x720)
-https://vmvpd.short.gy/EC/Conecta2
-
-#EXTINF:    Iskhodnyy="✔️CTv✅"                  tvg-logo="https://tvg-logo.short.gy/CTv" group-title="🎭 Variedad Alternativa 🔄",CTv (1280x720)
-https://vmvpd.short.gy/CTv
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/CTv" group-title="🎭 Variedad Alternativa 🔄",CTv (1920x1080)
-https://vmvpd.short.gy/T3B2/CTv
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CTv" group-title="🎭 Variedad Alternativa 🔄",CTv (1280x720)
-https://vmvpd.short.gy/EC/CTv
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/BlueHouse" group-title="🎭 Variedad Alternativa 🔄",Blue House (1920x1080)
-https://vmvpd.short.gy/T3B2/BlueHouse
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/BlueHouse" group-title="🎭 Variedad Alternativa 🔄",Blue House (1280x720)
-https://vmvpd.short.gy/EC/BlueHouse
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/BlueHouse" group-title="🎭 Variedad Alternativa 🔄",Blue House (720x576)
-https://vmvpd.short.gy/WT/BlueHouse
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Creo+" group-title="🎭 Variedad Alternativa 🔄",Creo+ (1920x1080)
-https://vmvpd.short.gy/T3B2/Creo+
-
-#EXTINF:    Iskhodnyy="✔️Trivu✅"                  tvg-logo="https://tvg-logo.short.gy/Trivu" group-title="🎭 Variedad Alternativa 🔄",Trivu (1280x720)
-https://vmvpd.short.gy/Trivu
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Trivu" group-title="🎭 Variedad Alternativa 🔄",Trivu (1920x1080)
-https://vmvpd.short.gy/T3B2/Trivu
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Trivu" group-title="🎭 Variedad Alternativa 🔄",Trivu (1280x720)
-https://vmvpd.short.gy/EC/Trivu
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Trivu" group-title="🎭 Variedad Alternativa 🔄",Trivu (1280x720)
-https://vmvpd.short.gy/WT/Trivu
-
-#EXTINF:    Iskhodnyy="✔️Milenial✅"                  tvg-logo="https://tvg-logo.short.gy/Milenial" group-title="🎭 Variedad Alternativa 🔄",Milenial (1280x720)
-https://vmvpd.short.gy/Milenial
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Milenial" group-title="🎭 Variedad Alternativa 🔄",Milenial (1920x1080)
-https://vmvpd.short.gy/T3B2/Milenial
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Milenial" group-title="🎭 Variedad Alternativa 🔄",Milenial (1280x720)
-https://vmvpd.short.gy/WT/Milenial
-
-#EXTINF:    Iskhodnyy="✔️OndaDigital✅"                  tvg-logo="https://tvg-logo.short.gy/OndaDigital" group-title="🎭 Variedad Alternativa 🔄",Onda Digital (1280x720)
-https://vmvpd.short.gy/OndaDigital
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/OndaDigital" group-title="🎭 Variedad Alternativa 🔄",Onda Digital (1280x720)
-https://vmvpd.short.gy/T3B2/OndaDigital
-
-#EXTINF=====================================================================================================================================================================================================
-
-#EXTINF:    Iskhodnyy="✔️Latina Clásicos✅"                  tvg-logo="https://tvg-logo.short.gy/LatinaClasicos" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Latina Clásicos (1920x1080)
+#EXTINF:    Iskhodnyy="✔️Latina Clásicos✅"                  tvg-logo="https://tvg-logo.short.gy/LatinaClasicos" group-title="🎭 Variedad Alternativa Digital 🔄",Latina Clásicos (1920x1080)
 https://vmvpd.short.gy/LatinaClasicos
 https://vmvpd.short.gy/LatinaClásicos
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryHome&Health" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Hogar y Salud Descubrimiento (1280x720)
-https://vmvpd.short.gy/EC/DiscoveryHome&Health
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Viva" group-title="🎭 Variedad Alternativa Digital 🔄",Viva (1280x720)
+https://vmvpd.short.gy/WT/Viva
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/E!" group-title="🌐☁️ Señal Digital 🤖🤳🏼",E! (1280x720)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/B3T2/Juntos" group-title="🎭 Variedad Alternativa Digital 🔄",Juntos (1920x1080)
+https://vmvpd.short.gy/T3B2/Juntos
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Juntos" group-title="🎭 Variedad Alternativa Digital 🔄",Canal J (1280x720)
+https://vmvpd.short.gy/WT/Juntos
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Juntos" group-title="🎭 Variedad Alternativa Digital 🔄",Juntos (1280x720)
+https://vmvpd.short.gy/EC/Juntos
+
+#EXTINF:    Iskhodnyy="✔️Milenial✅"                  tvg-logo="https://tvg-logo.short.gy/Milenial" group-title="🎭 Variedad Alternativa Digital 🔄",Milenial (1280x720)
+https://vmvpd.short.gy/Milenial
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Milenial" group-title="🎭 Variedad Alternativa Digital 🔄",Milenial (1920x1080)
+https://vmvpd.short.gy/T3B2/Milenial
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Milenial" group-title="🎭 Variedad Alternativa Digital 🔄",Milenial (1280x720)
+https://vmvpd.short.gy/WT/Milenial
+
+#EXTINF:    Iskhodnyy="✔️Trivu✅"                  tvg-logo="https://tvg-logo.short.gy/Trivu" group-title="🎭 Variedad Alternativa Digital 🔄",Trivu (1280x720)
+https://vmvpd.short.gy/Trivu
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Trivu" group-title="🎭 Variedad Alternativa Digital 🔄",Trivu (1920x1080)
+https://vmvpd.short.gy/T3B2/Trivu
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Trivu" group-title="🎭 Variedad Alternativa Digital 🔄",Trivu (1280x720)
+https://vmvpd.short.gy/EC/Trivu
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Trivu" group-title="🎭 Variedad Alternativa Digital 🔄",Trivu (1280x720)
+https://vmvpd.short.gy/WT/Trivu
+
+#EXTINF:    Iskhodnyy="✔️OndaDigital✅"                  tvg-logo="https://tvg-logo.short.gy/OndaDigital" group-title="🎭 Variedad Alternativa Digital 🔄",Onda Digital (1280x720)
+https://vmvpd.short.gy/OndaDigital
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/OndaDigital" group-title="🎭 Variedad Alternativa Digital 🔄",Onda Digital (1280x720)
+https://vmvpd.short.gy/T3B2/OndaDigital
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/CircuitoDigital" group-title="🎭 Variedad Alternativa Digital 🔄",Circuito Digital (1280x720)
+https://vmvpd.short.gy/T3B2/CircuitoDigital
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Neo" group-title="🎭 Variedad Alternativa Digital 🔄",Neo (1280x720)
+https://vmvpd.short.gy/T3B2/Neo
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Neo" group-title="🎭 Variedad Alternativa Digital 🔄",Neo (1280x720)
+https://vmvpd.short.gy/EC/Neo
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Neo" group-title="🎭 Variedad Alternativa Digital 🔄",Neo (720x576)
+https://vmvpd.short.gy/WT/Neo
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Fuego" group-title="🎭 Variedad Alternativa Digital 🔄",Fuego (1280x720)
+https://vmvpd.short.gy/WT/Fuego
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Fuego" group-title="🎭 Variedad Alternativa Digital 🔄",Fuego (1280x720)
+https://vmvpd.short.gy/T3B2/Fuego
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Fuego" group-title="🎭 Variedad Alternativa Digital 🔄",Fuego (720x576)
+https://vmvpd.short.gy/EC/Fuego
+
+#EXTINF:    Iskhodnyy="✔️Conecta2✅"                  tvg-logo="https://tvg-logo.short.gy/Conecta2" group-title="🎭 Variedad Alternativa Digital 🔄",Conecta2 (1280x720)
+https://vmvpd.short.gy/Conecta2
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Conecta2" group-title="🎭 Variedad Alternativa Digital 🔄",Conecta2 (1280x720)
+https://vmvpd.short.gy/T3B2/Conecta2
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Conecta2" group-title="🎭 Variedad Alternativa Digital 🔄",Conecta2 (1280x720)
+https://vmvpd.short.gy/WT/Conecta2
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Conecta2" group-title="🎭 Variedad Alternativa Digital 🔄",Conecta2 (1280x720)
+https://vmvpd.short.gy/EC/Conecta2
+
+#EXTINF:    Iskhodnyy="✔️CTv✅"                  tvg-logo="https://tvg-logo.short.gy/CTv" group-title="🎭 Variedad Alternativa Digital 🔄",CTv (1280x720)
+https://vmvpd.short.gy/CTv
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/CTv" group-title="🎭 Variedad Alternativa Digital 🔄",CTv (1920x1080)
+https://vmvpd.short.gy/T3B2/CTv
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CTv" group-title="🎭 Variedad Alternativa Digital 🔄",CTv (1280x720)
+https://vmvpd.short.gy/EC/CTv
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/BlueHouse" group-title="🎭 Variedad Alternativa Digital 🔄",Blue House (1920x1080)
+https://vmvpd.short.gy/T3B2/BlueHouse
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/BlueHouse" group-title="🎭 Variedad Alternativa Digital 🔄",Blue House (1280x720)
+https://vmvpd.short.gy/EC/BlueHouse
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/BlueHouse" group-title="🎭 Variedad Alternativa Digital 🔄",Blue House (720x576)
+https://vmvpd.short.gy/WT/BlueHouse
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Creo+" group-title="🎭 Variedad Alternativa Digital 🔄",Creo+ (1920x1080)
+https://vmvpd.short.gy/T3B2/Creo+
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Cosmos" group-title="🎭 Variedad Alternativa Digital 🔄",Cosmos (1280x720)
+https://vmvpd.short.gy/T3B2/Cosmos
+
+#EXTINF=====================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/LasEstrellas" group-title="💃🏻 Variedad Hispana 🌎",Las Estrellas 🇲🇽 (1280x720)
+https://vmvpd.short.gy/WT/LasEstrellas
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LasEstrellas" group-title="💃🏻 Variedad Hispana 🌎",Las Estrellas 🇲🇽 (720x576)
+https://vmvpd.short.gy/EC/LasEstrellas
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/TeleMundo" group-title="💃🏻 Variedad Hispana 🌎",TeleMundo 🇺🇸 (1280x720)
+https://vmvpd.short.gy/WT/TeleMundo
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/TeleMundo" group-title="💃🏻 Variedad Hispana 🌎",TeleMundo 🇺🇸 (720x576)
+https://vmvpd.short.gy/EC/TeleMundo
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/UniVision" group-title="💃🏻 Variedad Hispana 🌎",UniVision 🇺🇸 (1280x720)
+https://vmvpd.short.gy/WT/UniVision
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/UniVision" group-title="💃🏻 Variedad Hispana 🌎",UniVision 🇺🇸 (720x576)
+https://vmvpd.short.gy/EC/UniVision
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/NuestraTele" group-title="💃🏻 Variedad Hispana 🌎",Nuestra Tele 🇨🇴 (720x576)
+https://vmvpd.short.gy/WT/NuestraTele
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/DistritoComedia" group-title="💃🏻 Variedad Hispana 🌎",Distrito Comedia 🇲🇽 (1280x720)
+https://vmvpd.short.gy/WT/DistritoComedia
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DistritoComedia" group-title="💃🏻 Variedad Hispana 🌎",Distrito Comedia 🇲🇽 (720x576)
+https://vmvpd.short.gy/EC/DistritoComedia
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/ElGourmet" group-title="💃🏻 Variedad Hispana 🌎",El Gastronomo  🇦🇷  (720x576)
+https://vmvpd.short.gy/EC/ElGourmet
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Hogar" group-title="💃🏻 Variedad Hispana 🌎",Hogar 🇨🇴 (1280x720)
+https://vmvpd.short.gy/WT/Hogar
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Facetas" group-title="💃🏻 Variedad Hispana 🌎",Facetas 🇧🇴 (1280x720)
+https://vmvpd.short.gy/T3B2/Facetas
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Clic" group-title="💃🏻 Variedad Hispana 🌎",Clic 🇲🇽 (1280x720)
+https://vmvpd.short.gy/WT/Clic
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Clic" group-title="💃🏻 Variedad Hispana 🌎",Clic 🇲🇽 (1280x720)
+https://vmvpd.short.gy/EC/Clic
+
+#EXTINF:    Iskhodnyy="✔️EPA!✅"                  tvg-logo="https://tvg-logo.short.gy/EPA!" group-title="💃🏻 Variedad Hispana 🌎",EPA! 🇨🇱 (1280x720)
+https://vmvpd.short.gy/EPA!
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/EPA!" group-title="💃🏻 Variedad Hispana 🌎",EPA! 🇨🇱 (1280x720)
+https://vmvpd.short.gy/T3B2/EPA!
+
+#EXTINF:    Iskhodnyy="✔️LDM✅"                  tvg-logo="https://tvg-logo.short.gy/LDM" group-title="💃🏻 Variedad Hispana 🌎",La Pampa Argentina 🇦🇷 (1280x720)
+https://vmvpd.short.gy/LDM
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/LDM" group-title="💃🏻 Variedad Hispana 🌎",La Pampa Argentina 🇦🇷 (1280x720)
+https://vmvpd.short.gy/T3B2/LDM
+
+#EXTINF=====================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/A&E" group-title="🛋️ Estilo de Vida y Entretenimiento 🍿",Arte & Entretenimiento (1280x720)
+https://vmvpd.short.gy/WT/A&E
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/A&E" group-title="🛋️ Estilo de Vida y Entretenimiento 🍿",Arte & Entretenimiento (1280x720)
+https://vmvpd.short.gy/EC/A&E
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/E!" group-title="🛋️ Estilo de Vida y Entretenimiento 🍿",E! (1280x720)
 https://vmvpd.short.gy/WT/E!
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/E!" group-title="🌐☁️ Señal Digital 🤖🤳🏼",E! (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/E!" group-title="🛋️ Estilo de Vida y Entretenimiento 🍿",E! (1280x720)
 https://vmvpd.short.gy/EC/E!
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/TLC" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Viajes y Estilo de Vida (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryHome&Health" group-title="🛋️ Estilo de Vida y Entretenimiento 🍿",Hogar y Salud Descubrimiento (1280x720)
+https://vmvpd.short.gy/EC/DiscoveryHome&Health
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/TLC" group-title="🛋️ Estilo de Vida y Entretenimiento 🍿",Viajes y Estilo de Vida (1280x720)
 https://vmvpd.short.gy/EC/TLC
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/A&E" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Arte & Entretenimiento (1280x720)
-https://vmvpd.short.gy/WT/A&E
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/A&E" group-title="🌐☁️ Señal Digital 🤖🤳🏼",Arte & Entretenimiento (1280x720)
-https://vmvpd.short.gy/EC/A&E
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/HGTV" group-title="🛋️ Estilo de Vida y Entretenimiento 🍿",Hogar y Jardin (1280x720)
+https://vmvpd.short.gy/EC/HGTV
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/FoodNetWork" group-title="🛋️ Estilo de Vida y Entretenimiento 🍿",Red De Alimentos (1280x720)
+https://vmvpd.short.gy/EC/FoodNetWork
 
 #EXTINF=====================================================================================================================================================================================================
 
@@ -810,19 +824,9 @@ https://vmvpd.short.gy/Fillka
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Fillka" group-title="Sin Contenido Propio",Fillka (Películas)
 https://vmvpd.short.gy/T3B2/Fillka
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Global" group-title="Sin Contenido Propio",Global (1280x720)
-https://vmvpd.short.gy/WT/Global
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Global" group-title="Sin Contenido Propio",Global (1280x720)
-https://vmvpd.short.gy/T3B2/Global
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Global" group-title="Sin Contenido Propio",Global (1280x720)
-https://vmvpd.short.gy/EC/Global
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/LaTele" group-title="Sin Contenido Propio",La Tele (1280x720)
-https://vmvpd.short.gy/WT/LaTele
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LaTele" group-title="Sin Contenido Propio",La Tele (1280x720)
-https://vmvpd.short.gy/EC/LaTele
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/B3T2/LaTele" group-title="Sin Contenido Propio",La Tele (720x576)
-https://vmvpd.short.gy/T3B2/LaTele
+
+
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="Sin Contenido Propio",Monitor (Cajamarca)
 https://live-evg5.tv360.bitel.com.pe/bitel/monitortvSRT/chunks.m3u8?uid=12051151
