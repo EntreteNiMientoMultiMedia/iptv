@@ -157,7 +157,7 @@ https://vmvpd.short.gy/RusiaToday
 https://vmvpd.short.gy/T3B2/RusiaToday
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/RusiaToday" group-title="📰 Noticias del Mundo 🌐",Rusia Today (1920X1080) RT
 https://vmvpd.short.gy/EC/RusiaToday
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/RusiaToday" group-title="📰 Noticias del Mundo 🌐",Rusia Today (1280x720) RT
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/RusiaToday" group-title="📰 Noticias del Mundo 🌐",Rusia Today (1280x720) RT Revision
 https://vmvpd.short.gy/WT/RusiaToday
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/France24" group-title="📰 Noticias del Mundo 🌐",France 24 (1920x1080)
@@ -169,7 +169,7 @@ https://vmvpd.short.gy/WT/France24
 https://vmvpd.short.gy/DeutscheWelle
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/DeutscheWelle" group-title="📰 Noticias del Mundo 🌐",Deutsche Welle (1280x720) DW
 https://vmvpd.short.gy/WT/DeutscheWelle
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DeutscheWelle" group-title="📰 Noticias del Mundo 🌐",Deutsche Welle (1024x576) DW
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DeutscheWelle" group-title="📰 Noticias del Mundo 🌐",Deutsche Welle (1024x576) DW (Revision)
 https://vmvpd.short.gy/EC/DeutscheWelle
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/NuestraTeleNoticias24" group-title="📰 Noticias del Mundo 🌐",Nuestra Tele Noticias 24 (1280x720) NTN 24
@@ -178,24 +178,24 @@ https://vmvpd.short.gy/WT/NuestraTeleNoticias24
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/VenezolanosPorLaInformacion" group-title="📰 Noticias del Mundo 🌐",Venezolanos por la Información (1280x720) VPItv
 https://vmvpd.short.gy/WT/VenezolanosPorLaInformacion
 
-#EXTINF:    Iskhodnyy="✔️NoticiasCaracol✅"                  tvg-logo="https://tvg-logo.short.gy/NoticiasCaracol" group-title="📰 Noticias del Mundo 🌐",Noticias Caracol (1920x1080)
-https://vmvpd.short.gy/NoticiasCaracol
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/NoticiasCaracol" group-title="📰 Noticias del Mundo 🌐",Noticia Caracol (1280x720)
 https://vmvpd.short.gy/EC/NoticiasCaracol
+#EXTINF:    Iskhodnyy="✔️NoticiasCaracol✅"                  tvg-logo="https://tvg-logo.short.gy/NoticiasCaracol" group-title="📰 Noticias del Mundo 🌐",Noticias Caracol (1280x720) (Revision)
+https://vmvpd.short.gy/NoticiasCaracol
 
-#EXTINF:    Iskhodnyy="✔️Libertad✅"                  tvg-logo="https://tvg-logo.short.gy/Libertad" group-title="📰 Noticias del Mundo 🌐",Libertad (1920x1080) TvL
-https://vmvpd.short.gy/Libertad
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Libertad" group-title="📰 Noticias del Mundo 🌐",Libertad (1920x1080) TvL
 https://vmvpd.short.gy/T3B2/Libertad
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Libertad" group-title="📰 Noticias del Mundo 🌐",Libertad (1280x720) TvL
 https://vmvpd.short.gy/TW/Libertad
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Libertad" group-title="📰 Noticias del Mundo 🌐",Libertad (1280x720) TvL
 https://vmvpd.short.gy/EC/Libertad
+#EXTINF:    Iskhodnyy="✔️Libertad✅"                  tvg-logo="https://tvg-logo.short.gy/Libertad" group-title="📰 Noticias del Mundo 🌐",Libertad (1280x720) TvL (Revision)
+https://vmvpd.short.gy/Libertad
 
-#EXTINF:    Iskhodnyy="✔️GiroVisual✅"                  tvg-logo="https://tvg-logo.short.gy/GiroVisual" group-title="📰 Noticias del Mundo 🌐",Giro Visual (1920x1080)
-https://vmvpd.short.gy/GiroVisual
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/GiroVisual" group-title="📰 Noticias del Mundo 🌐",Giro Visual (1920x1080)
 https://vmvpd.short.gy/T3B2/GiroVisual
+#EXTINF:    Iskhodnyy="✔️GiroVisual✅"                  tvg-logo="https://tvg-logo.short.gy/GiroVisual" group-title="📰 Noticias del Mundo 🌐",Giro Visual (1280x720) (Revision)
+https://vmvpd.short.gy/GiroVisual
 
 #EXTINF=====================================================================================================================================================================================================
 
