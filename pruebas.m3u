@@ -885,6 +885,25 @@ https://vmvpd.short.gy/T3B2/ATV+
 
 #EXTINF=====================================================================================================================================================================================================
 
+https://iptv-org.github.io/iptv/index.m3u
+https://iptv-org.github.io/iptv/countries/pe.m3u
+https://iptv-org.github.io/iptv/languages/spa.m3u
+https://github.com/Free-TV/IPTV/blob/master/playlist.m3u8
+https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_spain.m3u8
+https://github.com/vk496/IPTVspain/blob/master/spain.m3u8
+https://www.tdtchannels.com/lists/tv.m3u
+https://www.tdtchannels.com/lists/tv.m3u8
+http://tvpe15.com/
+https://m3u.cl/canales-iptv.php
+https://raw.githubusercontent.com/listacanales/listacanales/refs/heads/main/tv123.m3u
+https://raw.githubusercontent.com/shadowm1996/listas/main/LISTA.M3U
+https://iptvcat.com/sport__13/4
+https://es.scribd.com/document/429162199/Canales-m3u
+https://es.scribd.com/document/912107358/08032019-iptv-playlist-72-m3u
+https://es.scribd.com/document/957197795/05012019-lista-de-reproduccion-iptv-72a
+
+#EXTINF=====================================================================================================================================================================================================
+
 #EXTINF:  TeleKanal="Películas"     Iskhodnyy="EC"  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/jpg?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fstatic%2Fbackdrops%2F397%2F1731397_1280.jpg&width=1280" group-title="Películas",Super Cóndor 🦅
 https://cdn5.eco.cdn.moderntv.eu/econocable/vod/v348/40/vod-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dv348_vod_gz&_cdn_session=3890565643&_cdn_token=4bc4fb1833866538ac24deef095534635332fb00
 #EXTINF:  TeleKanal="Películas"     Iskhodnyy="EC"  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/jpg?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fstatic%2Fbackdrops%2F810%2F1804810_1280.jpg&width=1280" group-title="Películas",El Cóndor 🦅 En Nueva York
