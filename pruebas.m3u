@@ -156,7 +156,7 @@ https://vmvpd.short.gy/EC/DeutscheWelle
 #EXTINF:    Iskhodnyy="✔️RTvE✅"                  tvg-logo="https://tvg-logo.short.gy/RTvE24h" group-title="📰🌐 Noticias del Mundo 🚨",24 Horas - Radio TeleVisión Española (1280x720) RTvE
 https://vmvpd.short.gy/RTvE24h
 
-#EXTINF:    Iskhodnyy="✔️CGTN✅"                  tvg-logo="https://tvg-logo.short.gy/CGTN" group-title="📰🌐 Noticias del Mundo 🚨",Red de Televisión Global de China (1280x720) CGTN
+#EXTINF:    Iskhodnyy="✔️CGTN✅"                  tvg-logo="https://tvg-logo.short.gy/CGTN" group-title="📰🌐 Noticias del Mundo 🚨",Red de Televisión Global de China (1920X1080) CGTN
 https://vmvpd.short.gy/CGTN
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/NuestraTeleNoticias24" group-title="📰🌐 Noticias del Mundo 🚨",Nuestra Tele Noticias 24 (1280x720) NTN 24
@@ -377,6 +377,12 @@ https://vmvpd.short.gy/T3B2/LDM
 #EXTINF:    Iskhodnyy="✔️C66✅"                  tvg-logo="https://tvg-logo.short.gy/Canal66" group-title="💃🏻 Variedad Hispana 🌎",Canal 66 🇲🇽 (1920x1080)
 https://vmvpd.short.gy/Canal66
 https://vmvpd.short.gy/Canal33x2
+
+#EXTINF:    Iskhodnyy="✔️ETB2✅"                  tvg-logo="" group-title="💃🏻 Variedad Hispana 🌎",Euskal Telebista 2 🇪🇸 (1920x1080)
+https://multimedia.eitb.eus/live-content/etb2eus-hls/bitrate_4.m3u8?start=1778353103
+
+#EXTINF:    Iskhodnyy="✔️T7✅"                  tvg-logo="https://tvg-logo.short.gy/Tele 7" group-title="💃🏻 Variedad Hispana 🌎",Tele 7 (1920x1080)
+https://vmvpd.short.gy/Tele7
 
 #EXTINF=====================================================================================================================================================================================================
 
