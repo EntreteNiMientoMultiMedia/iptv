@@ -153,8 +153,14 @@ https://vmvpd.short.gy/WT/DeutscheWelle
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DeutscheWelle" group-title="📰🌐 Noticias del Mundo 🚨",Deutsche Welle (1024x576) DW (Revision)
 https://vmvpd.short.gy/EC/DeutscheWelle
 
+#EXTINF:    Iskhodnyy="🌕EW🐶"                  tvg-logo="https://tvg-logo.short.gy/PT/EuroNews" group-title="📰🌐 Noticias del Mundo 🚨",Euro News (1920x1080)
+https://vmvpd.short.gy/PT/EuroNews
+
 #EXTINF:    Iskhodnyy="✔️RTvE✅"                  tvg-logo="https://tvg-logo.short.gy/RTvE24h" group-title="📰🌐 Noticias del Mundo 🚨",24 Horas - Radio TeleVisión Española (1280x720) RTvE
 https://vmvpd.short.gy/RTvE24h
+
+#EXTINF:    Iskhodnyy="🌕A360🐶"                  tvg-logo="https://tvg-logo.short.gy/PT/Actualidad360" group-title="📰🌐 Noticias del Mundo 🚨",Actualidad 360 (1920x1080)
+https://vmvpd.short.gy/PT/Actualidad360
 
 #EXTINF:    Iskhodnyy="✔️CGTN✅"                  tvg-logo="https://tvg-logo.short.gy/CGTN" group-title="📰🌐 Noticias del Mundo 🚨",Red de Televisión Global de China (1920X1080) CGTN
 https://vmvpd.short.gy/CGTN
