@@ -153,6 +153,9 @@ https://vmvpd.short.gy/WT/DeutscheWelle
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DeutscheWelle" group-title="📰🌐 Noticias del Mundo 🚨",Deutsche Welle (1024x576) DW (Revision)
 https://vmvpd.short.gy/EC/DeutscheWelle
 
+#EXTINF:    Iskhodnyy="✔️RTvE✅"                  tvg-logo="https://tvg-logo.short.gy/RTvE24h" group-title="📰🌐 Noticias del Mundo 🚨",24 Horas - Radio TeleVisión Española (1920x1080) RTvE
+https://vmvpd.short.gy/RTvE24h
+
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/NuestraTeleNoticias24" group-title="📰🌐 Noticias del Mundo 🚨",Nuestra Tele Noticias 24 (1280x720) NTN 24
 https://vmvpd.short.gy/WT/NuestraTeleNoticias24
 
@@ -357,6 +360,10 @@ https://vmvpd.short.gy/T3B2/EPA!
 https://vmvpd.short.gy/LDM
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/LDM" group-title="💃🏻 Variedad Hispana 🌎",La Pampa Argentina 🇦🇷 (1280x720) Revision
 https://vmvpd.short.gy/T3B2/LDM
+
+#EXTINF:    Iskhodnyy="✔️C66✅"                  tvg-logo="https://tvg-logo.short.gy/Canal66" group-title="💃🏻 Variedad Hispana 🌎",Canal 66 🇲🇽 (1280x720)
+https://5ca3e84a76d30.streamlock.net/canal66/videocanal66/chunklist_w1030918766.m3u8
+https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/chunklist_w360740015_b1428000_sleng.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
 
