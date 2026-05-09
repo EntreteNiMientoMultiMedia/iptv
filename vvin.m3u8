@@ -197,10 +197,25 @@ https://vmvpd.short.gy/T3B2/FierroAFondo
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/FierroAFondo" group-title="🥊 DeportivaMente 🏆",Fierro a Fondo 🏎️ (1280x720)
 https://vmvpd.short.gy/EC/FierroAFondo
 
+#EXTINF:    Iskhodnyy="✔️Garage✅"              tvg-logo="https://tvg-logo.short.gy/Garage" group-title="🥊 DeportivaMente 🏆",Garage 🏎️ (720x404)
+https://vmvpd.short.gy/Garage
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryTurbo" group-title="🥊 DeportivaMente 🏆",Discovery Turbo (1280x720)
+https://vmvpd.short.gy/EC/DiscoveryTurbo
+
 #EXTINF:    Iskhodnyy="✔️MonteRicoTv✅"              tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 DeportivaMente 🏆",MonteRrico 🏇 (1920x1080)
 https://vmvpd.short.gy/MonteRricoTv
+
+#EXTINF:    Iskhodnyy="✔️Turf✅"              tvg-logo="https://tvg-logo.short.gy/Turf" group-title="🥊 DeportivaMente 🏆",Turf 🏇 (1280x720)
+https://vmvpd.short.gy/Turf
+
 #EXTINF:    Iskhodnyy="MonteRicoTv"                tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 DeportivaMente 🏆",MonteRrico 🏇 (1080x720)
 https://vmvpd.short.gy/MonteRrricoTv
+
+#EXTINF:    Iskhodnyy="✔️TT✅"              tvg-logo="https://tvg-logo.short.gy/TeleTrak" group-title="🥊 DeportivaMente 🏆",TeleTrak 🏇 (1280x720)
+https://vmvpd.short.gy/TeleTrak
+
+#EXTINF:    Iskhodnyy="MonteRicoTv"                tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 DeportivaMente 🏆",MonteRrico 🏇 (1080x720)
 https://vmvpd.short.gy/MonteRicoTv
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Titan" group-title="🥊 DeportivaMente 🏆",Titán 🥊 (1280x720)
@@ -537,9 +552,6 @@ https://vmvpd.short.gy/EC/CanalHistoria2
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryScience" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Ciencia Descubrimiento (1280x720)
 https://vmvpd.short.gy/EC/DiscoveryScience
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryTurbo" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Turbo Descubrimiento (1280x720)
-https://vmvpd.short.gy/EC/DiscoveryTurbo
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryTheater" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Teatro Descubrimiento (1280x720)
 https://vmvpd.short.gy/EC/DiscoveryTheater
