@@ -378,11 +378,9 @@ https://vmvpd.short.gy/T3B2/LDM
 https://vmvpd.short.gy/Canal66
 https://vmvpd.short.gy/Canal33x2
 
-#EXTINF:    Iskhodnyy="✔️ETB2✅"                  tvg-logo="" group-title="💃🏻 Variedad Hispana 🌎",Euskal Telebista 2 🇪🇸 (1920x1080)
-https://multimedia.eitb.eus/live-content/etb2eus-hls/bitrate_4.m3u8?start=1778353103
-
-#EXTINF:    Iskhodnyy="✔️T7✅"                  tvg-logo="https://tvg-logo.short.gy/Tele 7" group-title="💃🏻 Variedad Hispana 🌎",Tele 7 (1920x1080)
-https://vmvpd.short.gy/Tele7
+#EXTINF:    Iskhodnyy="✔️T7✅"                  tvg-logo="" group-title="💃🏻 Variedad Hispana 🌎",Tele 7 🇪🇸 (1920x1080)
+https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
+https://ingest2-video.streaming-pro.com/tele7_ABR/stream/tele7/stream_720/chunks.m3u8?nimblesessionid=69988325
 
 #EXTINF=====================================================================================================================================================================================================
 
@@ -917,9 +915,20 @@ https://vmvpd.short.gy/T3B2/ATV+
 
 #EXTINF=====================================================================================================================================================================================================
 
+https://github.com/iptv-org/iptv/tree/master/streams
+
+https://github.com/EntreteNiMientoMultiMedia/iptv/edit/main/pruebas.m3u  (Editable)
+https://EntreteNiMientoMultiMedia.github.io/iptv/pruebas.m3u  (Visible)
+
 https://iptv-org.github.io/iptv/index.m3u
 https://iptv-org.github.io/iptv/countries/pe.m3u
 https://iptv-org.github.io/iptv/languages/spa.m3u
+
+https://github.com/iptv-org/iptv/blob/main/index.m3u
+https://github.com/iptv-org/iptv/index.m3u
+https://github.com/iptv-org/iptv/countries/blob/main/pe.m3u
+https://github.com/iptv-org/iptv/languages/blob/main/spa.m3u
+
 https://github.com/Free-TV/IPTV/blob/master/playlist.m3u8
 https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_spain.m3u8
 https://github.com/vk496/IPTVspain/blob/master/spain.m3u8
