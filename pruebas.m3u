@@ -103,13 +103,6 @@ https://vmvpd.short.gy/EC/RedComunicacionRegional
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/RedComunicacionRegional" group-title="🇵🇪🗞️ Noticias 🚨",RCR (1280x720) Red de Comunicación Regional (Revision)
 https://vmvpd.short.gy/T3B2/RedComunicacionRegional
 
-#EXTINF:    Iskhodnyy="✔️Sol Tv✅"                  tvg-logo="https://tvg-logo.short.gy/SolTv" group-title="🇵🇪🗞️ Noticias 🚨",Sol (1280x720)
-https://vmvpd.short.gy/SolTv
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/SolTv" group-title="🇵🇪🗞️ Noticias 🚨",Sol (1280x720)
-https://vmvpd.short.gy/T3B2/SolTv
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/SolTv" group-title="🇵🇪🗞️ Noticias 🚨",Sol (720x576)
-https://vmvpd.short.gy/WT/SolTv
-
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/CanalB" group-title="🇵🇪🗞️ Noticias 🚨",Canal B (1280x720)
 https://vmvpd.short.gy/WT/CanalB
 
@@ -256,19 +249,25 @@ https://vmvpd.short.gy/EC/Eventos
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Global" group-title="🎭 Alternativa Digital 🔄",Global (1280x720)
-https://vmvpd.short.gy/WT/Global
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Global" group-title="🎭 Alternativa Digital 🔄",Global (1280x720)
-https://vmvpd.short.gy/EC/Global
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Global" group-title="🎭 Alternativa Digital 🔄",Global (1280x720)
-https://vmvpd.short.gy/T3B2/Global
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Wanka" group-title="📡Red Regional Descentralizada 🇵🇪",Wanka (1280x720)
+https://vmvpd.short.gy/T3B2/Wanka
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/LaTele" group-title="🎭 Alternativa Digital 🔄",La Tele (1280x720)
-https://vmvpd.short.gy/WT/LaTele
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LaTele" group-title="🎭 Alternativa Digital 🔄",La Tele (1280x720)
-https://vmvpd.short.gy/EC/LaTele
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/B3T2/LaTele" group-title="🎭 Alternativa Digital 🔄",La Tele (1024x576)
-https://vmvpd.short.gy/T3B2/LaTele
+#EXTINF:    Iskhodnyy="✔️Vision Sur✅"                  tvg-logo="https://tvg-logo.short.gy/VisionSur" group-title="🇵🇪Red Regional Descentralizada 📡",Vision Sur (Arequipa) 1920x1080
+https://vmvpd.short.gy/VisionSur
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/VisionSur" group-title="📡 Red Regional Descentralizada 🇵🇪",Vision Sur (Arequipa) 1920x1080
+https://vmvpd.short.gy/T3B2/VisionSur
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/EC/VisionSur" group-title="🇵🇪 Red Regional Descentralizada 📡",Vision Sur (Arequipa) 1280x720
+https://vmvpd.short.gy/WT/VisionSur
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Cosmos" group-title="🎭 Alternativa Digital 🔄",Cosmos (1280x720)
+https://vmvpd.short.gy/T3B2/Cosmos
+
+#EXTINF:    Iskhodnyy="✔️Sol Tv✅"                  tvg-logo="https://tvg-logo.short.gy/SolTv" group-title="🎭 Alternativa Digital 🔄",Sol (1280x720)
+https://vmvpd.short.gy/SolTv
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/SolTv" group-title="🎭 Alternativa Digital 🔄",Sol (1280x720)
+https://vmvpd.short.gy/T3B2/SolTv
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/SolTv" group-title="🎭 Alternativa Digital 🔄",Sol (720x576)
+https://vmvpd.short.gy/WT/SolTv
 
 #EXTINF:    Iskhodnyy="✔️Latina Clásicos✅"                  tvg-logo="https://tvg-logo.short.gy/LatinaClasicos" group-title="🎭 Alternativa Digital 🔄",Latina Clásicos (1920x1080)
 https://vmvpd.short.gy/LatinaClasicos
@@ -283,12 +282,6 @@ https://vmvpd.short.gy/T3B2/Juntos
 https://vmvpd.short.gy/WT/Juntos
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Juntos" group-title="🎭 Alternativa Digital 🔄",Juntos (1280x720)
 https://vmvpd.short.gy/EC/Juntos
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Wanka" group-title="🎭 Alternativa Digital 🔄",Wanka (1280x720)
-https://vmvpd.short.gy/T3B2/Wanka
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Cosmos" group-title="🎭 Alternativa Digital 🔄",Cosmos (1280x720)
-https://vmvpd.short.gy/T3B2/Cosmos
 
 #EXTINF:    Iskhodnyy="✔️Milenial✅"                  tvg-logo="https://tvg-logo.short.gy/Milenial" group-title="🎭 Alternativa Digital 🔄",Milenial (1920x1080)
 https://vmvpd.short.gy/Milenial
@@ -623,13 +616,6 @@ https://vmvpd.short.gy/EC/Agro
 https://vmvpd.short.gy/EC/CongresoTv
 
 #EXTINF=====================================================================================================================================================================================================
-
-#EXTINF:    Iskhodnyy="✔️Vision Sur✅"                  tvg-logo="https://tvg-logo.short.gy/VisionSur" group-title="🌊 Para Variar... de la Costa 🏖️",Vision Sur (Arequipa) 1920x1080
-https://vmvpd.short.gy/VisionSur
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/VisionSur" group-title="🌊 Para Variar... de la Costa 🏖️",Vision Sur (Arequipa) 1920x1080
-https://vmvpd.short.gy/T3B2/VisionSur
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/EC/VisionSur" group-title="🌊 Para Variar... de la Costa 🏖️",Vision Sur (Arequipa) 1280x720
-https://vmvpd.short.gy/WT/VisionSur
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/ViruParty" group-title="🌊 Para Variar... de la Costa 🏖️",Viru Party (Viru) 1920x1080
 https://vmvpd.short.gy/T3B2/ViruParty
