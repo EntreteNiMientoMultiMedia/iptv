@@ -373,6 +373,8 @@ https://vmvpd.short.gy/EC/DistritoComedia
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/ElGourmet" group-title="💃🏻 Variedad Hispana 🌎",El Gastronomo  🇦🇷  (1280x720)
 https://vmvpd.short.gy/EC/ElGourmet
+
+#EXTINF:    Iskhodnyy="❓EG❔"                tvg-logo="https://tvg-logo.short.gy/EC/ElGourmet" group-title="💃🏻 Variedad Hispana 🌎",El Gastronomo  🇦🇷 (1280x720)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-25_720.m3u8
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Hogar" group-title="💃🏻 Variedad Hispana 🌎",Hogar 🇨🇴 (720x576)
@@ -551,6 +553,9 @@ https://vmvpd.short.gy/Onegai5
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/AnimaKids" group-title="🎌 Anime 👀",Anima Kids (1920x1080)
 https://vmvpd.short.gy/T3B2/AnimaKids
+
+#EXTINF:    Iskhodnyy="✔️FK✅"                  tvg-logo="https://tvg-logo.short.gy/Japanim" group-title="🎌 Anime 👀",Japanim (1280x720)
+https://vmvpd.short.gy/Japanim
 
 #EXTINF:    Iskhodnyy="RT"                  tvg-logo="https://tvg-logo.short.gy/Wasabi" group-title="🎌 Anime 👀",Wasabi la chaîne (1920x1080)
 https://vmvpd.short.gy/Wasabi
