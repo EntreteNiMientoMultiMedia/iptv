@@ -201,6 +201,16 @@ https://vmvpd.short.gy/WT/Ovacion
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Ovacion" group-title="🥊 DeportivaMente 🏆",Ovacion 🎙️ (1280x720)
 https://vmvpd.short.gy/EC/Ovacion
 
+#EXTINF:    Iskhodnyy="❓FS❔"                tvg-logo="https://tvg-logo.short.gy/FoxSports" group-title="🥊 DeportivaMente 🏆",Fox Sports ⚽ (1280x720)
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
+
+#EXTINF:    Iskhodnyy="❓TCS❔"                tvg-logo="https://tvg-logo.short.gy/TyCSports" group-title="🥊 DeportivaMente 🏆",TyC Sports 🥊 (1280x720)
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-90.playlist.m3u8
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-90.playlist.m3u8
+
+#EXTINF:    Iskhodnyy="❓TCS❔"                tvg-logo="https://tvg-logo.short.gy/TyCSportsFan" group-title="🥊 DeportivaMente 🏆",TyC Sports Fan ⚽ (1920x1080)
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/FierroAFondo" group-title="🥊 DeportivaMente 🏆",Fierro a Fondo 🏎️ (1920x1080)
 https://vmvpd.short.gy/T3B2/FierroAFondo
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/FierroAFondo" group-title="🥊 DeportivaMente 🏆",Fierro a Fondo 🏎️ (1280x720)
@@ -224,6 +234,10 @@ https://vmvpd.short.gy/MonteRicoTv
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Titan" group-title="🥊 DeportivaMente 🏆",Titán 🥊 (1280x720)
 https://vmvpd.short.gy/WT/Titan
+
+#EXTINF:    Iskhodnyy="✔️SCL✅"              tvg-logo="https://tvg-logo.short.gy/StrongmanChampionsLeague" group-title="🥊 DeportivaMente 🏆",Liga de Campeones de Hombres Fuertes 💪🏼 (1280x720)
+https://vmvpd.short.gy/LigaCampeonesHombresFuertes
+https://vmvpd.short.gy/StrongmanChampionsLeague
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/WT/ESportsGo" group-title="🥊 DeportivaMente 🏆",E Sports Go 🎮 (720x576)
 https://vmvpd.short.gy/WT/ESportsGo
