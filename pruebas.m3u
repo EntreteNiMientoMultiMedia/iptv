@@ -248,16 +248,16 @@ https://vmvpd.short.gy/T3B2/VisionSur
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/EC/VisionSur" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Vision Sur (Arequipa) 1280x720
 https://vmvpd.short.gy/WT/VisionSur
 
-#EXTINF:    Iskhodnyy="✔️Cosmos✅"                  tvg-logo="https://tvg-logo.short.gy/Cosmos" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Cosmos (1280x720)
+#EXTINF:    Iskhodnyy="✔️Cosmos✅"                  tvg-logo="https://tvg-logo.short.gy/Cosmos" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Cosmos (Trujillo) 854x480
 https://vmvpd.short.gy/Cosmos
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Cosmos" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Cosmos (1280x720)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Cosmos" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Cosmos (Trujillo) 1280x720
 https://vmvpd.short.gy/T3B2/Cosmos
 
-#EXTINF:    Iskhodnyy="✔️Sol Tv✅"                  tvg-logo="https://tvg-logo.short.gy/Sol" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Sol (1280x720)
+#EXTINF:    Iskhodnyy="✔️Sol Tv✅"                  tvg-logo="https://tvg-logo.short.gy/Sol" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Sol (Trujillo) 1280x720
 https://vmvpd.short.gy/SolTv
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/SolTv" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Sol (1280x720)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/SolTv" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Sol (Trujillo) 1280x720
 https://vmvpd.short.gy/T3B2/SolTv
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/SolTv" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Sol (720x576)
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/SolTv" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Sol (Trujillo) 720x576
 https://vmvpd.short.gy/WT/SolTv
 
 #EXTINF:    Iskhodnyy="✔️Latina Clásicos✅"                  tvg-logo="https://tvg-logo.short.gy/LatinaClasicos" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Latina Clásicos (1920x1080)
@@ -288,6 +288,8 @@ https://vmvpd.short.gy/WT/Trivu
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Trivu" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Trivu (1280x720)
 https://vmvpd.short.gy/EC/Trivu
 
+#EXTINF:    Iskhodnyy="✔️OD✅"                  tvg-logo="https://tvg-logo.short.gy/OndaDigital" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Onda Digital (1920x1080)
+https://vmvpd.short.gy/OndaDigital
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/OndaDigital" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Onda Digital (1920x1080)
 https://vmvpd.short.gy/T3B2/OndaDigital
 
