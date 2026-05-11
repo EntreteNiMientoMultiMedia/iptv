@@ -98,11 +98,12 @@ https://vmvpd.short.gy/WT/PBO
 https://vmvpd.short.gy/WT/CanalB
 
 #EXTINF:    Iskhodnyy="✔️La Noticia Tv✅"                  tvg-logo="https://tvg-logo.short.gy/LaNoticiaTv" group-title="🇵🇪🗞️ Noticias 🚨",La Noticia (512x288)
-https://play.agenciastreaming.com:8081/lanoticiatv/tracks-v1a1/index.m3u8
 https://vmvpd.short.gy/LaNoticiaTv
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LaNoticiaTv" group-title="🇵🇪🗞️ Noticias 🚨",La Noticia (1280x720)
 https://vmvpd.short.gy/EC/LaNoticiaTv
 
+#EXTINF:    Iskhodnyy="✔️NTP✅"                  tvg-logo="https://tvg-logo.short.gy/NacionalTvPeru" group-title="🇵🇪🗞️ Noticias 🚨",Nacional ()
+https://vmvpd.short.gy/NacionalTvPeru
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/NacionalTvPeru" group-title="🇵🇪🗞️ Noticias 🚨",Nacional (1920x1080)
 https://vmvpd.short.gy/T3B2/NacionalTvPeru
 
