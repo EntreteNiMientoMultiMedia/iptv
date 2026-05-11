@@ -94,13 +94,6 @@ https://vmvpd.short.gy/T3B2/PBO
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/PBO" group-title="🇵🇪🗞️ Noticias 🚨",PBO (720x576)
 https://vmvpd.short.gy/WT/PBO
 
-#EXTINF:    Iskhodnyy="✔️RedComunicaciónRegional✅"                  tvg-logo="https://tvg-logo.short.gy/RedComunicacionRegional" group-title="🇵🇪🗞️ Noticias 🚨",RCR (1920x1080) Red de Comunicación Regional (Revision)
-https://vmvpd.short.gy/RedComunicacionRegional
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/RedComunicacionRegional" group-title="🇵🇪🗞️ Noticias 🚨",RCR (1280x720) Red de Comunicación Regional (Revision)
-https://vmvpd.short.gy/EC/RedComunicacionRegional
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/RedComunicacionRegional" group-title="🇵🇪🗞️ Noticias 🚨",RCR (1280x720) Red de Comunicación Regional (Revision)
-https://vmvpd.short.gy/T3B2/RedComunicacionRegional
-
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/CanalB" group-title="🇵🇪🗞️ Noticias 🚨",Canal B (1280x720)
 https://vmvpd.short.gy/WT/CanalB
 
@@ -243,7 +236,9 @@ https://vmvpd.short.gy/EC/Eventos
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Wanka" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Wanka (1280x720)
+#EXTINF:    Iskhodnyy="✔️Wanka✅"                  tvg-logo="https://tvg-logo.short.gy/Wanka" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Wanka (HuancaYork) 1920x1080
+https://vmvpd.short.gy/Wanka
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Wanka" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Wanka (HuancaYork) 1280x720
 https://vmvpd.short.gy/T3B2/Wanka
 
 #EXTINF:    Iskhodnyy="✔️Vision Sur✅"                  tvg-logo="https://tvg-logo.short.gy/VisionSur" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Vision Sur (Arequipa) 1920x1080
@@ -932,6 +927,11 @@ https://vmvpd.short.gy/T3B2/TvPeru
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Andina+" group-title="Caen demasiado rápido",ATV+ (1280x720) Revision
 https://vmvpd.short.gy/T3B2/ATV+
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/RedComunicacionRegional" group-title="Caen demasiado rápido",RCR (1280x720) Red de Comunicación Regional (Revision)
+https://vmvpd.short.gy/EC/RedComunicacionRegional
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/RedComunicacionRegional" group-title="Caen demasiado rápido",RCR (1280x720) Red de Comunicación Regional (Revision)
+https://vmvpd.short.gy/T3B2/RedComunicacionRegional
 
 #EXTINF=====================================================================================================================================================================================================
 
