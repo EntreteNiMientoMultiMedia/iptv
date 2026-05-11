@@ -155,8 +155,11 @@ https://vmvpd.short.gy/RTvE24h
 #EXTINF:    Iskhodnyy="🌕A360🐶"                  tvg-logo="https://tvg-logo.short.gy/PT/Actualidad360" group-title="📰🌐 Noticias del Mundo 🚨",Actualidad 360 (1280x720)
 https://vmvpd.short.gy/PT/Actualidad360
 
-#EXTINF:    Iskhodnyy="✔️CGTN✅"                  tvg-logo="https://tvg-logo.short.gy/CGTN" group-title="📰🌐 Noticias del Mundo 🚨",Red de Televisión Global de China (1920X1080) CGTN
+#EXTINF:    Iskhodnyy="✔️CGTN✅"                  tvg-logo="https://tvg-logo.short.gy/CGTN" group-title="📰🌐 Noticias del Mundo 🚨",Red de Televisión Global de China (1920x1080) CGTN
 https://vmvpd.short.gy/CGTN
+
+#EXTINF:    Iskhodnyy="✔️TS✅"                  tvg-logo="https://tvg-logo.short.gy/TeleSur" group-title="📰🌐 Noticias del Mundo 🚨",Tele Sur ()
+https://vmvpd.short.gy/TeleSur
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/NuestraTeleNoticias24" group-title="📰🌐 Noticias del Mundo 🚨",Nuestra Tele Noticias 24 (1280x720) NTN 24
 https://vmvpd.short.gy/WT/NuestraTeleNoticias24
