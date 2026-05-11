@@ -97,7 +97,7 @@ https://vmvpd.short.gy/WT/PBO
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/CanalB" group-title="🇵🇪🗞️ Noticias 🚨",Canal B (1280x720)
 https://vmvpd.short.gy/WT/CanalB
 
-#EXTINF:    Iskhodnyy="✔️La Noticia Tv✅"                  tvg-logo="https://tvg-logo.short.gy/LaNoticiaTv" group-title="🇵🇪🗞️ Noticias 🚨",La Noticia (1280x720)
+#EXTINF:    Iskhodnyy="✔️La Noticia Tv✅"                  tvg-logo="https://tvg-logo.short.gy/LaNoticiaTv" group-title="🇵🇪🗞️ Noticias 🚨",La Noticia (512x288)
 https://vmvpd.short.gy/LaNoticiaTv
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LaNoticiaTv" group-title="🇵🇪🗞️ Noticias 🚨",La Noticia (1280x720)
 https://vmvpd.short.gy/EC/LaNoticiaTv
@@ -236,9 +236,9 @@ https://vmvpd.short.gy/EC/Eventos
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️Wanka✅"                  tvg-logo="https://tvg-logo.short.gy/Wanka" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Wanka (HuancaYork) 1920x1080
+#EXTINF:    Iskhodnyy="✔️Wanka✅"                  tvg-logo="https://tvg-logo.short.gy/Wanka" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Wanka 21 (HuancaYork) 1280x720
 https://vmvpd.short.gy/Wanka
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Wanka" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Wanka (HuancaYork) 1280x720
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Wanka" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Wanka 21 (HuancaYork) 1280x720
 https://vmvpd.short.gy/T3B2/Wanka
 
 #EXTINF:    Iskhodnyy="✔️Vision Sur✅"                  tvg-logo="https://tvg-logo.short.gy/VisionSur" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Vision Sur (Arequipa) 1920x1080
@@ -248,6 +248,8 @@ https://vmvpd.short.gy/T3B2/VisionSur
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/EC/VisionSur" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Vision Sur (Arequipa) 1280x720
 https://vmvpd.short.gy/WT/VisionSur
 
+#EXTINF:    Iskhodnyy="✔️Cosmos✅"                  tvg-logo="https://tvg-logo.short.gy/Cosmos" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Cosmos (1280x720)
+https://vmvpd.short.gy/Cosmos
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Cosmos" group-title="🇵🇪 Red Regional Descentralizada 🌄📡",Cosmos (1280x720)
 https://vmvpd.short.gy/T3B2/Cosmos
 
