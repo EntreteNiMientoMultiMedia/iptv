@@ -410,7 +410,7 @@ https://vmvpd.short.gy/EC/LasEstrellas
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/A&E" group-title="🛋️ Estilo de Vida y Entretenimiento 🍿",Arte & Entretenimiento (1280x720)
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/EC/A&E" group-title="🛋️ Estilo de Vida y Entretenimiento 🍿",Arte & Entretenimiento (1280x720)
 https://vmvpd.short.gy/WT/A&E
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/E!" group-title="🛋️ Estilo de Vida y Entretenimiento 🍿",E! (1280x720)
@@ -534,9 +534,6 @@ https://vmvpd.short.gy/EC/AdultSwim
 https://vmvpd.short.gy/WT/BitMe
 #EXTINF:    Iskhodnyy="💵CF💸"                tvg-logo="https://tvg-logo.short.gy/EC/BitMe" group-title="🎌 Anime 👀",BitMe (1024x576)
 https://vmvpd.short.gy/EC/BitMe
-
-#EXTINF:    Iskhodnyy="✔️TIC✅"              tvg-logo="https://tvg-logo.short.gy/TokyoIdolChannel" group-title="🎌 Anime 👀",Canal de ídolos de Tokio (960x540)
-https://vmvpd.short.gy/TokyoIdolChannel
 
 #EXTINF:    Iskhodnyy="CF"              tvg-logo="https://tvg-logo.short.gy/AnimeVision" group-title="🎌 Anime 👀",Anime Vision (1920x1080)
 https://vmvpd.short.gy/AnimeVision
