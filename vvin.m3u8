@@ -219,6 +219,7 @@ https://vmvpd.short.gy/Turf
 
 #EXTINF:    Iskhodnyy="✔️MonteRicoTv✅"                tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 DeportivaMente 🏆",MonteRrico 🏇 (1080x720)
 https://vmvpd.short.gy/MonteRrricoTv
+#EXTINF:    Iskhodnyy="✔️MonteRicoTv✅"                tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 DeportivaMente 🏆",MonteRrico 🏇 (1080x720)
 https://vmvpd.short.gy/MonteRicoTv
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Titan" group-title="🥊 DeportivaMente 🏆",Titán 🥊 (1280x720)
@@ -232,6 +233,7 @@ https://vmvpd.short.gy/CombaTv
 
 #EXTINF:    Iskhodnyy="✔️SCL✅"              tvg-logo="https://tvg-logo.short.gy/StrongmanChampionsLeague" group-title="🥊 DeportivaMente 🏆",Liga de Campeones de Hombres Fuertes 💪🏼 (1280x720)
 https://vmvpd.short.gy/LigaCampeonesHombresFuertes
+#EXTINF:    Iskhodnyy="✔️SCL✅"              tvg-logo="https://tvg-logo.short.gy/StrongmanChampionsLeague" group-title="🥊 DeportivaMente 🏆",Liga de Campeones de Hombres Fuertes 💪🏼 (1280x720)
 https://vmvpd.short.gy/StrongmanChampionsLeague
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/WT/ESportsGo" group-title="🥊 DeportivaMente 🏆",E Sports Go 🎮 (720x576)
@@ -271,6 +273,7 @@ https://vmvpd.short.gy/WT/SolTv
 
 #EXTINF:    Iskhodnyy="✔️Latina Clásicos✅"                  tvg-logo="https://tvg-logo.short.gy/LatinaClasicos" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Latina Clásicos (1920x1080)
 https://vmvpd.short.gy/LatinaClasicos
+#EXTINF:    Iskhodnyy="✔️Latina Clásicos✅"                  tvg-logo="https://tvg-logo.short.gy/LatinaClasicos" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Latina Clásicos (1920x1080)
 https://vmvpd.short.gy/LatinaClásicos
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Viva" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Viva (1280x720)
@@ -382,8 +385,6 @@ https://vmvpd.short.gy/WT/Hogar
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/ElGourmet" group-title="💃🏻 Variedad Hispana 🌎",El Gastronomo  🇦🇷  (1280x720)
 https://vmvpd.short.gy/EC/ElGourmet
-#EXTINF:    Iskhodnyy="❓EG❔"                tvg-logo="https://tvg-logo.short.gy/EC/ElGourmet" group-title="💃🏻 Variedad Hispana 🌎",El Gastronomo  🇦🇷 (1280x720)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-25_720.m3u8
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/DistritoComedia" group-title="💃🏻 Variedad Hispana 🌎",Distrito Comedia 🇲🇽 (1280x720)
 https://vmvpd.short.gy/WT/DistritoComedia
@@ -538,9 +539,9 @@ https://vmvpd.short.gy/WT/BitMe
 #EXTINF:    Iskhodnyy="💵CF💸"                tvg-logo="https://tvg-logo.short.gy/EC/BitMe" group-title="🎌 Anime 👀",BitMe (1024x576)
 https://vmvpd.short.gy/EC/BitMe
 
-#EXTINF:    Iskhodnyy="CF"              tvg-logo="https://tvg-logo.short.gy/AnimeVision" group-title="🎌 Anime 👀",Anime Vision (1920x1080)
+#EXTINF:    Iskhodnyy="✔️CF✅"              tvg-logo="https://tvg-logo.short.gy/AnimeVision" group-title="🎌 Anime 👀",Anime Vision (1920x1080)
 https://vmvpd.short.gy/AnimeVision
-#EXTINF:    Iskhodnyy="CF"              tvg-logo="https://tvg-logo.short.gy/AnimeVisionClasicos" group-title="🎌 Anime 👀",Anime Vision Clasicos (1920x1080)
+#EXTINF:    Iskhodnyy="✔️CF✅"              tvg-logo="https://tvg-logo.short.gy/AnimeVisionClasicos" group-title="🎌 Anime 👀",Anime Vision Clasicos (1920x1080)
 https://vmvpd.short.gy/AnimeVisionClasicos
 
 #EXTINF:    Iskhodnyy="✔️EGR✅"              tvg-logo="https://tvg-logo.short.gy/EnerGeekRetro" group-title="🎌 Anime 👀",EnerGeek Retro (1920x1080)
