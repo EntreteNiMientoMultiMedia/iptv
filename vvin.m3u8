@@ -436,8 +436,6 @@ https://vmvpd.short.gy/EC/FoodNetWork
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️KD✅"                  tvg-logo="https://tvg-logo.short.gy/KanalD" group-title="🥀 Drama y Novelas 🍷",Kanal D 🇹🇷 (1920x1080)
-https://vmvpd.short.gy/KanalD
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/KanalD" group-title="🥀 Drama y Novelas 🍷",Kanal D 🇹🇷 (1280x720)
 https://vmvpd.short.gy/EC/KanalD
 
@@ -490,10 +488,10 @@ https://vmvpd.short.gy/WT/FunBox
 #EXTINF:    Iskhodnyy="🌕eRI🐶"                  tvg-logo="https://tvg-logo.short.gy/PT/ElReinoInfantil" group-title="🍼 Infantil 🧸 0 a 6 años",El Reino Infantil
 https://vmvpd.short.gy/PT/ElReinoInfantil
 
-#EXTINF:    Iskhodnyy="✔️Solntse✅"                  tvg-logo="https://tvg-logo.short.gy/Solntse" group-title="🍼 Infantil 🧸 0 a 6 años",Solntse (1024x576)
+#EXTINF:    Iskhodnyy="✔️Solntse✅"                  tvg-logo="https://tvg-logo.short.gy/Solntse" group-title="🍼 Infantil 🧸 0 a 6 años",Solntse 🇷🇺 (1024x576)
 https://vmvpd.short.gy/Solntse
 
-#EXTINF:    Iskhodnyy="✔️MK✅"                  tvg-logo="https://tvg-logo.short.gy/MoonBugKids" group-title="🍼 Infantil 🧸 0 a 6 años",Niños de la Luna (1920x1080)
+#EXTINF:    Iskhodnyy="✔️MBK✅"                  tvg-logo="https://tvg-logo.short.gy/MoonBugKids" group-title="🍼 Infantil 🧸 0 a 6 años",Moon Bug 🇺🇸 (1920x1080)
 https://vmvpd.short.gy/MoonBugKids
 
 #EXTINF=====================================================================================================================================================================================================
@@ -552,13 +550,13 @@ https://vmvpd.short.gy/EnerGeek
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/AnimaKids" group-title="🎌 Anime 👀",Anima Kids (1920x1080)
 https://vmvpd.short.gy/T3B2/AnimaKids
 
-#EXTINF:    Iskhodnyy="✔️FK✅"                  tvg-logo="https://tvg-logo.short.gy/Japanim" group-title="🎌 Anime 👀",Japanim (1920x1080)
+#EXTINF:    Iskhodnyy="✔️FK✅"                  tvg-logo="https://tvg-logo.short.gy/Japanim" group-title="🎌 Anime 👀",Japanim 🇫🇷 (1920x1080)
 https://vmvpd.short.gy/Japanim
 
-#EXTINF:    Iskhodnyy="✔️ADN✅"                  tvg-logo="https://tvg-logo.short.gy/ADNTv+" group-title="🎌 Anime 👀",Red Digital de Animación (1280x720)
+#EXTINF:    Iskhodnyy="✔️ADN✅"                  tvg-logo="https://tvg-logo.short.gy/ADNTv+" group-title="🎌 Anime 👀",Red Digital de Animacion 🇯🇵 (1280x720)
 https://vmvpd.short.gy/ADNTv+
 
-#EXTINF:    Iskhodnyy="RT"                  tvg-logo="https://tvg-logo.short.gy/Wasabi" group-title="🎌 Anime 👀",Wasabi la chaîne (1920x1080)
+#EXTINF:    Iskhodnyy="✔️RT✅"                  tvg-logo="https://tvg-logo.short.gy/Wasabi" group-title="🎌 Anime 👀",Wasabi la chaîne 🇫🇷 (1920x1080)
 https://vmvpd.short.gy/Wasabi
 
 #EXTINF=====================================================================================================================================================================================================
