@@ -175,37 +175,46 @@ https://vmvpd.short.gy/РазвлечениеСпортПрограммиров�
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️TCD✅"                tvg-logo="https://tvg-logo.short.gy/TyCSportsFan" group-title="🌍 Futbol Mundial ⚽",TyC Sports (1280x720)
+#EXTINF:    Iskhodnyy="✔️ПТС✅"                  tvg-logo="https://tvg-logo.short.gy/ПрямойТелевидениеСпорт" group-title="🌍 Futbol Mundial ⚽",DSports 🇺🇾 (1920x1080)
+https://vmvpd.short.gy/ПрямойТелевидениеСпорт
+
+#EXTINF:    Iskhodnyy="✔️ПС✅"              tvg-logo="https://tvg-logo.short.gy/ПрозрачныйСпорт" group-title="🌍 Futbol Mundial ⚽",Claro Deportes (1920x1080)
+https://vmvpd.short.gy/ПрозрачныйСпорт
+
+#EXTINF:    Iskhodnyy="✔️M+ЛИЧ✅"                  tvg-logo="https://tvg-logo.short.gy/Мовистар+ЛигаИзЧемпионы" group-title="🌍 Futbol Mundial ⚽",Movistar+ Liga de Campeones (1920x1080)
+https://vmvpd.short.gy/Мовистар+ЛигаИзЧемпионы
+
+#EXTINF:    Iskhodnyy="✔️ОООЛ✅"                  tvg-logo="https://tvg-logo.short.gy/ОнОбластьОнЛига" group-title="🌍 Futbol Mundial ⚽",DAZN La Liga (1920x1080)
+https://vmvpd.short.gy/ОнОбластьОнЛига
+
+#EXTINF:    Iskhodnyy="✔️ТМСС✅"              tvg-logo="https://tvg-logo.short.gy/ТелеМирСпортСейчас" group-title="🌍 Futbol Mundial ⚽",TeleMundo Deportes Ahora (1920x1080)
+https://vmvpd.short.gy/ТелеМирСпортСейчас
+#EXTINF:    Iskhodnyy="✔️ТСС✅"              tvg-logo="https://tvg-logo.short.gy/ТелеМирСпортСейчас" group-title="🌍 Futbol Mundial ⚽",TeleMundo Deportes Ahora (1920x1080)
+https://vmvpd.short.gy/ТелемундоСпортСейчас
+
+#EXTINF:    Iskhodnyy="✔️Т&Н✅"                tvg-logo="https://tvg-logo.short.gy/Турниры&Навыки" group-title="🌍 Futbol Mundial ⚽",TyC Deportes (1280x720)
 https://vmvpd.short.gy/Турниры&Навыки
 
-#EXTINF:    Iskhodnyy="✔️ECdF✅"                  tvg-logo="https://tvg-logo.short.gy/ElCanalDelFutbol" group-title="🌍 Futbol Mundial ⚽",El Canal del Futbol (1920x1080)
-https://vmvpd.short.gy/ElCanalDelFutbol
+#EXTINF:    Iskhodnyy="✔️ТУСС✅"                  tvg-logo="https://tvg-logo.short.gy/ТелевисаУнивейнСпортСеть" group-title="🌍 Futbol Mundial ⚽",TUDN (1920x1080) Televisa Univision Deportes Network
+https://vmvpd.short.gy/ТелевисаУнивейнСпортСеть
 
-#EXTINF:    Iskhodnyy="✔️FD✅"                  tvg-logo="https://tvg-logo.short.gy/FoxDeportes" group-title="🌍 Futbol Mundial ⚽",Fox Deportes (1280x720)
-https://vmvpd.short.gy/FoxDeportes
+#EXTINF:    Iskhodnyy="✔️ТСТСПА✅"                tvg-logo="https://tvg-logo.short.gy/ТернерСетьТелевидениеСпортПремиумАргентина" group-title="🌍 Futbol Mundial ⚽",TNT Deportes Premium 🇦🇷 (1280x720)
+https://vmvpd.short.gy/ТернерСетьТелевидениеСпортПремиумАргентина
 
-#EXTINF:    Iskhodnyy="✔️M+LdC✅"                  tvg-logo="https://tvg-logo.short.gy/M+LigaDeCampeones" group-title="🌍 Futbol Mundial ⚽",M+ Liga de Campeones (1920x1080)
-https://vmvpd.short.gy/M+LigaDeCampeones
+#EXTINF:    Iskhodnyy="✔️аССТ✅"                  tvg-logo="https://tvg-logo.short.gy/ацтекскийСпортСетьТри" group-title="🌍 Futbol Mundial ⚽",Azteca Deportes Network 3 (1280x720)
+https://vmvpd.short.gy/ацтекскийСпортСетьТри
 
-#EXTINF:    Iskhodnyy="✔️DLL✅"                  tvg-logo="https://tvg-logo.short.gy/DAZNLaLiga" group-title="🌍 Futbol Mundial ⚽",DAZN La Liga (1920x1080)
-https://vmvpd.short.gy/DAZNLaLiga
+#EXTINF:    Iskhodnyy="✔️ПС+✅"                tvg-logo="https://tvg-logo.short.gy/ПОБЕДИТЬСпорт+" group-title="🌍 Futbol Mundial ⚽",Win Deportes+ (1920x1080)
+https://vmvpd.short.gy/ПОБЕДИТЬСпорт+
 
-#EXTINF:    Iskhodnyy="✔️TUDN✅"                  tvg-logo="https://tvg-logo.short.gy/TelevisaUnivisionDeportesNetwork" group-title="🌍 Futbol Mundial ⚽",TUDN (1920x1080) Televisa Univision Deportes Network
-https://vmvpd.short.gy/TelevisaUnivisionDeportesNetwork
+#EXTINF:    Iskhodnyy="✔️ЭКПФ✅"                  tvg-logo="https://tvg-logo.short.gy/ЭльКаналПринадлежащийФутбол" group-title="🌍 Futbol Mundial ⚽",El Canal del Futbol (1280x720)
+https://vmvpd.short.gy/ЭльКаналПринадлежащийФутбол
 
-#EXTINF:    Iskhodnyy="✔️ADN✅"                  tvg-logo="https://tvg-logo.short.gy/AztecaDeportesNetwork" group-title="🌍 Futbol Mundial ⚽",Azteca Deportes Network (1280x720)
-https://vmvpd.short.gy/AztecaDeportesNetwork
+#EXTINF:    Iskhodnyy="✔️ОООИ✅"              tvg-logo="https://tvg-logo.short.gy/ОнОбластьОдинИспания" group-title="🌍 Futbol Mundial ⚽",DAZN 1 🇪🇸 (640x360)
+https://vmvpd.short.gy/ОнОбластьОдинИспания
 
-#EXTINF:    Iskhodnyy="✔️BSÑ✅"                  tvg-logo="https://tvg-logo.short.gy/BeINDeportes" group-title="🌍 Futbol Mundial ⚽",BeIN Deportes Ñ (1024x576)
-https://vmvpd.short.gy/BeINDeportes
-
-#EXTINF:    Iskhodnyy="✔️DE✅"              tvg-logo="https://tvg-logo.short.gy/DAZNEs" group-title="🌍 Futbol Mundial ⚽",DAZN España (640x360)
-https://vmvpd.short.gy/DAZNEs
-
-#EXTINF:    Iskhodnyy="✔️TmDA✅"              tvg-logo="https://tvg-logo.short.gy/TeleMundoDeportesAhora" group-title="🌍 Futbol Mundial ⚽",TeleMundo Ahora (1920x1080)
-https://vmvpd.short.gy/TeleMundoDeportesAhora
-#EXTINF:    Iskhodnyy="✔️TmDA✅"              tvg-logo="https://tvg-logo.short.gy/TeleMundoDeportesAhora" group-title="🌍 Futbol Mundial ⚽",TeleMundo Ahora (1920x1080)
-https://vmvpd.short.gy/TeleMundoAhoraDeportes
+#EXTINF:    Iskhodnyy="✔️ФМФА+✅"                  tvg-logo="https://tvg-logo.short.gy/ФедерацияМеждународныйФутбольныйАссоциация+" group-title="🌍 Futbol Mundial ⚽",FIFA+ (1280x720)
+https://vmvpd.short.gy/ФедерацияМеждународныйФутбольныйАссоциация+
 
 #EXTINF=====================================================================================================================================================================================================
 
