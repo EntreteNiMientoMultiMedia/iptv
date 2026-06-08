@@ -115,6 +115,66 @@ https://vmvpd.short.gy/ВТ/Монитор
 
 #EXTINF=====================================================================================================================================================================================================
 
+#EXTINF:    Iskhodnyy="✔️МовистарСпорт✅"              tvg-logo="https://tvg-logo.short.gy/МовистарСпорт" group-title="⚽ Futbol 🇵🇪",Movistar Deportes (720x480)
+https://vmvpd.short.gy/МовистарСпорт
+
+#EXTINF:    Iskhodnyy="✔️Л1Макс✅"              tvg-logo="https://tvg-logo.short.gy/Л1Макс" group-title="⚽ Futbol 🇵🇪",L1 Max (1920x1080)
+https://vmvpd.short.gy/Л1Макс
+#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/ВТ/Л1Макс" group-title="⚽ Futbol 🇵🇪",L1 Max (1280x720)
+https://vmvpd.short.gy/ВТ/Л1Макс
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"              tvg-logo="https://tvg-logo.short.gy/Т3Б2/Л1Макс" group-title="⚽ Futbol 🇵🇪",L1 Max (1920x1080)
+https://vmvpd.short.gy/Т3Б2/Л1Макс
+
+#EXTINF:    Iskhodnyy="🎯БиЦвет+⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/БиЦвет+" group-title="⚽ Futbol 🇵🇪",Bicolor+ (1920x1080)
+https://vmvpd.short.gy/Т3Б2/БиЦвет+
+
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/ЭС/Супер" group-title="⚽ Futbol 🇵🇪",Super (1280x720)
+https://vmvpd.short.gy/ЭС/Супер
+
+#EXTINF:    Iskhodnyy="✔️Овация✅"                  tvg-logo="https://tvg-logo.short.gy/Овация" group-title="⚽ Futbol 🇵🇪",Ovacion (1920x1080)
+https://vmvpd.short.gy/Овация
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/Т3Б2/Овация" group-title="⚽ Futbol 🇵🇪",Ovacion (1920x1080)
+https://vmvpd.short.gy/Т3Б2/Овация
+#EXTINF:    Iskhodnyy="🔱EC📺"                tvg-logo="https://tvg-logo.short.gy/ВТ/Овация" group-title="⚽ Futbol 🇵🇪",Ovacion (1280x720)
+https://vmvpd.short.gy/ВТ/Овация
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/ЭС/Овация" group-title="⚽ Futbol 🇵🇪",Ovacion (1280x720)
+https://vmvpd.short.gy/ЭС/Овация
+
+#EXTINF:    Iskhodnyy="✔️РСПСК✅"                  tvg-logo="https://tvg-logo.short.gy/РазвлечениеСпортПрограммированиеСетьКолумбия" group-title="⚽ Futbol 🇵🇪",ESPN 🇨🇴 (1920x1080)
+https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьКолумбия
+
+#EXTINF:    Iskhodnyy="✔️РСПСВО✅"                  tvg-logo="https://tvg-logo.short.gy/РазвлечениеСпортПрограммированиеСетьВысокийОпределение" group-title="⚽ Futbol 🇵🇪",ESPN HD (1280x720)
+https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьВысокийОпределение
+
+#EXTINF:    Iskhodnyy="✔️РСПС2✅"                  tvg-logo="https://tvg-logo.short.gy/РазвлечениеСпортПрограммированиеСетьДва" group-title="⚽ Futbol 🇵🇪",ESPN 2 (1280x720)
+https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьДва
+
+#EXTINF:    Iskhodnyy="✔️РСПС3✅"                  tvg-logo="https://tvg-logo.short.gy/РазвлечениеСпортПрограммированиеСетьТри" group-title="⚽ Futbol 🇵🇪",ESPN 3 (1280x720)
+https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьТри
+
+#EXTINF:    Iskhodnyy="✔️РСПС3М✅"                  tvg-logo="https://tvg-logo.short.gy/РазвлечениеСпортПрограммированиеСетьТриМексико" group-title="⚽ Futbol 🇵🇪",ESPN 3 🇲🇽 (1280x720)
+https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьТриМексико
+
+#EXTINF:    Iskhodnyy="✔️РСПС4✅"                  tvg-logo="https://tvg-logo.short.gy/РазвлечениеСпортПрограммированиеСетьЧетыре" group-title="⚽ Futbol 🇵🇪",ESPN 4 (1280x720)
+https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьЧетыре
+
+#EXTINF:    Iskhodnyy="✔️РСПС5✅"                  tvg-logo="https://tvg-logo.short.gy/РазвлечениеСпортПрограммированиеСетьПять" group-title="⚽ Futbol 🇵🇪",ESPN 5 (1920x1080)
+https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьПять
+
+#EXTINF:    Iskhodnyy="✔️РСПС6✅"                  tvg-logo="https://tvg-logo.short.gy/РазвлечениеСпортПрограммированиеСетьШесть" group-title="⚽ Futbol 🇵🇪",ESPN 6 (1920x1080)
+https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьШесть
+
+#EXTINF:    Iskhodnyy="✔️РСПС7✅"                  tvg-logo="https://tvg-logo.short.gy/РазвлечениеСпортПрограммированиеСетьСемь" group-title="⚽ Futbol 🇵🇪",ESPN 7 (1280x720)
+https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьприложение
+
+#EXTINF:    Iskhodnyy="✔️РСПС7✅"                  tvg-logo="https://tvg-logo.short.gy/РазвлечениеСпортПрограммированиеСетьСемь" group-title="⚽ Futbol 🇵🇪",ESPN 7 (1280x720)
+https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСеть+
+
+#EXTINF:    Iskhodnyy="✔️РСПСПА✅"                  tvg-logo="https://tvg-logo.short.gy/РазвлечениеСпортПрограммированиеСетьПремиумАргентина" group-title="⚽ Futbol 🇵🇪",ESPN Premium 🇦🇷 (1280x720)
+https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьПремиумАргентина
+
+#EXTINF=====================================================================================================================================================================================================
+
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CNN" group-title="📰🌐 Noticias del Mundo 🚨",Cable News Network (1280x720) CNN
 https://vmvpd.short.gy/EC/CNN
 
@@ -175,73 +235,6 @@ https://vmvpd.short.gy/EC/Libertad
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/GiroVisual" group-title="📰🌐 Noticias del Mundo 🚨",Giro Visual (1920x1080)
 https://vmvpd.short.gy/T3B2/GiroVisual
-
-#EXTINF=====================================================================================================================================================================================================
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/WT/L1Max" group-title="🥊 DeportivaMente 🏆",L1 Max ⚽ (1280x720)
-https://vmvpd.short.gy/WT/L1Max
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"              tvg-logo="https://tvg-logo.short.gy/T3B2/L1Max" group-title="🥊 DeportivaMente 🏆",L1 Max ⚽ (1280x720)
-https://vmvpd.short.gy/T3B2/L1Max
-
-#EXTINF:    Iskhodnyy="🔱WT📺"              tvg-logo="https://tvg-logo.short.gy/WT/L1" group-title="🥊 DeportivaMente 🏆",L1 ⚽ (1280x720)
-https://vmvpd.short.gy/WT/L1
-
-#EXTINF:    Iskhodnyy="✔️Ovacion✅"                  tvg-logo="https://tvg-logo.short.gy/Ovacion" group-title="🥊 DeportivaMente 🏆",Ovacion 🎙️ (1920x1080)
-https://vmvpd.short.gy/Ovacion
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/Ovacion" group-title="🥊 DeportivaMente 🏆",Ovacion 🎙️ (1920x1080)
-https://vmvpd.short.gy/T3B2/Ovacion
-#EXTINF:    Iskhodnyy="🔱EC📺"                tvg-logo="https://tvg-logo.short.gy/WT/Ovacion" group-title="🥊 DeportivaMente 🏆",Ovacion 🎙️ (1280x720)
-https://vmvpd.short.gy/WT/Ovacion
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Ovacion" group-title="🥊 DeportivaMente 🏆",Ovacion 🎙️ (1280x720)
-https://vmvpd.short.gy/EC/Ovacion
-
-#EXTINF:    Iskhodnyy="❓TCSF❔"                tvg-logo="https://tvg-logo.short.gy/TyCSportsFan" group-title="🥊 DeportivaMente 🏆",TyC Sports Fan ⚽ (1920x1080)
-https://vmvpd.short.gy/TyCSportsFan
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/FierroAFondo" group-title="🥊 DeportivaMente 🏆",Fierro a Fondo 🏎️ (1920x1080)
-https://vmvpd.short.gy/T3B2/FierroAFondo
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/FierroAFondo" group-title="🥊 DeportivaMente 🏆",Fierro a Fondo 🏎️ (1280x720)
-https://vmvpd.short.gy/EC/FierroAFondo
-
-#EXTINF:    Iskhodnyy="✔️Garage✅"              tvg-logo="https://tvg-logo.short.gy/Garage" group-title="🥊 DeportivaMente 🏆",Garage 🏎️ (720x404)
-https://vmvpd.short.gy/Garage
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryTurbo" group-title="🥊 DeportivaMente 🏆",Discovery Turbo 🏎️ (1280x720)
-https://vmvpd.short.gy/EC/DiscoveryTurbo
-
-#EXTINF:    Iskhodnyy="✔️MonteRicoTv✅"              tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 DeportivaMente 🏆",MonteRrico 🏇 (1920x1080)
-https://vmvpd.short.gy/MonteRricoTv
-
-#EXTINF:    Iskhodnyy="✔️Turf✅"              tvg-logo="https://tvg-logo.short.gy/Turf" group-title="🥊 DeportivaMente 🏆",Turf 🏇 (1280x720)
-https://vmvpd.short.gy/Turf
-
-#EXTINF:    Iskhodnyy="✔️MonteRicoTv✅"                tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 DeportivaMente 🏆",MonteRrico 🏇 (1080x720)
-https://vmvpd.short.gy/MonteRrricoTv
-#EXTINF:    Iskhodnyy="✔️MonteRicoTv✅"                tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 DeportivaMente 🏆",MonteRrico 🏇 (1080x720)
-https://vmvpd.short.gy/MonteRicoTv
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Titan" group-title="🥊 DeportivaMente 🏆",Titán 🥊 (1280x720)
-https://vmvpd.short.gy/WT/Titan
-
-#EXTINF:    Iskhodnyy="✔️CC✅"                tvg-logo="https://tvg-logo.short.gy/CanelaCombate" group-title="🥊 DeportivaMente 🏆",Canela Combate 🥊 (1920x1080)
-https://vmvpd.short.gy/CanelaCombate
-
-#EXTINF:    Iskhodnyy="✔️CombaTv✅"                tvg-logo="https://tvg-logo.short.gy/CombaTv" group-title="🥊 DeportivaMente 🏆",CombaTv 🥊 (1920x1080)
-https://vmvpd.short.gy/CombaTv
-
-#EXTINF:    Iskhodnyy="✔️SCL✅"              tvg-logo="https://tvg-logo.short.gy/StrongmanChampionsLeague" group-title="🥊 DeportivaMente 🏆",Liga de Campeones de Hombres Fuertes 💪🏼 (1280x720)
-https://vmvpd.short.gy/LigaCampeonesHombresFuertes
-#EXTINF:    Iskhodnyy="✔️SCL✅"              tvg-logo="https://tvg-logo.short.gy/StrongmanChampionsLeague" group-title="🥊 DeportivaMente 🏆",Liga de Campeones de Hombres Fuertes 💪🏼 (1280x720)
-https://vmvpd.short.gy/StrongmanChampionsLeague
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/WT/ESportsGo" group-title="🥊 DeportivaMente 🏆",E Sports Go 🎮 (720x576)
-https://vmvpd.short.gy/WT/ESportsGo
-
-#EXTINF:    Iskhodnyy="✔️BG✅"              tvg-logo="https://tvg-logo.short.gy/BoxGamers" group-title="🥊 DeportivaMente 🏆",Box Gamers 🕹️ (1024x576)
-https://vmvpd.short.gy/BoxGamers
-
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Eventos" group-title="🥊 DeportivaMente 🏆",Eventos 📡 (1280x720)
-https://vmvpd.short.gy/EC/Eventos
 
 #EXTINF=====================================================================================================================================================================================================
 
