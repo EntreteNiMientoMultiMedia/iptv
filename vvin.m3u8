@@ -80,12 +80,12 @@ https://vmvpd.short.gy/ЭС/Родной
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/Родной" group-title="🇵🇪🗞️ Noticias 🚨",Nativa (1280x720)
 https://vmvpd.short.gy/Т3Б2/Родной
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/ПБО" group-title="🇵🇪🗞️ Noticias 🚨",PBO (1280x720)
-https://vmvpd.short.gy/ЭС/ПБО
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/ПБО" group-title="🇵🇪🗞️ Noticias 🚨",PBO (1280x720)
-https://vmvpd.short.gy/Т3Б2/ПБО
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/ВТ/ПБО" group-title="🇵🇪🗞️ Noticias 🚨",PBO (720x576)
-https://vmvpd.short.gy/ВТ/ПБО
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/перуанскийВещаниеОфис" group-title="🇵🇪🗞️ Noticias 🚨",PBO (1280x720)
+https://vmvpd.short.gy/ЭС/перуанскийВещаниеОфис
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/перуанскийВещаниеОфис" group-title="🇵🇪🗞️ Noticias 🚨",PBO (1280x720)
+https://vmvpd.short.gy/Т3Б2/перуанскийВещаниеОфис
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/ВТ/перуанскийВещаниеОфис" group-title="🇵🇪🗞️ Noticias 🚨",PBO (720x576)
+https://vmvpd.short.gy/ВТ/перуанскийВещаниеОфис
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/Конгресс" group-title="🇵🇪🗞️ Noticias 🚨",Congreso (1280x720)
 https://vmvpd.short.gy/ЭС/Конгресс
@@ -164,14 +164,14 @@ https://vmvpd.short.gy/РазвлечениеСпортПрограммиров�
 #EXTINF:    Iskhodnyy="✔️РСПС6✅"                  tvg-logo="https://tvg-logo.short.gy/РазвлечениеСпортПрограммированиеСетьШесть" group-title="⚽ Futbol 🇵🇪",ESPN 6 (1920x1080)
 https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьШесть
 
+#EXTINF:    Iskhodnyy="✔️РСПСПА✅"                  tvg-logo="https://tvg-logo.short.gy/РазвлечениеСпортПрограммированиеСетьПремиумАргентина" group-title="⚽ Futbol 🇵🇪",ESPN Premium 🇦🇷 (1280x720)
+https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьПремиумАргентина
+
 #EXTINF:    Iskhodnyy="✔️РСПС7✅"                  tvg-logo="https://tvg-logo.short.gy/РазвлечениеСпортПрограммированиеСетьСемь" group-title="⚽ Futbol 🇵🇪",ESPN 7 (1280x720)
 https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьприложение
 
 #EXTINF:    Iskhodnyy="✔️РСПС7✅"                  tvg-logo="https://tvg-logo.short.gy/РазвлечениеСпортПрограммированиеСетьСемь" group-title="⚽ Futbol 🇵🇪",ESPN 7 (1280x720)
 https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСеть+
-
-#EXTINF:    Iskhodnyy="✔️РСПСПА✅"                  tvg-logo="https://tvg-logo.short.gy/РазвлечениеСпортПрограммированиеСетьПремиумАргентина" group-title="⚽ Futbol 🇵🇪",ESPN Premium 🇦🇷 (1280x720)
-https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьПремиумАргентина
 
 #EXTINF=====================================================================================================================================================================================================
 
@@ -181,16 +181,16 @@ https://vmvpd.short.gy/ПрямойТелевидениеСпорт
 #EXTINF:    Iskhodnyy="✔️ПС✅"              tvg-logo="https://tvg-logo.short.gy/ПрозрачныйСпорт" group-title="🌍 Futbol Mundial ⚽",Claro Deportes (1920x1080)
 https://vmvpd.short.gy/ПрозрачныйСпорт
 
+#EXTINF:    Iskhodnyy="✔️ТМСС✅"              tvg-logo="https://tvg-logo.short.gy/ТелеМирСпортСейчас" group-title="🌍 Futbol Mundial ⚽",TeleMundo Deportes Ahora (1920x1080)
+https://vmvpd.short.gy/ТелеМирСпортСейчас
+#EXTINF:    Iskhodnyy="✔️ТСС✅"              tvg-logo="https://tvg-logo.short.gy/ТелеМирСпортСейчас" group-title="🌍 Futbol Mundial ⚽",TeleMundo Deportes Ahora (1920x1080)
+https://vmvpd.short.gy/ТелемундоСпортСейчас
+
 #EXTINF:    Iskhodnyy="✔️M+ЛИЧ✅"                  tvg-logo="https://tvg-logo.short.gy/Мовистар+ЛигаИзЧемпионы" group-title="🌍 Futbol Mundial ⚽",Movistar+ Liga de Campeones (1920x1080)
 https://vmvpd.short.gy/Мовистар+ЛигаИзЧемпионы
 
 #EXTINF:    Iskhodnyy="✔️ОООЛ✅"                  tvg-logo="https://tvg-logo.short.gy/ОнОбластьОнЛига" group-title="🌍 Futbol Mundial ⚽",DAZN La Liga (1920x1080)
 https://vmvpd.short.gy/ОнОбластьОнЛига
-
-#EXTINF:    Iskhodnyy="✔️ТМСС✅"              tvg-logo="https://tvg-logo.short.gy/ТелеМирСпортСейчас" group-title="🌍 Futbol Mundial ⚽",TeleMundo Deportes Ahora (1920x1080)
-https://vmvpd.short.gy/ТелеМирСпортСейчас
-#EXTINF:    Iskhodnyy="✔️ТСС✅"              tvg-logo="https://tvg-logo.short.gy/ТелеМирСпортСейчас" group-title="🌍 Futbol Mundial ⚽",TeleMundo Deportes Ahora (1920x1080)
-https://vmvpd.short.gy/ТелемундоСпортСейчас
 
 #EXTINF:    Iskhodnyy="✔️Т&Н✅"                tvg-logo="https://tvg-logo.short.gy/Турниры&Навыки" group-title="🌍 Futbol Mundial ⚽",TyC Deportes (1280x720)
 https://vmvpd.short.gy/Турниры&Навыки
