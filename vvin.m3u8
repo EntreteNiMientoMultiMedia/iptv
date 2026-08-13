@@ -376,7 +376,7 @@ http://181.224.255.210:8001/play/a0lv/index.m3u8
 #EXTINF:    Iskhodnyy="✔️VerTv✅"                  tvg-logo="https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/c13a4414c1a5b90c4177514238778380~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=65574760&x-expires=1786748400&x-signature=r2miP6Vj%2BTlIxAJDjVW%2Bim1GqW8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my" group-title="💃🏻 Variedad Hispana 🌎",VerTv 🇦🇷 (1920x1080)
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/chunklist_w1772540941.m3u8
 
-#EXTINF:    Iskhodnyy="✔️кП✅"                  tvg-logo="https://yt3.googleusercontent.com/CLwrr6AgezK18olQVA-g40gHG7fHV2APLmmnzNZ6Cu4ZHhJuM5GE5d5LKaJ8iVl4iB9XsdZWrQ=s160-c-k-c0x00ffffff-no-rj" group-title="💃🏻 Variedad Hispana 🌎",Claro 🇲🇽 (1920x1080)
+#EXTINF:    Iskhodnyy="❓кП❔"                  tvg-logo="https://yt3.googleusercontent.com/CLwrr6AgezK18olQVA-g40gHG7fHV2APLmmnzNZ6Cu4ZHhJuM5GE5d5LKaJ8iVl4iB9XsdZWrQ=s160-c-k-c0x00ffffff-no-rj" group-title="💃🏻 Variedad Hispana 🌎",Claro 🇲🇽 (1920x1080)
 http://190.61.101.11:7050/play/a04w/index.m3u8
 
 #EXTINF:    Iskhodnyy="✔️УХТЫ✅"                  tvg-logo="https://yt3.googleusercontent.com/UPj12VPlhl_2bWrRqFrb3Fr12jxPyLkfm-GZ8CmWBsPP27-ZrQF0T0ow2qNRHQK9s8XtMpDFNQ=s160-c-k-c0x00ffffff-no-rj" group-title="💃🏻 Variedad Hispana 🌎",WOW 🇸🇻 (1920x1080)
@@ -413,7 +413,7 @@ https://v4.tustreaming.cl/edusauriotv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/10/06/1770678354917/163a846ac13f_480_270.png" group-title="💃🏻 Variedad Hispana 🌎",EPA! 🇨🇱 (1280x720)
 https://live-evg10.tv360.bitel.com.pe/bitel/epatv/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="✔️TВ✅"                  tvg-logo="https://www.mitelefe.com/media/cache/logo/logo-telefe-blanco-69286e9c2c776.png" group-title="💃🏻 Variedad Hispana 🌎",TeleFe 🇦🇷 (720x480)
+#EXTINF:    Iskhodnyy="❓TВ❔"                  tvg-logo="https://www.mitelefe.com/media/cache/logo/logo-telefe-blanco-69286e9c2c776.png" group-title="💃🏻 Variedad Hispana 🌎",TeleFe 🇦🇷 (720x480)
 http://190.108.83.69:8000/play/a08l/index.m3u8
 
 #EXTINF:    Iskhodnyy="✔️АКЛа✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_laJCuu-ddlkPSlSO5fztuB5gnbea_b7-K4gS_bHjpWXLs=s160-c-k-c0x00ffffff-no-rj" group-title="💃🏻 Variedad Hispana 🌎",Un Canal Latinoamericano 🇺🇾 (1280x720) Union Continental LatinoAmerica
@@ -461,7 +461,7 @@ https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/CANAL_E/40-hls/live-media.m
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FECH.png&width=100" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",E! (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DE_CH_stream_7o&_cdn_session=4152390675&_cdn_token=72d212b423820cf0f1f0632926ff028e5b907425
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FAyE.png&width=100" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",Arte & Entretenimiento (1280x720) A&E
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FAandEMUNDO.png&width=100" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",Arte & Entretenimiento (1280x720) A&E
 https://cdnmain5.win.cdn.moderntv.eu:7909/win/stream/AyE/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DAyE_stream_cz&_cdn_session=6806571206&_cdn_token=a007d4441b66b0531c214dfacb88fdc147eec718
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FHGTV.png&width=100" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",Hogar y Jardin (1280x720) HGTV
@@ -474,6 +474,51 @@ https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/Hogar_TV_SIGNAL/10-hls/live
 https://jmp2.uk/plu-677f929054f43dad4b325c1c.m3u8
 #EXTINF:    Iskhodnyy="✔️ТДСП✅"                  tvg-logo="https://yt3.googleusercontent.com/yECM7_PN1KQ_q_EYLZosSG4oOnVj0-Xb_qTrOFW1s15gtiCtlfRLPm_lGI2ZN9XqSCn7xDedDQ=s160-c-k-c0x00ffffff-no-rj" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",Just For Laughs (1920x1080)
 https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
+
+#EXTINF=====================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FDISCOVERYKIDS.png&width=100" group-title="🍼 Infantil 🌈 0 a 6 años",Discovery Niños (1280x720)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISCKIDS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCKIDS_stream_fa&_cdn_session=4152469099&_cdn_token=590562f92267a4061419f7a0e0ba61aaa33e71df
+
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FDISNEYJUNIOR.png&width=100" group-title="🍼 Infantil 🌈 0 a 6 años",Disney Jr (1024x576)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISNEYJR/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYJUNIOR_stream_ec&_cdn_session=4152470739&_cdn_token=f98c2424a5720e11c8caa053de727fbd4dc3b0f8
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FPLIMPLIM.png&width=100" group-title="🍼 Infantil 🌈 0 a 6 años",Plim Plim (1280x720)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PLIMPLIM/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPLIMPLIM_stream_63&_cdn_session=4152473083&_cdn_token=ecc34aacf4e54bbf43684c5c0330af98b014fdd6
+
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://scontent.cdninstagram.com/v/t51.2885-19/255207870_289493473054791_6275113434024050505_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ%3D%3D&_nc_ohc=deCtKdSdSoMQ7kNvwGPxZSg&_nc_oc=AdoE7BeHGmi13b_n7_hAmM45uk3sCzNU-PD51IrN179I-Hy7bLbUUm2KDKcNgDukifo&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7ba8c&oh=00_AQFbY3CzV9dj8spCMUkfPXKgLhjs-0uzCWDJxYiaIHgVNg&oe=6A82E944" group-title="🍼 Infantil 🌈 0 a 6 años",Cartoonito (1280x720)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CARTOONITO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCARTOONITO_stream_pm&_cdn_session=4152474835&_cdn_token=8f3756efa283cb8e44375e794af34246be3a853f
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                    tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FFUNBOX.png&width=100" group-title="🍼 Infantil 🌈 0 a 6 años",Caja de Diversion (1280x720) Fun Box
+https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/Funbox_MIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dfunbox_stream_kt&_cdn_session=6807510598&_cdn_token=07d53d58e5354de5830df8910561eb6a5d81ef16
+
+#EXTINF:    Iskhodnyy="❓Малыш❔"                  tvg-logo="https://yt3.googleusercontent.com/lW3IT7ebn6ERFoRoO_4wosanBohzasxXTea3KNKl2DEGZhFhdJP3jEQKEgbtxZg2Vg5IjbAj=s160-c-k-c0x00ffffff-no-rj" group-title="🍼 Infantil 🌈 0 a 6 años",Bebe (720x480)
+http://181.224.255.210:8001/play/a0pz/index.m3u8
+
+#EXTINF:    Iskhodnyy="🌕ОКД🐶"                  tvg-logo="https://yt3.googleusercontent.com/Hba48Ru37OIS1OFpFqIQ512bR3_3TvSzky0T8fDNd9R0rsZR3Yhq-sH8UQMXyXWa-1bVrEMkXHI=s160-c-k-c0x00ffffff-no-rj" group-title="🍼 Infantil 🌈 0 a 6 años",El Reino Infantil
+https://jmp2.uk/plu-66fedd65d7de140008dccd66.m3u8
+
+#EXTINF=====================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FCARTOON_NETWORK.png&width=100" group-title="🎮 Juvenil ⚡ 7 a 14 años",Red Dibujos Animados (1280x720) Cartoon NetWork
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CARTOON_NETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCARTOON_NETWORK_stream_mu&_cdn_session=4152516235&_cdn_token=ee8d6c676d10a0a99f2f042f0187fad75f3eede6
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FDISNEYCHANNEL.png&width=100" group-title="🎮 Juvenil ⚡ 7 a 14 años",Canal Disney (1280x720)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DISNEYCHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYCHANNEL_stream_0w&_cdn_session=4152517379&_cdn_token=fa8ed02a65278a603a8939261d36fd132bfd917e
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FDreamworks.png&width=100" group-title="🎮 Juvenil ⚡ 7 a 14 años",Fabrica de Sueños (1280x720) DreamWorks
+https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/Dreamworks/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DDreamworks_stream_li&_cdn_session=6807680678&_cdn_token=b494df98081d4ba1816e21f3e540314528ea99e3
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FDREAMWORKS.png&width=100" group-title="🎮 Juvenil ⚡ 7 a 14 años",Fabrica de Sueños (1280x720) DreamWorks
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DREAMWORKS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDREAMWORKS_stream_ge&_cdn_session=4152520251&_cdn_token=5e694429b464016bd38c6c8803d61e200a180436
+
+#EXTINF:    Iskhodnyy="EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTOONCAST.png&width=100" group-title="🎮 Juvenil ⚡ 7 a 14 años",Elenco de Dibujos Animados (1280x720) ToonCast
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TOONCAST/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTOONCAST_stream_ot&_cdn_session=4152521267&_cdn_token=9956b6ed2fb7f1456755106cbebed0de0accf7f3
+
+#EXTINF:    Iskhodnyy="✔️МД✅"                  tvg-logo="https://magickids.site/img/ui/mgk-logo.gif" group-title="🎮 Juvenil ⚡ 7 a 14 años",Niños Magicos (854x480) Magic Kids
+https://live20.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647052374/d0b7cf8623a8_480_270.png" group-title="🎮 Juvenil ⚡ 7 a 14 años",Chiki Toonz (1920x1080)
+https://live-evg25.tv360.bitel.com.pe/bitel/chikitoonsSRT/chunks.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
 
