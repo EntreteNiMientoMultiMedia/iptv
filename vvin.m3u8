@@ -551,12 +551,6 @@ https://jmp2.uk/stvp-ES300029LP
 #EXTINF:    Iskhodnyy="✔️АЗК✅"              tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png" group-title="🎌 Anime 👀",Anime Vision Clasicos (1920x1080)
 https://jmp2.uk/stvp-ES3000288I
 
-#EXTINF:    Iskhodnyy="✔️ЭГР✅"              tvg-logo="https://energeek.cl/wp-content/themes/EnerGeek-Theme-pop/assets/img/logo.png" group-title="🎌 Anime 👀",Energia Adicta Retro (1920x1080) EnerGeek Retro
-https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8
-
-#EXTINF:    Iskhodnyy="✔️Гул✅"              tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqjrELl3INMI8lqxxYk7SuvGmJT2tIvv2PFBHD6L0w9A=s160-c-k-c0x00ffffff-no-rj" group-title="🎌 Anime 👀",Buzz (1280x720)
-https://lbgo.bozztv.com/ssh101/ssh101/canalbuzz2026/playlist.m3u8
-
 #EXTINF:    Iskhodnyy="✔️АМ✅"              tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCRyIeb5IY-BbZf4GL-ljuAxXmg2Y8Mttf5ZlEauL6LL1ainsD_Ly8-atcCtLZQAghALzHpJmRfDdY6pGjGxyLkbCWqmPlxqvyxuGK9EBdAz8nvJ41GDIB7ijVrgBj99pbuIvhA48c7eqncuN21Boz6_qkdhgER098nZkyp41u-LggItFxnv5Cit6U9Lg/s800/max-anime.jpg" group-title="🎌 Anime 👀",Anime Maximo (1920x1080) Max Anime
 https://cdnlive.klicgo.net/maxanime/live/chunklist_w1586344826_DVR.m3u8
 
@@ -568,6 +562,12 @@ http://animezonetv.net:81/live_hls/animetest/index.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Зюн✅"              tvg-logo="https://pbs.twimg.com/profile_images/1914751025598128128/GUSnkM_M.jpg" group-title="🎌 Anime 👀",Zyoon (1280x720)
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ЭГР✅"              tvg-logo="https://energeek.cl/wp-content/themes/EnerGeek-Theme-pop/assets/img/logo.png" group-title="🎌 Anime 👀",Energia Adicta Retro (1920x1080) EnerGeek Retro
+https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Гул✅"              tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqjrELl3INMI8lqxxYk7SuvGmJT2tIvv2PFBHD6L0w9A=s160-c-k-c0x00ffffff-no-rj" group-title="🎌 Anime 👀",Buzz (1280x720)
+https://lbgo.bozztv.com/ssh101/ssh101/canalbuzz2026/playlist.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
 
@@ -653,6 +653,104 @@ https://www.desde-paraguay.com/pro.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Космос✅"                  tvg-logo="https://yt3.googleusercontent.com/ZPN7l9oatmeZXkcGa3kK6rD5T7gh5awtXqVMHbcSnCs2lTqsf4rypEXeK9cuvNigL3cArUqMHQ=s160-c-k-c0x00ffffff-no-rj" group-title="📈 Negocios y Emprendimiento 🚀",Cosmos 🇵🇾 (1920x1080)
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
+
+#EXTINF=====================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTopLatino_win.png&width=100" group-title="🎧 Melodiya 🌍🔊",Arriba Latino 🇵🇪 (1280x720)
+https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/TopLatino_win/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTopLatino_win_stream_0s&_cdn_session=6816516342&_cdn_token=8f9493123f3d0748ed192a01cd0ac6abbd62bb1e
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTOPLATINO.png&width=100" group-title="🎧 Melodiya 🌍🔊",Arriba Latino 🇵🇪 (1280x720)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TOPLATINO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTOPLATINO_stream_qf&_cdn_session=4153416995&_cdn_token=6f49974f1065db6f11a3c55316ec3e985fa8106c
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FKaribena_WIN.png&width=100" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 (1280x720)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KARIBENA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dkaribena_stream_4z&_cdn_session=4153418859&_cdn_token=08d01a1708e3b286ac894397f0e6bed0e8d352b6
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/29/02/173809307073/82d4175843c5_480_270.jpg" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 (1280x720)
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767645515476/68d99d53548a_480_270.png" group-title="🎧 Melodiya 🌍🔊",Bitt 🇵🇪 (1920x1080)
+https://live-evg10.tv360.bitel.com.pe/bitel/bitt/chunks.m3u8
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FBITTCHANNEL.png&width=100" group-title="🎧 Melodiya 🌍🔊",Bitt 🇵🇪 (1280x720)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/BITTCH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DBITTCH_stream_u1&_cdn_session=4153913475&_cdn_token=b6339ff79390678b041ad03ba0e17e0980f9de95
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FHTV.png&width=100" group-title="🎧 Melodiya 🌍🔊",Hispano 🇺🇸 (1280x720)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/HTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHTV_stream_9c&_cdn_session=4154201099&_cdn_token=1df0a13365e195134c49d74422ea34137666c662
+
+#EXTINF:    Iskhodnyy="✔️Ретро✅"                  tvg-logo="https://play-lh.googleusercontent.com/fSVDUWdsTrqSdwC8NIXmDmxCkuZbvsrChC6zosvbWvrjptNY15_9jcVPSIgEvDLr0i9cHMw9dx0Rlkz_q90gDw=w240-h480-rw" group-title="🎧 Melodiya 🌍🔊",Retro 🇨🇿 (1280x720)
+https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/chunklist_w860415805_b3256000.m3u8
+#EXTINF:    Iskhodnyy="✔️Ретро✅"                  tvg-logo="https://play-lh.googleusercontent.com/fSVDUWdsTrqSdwC8NIXmDmxCkuZbvsrChC6zosvbWvrjptNY15_9jcVPSIgEvDLr0i9cHMw9dx0Rlkz_q90gDw=w240-h480-rw" group-title="🎧 Melodiya 🌍🔊",Retro 🇨🇿 (1280x720)
+https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/chunklist_w1512045336_b3256000.m3u8
+
+#EXTINF:    Iskhodnyy="✔️КЧМ✅"                  tvg-logo="https://play-lh.googleusercontent.com/XHmSklEPpVddQuU2ug90UDIwZjiuf-DAHwKzl93PEh1IHEn855sjzHvAdfBJy3T7U4OXn10npBhMNM8ZZ7D98w=w240-h480-rw" group-title="🎧 Melodiya 🌍🔊",Rock FM 🇷🇴 (1280x720)
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Делюкс✅"                  tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="🎧 Melodiya 🌍🔊",De Lujo 🇩🇪 (1280x720)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Может✅"                  tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_44.png?v=1" group-title="🎧 Melodiya 🌍🔊",Poder 🇹🇷 (1920x1080)
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b7596000_sltur.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ЧОЧМ✅"                  tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2021/10/yeni-logonr1.png" group-title="🎧 Melodiya 🌍🔊",Numero 1 Fm 🇹🇷 (1280x720)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️ЧОЧМ✅"                  tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2021/10/yeni-logonr1.png" group-title="🎧 Melodiya 🌍🔊",Numero 1 Fm 🇹🇷 (1280x720)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ТРТМ✅"                  tvg-logo="https://yt3.googleusercontent.com/g5vX561pekzstEWs_0cYHyk5Fv1mb3PkF4-0jBGfYk5GGi6ZP81ewSd1WQOcLCxiULD2OIpVVw=s160-c-k-c0x00ffffff-no-rj" group-title="🎧 Melodiya 🌍🔊",TRT Muzik 🇹🇷 (1920x1080)
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:    Iskhodnyy="✔️538✅"                  tvg-logo="https://yt3.googleusercontent.com/l41Q-378kuzW5f55NNRxt043d-jpKyuS2iwW8zdA-RzUg4jLiyB1n6bALPaKLKmJbD0vHnvA=s160-c-k-c0x00ffffff-no-rj" group-title="🎧 Melodiya 🌍🔊",538 🇳🇱 (1920x1080)
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_5.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Kiss✅"                  tvg-logo="https://play-lh.googleusercontent.com/OBwPlogvGVgGns-qaS0btuCK6LPB5Lld8em9I6sewbbmB0Qysb20YkDmUvzDsAtlzp2dGXzNWdReP4HaNGlbiw=w240-h480-rw" group-title="🎧 Melodiya 🌍🔊",Beso 🇷🇴 (1920x1080)
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
+
+#EXTINF:    Iskhodnyy="✔️АДБ✅"                  tvg-logo="https://www.vibee.tv/wp-content/uploads/2025/06/viib-v2beat-logo-neon-1280-x-720.jpg" group-title="🎧 Melodiya 🌍🔊",Vibracion para el ritmo 🇧🇬 (1280x720)
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ЧВ✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mkeVSbgeBIWUOlB_Pfzv09bFNXYy6WFgsq_ZB26injYQ=s160-c-k-c0x00ffffff-no-rj" group-title="🎧 Melodiya 🌍🔊",Para Divertirse 🇵🇱 (1024x576)
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:    Iskhodnyy="✔️ЧВ✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mkeVSbgeBIWUOlB_Pfzv09bFNXYy6WFgsq_ZB26injYQ=s160-c-k-c0x00ffffff-no-rj" group-title="🎧 Melodiya 🌍🔊",Para Divertirse 🇵🇱 (512x288)
+https://stream.4fun.tv:8888/hls/4f_low/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️КУ✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lgpjt4XY-iPt3cTTbRDYl0xg7rp8sKBJSUgr9jAN5EaSQ=s160-c-k-c0x00ffffff-no-rj" group-title="🎧 Melodiya 🌍🔊",Krone HIT 🇦🇹 (1920x1080)
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ПЗ✅"                  tvg-logo="https://play-lh.googleusercontent.com/hgqxVvDATj4pQVigg1pdRTe0l2rrSuQnSUu8sZaiac2FtZFyagxZ71NK7sZk5x-PC6Nm9xuwGV1B1UWU_oI7BQ=w240-h480-rw" group-title="🎧 Melodiya 🌍🔊",Ocko Estrella 🇨🇿 (960x540)
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+
+#EXTINF:    Iskhodnyy="✔️OE✅"                  tvg-logo="https://1gr.cz/o/ocko/logo.jpg" group-title="🎧 Melodiya 🌍🔊",Ocko Expres 🇨🇿 (960x540)
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ЧХРК✅"                  tvg-logo="https://www.radiocontact.be/app/themes/radiocontact-new/static/assets/images/logo.png" group-title="🎧 Melodiya 🌍🔊",Sientete Bien 🇧🇪 (1920x1080) Radio Contacto
+https://live-radiocontact.digiteka.com/1564284079/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:    Iskhodnyy="✔️RVT✅"                  tvg-logo="https://yt3.googleusercontent.com/kDR4lHBgmyIK3ZdMAX3KI8kXZQtCZ3vByjINyohforuBFZaRlr_kAPJa1wQN6hG4dDAL3K09=s160-c-k-c0x00ffffff-no-rj" group-title="🎧 Melodiya 🌍🔊",Brit Asia 🇬🇧 (1920x1080)
+https://hls.autopo.st/hls/britasiatv/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ДР✅"                  tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_RAP_LOGO_RGB-1.png" group-title="🎧 Melodiya 🌍🔊",De Lujo Rap 🇩🇪 (1920x1080)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/6a7dff021a805_33669365_2608130529_5.m3u8
+
+#EXTINF:    Iskhodnyy="✔️КМ✅"                  tvg-logo="https://yt3.googleusercontent.com/K8bZftUR-Oz-_BA5mig2dAm9KxPkRpYEYXZrG-RF4mhIJOD49LLYxTz8RkZ62WjxSV0EmQi1=s160-c-k-c0x00ffffff-no-rj" group-title="🎧 Melodiya 🌍🔊",Musica de Oxigeno 🇷🇺 (1280x720)
+https://oxygenmusic.hu:2443/hls/oxygenmusic_2200.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ЧОЧМР✅"                  tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2021/10/yeni-logonr1.png" group-title="🎧 Melodiya 🌍🔊",Numero 1 Rap 🇹🇷 (1280x720)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ТИК✅"              tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lKY2touV1cuZEx9e5dJbmCbVfr0AbyfJbNZj7XnrNQfA=s160-c-k-c0x00ffffff-no-rj" group-title="🎧 Melodiya 🌍🔊",Idolos de Tokio 🇯🇵 (1920x1080)
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/4300.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ТТ✅"                  tvg-logo="https://balleballe.tv/wp-content/uploads/2019/07/logo-e1568618159543.png" group-title="🎧 Melodiya 🌍🔊",Baile Baile 🇮🇳 (1920x1080)
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
+#EXTINF:    Iskhodnyy="✔️ММ✅"                  tvg-logo="https://balleballe.tv/wp-content/uploads/2019/07/logo-e1568618159543.png" group-title="🎧 Melodiya 🌍🔊",Baile Baile 🇮🇳 (1920x1080)
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Музангала✅"                  tvg-logo="https://muzangala.tv/wp-content/uploads/2022/08/LOGO_MUZANGALA_TV_.png" group-title="🎧 Melodiya 🌍🔊",Muzangala 🇦🇴 (1920x1080)
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w223938361.m3u8
+#EXTINF:    Iskhodnyy="✔️Музангала✅"                  tvg-logo="https://muzangala.tv/wp-content/uploads/2022/08/LOGO_MUZANGALA_TV_.png" group-title="🎧 Melodiya 🌍🔊",Muzangala 🇦🇴 (1920x1080)
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1890938145.m3u8
+
+#EXTINF:    Iskhodnyy="✔️АМ✅"                  tvg-logo="https://yt3.googleusercontent.com/OKgYTAsf-t8jCbaeMo6JzCXQLeiSDe9VJvt0r-hlNPDMciGIdusMnPZClIl0UO3zPm4iJ0VXig=s160-c-k-c0x00ffffff-no-rj" group-title="🎧 Melodiya 🌍🔊",A Muscica 🇳🇬 (854x480)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ТГ✅"                  tvg-logo="https://scontent.flim38-1.fna.fbcdn.net/v/t39.30808-6/481070845_1182167547247256_2502655948055035316_n.jpg?stp=dst-jpg_tt6&cstp=mx1063x267&ctp=s1063x267&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=zVA6mwHxWnkQ7kNvwHtFchK&_nc_oc=AdpTt9nKxC2aMeqOwXzP97oDMhYyJzkP4ect8aGsO4xpORc-xzFLOunf_SGZlgI5xhk&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&_nc_gid=TbbBbu81qH-RIaV6iX8RXg&_nc_ss=7b289&oh=00_AQGO6R0nEzfXvq0BWznCz-7E7l82cXRcZonzveLuk0wJgw&oe=6A843391" group-title="🎧 Melodiya 🌍🔊",Ritmo Solido 🇳🇬 (1920x1080)
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/503e2ec8-88fb-40e0-ad50-a80f51fce84a/2.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
 
