@@ -123,19 +123,19 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/OVACION/40-hls/live-media.m3u
 #EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FL1.png&width=100" group-title="⚽ Futbol 🇵🇪",L1 (1280x720)
 https://cdnback5.win.cdn.moderntv.eu:7909/win/stream/liga_1/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dliga_1_stream_wv&_cdn_session=6213614214&_cdn_token=05e098253546477c4665ea2aa03540127263052d
 
-#EXTINF:    Iskhodnyy="❓ПТС❔"                  tvg-logo="https://yt3.googleusercontent.com/TMzi1CE7Cg1HUYJbbYfGSgAVKzYrEPztlDflq6x170GGq53c1Yxv_JAs10QjdHeQ6fiW99hSHg=s160-c-k-c0x00ffffff-no-rj" group-title="⚽ Futbol 🇵🇪",DSports (1280x720)
+#EXTINF===================================================================================================================================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="❓ПТС❔"                  tvg-logo="https://yt3.googleusercontent.com/TMzi1CE7Cg1HUYJbbYfGSgAVKzYrEPztlDflq6x170GGq53c1Yxv_JAs10QjdHeQ6fiW99hSHg=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",DSports (1280x720)
 http://190.117.20.37:8000/play/a08d/index.m3u
 
-#EXTINF:    Iskhodnyy="❓РСПС❔"                  tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/50.2.png" group-title="⚽ Futbol 🇵🇪",ESPN (1920x1080)
+#EXTINF:    Iskhodnyy="❓РСПС❔"                  tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/50.2.png" group-title="🌍 Futbol Mundial ⚽",ESPN (1920x1080)
 http://181.224.255.210:8001/play/a0sa/index.m3u8
 
-#EXTINF:    Iskhodnyy="❓РСПС2❔"                  tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/51.1.png" group-title="⚽ Futbol 🇵🇪",ESPN 2 (1280x720)
+#EXTINF:    Iskhodnyy="❓РСПС2❔"                  tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/51.1.png" group-title="🌍 Futbol Mundial ⚽",ESPN 2 (1280x720)
 http://181.224.255.210:8001/play/a0oj/index.m3u8
 
-#EXTINF:    Iskhodnyy="❓РСПСП❔"                  tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/69d43e41647215b0a66f37c6_espnpremium.jpg" group-title="⚽ Futbol 🇵🇪",ESPN Premium (1920x1080)
+#EXTINF:    Iskhodnyy="❓РСПСП❔"                  tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/69d43e41647215b0a66f37c6_espnpremium.jpg" group-title="🌍 Futbol Mundial ⚽",ESPN Premium (1920x1080)
 http://181.224.255.210:8001/play/a0pt/index.m3u8
-
-#EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="❓РСПС3❔"                  tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/51.2.png" group-title="🌍 Futbol Mundial ⚽",ESPN 3 (1280x720)
 http://190.217.66.92:8000/play/a0q7/index.m3u8
