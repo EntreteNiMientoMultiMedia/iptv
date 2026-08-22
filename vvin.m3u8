@@ -437,14 +437,8 @@ https://v4.tustreaming.cl/edusauriotv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/10/06/1770678354917/163a846ac13f_480_270.png" group-title="💃🏻 Variedad Hispana 🌎",EPA! 🇨🇱 (1280x720)
 https://live-evg10.tv360.bitel.com.pe/bitel/epatv/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="❓TВ❔"                  tvg-logo="https://www.mitelefe.com/media/cache/logo/logo-telefe-blanco-69286e9c2c776.png" group-title="💃🏻 Variedad Hispana 🌎",TeleFe 🇦🇷 (720x480)
-http://190.108.83.69:8000/play/a08l/index.m3u8
-
 #EXTINF:    Iskhodnyy="✔️АКЛа✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_laJCuu-ddlkPSlSO5fztuB5gnbea_b7-K4gS_bHjpWXLs=s160-c-k-c0x00ffffff-no-rj" group-title="💃🏻 Variedad Hispana 🌎",Un Canal Latinoamericano 🇺🇾 (1280x720) Union Continental LatinoAmerica
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/02/21/1772460951208/d8a93cf1c8d3_480_270.png" group-title="💃🏻 Variedad Hispana 🌎",La Pampita Argentina 🇦🇷 (1280x720)
-https://live-evg10.tv360.bitel.com.pe/bitel/pampaargentina/chunks.m3u8
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FNuestra_tele.png&width=100" group-title="💃🏻 Variedad Hispana 🌎",Nuestra Tele 🇨🇴 (720x576)
 https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/Nuestra_tele_SIGNAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DNuestra_tele_stream_ry&_cdn_session=6805531942&_cdn_token=641b2cd970befab719f282e7c155741a7c502a21
@@ -493,6 +487,9 @@ https://cdnmain5.win.cdn.moderntv.eu:7909/win/stream/AyE/40-hls/live-media.m3u8?
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FHGTV.png&width=100" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",Hogar y Jardin (1280x720) HGTV
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/HGTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHGTV_stream_yy&_cdn_session=4152393739&_cdn_token=ee5cbe55b894327c87cb281a2a79cf7c15c1e351
+
+#EXTINF:    Iskhodnyy="❓TВ❔"                  tvg-logo="https://www.mitelefe.com/media/cache/logo/logo-telefe-blanco-69286e9c2c776.png" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",TeleFe (720x480)
+http://190.108.83.69:8000/play/a08l/index.m3u8
 
 #EXTINF:    Iskhodnyy="✔️ММ✅"                  tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2812-294x165-FFFFFF.jpg" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",TeleMax (1920x1080)
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
@@ -928,7 +925,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATELE/40-hls/live-media.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767645029340/3879825b6e20_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",La Tele (10240x576)
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Все✅"                  tvg-logo="https://alt.com.py/static/images/logo-alt-menu.png" group-title=🌐 Alternativos & Nativos Digitales 📲",Alt. (1920x1080)
+#EXTINF:    Iskhodnyy="✔️Все✅"                  tvg-logo="https://alt.com.py/static/images/logo-alt-menu.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Alt. (1920x1080)
 https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
 
 #EXTINF:    Iskhodnyy="✔️КР✅"                  tvg-logo="https://i.ibb.co/5ZpmjN4/retroclub.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Club Retro (1280x720) XYZ
@@ -1156,6 +1153,9 @@ https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
 https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/02/21/1772460951208/d8a93cf1c8d3_480_270.png" group-title="🇦🇷 Argentina 🇦🇷",La Pampita Argentina 🇦🇷 (1280x720)
+https://live-evg10.tv360.bitel.com.pe/bitel/pampaargentina/chunks.m3u8
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="🇦🇷 Argentina 🇦🇷",5 (1080x608)
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
