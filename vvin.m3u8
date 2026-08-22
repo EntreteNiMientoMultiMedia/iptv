@@ -672,31 +672,27 @@ https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/chunks.m3u8
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FAGROTV.png&width=100" group-title="📈 Negocios y Emprendimiento 🚀",Agro 🇵🇪 (1024X576)
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AGROTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAGROTV_stream_dl&_cdn_session=4153358475&_cdn_token=8a3d722346d4b9a136fe0c3b0fdd8ec0e983c13e
 
+#EXTINF:    Iskhodnyy="✔️КП✅"                  tvg-logo="https://static.wixstatic.com/media/3fae4e_47eb435907ab4d95a9832a2022fbe604~mv2.png/v1/fill/w_291,h_133,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/PRO%20PNG%20BLANCO.png" group-title="📈 Negocios y Emprendimiento 🚀",Canal Pro 🇵🇾 (1280x720)
+https://www.desde-paraguay.com/pro.m3u8
+
 #EXTINF:    Iskhodnyy="✔️Продуктивный✅"                  tvg-logo="https://productiva.tv/wp-content/uploads/2022/02/ptv.png" group-title="📈 Negocios y Emprendimiento 🚀",Productiva 🇵🇾 (1280x720)
 https://tigocloudgen.desdeparaguay.net/productivatv/productivatv_alta/playlist.m3u8?admin=nacion
 #EXTINF:    Iskhodnyy="✔️Продуктивный✅"                  tvg-logo="https://yt3.googleusercontent.com/F-Jg00o135I8WgDtp45fs0Mkv_ysMpx4_pm8fWUkk2ZnZ78u4hV4vOgnEN-XyllnZTnIaatQHQ=s160-c-k-c0x00ffffff-no-rj" group-title="📈 Negocios y Emprendimiento 🚀",Productiva 🇵🇾 (1280x720)
 https://copacoradios.desdeparaguay.net/productivatv/productivatv_alta/playlist.m3u8?admin=nacion
 
-#EXTINF:    Iskhodnyy="✔️Ранчо✅"                  tvg-logo="https://www.revistachacra.com.ar/files/image/13/13469/57519faf73582.png" group-title="📈 Negocios y Emprendimiento 🚀",Chacra 🇦🇷 (854x480)
-https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="✔️Бизнес✅"                  tvg-logo="https://yt3.googleusercontent.com/wsYLhJc3nFvT2dIetD1PIIlmHA8bLJLAfbZwI-UxzIHt8Lm9CCbxgzXr6CoWWChJ1HIcWE0s-ys=s160-c-k-c0x00ffffff-no-rj" group-title="📈 Negocios y Emprendimiento 🚀",Negocios 🇪🇸 (1280x720)
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
-
 #EXTINF:    Iskhodnyy="✔️КИ✅"                  tvg-logo="https://yt3.googleusercontent.com/9f7GMoKtTlfsGcvZYcqP1HGtYQnhiK6aVkD3x2merssw1_pOL2Qc21jMn4BcKSUNINCV34LFQw=s160-c-k-c0x00ffffff-no-rj" group-title="📈 Negocios y Emprendimiento 🚀",Canal E 🇦🇷 (1920x1080)
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️Ранчо✅"                  tvg-logo="https://www.revistachacra.com.ar/files/image/13/13469/57519faf73582.png" group-title="📈 Negocios y Emprendimiento 🚀",Chacra 🇦🇷 (854x480)
+https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
+
 #EXTINF:    Iskhodnyy="✔️Тевекс✅"                  tvg-logo="https://tevex.cl/brand/tevex-logo.png" group-title="📈 Negocios y Emprendimiento 🚀",Tevex 🇨🇱 (1920x1080)
 https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:    Iskhodnyy="✔️Тевекс✅"                  tvg-logo="https://yt3.googleusercontent.com/cQnfvzNtGoY5lBZgQx6MGBeipba0diW8Sq07BKnhfaTu9Tsry9vl324wMJ4hohV03FXqQwFojg=s160-c-k-c0x00ffffff-no-rj" group-title="📈 Negocios y Emprendimiento 🚀",Tevex 🇨🇱 (1280x720)
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 
-#EXTINF:    Iskhodnyy="✔️КП✅"                  tvg-logo="https://static.wixstatic.com/media/3fae4e_47eb435907ab4d95a9832a2022fbe604~mv2.png/v1/fill/w_291,h_133,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/PRO%20PNG%20BLANCO.png" group-title="📈 Negocios y Emprendimiento 🚀",Canal Pro 🇵🇾 (1280x720)
-https://www.desde-paraguay.com/pro.m3u8
-
-#EXTINF:    Iskhodnyy="✔️Космос✅"                  tvg-logo="https://yt3.googleusercontent.com/ZPN7l9oatmeZXkcGa3kK6rD5T7gh5awtXqVMHbcSnCs2lTqsf4rypEXeK9cuvNigL3cArUqMHQ=s160-c-k-c0x00ffffff-no-rj" group-title="📈 Negocios y Emprendimiento 🚀",Cosmos 🇵🇾 (1920x1080)
-https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
+#EXTINF:    Iskhodnyy="✔️Бизнес✅"                  tvg-logo="https://yt3.googleusercontent.com/wsYLhJc3nFvT2dIetD1PIIlmHA8bLJLAfbZwI-UxzIHt8Lm9CCbxgzXr6CoWWChJ1HIcWE0s-ys=s160-c-k-c0x00ffffff-no-rj" group-title="📈 Negocios y Emprendimiento 🚀",Negocios 🇪🇸 (1280x720)
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
