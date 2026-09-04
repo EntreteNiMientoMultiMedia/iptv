@@ -1026,7 +1026,7 @@ https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648031339/324534dee0ff_480_270.png" group-title="🌄🇵🇪 Regional DesCentralizado 📡",Super Canal 🇵🇪 (1280x720) Jr. Julio C. Arana 423 - Yurimaguas
 https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Запад✅"                  tvg-logo="https://yt3.ggpht.com/oVqyBldW5ySoFbq_iplMjRKG_iVPiwiN_bhTn6HbfsK1LCH-jhre_7a5yi9_b3hXeKJ4CmmHnA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Oeste 🇵🇪 (1920x1080) Cable Red (Maytacapac 113 - Independencia)
+#EXTINF:    Iskhodnyy="✔️Запад✅"                  tvg-logo="https://yt3.googleusercontent.com/oVqyBldW5ySoFbq_iplMjRKG_iVPiwiN_bhTn6HbfsK1LCH-jhre_7a5yi9_b3hXeKJ4CmmHnA=s160-c-k-c0x00ffffff-no-rj" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Oeste 🇵🇪 (1920x1080) Cable Red (Maytacapac 113 - Independencia)
 https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️ТелеКрасный✅"                  tvg-logo="https://canalprovincial.com.ar/wp-content/themes/canalprovincia/images/logo.jpg" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Provincial de TeleRed 🇦🇷 (720x480) Canal 11
@@ -1079,10 +1079,13 @@ https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647179623/f2fda43856b1_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Radio Uno (1280x720) Avenida Dos de Mayo N° 263
 https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lGcQqTfnuovlmCMOWW9Xv_YrC-B_CrkU5kmzWEstxfZ9s=s160-c-k-c0x00ffffff-no-rj" group-title="🌊 Para Variar... de la Costa 🏖️",Piura (1280x720) Calle Huallaga - centro de Piura
+#EXTINF:    Iskhodnyy="✔️Пьюра✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lGcQqTfnuovlmCMOWW9Xv_YrC-B_CrkU5kmzWEstxfZ9s=s160-c-k-c0x00ffffff-no-rj" group-title="🌊 Para Variar... de la Costa 🏖️",Piura (1280x720) Calle Huallaga - centro de Piura
 https://live.obslivestream.com/piuratv/tracks-v1a1/mono.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/03/1767387083768/e074ea93db6a_480_270.png" group-title="🌄🇵🇪 Regional DesCentralizado 📡",Piura (1280x720) Calle Huallaga - centro de Piura
 https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Пальмы✅"                  tvg-logo="https://palmerastv.com/wp-content/uploads/2026/05/ptv-azul.png" group-title="🌊 Para Variar... de la Costa 🏖️",Palmeras (1280x720) La Union - Piura
+https://play.agenciastreaming.com:8081/palmerastv/tracks-v1a1/mono.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Озон✅"                  tvg-logo="https://ozonotv.com/wp-content/uploads/2025/04/Recurso-1@10x-scaled.png" group-title="🌊 Para Variar... de la Costa 🏖️",Ozono (1280x720) Calle Jorge Bizet 418 - Urb. Primavera
 http://vps.chasquirouter.com/salida/ozono.m3u8
@@ -1362,6 +1365,12 @@ https://live.obslivestream.com/yurimaguastelevision/tracks-v1a1/mono.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/03/1767386961428/4fb566803f19_480_270.jpg" group-title="🌄🇵🇪 Regional DesCentralizado 📡",YuriMaguas (1280x720) YuriMaguas
 https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️Вива✅"                  tvg-logo="https://yt3.googleusercontent.com/w4vd2ACfrYABzhr4TSUt3UYv9DzI5i4GQg_L1Ki3qy-v7Lg_wpRypQoDSyK0hexhvUFHW6HV6w=s160-c-k-c0x00ffffff-no-rj" group-title="🌳 De la Selva su Encanto 🐒",Viva (1280x720) Calle los Nogales 120 - Villa Universitaria
+https://live.obslivestream.com/vivatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:    Iskhodnyy="✔️САМ✅"                  tvg-logo="https://www.viaaltomayotv.com/imagenes/logodefault.png" group-title="🌳 De la Selva su Encanto 🐒",Via AltoMayo (1280x720) Jiron Bolívar 487 - Quinapata - Rioja
+https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
+
 #EXTINF:    Iskhodnyy="✔️Уран✅"                  tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="🌳 De la Selva su Encanto 🐒",Uranio (1280x720) Los Nogales 211 - Yurimaguas
 https://live.obslivestream.com/uraniotv/index.m3u8
 #EXTINF:    Iskhodnyy="✔️Уран✅"                  tvg-logo="https://yt3.googleusercontent.com/IFCQtRCCf-bzJYTlRbZ-LqtnYhUGWD1nj01Yqh5blbgxTpQYHi3MHDJtyMTz5gn8QRdyH_OkBLM=s160-c-k-c0x00ffffff-no-rj" group-title="🌳 De la Selva su Encanto 🐒",Uranio (1280x720) Los Nogales 211 - Yurimaguas
@@ -1378,6 +1387,9 @@ https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643662584/0fd8255b8863_480_270.jpg" group-title="🌄🇵🇪 Regional DesCentralizado 📡",Ucayali (1920x1080) Calleria
 https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️Тропический✅"                  tvg-logo="https://radiotropical.pe/wp-content/uploads/2020/08/logo-png-fondo-blanco.jpg" group-title="🌳 De la Selva su Encanto 🐒",Tropical (1280x720) Jr. Bolognesi Cdra 157 - Tarapoto
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+
 #EXTINF:    Iskhodnyy="✔️Общий✅"                  tvg-logo="https://rtvtotal.com.pe/wp-content/uploads/2024/11/logo2-1.png" group-title="🌳 De la Selva su Encanto 🐒",Total (1280x720) Calle Ucayali 630
 https://live.obslivestream.com/rtvtotal/tracks-v1a1/mono.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/31/06/1774914040862/d123fa364824_480_270.png" group-title="🌄🇵🇪 Regional DesCentralizado 📡",Total (1280x720) Calle Ucayali 630
@@ -1388,6 +1400,9 @@ https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/176764340947/30593eac8bd8_480_270.jpg" group-title="🌄🇵🇪 Regional DesCentralizado 📡",TeleSelva (1280x720) Satipo
 https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️МЦ✅"                  tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/tlc-2024-web-2.png" group-title="🌳 De la Selva su Encanto 🐒",TeleColor (1920x1080) Las Américas 503 - Yurimaguas - Alto Amazonas
+https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
+
 #EXTINF:    Iskhodnyy="✔️Тарапото✅"                  tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group-title="🌳 De la Selva su Encanto 🐒",TaraPoto (1920x1080) Prol. Mandarinas Cdra. 4 - Sec. CoperHolta
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTARAPOTOTV.png&auto=format&auto=compress&fit=max" group-title="🌳 De la Selva su Encanto 🐒",TaraPoto (1280x720) Prol. Mandarinas Cdra. 4 - Sec. CoperHolta
@@ -1395,11 +1410,26 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TARAPOTOTV/40-hls/live-media.
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767642063628/22b9d798f738_480_270.png" group-title="🌄🇵🇪 Regional DesCentralizado 📡",TaraPoto (1920x1080) Prol. Mandarinas Cdra. 4 - Sec. CoperHolta
 https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️СанХуанера✅"                  tvg-logo="https://www.sanjuaneratv.com/Recursos/img/banner.png" group-title="🌳 De la Selva su Encanto 🐒",SanJuanera (1280x720) Jiron 25 De Mayo - Moyobamba 22001
+https://live.obslivestream.com/sanjuanera/tracks-v1a1/mono.m3u8
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767646050913/6a2a4615d884_480_270.jpg" group-title="🌳 De la Selva su Encanto 🐒",RioS (1920x1080) Julio C. Tello Vargas Puerta 251 Piso 1 Interior 109 - San Francisco de Borja
 https://live-evg7.tv360.bitel.com.pe/bitel/riotvSRT/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️РДТ✅"                  tvg-logo="https://app.terabitdata.com/nexopro/nexo/public/images/1777931796fondo.png" group-title="🌳 De la Selva su Encanto 🐒",Radio Selva Television (1280x720) Av. Ignacia Velazques 161 - Moyobamba
+https://live.obslivestream.com/selvatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:    Iskhodnyy="✔️РНЮ✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k62-BiAoH9dk__ChE3nzE7jfob3X96IDV-0_YkSW-sxg=s160-c-k-c0x00ffffff-no-rj" group-title="🌳 De la Selva su Encanto 🐒",Radio Noticias Yurimaguas (854x480) Jr. Francisco Bardales 624 - Yurimaguas - Alto Amazonas
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/31/06/1774913679720/79cf9e0d972a_480_270.png" group-title="🌄🇵🇪 Regional DesCentralizado 📡",Pucallpa (1920x1080) Prolongación Ucayali 345 - 061 
 https://live-evg13.tv360.bitel.com.pe/bitel/pucallpatv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Восток✅"                  tvg-logo="https://roriente.org/wp-content/uploads/2023/12/logo-oficia2l.png" group-title="🌳 De la Selva su Encanto 🐒",Oriente (1280x720) Calle Progreso 112 - Yurimaguas
+https://live.obslivestream.com/tvoriente/tracks-v1a1/mono.m3u8
+
+#EXTINF:    Iskhodnyy="✔️НорСельва✅"                  tvg-logo="https://radiotvnorselva.com/wp-content/uploads/2024/10/LOGO-NORSELVA-RIOJA.png" group-title="🌳 De la Selva su Encanto 🐒",NorSelva (1280x720) Jr. Santo Toribio 1260 - Shauintopata - Rioja
+https://live.obslivestream.com/norselvatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Некс✅"                  tvg-logo="https://nexpcl.com/api/default.png" group-title="🌳 De la Selva su Encanto 🐒",Nex (1920x1080) Pucallpa
 https://play.agenciastreaming.com:8081/nextv/tracks-v1a1/mono.m3u8
@@ -1408,6 +1438,9 @@ https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Родной✅"                  tvg-logo="https://elgrupofiesta.pe/wp-content/uploads/2025/03/nativa-21-1.png" group-title="🌳 De la Selva su Encanto 🐒",Nativa (1280x720) Jr. Junin 162A 3er Piso - La Merced
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Миллениум✅"                  tvg-logo="https://milleniumrtv.com/wp-content/uploads/2026/02/LOGO-MIILLENIUM-RTV-HORIZONTAL-2-1.png" group-title="🌳 De la Selva su Encanto 🐒",Millenium (1280x720) Jr. San Martin 1916 - Lamas - San Martin
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641975903/ead8f9206acf_480_270.jpg" group-title="🌳 De la Selva su Encanto 🐒",Miel (1920x1080) Jr. Junin 162A - 3er Piso - La Merced
 https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/playlist.m3u8
@@ -1440,7 +1473,6 @@ https://cdnfox.hostlagarto.com/deltatv50/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:    Iskhodnyy="✔️Споры✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n57_uFx_RvpVMzo7bsFJN9Dee1txyUdUmkAkcZplZ3t9Uw=s160-c-k-c0x00ffffff-no-rj" group-title="🌳 De la Selva su Encanto 🐒",Controversia (1280x720) Jr. Del Mayo 1100 - MoyoBamba
 https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:    Iskhodnyy="✔️КР✅"                  tvg-logo="https://crtv.pe/wp-content/uploads/2020/11/logo.png" group-title="🌳 De la Selva su Encanto 🐒",Coky Ruiz (512x288) Jr. Iquitos 360 - Zaragoza
 https://live.obslivestream.com/crtvmux/index.m3u8
